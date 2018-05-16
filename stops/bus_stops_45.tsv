@@ -1,0 +1,73 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+45	1	2011	Hlegu Zay	လှည်းကူးဈေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.096823	96.219456
+45	2	2013	Tin Zar Oo	သဉ္ဇာဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.098546	96.223276
+45	3	2015	Hlegu Tar Sone	လှည်းကူးတာဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.099879	96.225738
+45	4	2017	San Taw Tar	စန်းသော်တာ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.104422	96.226661
+45	5	2019	Nyaung Pin	ညောင်ပင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.108185	96.226991
+45	6	2021	Sal Myaung Yone	ဆည်မြောင်းရုံး	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.111672	96.226326
+45	7	2023	Ngapi Tae	ငပိတဲ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.115199	96.226451
+45	8	2025	Sakhan Kyi	စခန်းကြီး	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.122499	96.226966
+45	9	2027	Mhan Kone	မှန်ကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.129841	96.227567
+45	10	2029	Htain Thone Pin	ထိန်သုံးပင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.138412	96.226838
+45	11	2031	Ka Li Htaw	ကလီထော်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.143579	96.226666
+45	12	2033	Aung Ta Pyay	အောင်သပြေ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.150468	96.22683
+45	13	2035	Kyar Kan	ကြာကန်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.15338	96.22731
+45	14	2037	Ka Dit	ကဒစ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.164041	96.229112
+45	15	2039	Nat-Khan-Mhway Taik	နှုတ်ခမ်းမွှေးသိုက်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.180237	96.232588
+45	16	2041	Si Own	ဆီအုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.188273	96.234391
+45	17	2043	Tha Pyay Kone	သပြေကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.194095	96.234477
+45	18	2045	Sar Boo Taung	စာဘူးတောင်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.207336	96.227009
+45	19	2047	A Myan Lan Sone	အမြန်လမ်းဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.22566	96.210315
+45	20	2049	Nyaung Kone	ညောင်ကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.230948	96.207268
+45	21	2051	Kyo Kone Lan Thit	ကြို့ကုန်းလမ်းသစ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.247302	96.199844
+45	22	2053	Hine Koo	ဟိုင်းကူး	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.274801	96.192462
+45	23	2057	Tha Pyay Taung	သပြေတောင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.28902	96.185038
+45	24	2055	Ou Yin Wa	ဥယျာဉ်ဝ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.298281	96.184609
+45	25	2059	Ou Yin Wa Lan Thit	ဥယျာဉ်ဝလမ်းသစ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.308114	96.181004
+45	26	2061	Paya Kone	ဘုရားကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.316472	96.181047
+45	27	2063	Si Pin Lan Khwe	စည်ပင်လမ်းခွဲ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.320119	96.180661
+45	28	2065	Phaung Gyi Tar Sone	ဖောင်ကြီးတာဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.32229	96.179202
+45	29	2067	Aung Chan Thar	အောင်ချမ်းသာ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.324379	96.180532
+45	30	2069	Say Yone Kone	ဆေးရုံကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.327411	96.185596
+45	31	2071	Baho Wun Htan Takke Tho	ဗဟိုဝန်ထမ်းတက္ကသိုလ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.331385	96.18727
+45	32	2073	San Pya	စံပြ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.335523	96.195982
+45	33	2075	Hnit Gate	(၂) ဂိတ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.340111	96.197269
+45	34	2077	Thama War Ya Ma College	သမဝါယမကောလိပ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.345846	96.200702
+45	35	2079	Sauk Lote Yae Lan Khwe	ဆောက်လုပ်ရေးလမ်းခွဲ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.347648	96.203706
+45	36	2081	Min Kone	မင်းကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.350679	96.207826
+45	37	2080	Min Kone	မင်းကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.350638	96.208084
+45	38	2078	Sauk Lote Yae Lan Khwe	ဆောက်လုပ်ရေးလမ်းခွဲ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.347525	96.203964
+45	39	2076	Thama War Ya Ma College	သမဝါယမကောလိပ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.345723	96.200917
+45	40	2074	Hnit Gate	(၂) ဂိတ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.339783	96.197698
+45	41	2072	San Pya	စံပြ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.335318	96.196239
+45	42	2070	Baho Wun Htan Takke Tho	ဗဟိုဝန်ထမ်းတက္ကသိုလ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.331549	96.187184
+45	43	2068	Say Yone Kone	ဆေးရုံကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.327288	96.185811
+45	44	2066	Aung Chan Thar	အောင်ချမ်းသာ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.324175	96.180747
+45	45	2064	Phaung Gyi Tar Sone	ဖောင်ကြီးတာဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.322331	96.179502
+45	46	2062	Si Pin Lan Khwe	စည်ပင်လမ်းခွဲ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.319955	96.180961
+45	47	2060	Paya Kone	ဘုရားကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.316636	96.181347
+45	48	2058	Ou Yin Wa Lan Thit	ဥယျာဉ်ဝလမ်းသစ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.308155	96.181262
+45	49	2054	Ou Yin Wa	ဥယျာဉ်ဝ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.298117	96.184866
+45	50	2056	Tha Pyay Taung	သပြေတောင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.28902	96.185253
+45	51	2052	Hine Koo	ဟိုင်းကူး	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.274965	96.192677
+45	52	2050	Kyo Kone Lan Thit	ကြို့ကုန်းလမ်းသစ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.247015	96.20023
+45	53	2048	Nyaung Kone	ညောင်ကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး	17.230784	96.206882
+45	54	2046	A Myan Lan Sone	အမြန်လမ်းဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.225783	96.210787
+45	55	2044	Sar Boo Taung	စာဘူးတောင်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.207172	96.226666
+45	56	2042	Tha Pyay Kone	သပြေကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.193931	96.234133
+45	57	2040	Si Own	ဆီအုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.188232	96.233919
+45	58	2038	Nat-Khan-Mhway Taik	နှုတ်ခမ်းမွှေးသိုက်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.180237	96.232159
+45	59	2036	Ka Dit	ကဒစ်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.164082	96.228812
+45	60	2034	Kyar Kan	ကြာကန်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.153257	96.226838
+45	61	2032	Aung Ta Pyay	အောင်သပြေ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.15055	96.226487
+45	62	2030	Ka Li Htaw	ကလီထော်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.143497	96.226366
+45	63	2028	Htain Thone Pin	ထိန်သုံးပင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.138248	96.226623
+45	64	2026	Mhan Kone	မှန်ကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.129636	96.227224
+45	65	2024	Sakhan Kyi	စခန်းကြီး	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.122253	96.226537
+45	66	2022	Ngapi Tae	ငပိတဲ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.115035	96.226623
+45	67	2020	Sal Myaung Yone	ဆည်မြောင်းရုံး	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.111631	96.226627
+45	68	2018	Nyaung Pin	ညောင်ပင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.108062	96.226777
+45	69	2016	San Taw Tar	စန်းသော်တာ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.104258	96.2268
+45	70	2014	Hlegu Tar Sone	လှည်းကူးတာဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.099807	96.225899
+45	71	2012	Tin Zar Oo	သဉ္ဇာဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.098546	96.223061
+45	72	2010	Hlegu Zay	လှည်းကူးဈေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.097151	96.219327

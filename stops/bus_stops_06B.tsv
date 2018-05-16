@@ -1,0 +1,113 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+6B	1	765	Yone Shae	ရုံးရှေ့						
+6B	2	740	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး						
+6B	3	744	Kar Gyi Gate	ကားကြီးဂိတ်						
+6B	4	734	Kun Yar Saing	ကွမ်းယာဆိုင်						
+6B	5	736	Ngar-sae-chauk	-56						
+6B	6	717	Ngar-sae Lay Tha Ma	(၅၄) သမ						
+6B	7	718	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့						
+6B	8	724	Tadar Htate	တံတားထိပ်						
+6B	9	720	Sae-shit Kwae	(၁၈) ကွေ့						
+6B	10	713	Kyan Mar Yae	ကျန်းမာရေး						
+6B	11	714	Kyaung Shae	ကျောင်းရှေ့						
+6B	12	688	Gate Haung	ဂိတ်ဟောင်း						
+6B	13	692	Kone Padaythar	ကုန်ပဒေသာ						
+6B	14	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့						
+6B	15	702	Yauk Kaw	ယောက်ကော်						
+6B	16	696	Pan Chan	ပန်းခြံ						
+6B	17	682	Than Lan	သံလမ်း						
+6B	18	678	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ						
+6B	19	674	Tadar Phyu	တံတားဖြူ						
+6B	20	628	Kar Gyi Gate	ကားကြီးဂိတ်						
+6B	21	632	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်						
+6B	22	613	Lai Sin Yone	လိုင်စင်ရုံး						
+6B	23	1090	Se Man Kane	စီမံကိန်း						
+6B	24	1088	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်						
+6B	25	1087	Moe Swe	မိုးစွေ						
+6B	26	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား						
+6B	27	1079	Myin Thar Zay	မြင်သာဈေး						
+6B	28	1075	Bay Li	ဘေလီ						
+6B	29	2352	Pinya	ပင်းယ						
+6B	30	2125	Kaytu Marlar Kwae	ကေတုမာလာကွေ့						
+6B	31	1249	Nyaung Pin	ညောင်ပင်						
+6B	32	1816	Mit Zu Lan	မဉ္ဇူလမ်း						
+6B	33	1817	Chaw Twin Kone	ချော်တွင်းကုန်း						
+6B	34	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း						
+6B	35	1240	Sar Taik	စာတိုက်						
+6B	36	1819	Nawaday	နဝဒေး						
+6B	37	1265	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ						
+6B	38	1267	Shit Mile	(၈) မိုင်						
+6B	39	1261	Mahar Si							
+6B	40	1259	A One							
+6B	41	1299	Koe Mile							
+6B	42	1300	Koe Mile Khawe							
+6B	43	40	Sae-Mile Kone							
+6B	44	1295	A Way Pyay							
+6B	45	1340	Ar Lain Ngar Sint							
+6B	46	1354	Workshop							
+6B	47	1352	Oakyin Wa							
+6B	48	2196	Insein Pan Chan							
+6B	49	1324	Insein Zay							
+6B	50	1321	Htaung Boo Wa							
+6B	51	1332	Pauk Taw Wa							
+6B	52	1323	Insein Kannar							
+6B	53	31	Tit Htate							
+6B	54	1139	Thone Htate							
+6B	55	1135	Ngar Htate							
+6B	56	2229	Yone Shae							
+6B	57	1131	Mee Khwat Zay							
+6B	58	1124	Sanay Ma							
+6B	59	1121	B.O.C							
+6B	60	1126	Thama Kone							
+6B	61	25	Dagon Ayar A Way Pyay							
+6B	62	1122	B.O.C							
+6B	63	1123	Sanay Ma							
+6B	64	1130	Mee Khwat Zay							
+6B	65	2228	Yone Shae							
+6B	66	1134	Ngar Htate							
+6B	67	1138	Thone Htate							
+6B	68	30	Tit Htate							
+6B	69	1322	Insein Kannar							
+6B	70	1331	Pauk Taw Wa							
+6B	71	1320	Htaung Boo Wa							
+6B	72	1325	Insein Zay							
+6B	73	2195	Insein Pan Chan							
+6B	74	1351	Oakyin Wa							
+6B	75	1353	Workshop							
+6B	76	1339	Ar Lain Ngar Sint							
+6B	77	1294	A Way Pyay							
+6B	78	1820	Nawaday	နဝဒေး						
+6B	79	1818	Sar Taik	စာတိုက်						
+6B	80	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း						
+6B	81	1237	Chaw Twin Kone	ချော်တွင်းကုန်း						
+6B	82	1815	Mit Zu Lan	မဉ္ဇူလမ်း						
+6B	83	1248	Nyaung Pin	ညောင်ပင်						
+6B	84	1247	Kaytu Marlar Kwae	ကေတုမာလာကွေ့						
+6B	85	2124	Bay Li	ဘေလီ						
+6B	86	1078	Myin Thar Zay	မြင်သာဈေး						
+6B	87	1082	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား						
+6B	88	1086	Moe Swe	မိုးစွေ						
+6B	89	2126	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်						
+6B	90	1089	Se Man Kane	စီမံကိန်း						
+6B	91	614	Lai Sin Yone	လိုင်စင်ရုံး						
+6B	92	633	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်						
+6B	93	629	Kar Gyi Gate	ကားကြီးဂိတ်						
+6B	94	673	Tadar Phyu	တံတားဖြူ						
+6B	95	677	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ						
+6B	96	681	Than Lan	သံလမ်း						
+6B	97	695	Pan Chan	ပန်းခြံ						
+6B	98	701	Yauk Kaw	ယောက်ကော်						
+6B	99	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့						
+6B	100	691	Kone Padaythar	ကုန်ပဒေသာ						
+6B	101	687	Gate Haung	ဂိတ်ဟောင်း						
+6B	102	715	Kyaung Shae	ကျောင်းရှေ့						
+6B	103	712	Kyan Mar Yae	ကျန်းမာရေး						
+6B	104	721	Sae-shit Kwae	(၁၈) ကွေ့						
+6B	105	2134	Tadar Htate	တံတားထိပ်						
+6B	106	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့						
+6B	107	716	Ngar-sae Lay Tha Ma	(၅၄) သမ						
+6B	108	735	Ngar-sae-chauk	-56						
+6B	109	733	Kun Yar Saing	ကွမ်းယာဆိုင်						
+6B	110	743	Kar Gyi Gate	ကားကြီးဂိတ်						
+6B	111	739	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး						
+6B	112	766	Yone Shae	ရုံးရှေ့						

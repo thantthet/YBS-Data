@@ -1,0 +1,143 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+40	1	1586	Auk Gate	အောက်ဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	17.001184	96.066896
+40	2	1590	Aung Myittar	အောင်မေတ္တာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.990924	96.070544
+40	3	1589	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.989343	96.071016
+40	4	1592	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.986696	96.071767
+40	5	1572	Na-gyi Kwae	(ဏ) ကွေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982961	96.070951
+40	6	1574	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982612	96.072432
+40	7	1570	Koe Thone Lone	ကိုးသုံးလုံး	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98212	96.074427
+40	8	1580	Sin Hnat Kaung	ဆင်နှစ်ကောင်	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981648	96.075972
+40	9	1582	Thone Htate	(၃) ထိပ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981237	96.077174
+40	10	1579	Nga Mauk Zay	ငမောက်ဈေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.97976	96.076852
+40	11	1585	Yae Chan Sin	ရေချမ်းစင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.976681	96.075994
+40	12	85	Nawarat	နဝရတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.97231	96.076037
+40	13	1577	Kyaw Swar	ကျော်စွာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.969006	96.076959
+40	14	1567	Taw Win	တော်ဝင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.965999	96.078163
+40	15	1564	Shwe Nyar Maung	ရွှေညာမောင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.963536	96.078356
+40	16	1557	Kar Gyi Gate	ကားကြီးဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961576	96.077691
+40	17	1563	Say Khan	ဆေးခန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.958559	96.076704
+40	18	83	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956804	96.076328
+40	19	1558	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956271	96.080888
+40	20	1554	Shit-Sae-Tit Gate	(၈၁) ဂိတ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.951868	96.082014
+40	21	1539	Pyaw Bwal	ပျော်ဘွယ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.949138	96.082667
+40	22	1542	Zin Yaw	ဇင်ယော်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.947126	96.083139
+40	23	1535	Palae Lan	ပုလဲလမ်း	Industrial Road	စက်မှုဇုန်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.944171	96.084341
+40	24	1536	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.940866	96.08565
+40	25	1541	Tadar Htate	တံတားထိပ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.939203	96.086701
+40	26	1531	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937438	96.086615
+40	27	77	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.933702	96.087624
+40	28	1503	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933841	96.093255
+40	29	70	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.933805	96.101891
+40	30	1379	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.929699	96.100649
+40	31	1383	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.925265	96.098202
+40	32	1377	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.921796	96.097494
+40	33	1382	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917978	96.097215
+40	34	41	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91537	96.09713
+40	35	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.912065	96.097108
+40	36	1355	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.906481	96.097559
+40	37	43	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.903832	96.097151
+40	38	1358	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900814	96.095425
+40	39	1335	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898453	96.095284
+40	40	1333	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.895825	96.094426
+40	41	1328	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.89023	96.095801
+40	42	2201	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.88635	96.097422
+40	43	1330	Pauk Taw Wa	ပေါက်တောဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.884928	96.097787
+40	44	1305	Nyaung Pin	ညောင်ပင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.881771	96.098934
+40	45	1302	Myo Thit Zay	မြို့သစ်ဈေးု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.879564	96.099663
+40	46	1306	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.875324	96.101637
+40	47	1314	Kyoe Kone Lan Sone	ကြို့ကုန်းလမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.871474	96.104232
+40	48	1308	Bayint Naung Zay/ Zay Pwae Yon	ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.864245	96.106743
+40	50	1193	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.862536	96.107513
+40	51	1196	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.851349	96.10936
+40	52	1201	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.848166	96.110927
+40	53	1167	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843268	96.112167
+40	54	1165	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840896	96.112608
+40	55	1161	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.837755	96.11336
+40	56	1162	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833543	96.11603
+40	57	1184	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833461	96.119521
+40	58	310	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.829848	96.121713
+40	59	308	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.824578	96.122944
+40	60	302	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81971	96.121852
+40	61	278	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.814719	96.121878
+40	62	292	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812526	96.121868
+40	63	259	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809214	96.121878
+40	64	253	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.804277	96.122225
+40	65	243	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.801121	96.122232
+40	66	240	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797896	96.122211
+40	67	91	Thiri Mingalar Zay	သီရိမင်္ဂလာဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.793428	96.122795
+40	68	88	Kwin Kyaung	ကွင်းကျောင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.791815	96.122913
+40	69	90	Sin Min Zay	ဆင်မင်းဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.789104	96.123911
+40	70	103	Thit Taw	သစ်တော	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.782319	96.127736
+40	71	102	Htaw Li Kwae	ထော်လီကွေ့	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.781487	96.130064
+40	72	114	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77837	96.135665
+40	73	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751
+40	74	101	Htaw Li Kwae	ထော်လီကွေ့	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.781456	96.130241
+40	75	104	Thit Taw	သစ်တော	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.782371	96.127844
+40	76	89	Sin Min Zay	ဆင်မင်းဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.788559	96.12435
+40	77	87	Kwin Kyaung	ကွင်းကျောင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.791661	96.123235
+40	78	92	Thiri Mingalar Zay	သီရိမင်္ဂလာဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.79352	96.123042
+40	79	241	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797947	96.122286
+40	80	242	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.800962	96.122147
+40	81	252	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.804197	96.12219
+40	82	258	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809245	96.121959
+40	83	291	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812434	96.121964
+40	84	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.814693	96.121959
+40	85	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.819181	96.121916
+40	86	307	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.82448	96.123054
+40	87	309	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.829312	96.122069
+40	88	1183	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833338	96.120733
+40	89	1163	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833749	96.116288
+40	90	1160	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.836931	96.113665
+40	91	1164	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840732	96.112821
+40	92	1166	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843648	96.11237
+40	93	1200	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.848145	96.111292
+40	94	1197	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.851472	96.109639
+40	95	1192	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.856755	96.108628
+40	97	1309	Bayint Naung Zay/ Zay Pwae Yon	ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.864492	96.10685
+40	98	1315	Kyoe Kone Lan Sone	ကြို့ကုန်းလမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.871679	96.10449
+40	99	1307	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.875683	96.101595
+40	100	1303	Myo Thit Zay	မြို့သစ်ဈေးု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.879636	96.099803
+40	101	1304	Nyaung Pin	ညောင်ပင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.881597	96.09917
+40	102	1329	Pauk Taw Wa	ပေါက်တောဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.884838	96.097873
+40	103	1326	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.886319	96.097508
+40	104	1327	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.89023	96.095994
+40	105	1334	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.895928	96.094726
+40	106	1336	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898577	96.095649
+40	107	1357	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900681	96.095586
+40	108	44	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.904243	96.097559
+40	109	1356	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.906543	96.097881
+40	110	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91266	96.097387
+40	111	42	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.915473	96.097409
+40	112	1381	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91728	96.097537
+40	113	1378	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.922555	96.097924
+40	114	1384	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92545	96.098632
+40	115	1380	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.929905	96.101056
+40	116	69	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.933769	96.101971
+40	117	1502	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933768	96.094381
+40	118	78	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.933989	96.087881
+40	119	1530	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937397	96.086959
+40	120	1540	Tadar Htate	တံတားထိပ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.938895	96.087044
+40	121	1537	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.941051	96.085907
+40	122	1534	Palae Lan	ပုလဲလမ်း	Industrial Road	စက်မှုဇုန်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.943965	96.084791
+40	123	1543	Zin Yaw	ဇင်ယော်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.947229	96.08344
+40	124	1538	Pyaw Bwal	ပျော်ဘွယ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.949015	96.082946
+40	125	1555	Shit-Sae-Tit Gate	(၈၁) ဂိတ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.951909	96.082197
+40	126	1559	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956507	96.080984
+40	127	84	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956968	96.076414
+40	128	1562	Say Khan	ဆေးခန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.958467	96.076875
+40	129	1556	Kar Gyi Gate	ကားကြီးဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961504	96.077862
+40	130	1565	Shwe Nyar Maung	ရွှေညာမောင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.964019	96.07857
+40	131	1566	Taw Win	တော်ဝင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.965855	96.07841
+40	132	1576	Kyaw Swar	ကျော်စွာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.968821	96.077346
+40	133	86	Nawarat	နဝရတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.973049	96.076037
+40	134	1584	Yae Chan Sin	ရေချမ်းစင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.976538	96.076316
+40	135	1578	Nga Mauk Zay	ငမောက်ဈေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.979493	96.077045
+40	136	1583	Thone Htate	(၃) ထိပ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98134	96.077539
+40	137	1581	Sin Hnat Kaung	ဆင်နှစ်ကောင်	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981976	96.076058
+40	138	1571	Koe Thone Lone	ကိုးသုံးလုံး	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982284	96.074535
+40	139	1575	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982879	96.07241
+40	140	1573	Na-gyi Kwae	(ဏ) ကွေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.983166	96.070973
+40	141	1593	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.986778	96.072046
+40	142	1588	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.989323	96.071359
+40	143	1591	Aung Myittar	အောင်မေတ္တာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.991026	96.070801
+40	144	1587	Auk Gate	အောက်ဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	17.001204	96.067218

@@ -1,0 +1,86 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+29	1	1031	Dagon Takke Tho	ဒဂုံတက္ကသိုလ်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.915925	96.21358
+29	2	1036	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.914898	96.210383
+29	3	5	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.91305	96.211413
+29	4	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
+29	5	1033	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.902662	96.217121
+29	6	926	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.890795	96.196661
+29	9	880	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887499	96.198531
+29	10	928	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88443	96.200105
+29	11	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880652	96.202251
+29	12	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.876906	96.204372
+29	13	172	Mandalay Lan	မန္တလေးလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.8744	96.198868
+29	14	1003	Sittaung Lan	စစ်တောင်းလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.873116	96.1962
+29	15	997	Kyaung Lan	ကျောင်းလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.871474	96.193045
+29	16	1001	Settwe Yae	ဆက်သွယ်ရေး	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.870036	96.190127
+29	17	993	Thone-sae-ngar Kwae	(၃၅) ကွေ့	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.868373	96.186758
+29	18	991	Thin Win	သင်းဝင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.866853	96.184119
+29	19	978	Nar Yee Sin	နာရီစင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.866176	96.181866
+29	20	2124	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.859959	96.178682
+29	21	1078	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856729	96.18176
+29	22	1082	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852787	96.185333
+29	23	1080	Paya Lan	ဘုရားလမ်း	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847858	96.181458
+29	24	1066	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846384	96.179937
+29	25	1058	Ponnami	ပုဏ္ဏမီ	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.843463	96.176244
+29	26	1039	Baho Zay	ဗဟိုဈေး	Thitsar Road	သစ္စာလမ်း	Yankin	ရန်ကင်း	16.840615	96.172702
+29	27	2174	Than Lan	သံလမ်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.839088	96.1696
+29	28	1047	Moe Kaung	မိုးကောင်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.837804	96.166131
+29	29	1052	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834796	96.1626
+29	30	6	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.830714	96.16343
+29	31	340	Kyar Hmat Taing	ကြားမှတ်တိုင်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.828979	96.163769
+29	32	355	Zay Kwae	ဈေးကွေ့	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.82237	96.162695
+29	33	349	Min Lan	မင်းလမ်း	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.819669	96.164948
+29	34	346	Lan Sone	လမ်းဆုံ	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.817574	96.166547
+29	35	351	Mya Lan	မြလမ်း	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Bahan	ဗဟန်း	16.816393	96.16748
+29	36	236	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81189	96.170888
+29	37	232	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811207	96.165464
+29	38	235	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810709	96.163007
+29	39	227	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810236	96.160738
+29	40	2177	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.80679	96.156254
+29	41	209	Bahan Thone Lan	ဗဟန်းသုံးလမ်း	Bahan Road	ဗဟန်းလမ်း	Bahan	ဗဟန်း	16.798112	96.157061
+29	42	202	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.789124	96.157233
+29	43	194	Youk Lan	ယောက်လမ်း	Alanpya Pagoda Road	အလံပြဘုရားလမ်း	Dagon	ဒဂုံ	16.782853	96.158946
+29	44	144	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Pabedan	ပန်းဘဲတန်း	16.777455	96.158736
+29	45	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.776192	96.158876
+29	46	195	Youk Lan	ယောက်လမ်း	Gyo Phyu Road	ဂျိုးဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.785509	96.159488
+29	47	203	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.788985	96.157356
+29	48	208	Bahan Thone Lan	ဗဟန်းသုံးလမ်း	Bahan Road	ဗဟန်းလမ်း	Bahan	ဗဟန်း	16.797105	96.156932
+29	49	210	Yae Khae Saing	ရေခဲဆိုင်	Koe Min Ko Chin Road	ကိုယ်မင်းကိုယ်ချင်းလမ်း	Bahan	ဗဟန်း	16.80108	96.158249
+29	50	231	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.806629	96.156072
+29	51	226	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810128	96.160717
+29	52	234	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810647	96.163313
+29	53	233	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811227	96.165963
+29	54	237	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.811941	96.170957
+29	55	350	Mya Lan	မြလမ်း	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Bahan	ဗဟန်း	16.815982	96.16806
+29	56	347	Lan Sone	လမ်းဆုံ	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.817595	96.16674
+29	57	348	Min Lan	မင်းလမ်း	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.819495	96.165249
+29	58	354	Zay Kwae	ဈေးကွေ့	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.822524	96.162824
+29	59	341	Kyar Hmat Taing	ကြားမှတ်တိုင်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.829251	96.163823
+29	60	7	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.830647	96.163691
+29	61	1051	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834688	96.162728
+29	62	2175	Moe Kaung	မိုးကောင်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.837718	96.166269
+29	63	1048	Than Lan	သံလမ်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.838986	96.169914
+29	64	1040	Baho Zay	ဗဟိုဈေး	Thitsar Road	သစ္စာလမ်း	Yankin	ရန်ကင်း	16.840362	96.172768
+29	65	1057	Ponnami	ပုဏ္ဏမီ	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.843196	96.176523
+29	66	1065	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846081	96.179739
+29	67	2130	Paya Lan	ဘုရားလမ်း	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847724	96.181653
+29	68	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852869	96.185483
+29	69	1079	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856863	96.181911
+29	70	1075	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.859851	96.178992
+29	71	977	Nar Yee Sin	နာရီစင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.865765	96.182681
+29	72	990	Thin Win	သင်းဝင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.866484	96.184355
+29	73	992	Thone-sae-ngar Kwae	(၃၅) ကွေ့	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.867983	96.186951
+29	74	1000	Settwe Yae	ဆက်သွယ်ရေး	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.869461	96.19002
+29	75	996	Kyaung Lan	ကျောင်းလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.87133	96.193711
+29	76	1002	Sittaung Lan	စစ်တောင်းလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.872829	96.196371
+29	77	173	Mandalay Lan	မန္တလေးလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.874343	96.199035
+29	78	1008	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.876894	96.204697
+29	79	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880857	96.202573
+29	80	929	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.884656	96.200534
+29	81	881	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887581	96.198817
+29	82	925	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.891021	96.196994
+29	99	1032	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.902334	96.217293
+29	100	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
+29	101	2122	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.913297	96.211864
+29	102	2123	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.915206	96.210791
+29	103	1031	Dagon Takke Tho	ဒဂုံတက္ကသိုလ်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.915925	96.21358

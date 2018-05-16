@@ -1,0 +1,175 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+65	1	1586	Auk Gate							
+65	2	1590	Aung Myittar							
+65	3	1589	Aung Chan Thar							
+65	4	1592	Nyein Chan Yae							
+65	5	1572	Na-gyi Kwae							
+65	6	1574	Yone Shae							
+65	7	1570	Koe Thone Lone							
+65	8	1580	Sin Hnat Kaung							
+65	9	1582	Thone Htate							
+65	10	1579	Nga Mauk Zay							
+65	11	1585	Yae Chan Sin							
+65	12	85	Nawarat							
+65	13	1577	Kyaw Swar							
+65	14	1567	Taw Win							
+65	15	1564	Shwe Nyar Maung							
+65	16	1557	Kar Gyi Gate							
+65	17	1563	Say Khan							
+65	18	83	Htan Chauk Pin							
+65	19	1558	Kar Lay Gate							
+65	20	1554	Shit-Sae-Tit Gate							
+65	21	1539	Pyaw Bwal							
+65	22	1542	Zin Yaw							
+65	23	1535	Palae Lan							
+65	24	1536	Phone Gyi Kyaung Kwae							
+65	25	1541	Tadar Htate							
+65	26	1531	Tit-Koe-Koe Gate Haung							
+65	27	77	Sae-Lay Lan Sone							
+65	28	1503	Butar Zay							
+65	29	70	Danyin Gone Lan Sone							
+65	30	1379	Bo Chan							
+65	31	1383	Ywar Thit							
+65	32	1377	Aung San Zay							
+65	33	1382	Kyaung Gate							
+65	34	41	Tit Gate							
+65	35	1363	Saung Hnit							
+65	36	1355	Phot Kan Zay							
+65	37	43	Japan Lan							
+65	38	1362	Pyi Taw Thar/ G.T.I Htate							
+65	39	1360	Pyi Taw Thar							
+65	40	1365	Thayet Taw							
+65	41	1367	Bo Kone							
+65	42	1370	Hight Pak							
+65	43	1350	Ma Nya Ka							
+65	44	1348	Insein Say Yon Gyi							
+65	45	1345	Insein Pan Chan							
+65	46	1342	B.O.C							
+65	47	1313	Kyoe Kone							
+65	48	1310	B.P.I							
+65	49	1253	Kha Wae Chan							
+65	50	1251	Kalar Kyaung							
+65	51	1222	Thamine Lan Son							
+65	52	1219	Paya Lan							
+65	53	1218	Oakyin							
+65	54	1211	Bartar							
+65	55	1180	Than Lan							
+65	56	1182	Thukha							
+65	57	1171	Butar Yon Lan							
+65	58	1176	Sin Yae Twin							
+65	59	1174	San Yeik Nyein							
+65	60	288	Hledan							
+65	61	320	Saik Pyoe Yay							
+65	62	263	Hantharwaddy							
+65	63	265	Mahar Myaing							
+65	64	269	Myaynigone							
+65	65	267	Myaynigone							
+65	66	274	Wizaya Plaza							
+65	67	222	Link Lan							
+65	68	224	Oak Lan							
+65	69	228	Shwe Gon Daing							
+65	70	222	Link Lan							
+65	71	224	Oak Lan							
+65	72	228	Shwe Gon Daing							
+65	73	231	Shwe Gon Daing							
+65	74	226	Bandar Pin							
+65	75	234	Ngar Htat Kyee							
+65	76	233	Chauk Htat Kyee							
+65	77	332	Awine Htate/ Tamwe							
+65	78	238	Byaing Yae Oh Sin							
+65	79	388	Thida							
+65	80	374	Aung Mingalar							
+65	81	454	Yuzana Plaza/ Lan Kyal							
+65	82	444	Mingalar Zay							
+65	83	450	Sar Taik							
+65	84	448	Pazundaung Zay							
+65	85	446	Nyaung Tan							
+65	86	424	Thida Seik							
+65	87	422	Lin Sadaung							
+65	88	413	Botahtaung Zay							
+65	89	167	Botahtaung Paya							
+65	90	168	Botahtaung Paya							
+65	91	414	Botahtaung Zay							
+65	92	421	Lin Sadaung							
+65	93	425	Thida Seik							
+65	94	445	Nyaung Tan							
+65	95	447	Pazundaung Zay							
+65	96	449	Sar Taik							
+65	97	443	Mingalar Zay							
+65	98	453	Yuzana Plaza/ Lan Kyal							
+65	99	375	Aung Mingalar							
+65	100	387	Thida							
+65	101	239	Byaing Yae Oh Sin							
+65	102	333	Awine Htate/ Tamwe							
+65	103	232	Chauk Htat Kyee							
+65	104	235	Ngar Htat Kyee							
+65	105	227	Bandar Pin							
+65	106	2177	Shwe Gon Daing							
+65	107	229	Shwe Gon Daing							
+65	108	225	Oak Lan							
+65	109	223	Link Lan							
+65	110	223	Link Lan							
+65	111	266	Myaynigone							
+65	112	264	Mahar Myaing							
+65	113	262	Hantharwaddy							
+65	114	319	Saik Pyoe Yay							
+65	115	287	Hledan							
+65	116	1175	San Yeik Nyein							
+65	117	1177	Sin Yae Twin							
+65	118	1170	Butar Yon Lan							
+65	119	1181	Thukha							
+65	120	1179	Than Lan							
+65	121	1212	Bartar							
+65	122	1217	Oakyin							
+65	123	1223	Thamine Lan Son							
+65	124	1250	Kalar Kyaung							
+65	125	1252	Kha Wae Chan							
+65	126	1311	B.P.I							
+65	127	1312	Kyoe Kone							
+65	128	1341	B.O.C							
+65	129	1346	Insein Pan Chan							
+65	130	1347	Insein Say Yon Gyi							
+65	131	1349	Ma Nya Ka							
+65	132	1369	Hight Pak							
+65	133	1368	Bo Kone							
+65	134	1366	Thayet Taw							
+65	135	1359	Pyi Taw Thar							
+65	136	1361	Pyi Taw Thar/ G.T.I Htate							
+65	137	44	Japan Lan							
+65	138	1356	Phot Kan Zay							
+65	139	1364	Saung Hnit							
+65	140	42	Tit Gate							
+65	141	1381	Kyaung Gate							
+65	142	1378	Aung San Zay							
+65	143	1384	Ywar Thit							
+65	144	1380	Bo Chan							
+65	145	69	Danyin Gone Lan Sone							
+65	146	1514	Sauk Lote Yae							
+65	147	1512	Phone Gyi Kyaung							
+65	148	1510	Myin Hlae Gate							
+65	149	1507	Kan Tharyar							
+65	150	1508	Kyaung Lan							
+65	151	1519	Sit Tat							
+65	152	2357	Shwe Pyi Thar Kwae							
+65	153	1522	Yae Sin							
+65	154	1569	Than Lan							
+65	155	1561	Khaung Thone Lone							
+65	156	1559	Kar Lay Gate							
+65	157	84	Htan Chauk Pin							
+65	158	1562	Say Khan							
+65	159	1556	Kar Gyi Gate							
+65	160	1565	Shwe Nyar Maung							
+65	161	1566	Taw Win							
+65	162	1576	Kyaw Swar							
+65	163	86	Nawarat							
+65	164	1584	Yae Chan Sin							
+65	165	1578	Nga Mauk Zay							
+65	166	1583	Thone Htate							
+65	167	1581	Sin Hnat Kaung							
+65	168	1571	Koe Thone Lone							
+65	169	1575	Yone Shae							
+65	170	1573	Na-gyi Kwae							
+65	171	1593	Nyein Chan Yae							
+65	172	1588	Aung Chan Thar							
+65	173	1591	Aung Myittar							
+65	174	1587	Auk Gate							

@@ -1,0 +1,59 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+38	1	2124	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.859959	96.178682
+38	2	1078	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856729	96.18176
+38	3	1082	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852787	96.185333
+38	4	1080	Paya Lan	ဘုရားလမ်း	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847858	96.181458
+38	5	1066	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846384	96.179937
+38	6	1058	Ponnami	ပုဏ္ဏမီ	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.843463	96.176244
+38	7	1039	Baho Zay	ဗဟိုဈေး	Thitsar Road	သစ္စာလမ်း	Yankin	ရန်ကင်း	16.840615	96.172702
+38	8	2174	Than Lan	သံလမ်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.839088	96.1696
+38	9	1047	Moe Kaung	မိုးကောင်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.837804	96.166131
+38	10	1052	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834796	96.1626
+38	11	6	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.830714	96.16343
+38	12	331	Yankin Zay	ရန်ကင်းဈေး	Yanshin Street	ရန်ရှင်းလမ်းသွယ်	Yankin	ရန်ကင်း	16.82892	96.159207
+38	13	326	Set Hmu Tit	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.827675	96.15721
+38	14	1246	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.828542	96.154402
+38	15	2323	Koke Kine	ကုက္ကိုင်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.823614	96.152889
+38	16	2325	Inya Myaing	အင်ယာမြိုင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.824687	96.146726
+38	17	2327	Thanlwin	သံလွင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.824228	96.145139
+38	18	2329	UFL	ယူအပ်ဖ်အယ်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.825133	96.142044
+38	19	2331	Kyuanlan	ကျောင်းလမ်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.825918	96.13846
+38	20	318	Kyaung Shae/ Dhamar Yon	ကျောင်းရှေ့/ဓမ္မာရုံ	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.826485	96.132192
+38	21	290	Hledan Zay	လှည်းတန်းဈေး	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.826724	96.128694
+38	22	295	Kyaung Shae/ Kone Sin	ကျောင်းရှေ့/ကုန်းဆင်း	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.825525	96.126583
+38	23	307	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.82448	96.123054
+38	24	309	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.829312	96.122069
+38	25	1183	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833338	96.120733
+38	26	1163	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833749	96.116288
+38	27	1160	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.836931	96.113665
+38	28	1164	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840732	96.112821
+38	29	1166	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843648	96.11237
+38	30	1167	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843268	96.112167
+38	31	1165	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840896	96.112608
+38	32	1161	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.837755	96.11336
+38	33	1162	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833543	96.11603
+38	34	1184	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833461	96.119521
+38	35	310	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.829848	96.121713
+38	36	308	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.824578	96.122944
+38	37	296	Kyaung Shae/ Kone Sin	ကျောင်းရှေ့/ကုန်းဆင်း	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.825466	96.126589
+38	38	289	Hledan Zay	လှည်းတန်းဈေး	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.826457	96.128887
+38	39	2194	Kyaung Shae/ Dhamar Yon	ကျောင်းရှေ့/ဓမ္မာရုံ	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.826282	96.132817
+38	40	2333	Kyuanlan	ကျောင်းလမ်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.825767	96.138751
+38	41	2335	UFL	ယူအပ်ဖ်အယ်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.825153	96.142351
+38	42	2337	Thanlwin	သံလွင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.824134	96.145239
+38	43	2339	Inya Myaing	အင်ယာမြိုင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.824589	96.146864
+38	44	2341	Koke Kine	ကုက္ကိုင်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.823467	96.152954
+38	45	325	Set Hmu Tit/Myanmar Plaza	စက်မှု (၁)/မြန်မာပလာဇာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.827811	96.154484
+38	46	327	Set Hmu Tit	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.827587	96.157256
+38	47	330	Yankin Zay	ရန်ကင်းဈေး	Yanshin Street	ရန်ရှင်းလမ်းသွယ်	Yankin	ရန်ကင်း	16.828858	96.15917
+38	48	7	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.830647	96.163691
+38	49	1051	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834688	96.162728
+38	50	2175	Moe Kaung	မိုးကောင်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.837718	96.166269
+38	51	1048	Than Lan	သံလမ်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.838986	96.169914
+38	52	1040	Baho Zay	ဗဟိုဈေး	Thitsar Road	သစ္စာလမ်း	Yankin	ရန်ကင်း	16.840362	96.172768
+38	53	1057	Ponnami	ပုဏ္ဏမီ	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.843196	96.176523
+38	54	1065	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846081	96.179739
+38	55	2130	Paya Lan	ဘုရားလမ်း	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847724	96.181653
+38	56	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852869	96.185483
+38	57	1079	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856863	96.181911
+38	58	1075	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.859851	96.178992
