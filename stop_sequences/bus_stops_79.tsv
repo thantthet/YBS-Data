@@ -1,0 +1,130 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+79	1	1094	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.92253305373918	96.05467587249224
+79	2	2238	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905598	96.048142
+79	3	1100	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.902724	96.047004
+79	4	21	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899891	96.045781
+79	5	2236	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897139	96.044644
+79	6	2232	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89486	96.043788
+79	7	1105	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.892653	96.042468
+79	8	1098	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890446	96.040224
+79	9	1103	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887079	96.038057
+79	10	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884307	96.036876
+79	11	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882418	96.03604
+79	12	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87939840322537	96.03473072871569
+79	13	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874074726406537	96.03354724589737
+79	14	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
+79	15	1123	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872309492066083	96.04157363064589
+79	16	1130	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.8737204576502	96.05064585344736
+79	17	2228	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87554135084313	96.06214673956858
+79	18	1134	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.876926030577906	96.0713158154249
+79	19	1139	Thone Htate	(၃) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87769609222099	96.0750614047356
+79	20	30	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87805870194198	96.07841479824857
+79	21	1322	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.883421651001527	96.09407741110773
+79	22	1330	Pauk Taw Wa	ပေါက်တောဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.884824192173284	96.09771021176131
+79	23	1305	Nyaung Pin	ညောင်ပင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.88148744768163	96.09900986775757
+79	24	1302	Myo Thit Zay	မြို့သစ်ဈေးု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.879021345302874	96.09977603657171
+79	25	1306	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.875324	96.101637
+79	26	1314	Kyoe Kone Lan Sone	ကြို့ကုန်းလမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.871474	96.104232
+79	27	1308	Bayint Naung Zay/ Zay Pwae Yon	ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.864245	96.106743
+79	28	1193	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.862482665993724	96.10756609356032
+79	29	1195	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.859289522179772	96.10922870691867
+79	30	1208	Zay Butar	ဈေးဘူတာ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.860016582911346	96.11289853462951
+79	31	1225	U Ba Han	ဦးဘဟန်	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.861083	96.118365
+79	32	2200	Kyway Tit	ကြွေ (၁)	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.861146243839613	96.12073119264097
+79	33	1220	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.863106	96.122447
+79	34	1257	Ye Yan Aung	ရဲရန်အောင်	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866268	96.126003
+79	35	1254	Kyaik Wine	ကျိုက်ဝိုင်း	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866484	96.128696
+79	36	1270	Ye Baw Haung	ရဲဘော်ဟောင်း	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.86727899506374	96.13734873477371
+79	37	1266	Shit Mile	(၈) မိုင်	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.864713	96.141169
+79	38	1262	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866588278879597	96.14353745011616
+79	39	1820	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866648920187888	96.15249755792323
+79	40	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
+79	41	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85825079611413	96.15602290257813
+79	42	1236	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.848967	96.157233
+79	43	36	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.842775	96.156468
+79	44	1242	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83789230363614	96.15568609020558
+79	45	1246	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833849962299986	96.15510751493277
+79	46	2388	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.826158759059954	96.1581852240488
+79	47	355	Zay Kwae	ဈေးကွေ့	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.822303054572906	96.16266463162903
+79	48	349	Min Lan	မင်းလမ်း	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.819669	96.164948
+79	49	346	Lan Sone	လမ်းဆုံ	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.81753155492063	96.16652819328012
+79	50	351	Mya Lan	မြလမ်း	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Bahan	ဗဟန်း	16.816393	96.16748
+79	51	236	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.811851525336696	96.17080198246187
+79	52	382	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.81067485889442	96.17535173892976
+79	53	381	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809481	96.17689
+79	54	372	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807365	96.180173
+79	55	377	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803807	96.185098
+79	56	371	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79994	96.186782
+79	57	390	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797218	96.186182
+79	58	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792401	96.184979
+79	59	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790408	96.18322
+79	60	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784522	96.174755
+79	61	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78143923040722	96.17422713898124
+79	62	446	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77857725311318	96.1752471746877
+79	63	425	Thida Seik	သီတာဆိပ်	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77462	96.180076
+79	64	2375	Than Lyet Soon	သံလျှက်စွန်း	Than Lyet Soon Road	သံလျှက်စွန်းလမ်း	Pazundaung	ပုဇွန်တောင်	16.768352	96.19206
+79	65	424	Thida Seik	သီတာဆိပ်	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.774333	96.180194
+79	66	445	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77814227405194	96.17549379123376
+79	67	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
+79	68	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784308580655395	96.1750550195575
+79	69	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790244	96.183295
+79	70	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792319	96.185129
+79	71	389	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797084	96.186241
+79	72	370	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79996	96.186879
+79	73	376	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803761	96.185248
+79	74	373	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807201	96.180065
+79	75	380	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809533	96.177093
+79	76	383	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.810901	96.175102
+79	77	237	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.811882399727807	96.1710895097349
+79	78	350	Mya Lan	မြလမ်း	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Bahan	ဗဟန်း	16.815803476666527	96.16824572185578
+79	79	347	Lan Sone	လမ်းဆုံ	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.817595	96.16674
+79	80	348	Min Lan	မင်းလမ်း	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.819495	96.165249
+79	81	354	Zay Kwae	ဈေးကွေ့	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.82250281937509	96.16280280730281
+79	82	2387	Baho Bank	ဗဟိုဘဏ်	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.824887	96.160199
+79	83	2383	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.825994453613134	96.15880109846331
+79	84	1245	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833775752063897	96.1553610675037
+79	85	1241	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.838336980039827	96.15606039718843
+79	86	37	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84295	96.156608
+79	87	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.850729427748476	96.15774345584215
+79	88	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.856873	96.156653
+79	89	1240	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.862603	96.155366
+79	90	1819	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866879	96.152638
+79	91	1265	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866771	96.143438
+79	92	1267	Shit Mile	(၈) မိုင်	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.86567957937846	96.14160246681422
+79	93	1271	Ye Baw Haung	ရဲဘော်ဟောင်း	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.867634	96.137322
+79	94	1255	Kyaik Wine	ကျိုက်ဝိုင်း	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.86674	96.128717
+79	95	1256	Ye Yan Aung	ရဲရန်အောင်	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866135	96.126088
+79	96	1221	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.863193	96.122404
+79	97	1216	Kyway Tit	ကြွေ (၁)	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.861293	96.120494
+79	98	1224	U Ba Han	ဦးဘဟန်	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.86117	96.118397
+79	99	1207	Zay Butar	ဈေးဘူတာ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.860185	96.112882
+79	100	1194	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.859507	96.109374
+79	101	35	Dhamar Yon	ဓမ္မာရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.861069316974206	96.1081514018588
+79	102	1309	Bayint Naung Zay/ Zay Pwae Yon	ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.864492	96.10685
+79	103	1315	Kyoe Kone Lan Sone	ကြို့ကုန်းလမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.871679	96.10449
+79	104	1307	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.875683	96.101595
+79	105	1303	Myo Thit Zay	မြို့သစ်ဈေးု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.87911318356011	96.10005002003163
+79	106	1304	Nyaung Pin	ညောင်ပင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.881557869464423	96.09919393435123
+79	107	1329	Pauk Taw Wa	ပေါက်တောဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.884871212723404	96.09790085814895
+79	108	2395	Pauk Taw Wa	ပေါက်တောဝ	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.885452461951	96.0977136483416
+79	109	1323	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.88350071428124	96.09398344997318
+79	110	31	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87822689567304	96.07839097268881
+79	111	1138	Thone Htate	(၃) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87758565487986	96.07507484033705
+79	112	1135	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.877163485866696	96.07127779629083
+79	113	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875759159838704	96.06262076402346
+79	114	1131	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.874082055613908	96.05199716635981
+79	115	1124	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872406206400104	96.04160020127894
+79	116	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872660575089096	96.03753967210653
+79	117	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87418313046785	96.03370373602957
+79	118	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87948935901228	96.03507346473634
+79	119	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882295	96.03634
+79	120	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884492	96.037306
+79	121	1104	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887243	96.038464
+79	122	1097	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890159	96.040331
+79	123	1106	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.892633	96.042725
+79	124	2231	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.894994	96.043981
+79	125	2235	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897304	96.045052
+79	126	20	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899644	96.046017
+79	127	1099	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.90258	96.047219
+79	128	2237	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905495	96.048399
+79	129	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9226242394326	96.05491493468436

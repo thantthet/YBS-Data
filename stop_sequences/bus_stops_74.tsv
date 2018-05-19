@@ -1,0 +1,61 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+74	1	83	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956804	96.076328
+74	2	1558	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956271	96.080888
+74	3	1560	Khaung Thone Lone	ခေါင်သုံးလုံး	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.957061	96.084074
+74	4	1568	Than Lan	သံလမ်း	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.95783	96.087239
+74	5	1523	Yae Sin	ရေစင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.95977	96.091937
+74	6	2357	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961113306399586	96.09623822383584
+74	7	1518	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958026253880583	96.09734735917301
+74	8	1509	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.951929487848194	96.0998342279345
+74	9	1506	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950086889460792	96.10064140520991
+74	10	1511	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.944725	96.102603
+74	11	1513	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942929	96.102614
+74	12	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
+74	13	1503	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933782970932047	96.0931649466511
+74	14	80	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933531574714472	96.08846573397388
+74	15	1376	Tit-Koe-Koe	-၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.932260749785865	96.08562263776548
+74	16	2245	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.93082537461608	96.08320237714
+74	17	1102	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922762168754172	96.069577216349
+74	18	2362	Shwe Lin Pan Lan Sone	ရွှေလင်ပန်း	Khayae Pin Road	ခရေပင်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.919713	96.064228
+74	19	2435	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9217958894363	96.0561811923981
+74	20	2238	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905598	96.048142
+74	21	1100	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.902724	96.047004
+74	22	21	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899891	96.045781
+74	23	2236	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897139	96.044644
+74	24	2232	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89486	96.043788
+74	25	1105	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.892653	96.042468
+74	26	1098	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890446	96.040224
+74	27	1103	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887079	96.038057
+74	28	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884307	96.036876
+74	29	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882418	96.03604
+74	30	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87939840322537	96.03473072871569
+74	31	25	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.8781015165209	96.0241266153753
+74	32	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87948935901228	96.03507346473634
+74	33	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882295	96.03634
+74	34	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884492	96.037306
+74	35	1104	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887243	96.038464
+74	36	1097	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890159	96.040331
+74	37	1106	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.892633	96.042725
+74	38	2231	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.894994	96.043981
+74	39	2235	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897304	96.045052
+74	40	20	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899644	96.046017
+74	41	1099	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.90258	96.047219
+74	42	2237	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905495	96.048399
+74	43	2436	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9215803388265	96.0561275482178
+74	44	1101	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922576	96.06975
+74	45	2246	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.930389793371084	96.0828197468618
+74	46	1375	Tit-Koe-Koe	-၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.931731	96.085049
+74	47	79	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933362174061912	96.0884708503727
+74	48	1502	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933667909143974	96.09436305245255
+74	49	1514	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.941071	96.102753
+74	50	1512	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942795	96.102796
+74	51	1510	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94414	96.10285
+74	52	1507	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950132390389058	96.10075741074981
+74	53	1508	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.95163170997072	96.10013970639558
+74	54	1519	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958198027604034	96.09759164974095
+74	55	2358	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961032251324756	96.09628807520495
+74	56	1522	Yae Sin	ရေစင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.959964381522152	96.09211206436159
+74	57	1569	Than Lan	သံလမ်း	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.957995	96.087282
+74	58	1561	Khaung Thone Lone	ခေါင်သုံးလုံး	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.957204	96.083989
+74	59	1559	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956507	96.080984
+74	60	84	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956968	96.076414
