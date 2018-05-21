@@ -1,55 +1,59 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-72	1	1587	Auk Gate	အောက်ဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	17.00111897368812	96.0666501056403
-72	2	1597	Kyaung Shae	ကျောင်းရှေ့	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	17.00511328793802	96.08280961867425
-72	3	1601	Tar Sone	တာဆုံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	17.005483360212537	96.08344220090657
-72	4	1596	Kwet Thit	ကွက်သစ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	17.003676094867924	96.08468389604242
-72	5	1600	Padonmar	ပဒုမ္မာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	17.001617062783314	96.08615349512549
-72	6	2249	Computer	ကွန်ပျူတာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.998620693034137	96.08830445911737
-72	7	68	Nwar Chan	နွားခြံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.994694916471154	96.09105066396297
-72	8	1493	Thabarwa	သဘာဝ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.988871	96.092581
-72	9	1496	Thardukan	သာဓုကန်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.98379324224211	96.09319077339023
-72	10	1491	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.97908187590623	96.09351490158589
-72	11	1489	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.974234226742837	96.09422648325565
-72	12	1495	Than Phyu	သံဖြူ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.972031450019877	96.0945617593825
-72	13	1499	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.968733249216562	96.09524251660332
-72	14	72	Gate Haung	ဂိတ်ဟောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.964731405762105	96.09605692327023
-72	15	1517	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	No. 4 Main Road/ Bogyoke Aung San Road	အမှတ်(၄)လမ်းမ/ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961429849782906	96.09672259306538
-72	16	1518	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958026253880583	96.09734735917301
-72	17	1509	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.951929487848194	96.0998342279345
-72	18	1506	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950086889460792	96.10064140520991
-72	19	1511	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.944725	96.102603
-72	20	1513	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942929	96.102614
-72	21	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
-72	22	1503	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933782970932047	96.0931649466511
-72	23	80	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933531574714472	96.08846573397388
-72	24	1376	Tit-Koe-Koe	-၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.932260749785865	96.08562263776548
-72	25	2245	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.93082537461608	96.08320237714
-72	26	1102	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922762168754172	96.069577216349
-72	27	2362	Shwe Lin Pan Lan Sone	ရွှေလင်ပန်း	Khayae Pin Road	ခရေပင်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.919713	96.064228
-72	28	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9226242394326	96.05491493468436
-72	29	1101	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922576	96.06975
-72	30	2246	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.930389793371084	96.0828197468618
-72	31	1375	Tit-Koe-Koe	-၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.931731	96.085049
-72	32	79	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933362174061912	96.0884708503727
-72	33	1502	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933667909143974	96.09436305245255
-72	34	1514	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.941071	96.102753
-72	35	1512	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942795	96.102796
-72	36	1510	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94414	96.10285
-72	37	1507	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950132390389058	96.10075741074981
-72	38	1508	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.95163170997072	96.10013970639558
-72	39	1519	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958198027604034	96.09759164974095
-72	40	1516	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	No. 4 Main Road/ Bogyoke Aung San Road	အမှတ်(၄)လမ်းမ/ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961084945144684	96.09701604349542
-72	41	71	Gate Haung	ဂိတ်ဟောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.963966005856975	96.09650778584184
-72	42	1498	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.96787122038794	96.09573139110582
-72	43	1494	Than Phyu	သံဖြူ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.971547071368082	96.09499946236612
-72	44	1488	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.973700470429442	96.09446526272224
-72	45	1490	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.97904652292607	96.0937109333463
-72	46	1497	Thardukan	သာဓုကန်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.983833965279114	96.09342852607371
-72	47	1492	Thabarwa	သဘာဝ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.988892	96.092881
-72	48	67	Nwar Chan	နွားခြံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.99481507448492	96.09122194815427
-72	49	1594	Computer	ကွန်ပျူတာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.998733834786997	96.0884768748656
-72	50	1599	Padonmar	ပဒုမ္မာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	17.001721145121724	96.08629917260261
-72	51	1595	Kwet Thit	ကွက်သစ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	17.003742182625896	96.08490278944375
-72	52	1602	Tar Sone	တာဆုံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	17.005592009189613	96.0833665332757
-72	53	1598	Kyaung Shae	ကျောင်းရှေ့	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	17.005203722063058	96.08272584155203
-72	54	1586	Auk Gate	အောက်ဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	17.001290988514025	96.0665893368423
+72	1	538	Thone-Sae-Lay Kar Gyi Gate	(၃၄) ကားကြီးဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.810434247803283	96.22448767069727
+72	2	535	Ta Sal Zay	(၁၀) ဈေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.808245204423173	96.22030396945776
+72	3	2429	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.802462737110584	96.2165252817795
+72	4	2431	Khine Shwe War	ခိုင်ရွှေဝါ	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.7987809037868	96.2151469197124
+72	5	2434	Ayat Sine Kwae	အရက်ဆိုင်ကွေ့	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.7956620278775	96.2139007821679
+72	6	488	Lay-sae-koe Asane Gate	(၄၉) အစိမ်းဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791127	96.211778
+72	7	486	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791294026965303	96.21000692714006
+72	8	498	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79167350648468	96.20764423627409
+72	9	492	Ngar Kwae	(၅) ကွေ့	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.791805	96.206628
+72	10	502	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.792878683953163	96.20340728899467
+72	11	460	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793859	96.201414
+72	12	400	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795256	96.198171
+72	13	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
+72	14	409	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799601	96.196862
+72	15	407	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802389	96.19669
+72	16	405	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.803753863378656	96.19596491334961
+72	17	376	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803761	96.185248
+72	18	372	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807365	96.180173
+72	19	380	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809533	96.177093
+72	20	385	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807725	96.176172
+72	21	379	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804151	96.175646
+72	22	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799380471876457	96.17574831492675
+72	23	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630927025884	96.17657147347929
+72	24	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794481844001602	96.17555068340155
+72	25	186	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791640666169272	96.17243854561823
+72	26	182	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790188203753207	96.16940329084174
+72	27	2438	91 Lan	၉၁ လမ်း	Daw Thein Tin St	ဒေါ်သိန်းတင်လမ်း	Mingala Taungnyunt	မင်္ဂလာတောင်ညွန့်	16.7890177558312	96.1654767673463
+72	28	2439	Kyauk Kwae	ကျောက်ကွေ့	Upper Pansodan Road	အထက်ပန်းဆိုးတန်းလမ်း	Mingala Taungnyunt	မင်္ဂလာတောင်ညွန့်	16.7863816487008	96.162074804306
+72	29	145	Bar lan	ဘားလမ်း	Anawrahta Road	အနော်ရထာလမ်း	Kyauktada	ကျောက်တံတား	16.77689	96.160721
+72	30	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.77415838048883	96.15955453431526
+72	31	2437	Kyauk Kwae	ကျောက်ကွေ့	Upper Pansodan Road	အထက်ပန်းဆိုးတန်းလမ်း	Mingala Taungnyunt	မင်္ဂလာတောင်ညွန့်	16.7864596491084	96.1623373255134
+72	32	2440	91 Lan	၉၁ လမ်း	Daw Thein Tin St	ဒေါ်သိန်းတင်လမ်း	Mingala Taungnyunt	မင်္ဂလာတောင်ညွန့်	16.788933738004093	96.16555191110821
+72	33	181	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79003716114739	96.16945385467261
+72	34	185	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791507840376276	96.17247557267548
+72	35	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
+72	36	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796450819129205	96.17687573656441
+72	37	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79938512590402	96.17606068030003
+72	38	378	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804056	96.175654
+72	39	384	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807535	96.176161
+72	40	381	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809481	96.17689
+72	41	373	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807201	96.180065
+72	42	377	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803807	96.185098
+72	43	406	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.804654	96.195043
+72	44	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
+72	45	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
+72	46	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
+72	47	399	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795174	96.19815
+72	48	459	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793695	96.20092
+72	49	501	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.79281159945252	96.2031506560743
+72	50	491	Ngar Kwae	(၅) ကွေ့	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.791271	96.206392
+72	51	497	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791579	96.207443
+72	52	485	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791209	96.209632
+72	53	487	Lay-sae-koe Asane Gate	(၄၉) အစိမ်းဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790983	96.211327
+72	54	2433	Ayat Sine Kwae	အရက်ဆိုင်ကွေ့	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.79564220775	96.2139879958704
+72	55	2432	Khine Shwe War	ခိုင်ရွှေဝါ	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.798739458733	96.2152311578393
+72	56	2430	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.8023709820173	96.2167241005227
+72	57	536	Ta Sal Zay	(၁၀) ဈေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.808139229914836	96.2203553086147
+72	58	537	Thone-Sae-Lay Kar Gyi Gate	(၃၄) ကားကြီးဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80950883002897	96.22312393505126
