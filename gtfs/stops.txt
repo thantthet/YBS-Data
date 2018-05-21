@@ -536,7 +536,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 631,စံပြဈေးကွေ့ (Sanpya Zay Kwae),သံသုမာလမ်း (Thanthumar Road),16.838421,96.207638
 632,စံပြဈေး/ ငမိုးရိပ် (Sanpya Zay/ Nga Moe Yeik),သံသုမာလမ်း (Thanthumar Road),16.843237,96.204109
 633,စံပြဈေး/ ငမိုးရိပ် (Sanpya Zay/ Nga Moe Yeik),သံသုမာလမ်း (Thanthumar Road),16.843309,96.203744
-634,စံပြဈေး/ ငမိုးရိပ် (Sanpya Zay/ Nga Moe Yeik),လေးထောင့်ကန်လမ်း (Lay Daung Kan Road),16.841871,96.204405
+634,စံပြဈေး/ ငမိုးရိပ် (Sanpya Zay/ Nga Moe Yeik),လေးထောင့်ကန်လမ်း (Lay Daung Kan Road),16.841916421492833,96.20434836717324
 635,စံပြဈေး/ ငမိုးရိပ် (Sanpya Zay/ Nga Moe Yeik),လေးထောင့်ကန်လမ်း (Lay Daung Kan Road),16.841989,96.204673
 636,ဝေဘူလ (Waibula),သံသုမာလမ်း (Thanthumar Road),16.830175,96.208152
 637,ဝေဘူလ (Waibula),သံသုမာလမ်း (Thanthumar Road),16.830545,96.207851
@@ -715,7 +715,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 874,ကျန်းမာရေး (Kyan Mar Yae),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.907466,96.184977
 875,ကျန်းမာရေး (Kyan Mar Yae),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.90772047014759,96.1850186926313
 878,(၅၀) ကွေ့ (Ngar-sae Kwae),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.908431,96.186887
-879,(၅၀) ကွေ့ (Ngar-sae Kwae),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.908616,96.18723
+879,(၅၀) ကွေ့ (Ngar-sae Kwae),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.908516092033064,96.18715706281367
 880,ရုံးရှေ့ (Yone Shae),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.887499,96.198531
 881,ရုံးရှေ့ (Yone Shae),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.887581,96.198817
 882,(ဃ) ဈေး (Ga-gyi Zay),သုဓမ္မာလမ်း (Thudhamar Road),16.896452,96.159434
@@ -802,8 +802,8 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1014,တပ်ရင်း (၃) (Tat Yin Thone),အမှတ်(၂)လမ်းမ (No. 2 Main Road),16.878599,96.230459
 1015,သင်တန်းကျောင်း (Thin Tan Kyaung),အမှတ်(၂)လမ်းမ (No. 2 Main Road),16.871166,96.225125
 1016,သင်တန်းကျောင်း (Thin Tan Kyaung),အမှတ်(၂)လမ်းမ (No. 2 Main Road),16.871297828689613,96.2248954921961
-1017,အအေးဆိုင် (A Aye Saing),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.903278,96.190192
-1018,အအေးဆိုင် (A Aye Saing),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.903442,96.189612
+1017,အအေးဆိုင် (A Aye Saing),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.903188164191445,96.19007346220316
+1018,အအေးဆိုင် (A Aye Saing),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.90350883495074,96.18970149429516
 1019,(၄၆) မှတ်တိုင် (Lay-sae-chauk Hmat Taing),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.898430708623312,96.19273792253809
 1020,(၄၆) မှတ်တိုင် (Lay-sae-chauk Hmat Taing),ပြည်ထောင်စုလမ်းမကြီး (Pyi Htaung Su Main Road),16.898700981942675,96.19247929891573
 1021,(၄၆) လမ်းဆုံ (Lay-sae-chauk Lan Sone),ဗိုလ်မှူးဗထူးလမ်း (Bo Hmu Ba Htoo Road),16.898454928978115,96.1924754222855
@@ -1946,14 +1946,14 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2362,ရွှေလင်ပန်း (Shwe Lin Pan Lan Sone),ခရေပင်လမ်း (Khayae Pin Road),16.919713,96.064228
 2363,ရွာထိပ် (Ywar Htate),ကျန်စစ်သားလမ်း (Kyan Sit Thar Road),16.908472,96.199894
 2364,ရွာထိပ် (Ywar Htate),ကျန်စစ်သားလမ်း (Kyan Sit Thar Road),16.908304,96.199592
-2365,မဓ (Ma Da),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.912865,96.194572
-2366,မဓ (Ma Da),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.912718,96.194303
-2367,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.91137933265999,96.19162059389056
-2368,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.91127499978536,96.19175755418837
+2365,မဓ (Ma Da),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.91265979145201,96.19451218284668
+2366,မဓ (Ma Da),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.912609189155948,96.19444227777423
+2367,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.912004125783575,96.19301123544574
+2368,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.912090093819174,96.19293093681337
 2369,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.909950504558687,96.18892899714412
 2370,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.909869186856525,96.18909060023726
-2371,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.910246,96.189249
-2372,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.910246,96.189249
+2371,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.910931005628484,96.19084895588458
+2372,_ (_),ရာဇသင်္ကြန်လမ်း (Yarza Thingyan Road),16.910869456310497,96.19089367333801
 2373,ဘီအိုစီ (B.O.C),သံလျှက်စွန်းလမ်း (Than Lyet Soon Road),16.768578,96.18603
 2374,ဘီအိုစီ (B.O.C),သံလျှက်စွန်းလမ်း (Than Lyet Soon Road),16.768721,96.186003
 2375,သံလျှက်စွန်း (Than Lyet Soon),သံလျှက်စွန်းလမ်း (Than Lyet Soon Road),16.768352,96.19206
