@@ -1,99 +1,119 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-78	1	731	Ayar Wun	ဧရာဝဏ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.849152	96.245892
-78	2	730	Awaiyar	အဝေရာ	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.850602	96.244394
-78	3	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.854034266940296	96.23979736352341
-78	4	2137	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.8517600000000	96.2378830000000
-78	5	704	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849706	96.236123
-78	6	706	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848073	96.234933
-78	7	692	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.850062396341524	96.22753457631917
-78	8	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84753359193457	96.22320997528735
-78	9	702	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.848344950113066	96.2222744710744
-78	10	696	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851439454626906	96.21860755607487
-78	11	678	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85871307235143	96.21468201745303
-78	12	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.8575	96.212102
-78	13	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406	96.208996
-78	14	630	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83951	96.2073170000000
-78	15	626	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832865	96.20798
-78	16	637	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830545	96.2078510000000
-78	17	577	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825081	96.2091170000000
-78	18	580	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822580183134985	96.21189562138171
-78	19	587	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820932	96.213044
-78	20	2163	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819443	96.214001
-78	21	2165	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817646	96.214762
-78	22	539	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.80827599579392	96.21778252534571
-78	23	540	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.807905	96.217950
-78	24	2164	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817656	96.214966
-78	25	2162	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819464	96.214172
-78	26	586	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820809	96.213452
-78	27	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822305	96.212298
-78	28	578	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825018	96.2095
-78	29	636	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830175	96.208152
-78	30	627	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833050	96.208259
-78	31	631	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838421	96.207638
-78	32	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
-78	33	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
-78	34	677	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.858630783290327	96.2144668120891
-78	35	695	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851523565079887	96.21824570931496
-78	36	701	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84817339716358	96.2220901111141
-78	37	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847160762299	96.22348121367396
-78	38	691	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.84956857210762	96.22752003371717
-78	39	707	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848166	96.234815
-78	40	703	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849573	96.236241
-78	41	705	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.851626	96.238001
-78	42	2136	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.8539084237966	96.24016143148766
-78	43	729	Awaiyar	အဝေရာ	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.8502874946355	96.2445401167497
-78	44	732	Ayar Wun	ဧရာဝဏ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.849192043165782	96.24611821956933
-78	45	206	Myauk Phat Moke	မြောက်ဘက်မုခ်	RZarNi Road	အာဇာနည်လမ်း	Dagon	ဒဂုံ	16.800997385232012	96.14897002709769
-78	46	205	Ashae Phat Moke	အရှေ့ဘက်မုခ်	RZarNi Road	အာဇာနည်လမ်း	Dagon	ဒဂုံ	16.798163640361214	96.15180441644044
-78	47	201	Taung Phat Moke	တောင်ဘက်မုခ်	Shwedagon Pagoda Road	ရွှေတိဂုံဘုရားလမ်း	Dagon	ဒဂုံ	16.793821314974	96.1510692397133
-78	48	2398	Sauk Lote Yae	ဆောက်လုပ်ရေး	Shwedagon Pagoda Road	ရွှေတိဂုံဘုရားလမ်း	Dagon	ဒဂုံ	16.7832299480336	96.153326863423
-78	49	2399	Lay Har Pyin Zay	လေဟာပြင်စျေး	Shwedagon Pagoda Road	ရွှေတိဂုံ ဘုရားလမ်း	Latha	ဒဂုံ	16.778190063414947	96.15313701331617
-78	50	130	Latha	လသာ	Anawrahta Road	အနော်ရထာလမ်း	Latha	လသာ	16.777128703371353	96.15159419830891
-78	51	131	Maung Khaing	မောင်ခိုင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774456	96.15187
-78	52	2400	လေဟာပြင်စျေး	Lay Har Pyin Zay	Shwedagon Pagoda Road	ရွှေတိဂုံ ဘုရားလမ်း	Latha	ဒဂုံ	16.7782052308173	96.1532986164093
-78	53	193	Sauk Lote Yae	ဆောက်လုပ်ရေး	Shwedagon Pagoda Road	ရွှေတိဂုံဘုရားလမ်း	Dagon	ဒဂုံ	16.78325474487436	96.15348037797959
-78	54	204	Ashae Phat Moke	အရှေ့ဘက်မုခ်	RZarNi Road	အာဇာနည်လမ်း	Dagon	ဒဂုံ	16.798261809979387	96.15193837333209
-78	55	207	Myauk Phat Moke	မြောက်ဘက်မုခ်	RZarNi Road	အာဇာနည်လမ်း	Dagon	ဒဂုံ	16.801157867350614	96.14910688229429
-78	56	223	Link Lan	လင့်လမ်း	Shwe Gon Road	ရွှေဂုံလမ်း	Bahan	ဗဟန်း	16.806090939455864	96.14742122246754
-78	57	274	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.805219943235446	96.14327571864125
-78	58	266	Myaynigone	မြေနီကုန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803804	96.138814
-78	59	273	Shwe Man	ရွှေမန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803827	96.136105
-78	60	261	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80383891776587	96.13184186629952
-78	61	255	Koe Htat Kyee	(၉) ထပ်ကြီး	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80385946248815	96.12814109193097
-78	62	257	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806369318492735	96.12588311894798
-78	63	251	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809454549304007	96.1260079778731
-78	64	299	Salin Kwin	စလင်းကွင်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81202472257673	96.12604951020332
-78	65	280	Nat Sin Lan	နတ်စင်လမ်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81454172510049	96.12605868838727
-78	66	283	Hantharwaddy	ဟံသာဝတီ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.816171299925603	96.12607955932619
-78	67	311	Ye Win	ရဲဝင်း	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.81772275286729	96.12663205247374
-78	68	298	Pyi Yeik Mon	ပြည်ရိပ်မွန်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.822191003751193	96.12590789794923
-78	69	294	Khaing Shwe Wah	ခိုင်ရွှေဝါ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.826047	96.125175
-78	70	281	B.R.B	ဘီအာဘီ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.828871	96.124271
-78	71	1178	Site Kar Gate	ဆိုက်ကားဂိတ်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.831448	96.123565
-78	72	1185	Ywarma Kwae	ရွာမကွေ့	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.834442	96.122012
-78	73	1168	Butar Yon Lan	ဘူတာရုံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.837091	96.121267
-78	74	1172	Kamayut	ကမာရွတ်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.840033	96.120604
-78	75	1204	Than Lan	သံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.845229	96.119167
-78	76	1205	Thiri Myaing	သီရိမြိုင်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.84831	96.11833
-78	77	1198	Oakyin	အုတ်ကျင်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.855292	96.116527
-78	78	1202	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Baho Road	ဗဟိုလမ်း	Mayangone	မရမ်းကုန်း	16.860991	96.114926
-78	79	1316	Myo Thit	မြို့သစ်	Baho Road	ဗဟိုလမ်း	Insein	အင်းစိန်	16.876700990794117	96.112027047202
-78	80	1346	Insein Pan Chan	အင်းစိန်ပန်းခြံ	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.8876457653682	96.1077884444967
-78	81	2196	Insein Pan Chan	အင်းစိန်ပန်းခြံ	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.888620447310966	96.10765274148436
-78	82	1351	Oakyin Wa	အုတ်ကျင်းဝ	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.89028908469433	96.11137598287316
-78	83	1353	Workshop	ဝပ်ရှော့	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.89100285276214	96.11467744689438
-78	84	1339	Ar Lain Ngar Sint	အာလိန်ငါးဆင့်	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.891396568944188	96.11658034846188
-78	85	1296	Saw Bwar Gyi Kone Lan Sone	စော်ဘွားကြီးကုန်းလမ်းဆုံ	Pyay Road	ပြည်လမ်း	Insein	အင်းစိန်	16.891840811985514	96.12003356684001
-78	86	45	Htan Pin Kone	ထန်းပင်ကုန်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.90029241877987	96.1243827478029
-78	87	1371	Kalar Paya	ကုလားဘုရား	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.90566	96.129059
-78	88	1373	Pan Chan Kone	ပန်းခြံကုန်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.91071	96.131977
-78	89	1394	B.O.C	ဘီအိုစီ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.915565	96.134779
-78	90	1399	Say Kyaung	ဆေးကျောင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.92003	96.134199
-78	91	1061	Sar Taik	စာတိုက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.923592	96.133438
-78	92	1397	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.927303171944107	96.13170620519669
-78	93	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
-78	94	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
-78	95	2397	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	undefined	16.934276875338153	96.14897925406696
-78	96	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
-78	97	814	Tat Htate	တပ်ထိပ်	ႊThudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.929566031458144	96.15465174894783
-78	98	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
+78	1	1594	Computer	ကွန်ပျူတာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.998733834786997	96.0884768748656
+78	2	68	Nwar Chan	နွားခြံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.994694916471154	96.09105066396297
+78	3	1493	Thabarwa	သဘာဝ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.988871	96.092581
+78	4	1496	Thardukan	သာဓုကန်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.98379324224211	96.09319077339023
+78	5	1491	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.97908187590623	96.09351490158589
+78	6	1489	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.974234226742837	96.09422648325565
+78	7	1495	Than Phyu	သံဖြူ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.972031450019877	96.0945617593825
+78	8	1499	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.968733249216562	96.09524251660332
+78	9	72	Gate Haung	ဂိတ်ဟောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.964731405762105	96.09605692327023
+78	10	1517	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	No. 4 Main Road/ Bogyoke Aung San Road	အမှတ်(၄)လမ်းမ/ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961429849782906	96.09672259306538
+78	11	1518	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958026253880583	96.09734735917301
+78	12	1509	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.951929487848194	96.0998342279345
+78	13	1506	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950086889460792	96.10064140520991
+78	14	1511	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.944725	96.102603
+78	15	1513	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942929	96.102614
+78	16	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
+78	17	70	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.93334660815077	96.10175833571702
+78	18	1379	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.930100441055117	96.10094076488167
+78	19	1383	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92555507485196	96.09845086455609
+78	20	1377	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.921601395436287	96.097571910359
+78	21	1382	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917969040914706	96.09728939847628
+78	22	41	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91551400101933	96.09716179775207
+78	23	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91195420496131	96.09718852210791
+78	24	1355	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907714315111864	96.09755581710488
+78	25	43	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.905062077475037	96.09768565278502
+78	26	1362	Pyi Taw Thar/ G.T.I Htate	ပြည်တော်သာ/(GTI)ထိပ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.90042232116869	96.09718783060092
+78	27	1338	Ywarma	ရွာမ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.898134229574467	96.09891844214873
+78	28	1318	Aye Theikdi/ Thayet Taw	အေးသိဒ္ဓိ/ သရက်တော	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.894614	96.10185
+78	29	2203	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.892367141189418	96.10364459920675
+78	30	1343	Insein Gon Tadar/ Hino Gade	အင်းစိန်ကုန်းတံတား/ ဟီးနိုးဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.887979295238097	96.1057995236479
+78	31	1342	B.O.C	ဘီအိုစီ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.884919917579392	96.10990806017071
+78	32	1313	Kyoe Kone	ကြို့ကုန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.878436988253824	96.11263456754386
+78	33	1310	B.P.I	ဘီပီအိုင်	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.874841	96.116313
+78	34	1253	Kha Wae Chan	ခဝဲခြံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.869274405472567	96.11956872744487
+78	35	1251	Kalar Kyaung	ကုလားကျောင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.865719	96.120693
+78	36	1222	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.863580854665273	96.12128087785096
+78	37	1219	Paya Lan	ဘုရားလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.858449573541584	96.1232297960669
+78	38	1218	Oakyin	အုတ်ကျင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.85535357935823	96.12357353791595
+78	39	1211	Bartar	ဘာတာ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.852028788549283	96.12414786592129
+78	40	1180	Than Lan	သံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.846071	96.125475
+78	41	1182	Thukha	သုခ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.840511	96.12683
+78	42	1171	Butar Yon Lan	ဘူတာရုံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.837466	96.127449
+78	43	1176	Sin Yae Twin	ဆင်ရေတွင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.833769	96.128565
+78	44	1174	San Yeik Nyein	စံရိပ်ငြိမ်	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.83080186323241	96.12952651223169
+78	45	288	Hledan	လှည်းတန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.827968991730348	96.13019763026388
+78	46	320	Saik Pyoe Yay	စိုက်ပျိုးရေး	Pyay Road	ပြည်လမ်း	Kamayut	ကမာရွတ်	16.817302720172133	96.1332632484846
+78	47	263	Hantharwaddy	ဟံသာဝတီ	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.81193620836817	96.13480080384763
+78	48	265	Mahar Myaing	မဟာမြိုင်	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.80813755165241	96.13589079341183
+78	49	269	Myaynigone	မြေနီကုန်း (ပြည်လမ်း)	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.805399	96.136748
+78	50	199	Halpin	ဟယ်(လ်)ပင်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.79105778473302	96.14084245869891
+78	51	197	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.78724498784618	96.14205184159802
+78	52	117	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.78185953636945	96.14384005777539
+78	53	125	Sanpya	စံပြ	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.778647	96.144935
+78	54	1284	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.77531801226666	96.14491745320267
+78	55	134	Sae-ngar Lan	(၁၅) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774744	96.146441
+78	56	131	Maung Khaing	မောင်ခိုင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774456	96.15187
+78	57	143	Theingyi Zay/ Kone Zay Tan	သိမ်ကြီးဈေး/ကုန်ဈေးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pabedan	ပန်းဘဲတန်း	16.774497	96.153833
+78	58	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.775683412852157	96.15891139023006
+78	59	2437	Kyauk Kwae	ကျောက်ကွေ့	Upper Pansodan Road	အထက်ပန်းဆိုးတန်းလမ်း	Mingala Taungnyunt	မင်္ဂလာတောင်ညွန့်	16.7864596491084	96.1623373255134
+78	60	194	Youk Lan	ယောက်လမ်း	Alanpya Pagoda Road	အလံပြဘုရားလမ်း	Dagon	ဒဂုံ	16.782682116458677	96.15895088994877
+78	61	144	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Pabedan	ပန်းဘဲတန်း	16.777455	96.158736
+78	62	138	Lan Thone Sae	လမ်း(၃၀)	Anawrahta Road	အနော်ရထာလမ်း	Pabedan	ပန်းဘဲတန်း	16.777014	96.157224
+78	63	137	Kone Zay Tan	ကုန်ဈေးတန်း	Anawrahta Road	အနော်ရထာလမ်း	Pabedan	ပန်းဘဲတန်း	16.777137	96.155131
+78	64	130	Latha	လသာ	Anawrahta Road	အနော်ရထာလမ်း	Latha	လသာ	16.777128703371353	96.15159419830891
+78	65	133	Sae-ngar Lan/ Nyaung Pin Lay Zay	(၁၅) လမ်း / ညောင်ပင်လေးဈေး	Anawrahta Road	အနော်ရထာလမ်း	Lanmadaw	လမ်းမတော်	16.777373	96.14642
+78	66	126	Sanpya	စံပြ	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.777905085915634	96.14501520060006
+78	67	118	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.783	96.14361
+78	68	196	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.786334463253585	96.14242921583356
+78	69	198	Halpin	ဟယ်(လ်)ပင်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.79028	96.141303
+78	70	268	Myaynigone	မြေနီကုန်း (ပြည်လမ်း)	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.7995437639817	96.13851143047215
+78	71	264	Mahar Myaing	မဟာမြိုင်	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.806672	96.13654
+78	72	262	Hantharwaddy	ဟံသာဝတီ	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.811922855564923	96.13503597189266
+78	73	319	Saik Pyoe Yay	စိုက်ပျိုးရေး	Pyay Road	ပြည်လမ်း	Kamayut	ကမာရွတ်	16.817862	96.133326
+78	74	287	Hledan	လှည်းတန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.827952	96.130435
+78	75	1175	San Yeik Nyein	စံရိပ်ငြိမ်	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.831942429089896	96.12954480573538
+78	76	1177	Sin Yae Twin	ဆင်ရေတွင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.834325849790382	96.12863868009302
+78	77	1170	Butar Yon Lan	ဘူတာရုံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.83729665475637	96.1277522519231
+78	78	1181	Thukha	သုခ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.84047	96.127017
+78	79	1179	Than Lan	သံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.845174404267453	96.1259302776307
+78	80	1212	Bartar	ဘာတာ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.851150141657822	96.12455583410339
+78	81	1217	Oakyin	အုတ်ကျင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.854916470149714	96.12391686066985
+78	82	2392	Paya Lan	ဘုရားလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.8577458299178	96.1235475540161
+78	83	1223	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.86102136801801	96.12232748419049
+78	84	1250	Kalar Kyaung	ကုလားကျောင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.864784	96.121143
+78	85	1252	Kha Wae Chan	ခဝဲခြံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.869492	96.119748
+78	86	1311	B.P.I	ဘီပီအိုင်	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.875178616130857	96.11636074259879
+78	87	1312	Kyoe Kone	ကြို့ကုန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.8784827070093	96.11278095748277
+78	88	1341	B.O.C	ဘီအိုစီ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.884947027069753	96.11010398715734
+78	89	1344	Insein Gon Tadar/ Hino Gade	အင်းစိန်ကုန်းတံတား/ ဟီးနိုးဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.88813384885796	96.10589329618963
+78	90	2202	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.89248812652153	96.10382583690807
+78	91	1319	Aye Theikdi/ Thayet Taw	အေးသိဒ္ဓိ/ သရက်တော	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.894799	96.102108
+78	92	1337	Ywarma	ရွာမ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.898234258974952	96.09905219636859
+78	93	1361	Pyi Taw Thar/ G.T.I Htate	ပြည်တော်သာ/(GTI)ထိပ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.900988906263134	96.09709422569722
+78	94	44	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.90502450516036	96.09781016595663
+78	95	1356	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907637768103342	96.0976756573655
+78	96	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911877058218828	96.0973906517029
+78	97	42	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.915288559472796	96.0973123995973
+78	98	1381	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917880275512832	96.09750537212676
+78	99	1378	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92132490016646	96.0976821674194
+78	100	1384	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92545	96.098632
+78	101	1380	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.929958043309373	96.10113552495022
+78	102	69	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.933232955911787	96.10197149799207
+78	103	1514	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.941071	96.102753
+78	104	1512	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942795	96.102796
+78	105	1510	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94414	96.10285
+78	106	1507	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950132390389058	96.10075741074981
+78	107	1508	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.95163170997072	96.10013970639558
+78	108	1519	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958198027604034	96.09759164974095
+78	109	1516	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	No. 4 Main Road/ Bogyoke Aung San Road	အမှတ်(၄)လမ်းမ/ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961084945144684	96.09701604349542
+78	110	71	Gate Haung	ဂိတ်ဟောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.963966005856975	96.09650778584184
+78	111	1498	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.96787122038794	96.09573139110582
+78	112	1494	Than Phyu	သံဖြူ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.971547071368082	96.09499946236612
+78	113	1488	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.973700470429442	96.09446526272224
+78	114	1490	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.97904652292607	96.0937109333463
+78	115	1497	Thardukan	သာဓုကန်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.983833965279114	96.09342852607371
+78	116	1492	Thabarwa	သဘာဝ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.988892	96.092881
+78	117	67	Nwar Chan	နွားခြံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.99481507448492	96.09122194815427
+78	118	2249	Computer	ကွန်ပျူတာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.998620693034137	96.08830445911737
