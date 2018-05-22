@@ -1,64 +1,74 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-81	1	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
-81	2	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
-81	3	630	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83951	96.207317
-81	4	626	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832865	96.20798
-81	5	637	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830545	96.207851
-81	6	577	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825081	96.209117
-81	7	580	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822580183134985	96.21189562138171
-81	8	587	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820932	96.213044
-81	9	2163	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819443	96.214001
-81	10	2165	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817646	96.214762
-81	11	539	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.80827599579392	96.21778252534571
-81	12	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806458694576083	96.21675431728363
-81	13	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
-81	14	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80369721392604	96.21009579626845
-81	15	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803809991254493	96.20589055353776
-81	16	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80397618824476	96.20196646079421
-81	17	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804283205959198	96.19628983782606
-81	18	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
-81	19	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
-81	20	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
-81	21	467	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.193818
-81	22	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78947198910385	96.19170282036067
-81	23	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786238	96.189934
-81	24	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781991325670376	96.18769811466336
-81	25	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77385	96.177383
-81	26	418	Gandee	ဂန္ဓီ	Merchant Road	ကုန်သည်လမ်း	Pazundaung	ပုဇွန်တောင်	16.771189	96.174722
-81	27	155	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်	16.771425522061257	96.1712548742071
-81	28	147	Bokalay Zay	ဘိုကလေးဈေး	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77159734508142	96.16637403616551
-81	29	151	Pansodan (Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း)	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165175700966	96.16308339871469
-81	30	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.77415838048883	96.15955453431526
-81	31	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774148	96.163092
-81	32	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774022586607206	96.16582614602521
-81	33	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77393458964481	96.16845360025765
-81	34	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77381447810167	96.17123553296553
-81	35	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.773757	96.174186
-81	36	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773551349520524	96.17727521806958
-81	37	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781900684172875	96.18712900439277
-81	38	469	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78190317189937	96.18801645934583
-81	39	475	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78558	96.189977
-81	40	473	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789536988387997	96.19198579341175
-81	41	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.194204
-81	42	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
-81	43	409	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799601	96.196862
-81	44	407	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802389	96.19669
-81	45	405	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.803753863378656	96.19596491334961
-81	46	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804202705380796	96.19609439279887
-81	47	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803823411391047	96.20176495984198
-81	48	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80371470625175	96.20586662320422
-81	49	522	Kyaung Kwae	ကျောင်းကွေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.803614185536972	96.2065722118132
-81	50	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803537897279856	96.20986435096712
-81	51	529	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804750521874205	96.21352799702437
-81	52	553	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80611452972553	96.21627231594177
-81	53	540	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.807905	96.21795
-81	54	2164	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817656	96.214966
-81	55	2162	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819464	96.214172
-81	56	586	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820809	96.213452
-81	57	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822304545762762	96.2122975755483
-81	58	578	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825018017974298	96.20953163132073
-81	59	636	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830175	96.208152
-81	60	627	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83305	96.208259
-81	61	631	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838421	96.207638
-81	62	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
-81	63	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
+81	1	762	U Tun Myat	ဦးထွန်းမြတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.893779420554846	96.24156068544836
+81	2	758	Say Yon Shae	ဆေးရုံရှေ့	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.891247	96.23963
+81	3	746	Kyauk Lan	ကျောက်လမ်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.883578	96.234031
+81	4	1014	Tat Yin Thone	တပ်ရင်း (၃)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.878599	96.230459
+81	5	1012	Lay Kyaung	လေကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.874656	96.227508
+81	6	1015	Thin Tan Kyaung	သင်တန်းကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.871166	96.225125
+81	7	2	Nat Sin	နတ်စင်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.869142857347608	96.22240983881059
+81	8	680	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.863109994024338	96.2163773411885
+81	9	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
+81	10	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
+81	11	630	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83951	96.207317
+81	12	626	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832865	96.20798
+81	13	637	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830545	96.207851
+81	14	577	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825081	96.209117
+81	15	580	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822580183134985	96.21189562138171
+81	16	587	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820932	96.213044
+81	17	2163	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819443	96.214001
+81	18	2165	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817646	96.214762
+81	19	539	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.80827599579392	96.21778252534571
+81	20	2429	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.802462737110584	96.2165252817795
+81	21	2431	Khine Shwe War	ခိုင်ရွှေဝါ	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.7987809037868	96.2151469197124
+81	22	2434	Ayat Sine Kwae	အရက်ဆိုင်ကွေ့	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.7956620278775	96.2139007821679
+81	23	520	Kyan Mar Yae	ကျန်းမာရေး	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.796622960548277	96.20468148496003
+81	24	500	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.793286245858457	96.20301669230687
+81	25	460	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793800290991058	96.20135923381896
+81	26	400	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795256	96.198171
+81	27	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
+81	28	467	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.193818
+81	29	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78947198910385	96.19170282036067
+81	30	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786238	96.189934
+81	31	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781991325670376	96.18769811466336
+81	32	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77385	96.177383
+81	33	415	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.773932	96.174293
+81	34	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.771537636398886	96.17269266396762
+81	35	155	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်	16.771425522061257	96.1712548742071
+81	36	147	Bokalay Zay	ဘိုကလေးဈေး	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77159734508142	96.16637403616551
+81	37	151	Pansodan (Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း)	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165175700966	96.16308339871469
+81	38	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774148	96.163092
+81	39	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774022586607206	96.16582614602521
+81	40	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77393458964481	96.16845360025765
+81	41	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77381447810167	96.17123553296553
+81	42	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.773757	96.174186
+81	43	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773551349520524	96.17727521806958
+81	44	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781900684172875	96.18712900439277
+81	45	475	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78558	96.189977
+81	46	473	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789536988387997	96.19198579341175
+81	47	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.194204
+81	48	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
+81	49	399	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795174	96.19815
+81	50	459	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793695	96.20092
+81	51	519	Kyan Mar Yae	ကျန်းမာရေး	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.796244493961968	96.20461510028693
+81	52	2433	Ayat Sine Kwae	အရက်ဆိုင်ကွေ့	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.79564220775	96.2139879958704
+81	53	2432	Khine Shwe War	ခိုင်ရွှေဝါ	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.798739458733	96.2152311578393
+81	54	2430	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.8023709820173	96.2167241005227
+81	55	540	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.807905	96.21795
+81	56	2164	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817656	96.214966
+81	57	2162	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819464	96.214172
+81	58	586	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820809	96.213452
+81	59	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822304545762762	96.2122975755483
+81	60	578	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825018017974298	96.20953163132073
+81	61	636	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830175	96.208152
+81	62	627	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83305	96.208259
+81	63	631	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838421	96.207638
+81	64	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
+81	65	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
+81	66	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862952	96.216452
+81	67	1	Nat Sin	နတ်စင်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.868886	96.222571
+81	68	1016	Thin Tan Kyaung	သင်တန်းကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.871297828689613	96.2248954921961
+81	69	1011	Lay Kyaung	လေကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.874543	96.227658
+81	70	1013	Tat Yin Thone	တပ်ရင်း (၃)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.878229	96.230341
+81	71	745	Kyauk Lan	ကျောက်လမ်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.883455	96.234203
+81	72	757	Say Yon Shae	ဆေးရုံရှေ့	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.891062	96.239909
+81	73	761	U Tun Myat	ဦးထွန်းမြတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.893594154229376	96.24178058467805
