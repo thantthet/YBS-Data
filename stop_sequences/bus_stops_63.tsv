@@ -1,72 +1,72 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-63	1	1043	Kyauk Kone							
-63	2	1049	Than Lan							
-63	3	1059	Sae-Chauk Kwae							
-63	4	1055	Kalar Paya							
-63	5	1070	Yadanar Zay							
-63	6	11	(Sae-Lay/ Sae-Ngar) Lan Sone							
-63	7	611	Kyaikkasan Paya							
-63	8	605	Gate Haung							
-63	9	595	Ar Nandar Paya							
-63	10	599	Bawa Myint							
-63	11	593	Daywadaha							
-63	12	614	Lai Sin Yone							
-63	13	633	Sanpya Zay/ Nga Moe Yeik							
-63	14	630	Sanpya Zay Kwae							
-63	15	626	Chan Aye/ Thwar Say							
-63	16	637	Waibula							
-63	17	592	Thuwunna Zay							
-63	18	582	Mee Don							
-63	19	584	Min Din							
-63	20	563	Paw San Hmwe							
-63	21	561	Kyaung Lan							
-63	22	566	Su Paung							
-63	23	574	Yae Set							
-63	24	570	Thuwunna Lan Sone							
-63	25	359	Kaw Set							
-63	26	392	Zay Lay							
-63	27	371	A.B.C							
-63	28	390	Yone Lay							
-63	29	441	Koe Lan							
-63	30	440	Athin Taik							
-63	31	450	Sar Taik							
-63	32	448	Pazundaung Zay							
-63	33	446	Nyaung Tan							
-63	34	424	Thida Seik							
-63	35	2373	B.O.C	ဘီအိုစီ	Than Lyet Soon Road	သံလျှက်စွန်းလမ်း	Pazundaung	ပုဇွန်တောင်	16.768578	96.18603
+63	1	1043	Kyauk Kone Htate	ကျောက်ကုန်းထိပ်	Aung Zeya Road	အောင်ဇေယျလမ်း	Yankin	ရန်ကင်း	16.8323172809219	96.1669936542785
+63	2	1049	Than Lan	သံလမ်း	Yadanar Road	ရတနာလမ်း	Yankin	ရန်ကင်း	16.833596995452847	96.1729488882702
+63	3	1059	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833764	96.176424
+63	4	1055	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834791	96.180452
+63	5	1070	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835869	96.18307
+63	6	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
+63	7	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
+63	8	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
+63	9	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
+63	10	599	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841705399044663	96.19640950357281
+63	11	593	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843956	96.198989
+63	12	614	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845867625393243	96.20077338069677
+63	13	633	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843309	96.203744
+63	14	630	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83951	96.207317
+63	15	626	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832865	96.20798
+63	16	637	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830545	96.207851
+63	17	592	Thuwunna Zay	သုဝဏ္ဏဈေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825194	96.20649
+63	18	582	Mee Don	မီးဒုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.823418	96.205471
+63	19	584	Min Din	မင်းဒင်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82235	96.20428
+63	20	563	Paw San Hmwe	ပေါ်ဆန်းမွှေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.821374	96.202843
+63	21	561	Kyaung Lan	ကျောင်းလမ်း	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819946	96.200632
+63	22	566	Su Paung	စုပေါင်း	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.818703899550005	96.19875895790759
+63	23	574	Yae Set	ရေစက်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.816679873960126	96.19488132906555
+63	24	570	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815078499448063	96.19104293407872
+63	25	359	Kaw Set	ကော်စက်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.813935505248818	96.18836680194363
+63	26	392	Zay Lay	ဈေးလေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.809938	96.183548
+63	27	371	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79994	96.186782
+63	28	390	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797218	96.186182
+63	29	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792401	96.184979
+63	30	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790244	96.183295
+63	31	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784522	96.174755
+63	32	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78143923040722	96.17422713898124
+63	33	446	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77857725311318	96.1752471746877
+63	34	424	Thida Seik	သီတာဆိပ်	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.774333	96.180194
+63	35	2373	B.O.C	ဘီအိုစီ	Than Lyet Soon Road	သံလျှက်စွန်းလမ်း	Pazundaung	ပုဇွန်တောင်	16.768580026804553	96.18634514976294
 63	36	2375	Than Lyet Soon	သံလျှက်စွန်း	Than Lyet Soon Road	သံလျှက်စွန်းလမ်း	Pazundaung	ပုဇွန်တောင်	16.768352	96.19206
-63	37	2374	B.O.C	ဘီအိုစီ	Than Lyet Soon Road	သံလျှက်စွန်းလမ်း	Pazundaung	ပုဇွန်တောင်	16.768721	96.186003
-63	38	425	Thida Seik							
-63	39	445	Nyaung Tan							
-63	40	447	Pazundaung Zay							
-63	41	449	Sar Taik							
-63	42	439	Athin Taik							
-63	43	442	Koe Lan							
-63	44	389	Yone Lay							
-63	45	370	A.B.C							
-63	46	391	Zay Lay							
-63	47	358	Kaw Set							
-63	48	569	Thuwunna Lan Sone							
-63	49	573	Yae Set							
-63	50	565	Su Paung							
-63	51	562	Kyaung Lan							
-63	52	564	Paw San Hmwe							
-63	53	585	Min Din							
-63	54	583	Mee Don							
-63	55	591	Thuwunna Zay							
-63	56	636	Waibula							
-63	57	627	Chan Aye/ Thwar Say							
-63	58	631	Sanpya Zay Kwae							
-63	59	632	Sanpya Zay/ Nga Moe Yeik							
-63	60	613	Lai Sin Yone							
-63	61	594	Daywadaha							
-63	62	600	Bawa Myint							
-63	63	596	Ar Nandar Paya							
-63	64	606	Gate Haung							
-63	65	612	Kyaikkasan Paya							
-63	66	10	(Sae-Lay/ Sae-Ngar) Lan Sone							
-63	67	1071	Yadanar Zay							
-63	68	1056	Kalar Paya							
-63	69	1060	Sae-Chauk Kwae							
-63	70	1050	Than Lan							
-63	71	1044	Kyauk Kone							
+63	37	2374	B.O.C	ဘီအိုစီ	Than Lyet Soon Road	သံလျှက်စွန်းလမ်း	Pazundaung	ပုဇွန်တောင်	16.768666942805176	96.18632767349483
+63	38	425	Thida Seik	သီတာဆိပ်	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77462	96.180076
+63	39	445	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77814227405194	96.17549379123376
+63	40	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
+63	41	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784308580655395	96.1750550195575
+63	42	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790408	96.18322
+63	43	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792319	96.185129
+63	44	389	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797084	96.186241
+63	45	370	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79996	96.186879
+63	46	391	Zay Lay	ဈေးလေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.809825	96.183666
+63	47	358	Kaw Set	ကော်စက်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.813748315271564	96.18823925033212
+63	48	569	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.814775791799367	96.19087250903252
+63	49	573	Yae Set	ရေစက်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.816228747999638	96.19427456244011
+63	50	565	Su Paung	စုပေါင်း	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.818098	96.198024
+63	51	562	Kyaung Lan	ကျောင်းလမ်း	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81961099931259	96.20058059692384
+63	52	564	Paw San Hmwe	ပေါ်ဆန်းမွှေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.821066	96.202725
+63	53	585	Min Din	မင်းဒင်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822083	96.204216
+63	54	583	Mee Don	မီးဒုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.823202	96.205503
+63	55	591	Thuwunna Zay	သုဝဏ္ဏဈေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.824722	96.20649
+63	56	636	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830175	96.208152
+63	57	627	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83305	96.208259
+63	58	631	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838421	96.207638
+63	59	632	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843237	96.204109
+63	60	613	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845855511844686	96.20105572510512
+63	61	594	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.844243	96.198775
+63	62	600	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.842046163467096	96.19653980713338
+63	63	596	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840692221664213	96.19498942745851
+63	64	606	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.839107162036793	96.1929774354212
+63	65	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838743682092584	96.19168509263547
+63	66	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107101137917	96.18616104125977
+63	67	1071	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835962	96.183033
+63	68	1056	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834883	96.180404
+63	69	1060	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833882	96.176488
+63	70	1050	Than Lan	သံလမ်း	Yadanar Road	ရတနာလမ်း	Yankin	ရန်ကင်း	16.83370371459609	96.17289694842387
+63	71	1044	Kyauk Kone Htate	ကျောက်ကုန်းထိပ်	Aung Zeya Road	အောင်ဇေယျလမ်း	Yankin	ရန်ကင်း	16.8325008758371	96.1668924008882
