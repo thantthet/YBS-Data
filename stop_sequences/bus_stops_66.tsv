@@ -1,97 +1,110 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-66	1	2249	Computer							
-66	2	68	Nwar Chan							
-66	3	1493	Thabarwa							
-66	4	1496	Thardukan							
-66	5	1491	Ponnya							
-66	6	1489	Oak Pho							
-66	7	1495	Than Phyu							
-66	8	1499	Ye Chauk							
-66	9	72	Gate Haung							
-66	10	1517	Shwe Pyi Thar Kwae							
-66	11	1518	Sit Tat							
-66	12	1509	Kyaung Lan							
-66	13	1506	Kan Tharyar							
-66	14	1511	Myin Hlae Gate							
-66	15	1513	Phone Gyi Kyaung							
-66	16	1515	Sauk Lote Yae							
-66	17	74	Danyin Gone Lan Sone							
-66	18	1392	Yae Set							
-66	19	1385	Asar Set							
-66	20	1387	Chauk Lay Chauk							
-66	21	1389	Pan Chan							
-66	22	48	Tayar-Chauk							
-66	23	1396	Khayae Pin Lan Khawe							
-66	24	1403	Yar Thet Pan							
-66	25	1401	Thone Yarthi							
-66	26	1417	Ah-Hmat-Thone Lan Sone							
-66	27	814	Tat Htate							
-66	28	812	Aung Mingalar A Way Pyay							
-66	29	809	Dhamar Yon							
-66	30	819	Chauk Kwae							
-66	31	2359	Kan Tharyar							
-66	32	851	Kyaung Lan							
-66	33	859	Sabei							
-66	34	844	Gate Haung Kwae							
-66	35	855	Myittar							
-66	36	853	Kyoe Tadar							
-66	37	872	Dawei Gyaung							
-66	38	870	Duyar Lan							
-66	39	874	Kyan Mar Yae							
-66	40	878	Ngar-sae Kwae							
-66	41	1018	A Aye Saing							
-66	42	1023	Myawaddy							
-66	43	1021	Lay-sae-chauk Lan Sone							
-66	44	936	Lay-sae-nga Hmat Taing							
-66	45	2350	Khun/ Shit Lan Sone							
-66	46	1032	Moke Wa							
-66	47	1038	Si Pin							
-66	48	2117	Sate Kyan Mar Yae Say Yon							
-66	49	1037	Si Pin							
-66	50	1033	Moke Wa							
-66	51	927	Khun/ Shit Lan Sone							
-66	52	935	Lay-sae-nga Hmat Taing							
-66	53	1022	Lay-sae-chauk Lan Sone							
-66	54	1024	Myawaddy							
-66	55	1017	A Aye Saing							
-66	56	879	Ngar-sae Kwae							
-66	57	875	Kyan Mar Yae							
-66	58	871	Duyar Lan							
-66	59	873	Dawei Gyaung							
-66	60	854	Kyoe Tadar							
-66	61	856	Myittar							
-66	62	846	Gate Haung Kwae							
-66	63	860	Sabei							
-66	64	852	Kyaung Lan							
-66	65	849	Kan Tharyar							
-66	66	1823	Ayar							
-66	67	818	Chauk Kwae							
-66	68	810	Dhamar Yon							
-66	69	813	Aung Mingalar A Way Pyay							
-66	70	815	Tat Htate							
-66	71	1418	Ah-Hmat-Thone Lan Sone							
-66	72	1402	Thone Yarthi							
-66	73	1404	Yar Thet Pan							
-66	74	1395	Khayae Pin Lan Khawe							
-66	75	47	Tayar-Chauk							
-66	76	1390	Pan Chan							
-66	77	1388	Chauk Lay Chauk							
-66	78	1386	Asar Set							
-66	79	1391	Yae Set							
-66	80	73	Danyin Gone Lan Sone							
-66	81	1514	Sauk Lote Yae							
-66	82	1512	Phone Gyi Kyaung							
-66	83	1510	Myin Hlae Gate							
-66	84	1507	Kan Tharyar							
-66	85	1508	Kyaung Lan							
-66	86	1519	Sit Tat							
-66	87	1516	Shwe Pyi Thar Kwae							
-66	88	71	Gate Haung							
-66	89	1498	Ye Chauk							
-66	90	1494	Than Phyu							
-66	91	1488	Oak Pho							
-66	92	1490	Ponnya							
-66	93	1497	Thardukan							
-66	94	1492	Thabarwa							
-66	95	67	Nwar Chan							
-66	96	1594	Computer							
+66	1	2249	Computer	ကွန်ပျူတာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.998620693034137	96.08830445911737
+66	2	68	Nwar Chan	နွားခြံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.994694916471154	96.09105066396297
+66	3	1493	Thabarwa	သဘာဝ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.988871	96.092581
+66	4	1496	Thardukan	သာဓုကန်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.98379324224211	96.09319077339023
+66	5	1491	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.97908187590623	96.09351490158589
+66	6	1489	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.974234226742837	96.09422648325565
+66	7	1495	Than Phyu	သံဖြူ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.972031450019877	96.0945617593825
+66	8	1499	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.968733249216562	96.09524251660332
+66	9	72	Gate Haung	ဂိတ်ဟောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.964731405762105	96.09605692327023
+66	10	1517	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	No. 4 Main Road/ Bogyoke Aung San Road	အမှတ်(၄)လမ်းမ/ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961429849782906	96.09672259306538
+66	11	1518	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958026253880583	96.09734735917301
+66	12	1509	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.951929487848194	96.0998342279345
+66	13	1506	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950086889460792	96.10064140520991
+66	14	1511	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.944725	96.102603
+66	15	1513	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942929	96.102614
+66	16	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
+66	17	74	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.933879176036193	96.10325703735728
+66	18	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932286	96.108536
+66	19	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932265	96.111935
+66	20	1387	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
+66	21	1389	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929905	96.116613
+66	22	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928334	96.120741
+66	23	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928199225787175	96.13210053183141
+66	24	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
+66	25	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
+66	26	2397	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9342768753382	96.1489348928444
+66	27	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
+66	28	814	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9295660314581	96.1546517489478
+66	29	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
+66	30	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924125873138063	96.15775667829439
+66	31	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
+66	32	2401	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9173295590306	96.163487280719
+66	33	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
+66	34	2359	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913001857805305	96.16601165849717
+66	35	851	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913882	96.169347
+66	36	859	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914087	96.170817
+66	37	844	Gate Haung Kwae	ဂိတ်ဟောင်းကွေ.	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914013718600703	96.17309331893922
+66	38	855	Myittar	မေတ္တာ	Thu Nandar Road	သုနန္ဒာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91174686299499	96.17276952601972
+66	39	853	Kyoe Tadar	ကြိုးတံတား	Karuna Road	ကရုဏာ	North Okkalapa	မြောက်ဥက္ကလာပ	16.908215719302802	96.17230659350756
+66	40	872	Dawei Gyaung	ထားဝယ်ချောင်	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907804816170874	96.17672536522151
+66	41	870	Duyar Lan	ဒူးယားလမ်း	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907405	96.181823
+66	42	874	Kyan Mar Yae	ကျန်းမာရေး	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907466	96.184977
+66	43	878	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.908431	96.186887
+66	44	1018	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90350883495074	96.18970149429516
+66	45	1023	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90141	96.190749
+66	46	1020	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898700981942675	96.19247929891573
+66	47	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240592043372	96.19431724073367
+66	48	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892201	96.195899
+66	49	2410	8 Tama	၈ သမ	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8930468956899	96.2006957642734
+66	50	2408	Kyaung Lan	ကျောင်းလမ်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8945449454988	96.2036208808422
+66	51	2406	Gate Haung	ဂိတ်ဟောင်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8965190952803	96.207487997599
+66	52	2413	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.89919765828198	96.21127510908994
+66	53	1032	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.902334	96.217293
+66	54	1038	Si Pin	စည်ပင်	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	East Dagon	အရှေ့ဒဂုံ	16.930882590655305	96.23563074041158
+66	55	2117	Sate Kyan Mar Yae Say Yon	စိတ်ကျန်းမာရေးဆေးရုံ	No. 7 Main Road	အမှတ်(၇)လမ်းမ	East Dagon	အရှေ့ဒဂုံ	16.96188354834146	96.25689256936313
+66	56	1037	Si Pin	စည်ပင်	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	East Dagon	အရှေ့ဒဂုံ	16.930661196860505	96.23528054449709
+66	57	1033	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.90255784827584	96.21715528657663
+66	58	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.899268354153858	96.21075509581716
+66	59	2407	Gate Haung	ဂိတ်ဟောင်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8973209398579	96.2070433376357
+66	60	2409	Kyaung Lan	ကျောင်းလမ်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8953468786695	96.2031126860529
+66	61	2411	8 Tama	၈ သမ	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8934878866662	96.1995235551149
+66	62	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892417	96.196178
+66	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.894714170604107	96.19477124651895
+66	64	1019	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898430708623312	96.19273792253809
+66	65	1024	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.901964	96.190835
+66	66	1017	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.903188164191445	96.19007346220316
+66	67	879	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.908516092033064	96.18715706281367
+66	68	875	Kyan Mar Yae	ကျန်းမာရေး	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90772047014759	96.1850186926313
+66	69	871	Duyar Lan	ဒူးယားလမ်း	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90759851218697	96.18225737940523
+66	70	873	Dawei Gyaung	ထားဝယ်ချောင်	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90795003078332	96.17665512487295
+66	71	854	Kyoe Tadar	ကြိုးတံတား	Karuna Road	ကရုဏာ	North Okkalapa	မြောက်ဥက္ကလာပ	16.9083532749157	96.172353385482
+66	72	856	Myittar	မေတ္တာ	Thu Nandar Road	သုနန္ဒာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911973	96.172931
+66	73	846	Gate Haung Kwae	ဂိတ်ဟောင်းကွေ.	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9141634793909	96.17313623428346
+66	74	860	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914244454419183	96.17083351593466
+66	75	852	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914089621473913	96.16931676864625
+66	76	847	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913153143078006	96.16594741120936
+66	77	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913262787735245	96.16538791917266
+66	78	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730295539416	96.16369077237324
+66	79	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
+66	80	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924198	96.158284
+66	81	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
+66	82	815	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9300066563304	96.154864858836
+66	83	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044
+66	84	2396	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9345216386605	96.1488714627922
+66	85	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
+66	86	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93017754697439	96.13692542079208
+66	87	1395	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929289728265246	96.12982048653068
+66	88	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928401	96.120843
+66	89	1390	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92991253750098	96.11708393320443
+66	90	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931177	96.114596
+66	91	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932409	96.112257
+66	92	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93246	96.108547
+66	93	73	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93408765294573	96.10347699945125
+66	94	1514	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.941071	96.102753
+66	95	1512	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942795	96.102796
+66	96	1510	Myin Hlae Gate	မြင်းလှည်းဂိတ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94414	96.10285
+66	97	1507	Kan Tharyar	ကန်သာယာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.950132390389058	96.10075741074981
+66	98	1508	Kyaung Lan	ကျောင်းလမ်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.95163170997072	96.10013970639558
+66	99	1519	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958198027604034	96.09759164974095
+66	100	1516	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	No. 4 Main Road/ Bogyoke Aung San Road	အမှတ်(၄)လမ်းမ/ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961084945144684	96.09701604349542
+66	101	71	Gate Haung	ဂိတ်ဟောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.963966005856975	96.09650778584184
+66	102	1498	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.96787122038794	96.09573139110582
+66	103	1494	Than Phyu	သံဖြူ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.971547071368082	96.09499946236612
+66	104	1488	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.973700470429442	96.09446526272224
+66	105	1490	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.97904652292607	96.0937109333463
+66	106	1497	Thardukan	သာဓုကန်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.983833965279114	96.09342852607371
+66	107	1492	Thabarwa	သဘာဝ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.988892	96.092881
+66	108	67	Nwar Chan	နွားခြံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.99481507448492	96.09122194815427
+66	109	1594	Computer	ကွန်ပျူတာ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.998733834786997	96.0884768748656
