@@ -27,53 +27,45 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 71	26	680	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.863109994024338	96.2163773411885
 71	27	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
 71	28	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
-71	29	632	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843237	96.204109
-71	30	613	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845855511844686	96.20105572510512
-71	31	594	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.844243	96.198775
-71	32	600	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.842046163467096	96.19653980713338
-71	33	596	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840692221664213	96.19498942745851
-71	34	606	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.839107162036793	96.1929774354212
-71	35	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838743682092584	96.19168509263547
-71	36	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107101137917	96.18616104125977
-71	37	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
-71	38	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
-71	39	369	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828347114200742	96.18792818038857
-71	40	368	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828169138152795	96.18795208289158
-71	41	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
-71	42	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638
-71	43	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
-71	44	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
-71	45	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
-71	46	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
-71	47	599	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841705399044663	96.19640950357281
-71	48	593	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843956	96.198989
-71	49	614	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845867625393243	96.20077338069677
-71	50	633	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843309	96.203744
-71	51	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
-71	52	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
-71	53	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862952	96.216452
-71	54	1	Nat Sin	နတ်စင်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.868886	96.222571
-71	55	1015	Thin Tan Kyaung	သင်တန်းကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.871166	96.225125
-71	56	1011	Lay Kyaung	လေကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.874543	96.227658
-71	57	1013	Tat Yin Thone	တပ်ရင်း (၃)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.878229	96.230341
-71	58	745	Kyauk Lan	ကျောက်လမ်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.883455	96.234203
-71	59	757	Say Yon Shae	ဆေးရုံရှေ့	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.891062	96.239909
-71	60	761	U Tun Myat	ဦးထွန်းမြတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.893594154229376	96.24178058467805
-71	61	2115	Lai Sin Yone Alal Pauk	လိုင်စင်ရုံး (အလယ်ပေါက်)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.895045	96.242849
-71	62	2113	A Kauk Khun	အကောက်ခွန်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.903114	96.248038
-71	63	2111	Nyaung Pin	ညောင်ပင်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.905372	96.249197
-71	64	2109	Ah Kyaw Tae	အကြော်တဲ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.906974	96.250269
-71	65	2107	Kyaung Shae	ကျောင်းရှေ့	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.911141	96.252676
-71	66	2105	Tayar-Lay-Sae	တစ်ရာ့လေးဆယ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.915026	96.25581
-71	67	2103	Sal Myaung	ဆည်မြောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.922802	96.262699
-71	68	2101	Kyo So Yay	ကြိုဆိုရေး	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.9243668005969	96.26395801082255
-71	69	1616	See Pwar Yay Takke Tho	စီးပွားရေးတက္ကသိုလ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.929014847983165	96.26806522719562
-71	70	2099	Unit Three	ယူနစ် (၃)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.934893	96.273358
-71	71	2097	A Aye Khan	အအေးခန်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.939311799264207	96.27701626159254
-71	72	2095	December Alal Pauk	ဒီဇင်ဘာအလယ်ပေါက်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.943086951630654	96.28030808642508
-71	73	2093	Tha Pyay Chan	သပြေခြံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.947029883368703	96.28377027343961
-71	74	2091	Moke Pho	မုန့်ဖို	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.950985	96.287177
-71	75	2089	U Khway Pu	ဦးခွေးပု	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.954393	96.290224
-71	76	2087	Thama	သမ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.956322	96.291811
-71	77	2086	Yeik Thar	ရိပ်သာ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.958333	96.293432
-71	78	2084	Lay Daung Kan (Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.959837867470966	96.29481309559198
+71	29	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841916421492833	96.20434836717324
+71	30	2160	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838739	96.201072
+71	31	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83751062688879	96.19982625707054
+71	32	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835042008650188	96.19725657166784
+71	33	602	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832963	96.195097
+71	34	616	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.831141607522156	96.1933392752235
+71	35	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828191207971237	96.18817244656385
+71	36	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
+71	37	615	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830714765084345	96.19317076745574
+71	38	601	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83264297934202	96.19510064876523
+71	39	610	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834929417094717	96.19742584060079
+71	40	598	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837140047336906	96.19967010581604
+71	41	2161	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838646395702437	96.20123337233963
+71	42	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841989	96.204673
+71	43	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
+71	44	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
+71	45	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862952	96.216452
+71	46	1	Nat Sin	နတ်စင်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.868886	96.222571
+71	47	1015	Thin Tan Kyaung	သင်တန်းကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.871166	96.225125
+71	48	1011	Lay Kyaung	လေကျောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.874543	96.227658
+71	49	1013	Tat Yin Thone	တပ်ရင်း (၃)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.878229	96.230341
+71	50	745	Kyauk Lan	ကျောက်လမ်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.883455	96.234203
+71	51	757	Say Yon Shae	ဆေးရုံရှေ့	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.891062	96.239909
+71	52	761	U Tun Myat	ဦးထွန်းမြတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.893594154229376	96.24178058467805
+71	53	2115	Lai Sin Yone Alal Pauk	လိုင်စင်ရုံး (အလယ်ပေါက်)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.895045	96.242849
+71	54	2113	A Kauk Khun	အကောက်ခွန်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.903114	96.248038
+71	55	2111	Nyaung Pin	ညောင်ပင်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.905372	96.249197
+71	56	2109	Ah Kyaw Tae	အကြော်တဲ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.906974	96.250269
+71	57	2107	Kyaung Shae	ကျောင်းရှေ့	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.911141	96.252676
+71	58	2105	Tayar-Lay-Sae	တစ်ရာ့လေးဆယ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.915026	96.25581
+71	59	2103	Sal Myaung	ဆည်မြောင်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.922802	96.262699
+71	60	2101	Kyo So Yay	ကြိုဆိုရေး	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.9243668005969	96.26395801082255
+71	61	1616	See Pwar Yay Takke Tho	စီးပွားရေးတက္ကသိုလ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.929014847983165	96.26806522719562
+71	62	2099	Unit Three	ယူနစ် (၃)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.934893	96.273358
+71	63	2097	A Aye Khan	အအေးခန်း	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.939311799264207	96.27701626159254
+71	64	2095	December Alal Pauk	ဒီဇင်ဘာအလယ်ပေါက်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.943086951630654	96.28030808642508
+71	65	2093	Tha Pyay Chan	သပြေခြံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.947029883368703	96.28377027343961
+71	66	2091	Moke Pho	မုန့်ဖို	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.950985	96.287177
+71	67	2089	U Khway Pu	ဦးခွေးပု	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.954393	96.290224
+71	68	2087	Thama	သမ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.956322	96.291811
+71	69	2086	Yeik Thar	ရိပ်သာ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.958333	96.293432
+71	70	2084	Lay Daung Kan (Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.959837867470966	96.29481309559198
