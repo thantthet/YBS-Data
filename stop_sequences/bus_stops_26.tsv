@@ -4,7 +4,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 26	3	5	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.91305	96.211413
 26	4	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
 26	5	2405	Moke Wa	မုခ်ဝ	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.904439085828006	96.20448606088759
-26	6	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.899268354153858	96.21075509581716
+26	6	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.89929117091002	96.21082443511114
 26	7	2407	Gate Haung	ဂိတ်ဟောင်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8973209398579	96.2070433376357
 26	8	2409	Kyaung Lan	ကျောင်းလမ်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8953468786695	96.2031126860529
 26	9	2411	8 Tama	၈ သမ	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8934878866662	96.1995235551149
@@ -55,7 +55,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 26	54	424	Thida Seik	သီတာဆိပ်	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.774333	96.180194
 26	55	422	Lin Sadaung	လင်းစဒေါင်း	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.7691504242463	96.18046187097208
 26	56	413	Botahtaung Zay	ဗိုလ်တထောင်ဈေး	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.769349354982467	96.17495725840854
-26	57	167	Botahtaung Paya	ဗိုလ်တထောင်ဘုရား	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769555923477597	96.17248931899667
+26	57	167	Botahtaung Paya	ဗိုလ်တထောင်ဘုရား	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769591556452138	96.17250742390753
 26	58	166	Baho Yone	ဗဟိုရုံး	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.76919046440348	96.16704849991949
 26	59	168	Botahtaung Paya	ဗိုလ်တထောင်ဘုရား	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.76925240088782	96.1718310881406
 26	60	414	Botahtaung Zay	ဗိုလ်တထောင်ဈေး	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.769167136957893	96.17486310900858
@@ -107,7 +107,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 26	106	2410	8 Tama	၈ သမ	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8930468956899	96.2006957642734
 26	107	2408	Kyaung Lan	ကျောင်းလမ်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8945449454988	96.2036208808422
 26	108	2406	Gate Haung	ဂိတ်ဟောင်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8965190952803	96.207487997599
-26	109	2413	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.89919765828198	96.21127510908994
+26	109	2413	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.899175703659544	96.21128644561398
 26	110	2404	Moke Wa	မုခ်ဝ	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.904594107145346	96.20447759516537
 26	111	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
 26	112	2122	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.913297	96.211864
