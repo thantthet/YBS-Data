@@ -1,0 +1,90 @@
+svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
+24B	1	1031	Dagon Takke Tho	ဒဂုံတက္ကသိုလ်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.916878098620895	96.2128589116037
+24B	2	2123	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.915206	96.210791
+24B	3	2122	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.913297	96.211864
+24B	4	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
+24B	5	1033	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.90255784827584	96.21715528657663
+24B	6	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.89929117091002	96.21082443511114
+24B	7	969	Sae-Hnit Gate	(၁၂) ဂိတ်	Kyansitthar Road	ကျန်စစ်သားလမ်း	East Dagon	အရှေ့ဒဂုံ	16.893526	96.219009
+24B	8	964	Thone-sae-chauk Gate Haung	(၃၆) ဂိတ်ဟောင်း	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892253	96.215533
+24B	9	946	Bo Min Gaung	ဗိုလ်မင်းခေါင်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891267	96.213731
+24B	10	952	Kyaung Lan Htate	ကျောင်းလမ်းထိပ်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889974	96.211392
+24B	11	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880652	96.202251
+24B	12	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87739888879641	96.20413976255806
+24B	13	1006	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872665	96.20622
+24B	14	1007	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.869954	96.207272
+24B	15	2349	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866127	96.2089
+24B	16	1612	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862089	96.212765
+24B	17	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
+24B	18	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
+24B	19	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841916421492833	96.20434836717324
+24B	20	2160	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838739	96.201072
+24B	21	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83751062688879	96.19982625707054
+24B	22	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835042008650188	96.19725657166784
+24B	23	602	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832963	96.195097
+24B	24	616	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.831141607522156	96.1933392752235
+24B	25	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828191207971237	96.18817244656385
+24B	26	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826232	96.186427
+24B	27	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82310570226515	96.18332737125458
+24B	28	365	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820012459663197	96.17833981734296
+24B	29	345	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.819269	96.172287
+24B	30	343	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.815445555142144	96.17246560541389
+24B	31	344	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81895	96.17248
+24B	32	342	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81540650761808	96.17265560187664
+24B	33	237	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.811882399727807	96.1710895097349
+24B	34	383	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.810901	96.175102
+24B	35	381	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809481	96.17689
+24B	36	372	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807365	96.180173
+24B	37	377	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803807	96.185098
+24B	38	371	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79994	96.186782
+24B	39	390	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797218	96.186182
+24B	40	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792401	96.184979
+24B	41	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790244	96.183295
+24B	42	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784522	96.174755
+24B	43	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78143923040722	96.17422713898124
+24B	44	446	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77857725311318	96.1752471746877
+24B	45	424	Thida Seik	သီတာဆိပ်	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.774333	96.180194
+24B	46	422	Lin Sadaung	လင်းစဒေါင်း	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.7691504242463	96.18046187097208
+24B	47	413	Botahtaung Zay	ဗိုလ်တထောင်ဈေး	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.769349354982467	96.17495725840854
+24B	48	167	Botahtaung Paya	ဗိုလ်တထောင်ဘုရား	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769591556452138	96.17250742390753
+24B	49	414	Botahtaung Zay	ဗိုလ်တထောင်ဈေး	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.769167136957893	96.17486310900858
+24B	50	421	Lin Sadaung	လင်းစဒေါင်း	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.768980658676362	96.18034081533553
+24B	51	425	Thida Seik	သီတာဆိပ်	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77462	96.180076
+24B	52	445	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77814227405194	96.17549379123376
+24B	53	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
+24B	54	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784308580655395	96.1750550195575
+24B	55	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790408	96.18322
+24B	56	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792319	96.185129
+24B	57	389	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797084	96.186241
+24B	58	370	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79996	96.186879
+24B	59	376	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803761	96.185248
+24B	60	373	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807201	96.180065
+24B	61	380	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809533	96.177093
+24B	62	382	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.81067485889442	96.17535173892976
+24B	63	364	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81978945155671	96.17808243725449
+24B	64	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822849160856567	96.18339463602754
+24B	65	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826169891044863	96.18673495016994
+24B	66	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
+24B	67	615	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830714765084345	96.19317076745574
+24B	68	601	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83264297934202	96.19510064876523
+24B	69	610	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834929417094717	96.19742584060079
+24B	70	598	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837140047336906	96.19967010581604
+24B	71	2161	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838646395702437	96.20123337233963
+24B	72	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841989	96.204673
+24B	73	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
+24B	74	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
+24B	75	1613	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862623	96.212615
+24B	76	1010	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866278	96.209139
+24B	77	2348	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.869967	96.207591
+24B	78	2347	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872727	96.206464
+24B	79	1008	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87735960653568	96.2043057032861
+24B	80	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880857	96.202573
+24B	81	951	Kyaung Lan Htate	ကျောင်းလမ်းထိပ်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889625	96.211413
+24B	82	945	Bo Min Gaung	ဗိုလ်မင်းခေါင်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.890508	96.21328
+24B	83	963	Thone-sae-chauk Gate Haung	(၃၆) ဂိတ်ဟောင်း	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891842	96.215769
+24B	84	970	Sae-Hnit Gate	(၁၂) ဂိတ်	Kyansitthar Road	ကျန်စစ်သားလမ်း	East Dagon	အရှေ့ဒဂုံ	16.893321	96.218752
+24B	85	2413	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.899175703659544	96.21128644561398
+24B	86	1032	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.902334	96.217293
+24B	87	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
+24B	88	5	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.91305	96.211413
+24B	89	1036	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.914898	96.210383
