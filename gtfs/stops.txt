@@ -1824,8 +1824,8 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2117,စိတ်ကျန်းမာရေးဆေးရုံ (Sate Kyan Mar Yae Say Yon),အမှတ်(၇)လမ်းမ (No. 7 Main Road),16.96188354834146,96.25689256936313
 2118,နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho (G.T.U)),သန်လျှင်-ကျောက်တန်းလမ်း (Thanlyin-Kyauktan Road),16.689968,96.307518
 2119,နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho (G.T.U)),သန်လျှင်-ကျောက်တန်းလမ်း (Thanlyin-Kyauktan Road),16.690044803559267,96.30724928341806
-2120,အနောက်ပိုင်းတက္ကသိုလ် (A Nout Paing Takke Tho),အနောက်ပိုင်းတက္ကသိုလ်လမ်း (West University Road),16.948604,96.013681
-2121,အနောက်ပိုင်းတက္ကသိုလ် (A Nout Paing Takke Tho),အနောက်ပိုင်းတက္ကသိုလ်လမ်း (West University Road),16.94881,96.013895
+2120,အနောက်ပိုင်းတက္ကသိုလ် (A Nout Paing Takke Tho),အနောက်ပိုင်းတက္ကသိုလ်လမ်း (West University Road),16.947051772278275,96.01576214656234
+2121,အနောက်ပိုင်းတက္ကသိုလ် (A Nout Paing Takke Tho),အနောက်ပိုင်းတက္ကသိုလ်လမ်း (West University Road),16.947231293312196,96.01589407771826
 2122,(၁၀) မိုင် (Sal Mile),ဒဂုံတက္ကသိုလ် (Dagon University),16.913297,96.211864
 2123,ရုံးရှေ့ (Yone Shae),ဒဂုံတက္ကသိုလ် (Dagon University),16.915206,96.210791
 2124,ဘေလီ (Bay Li),သံသုမာလမ်း (Thanthumar Road),16.859959,96.178682
