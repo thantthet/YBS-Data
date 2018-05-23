@@ -3,7 +3,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	2	1284	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.77531801226666	96.14491745320267
 39	3	126	Sanpya	စံပြ	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.777905085915634	96.14501520060006
 39	4	118	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.783	96.14361
-39	5	196	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.786412	96.142424
+39	5	196	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.786334463253585	96.14242921583356
 39	6	198	Halpin	ဟယ်(လ်)ပင်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.79028	96.141303
 39	7	268	Myaynigone	မြေနီကုန်း (ပြည်လမ်း)	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.7995437639817	96.13851143047215
 39	8	264	Mahar Myaing	မဟာမြိုင်	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.806672	96.13654
@@ -12,9 +12,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	11	287	Hledan	လှည်းတန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.827952	96.130435
 39	12	1175	San Yeik Nyein	စံရိပ်ငြိမ်	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.831942429089896	96.12954480573538
 39	13	1177	Sin Yae Twin	ဆင်ရေတွင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Kamayut	ကမာရွတ်	16.834325849790382	96.12863868009302
-39	14	1170	Butar Yon Lan	ဘူတာရုံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.837302	96.127878
+39	14	1170	Butar Yon Lan	ဘူတာရုံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.83729665475637	96.1277522519231
 39	15	1181	Thukha	သုခ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.84047	96.127017
-39	16	1179	Than Lan	သံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.845455	96.126012
+39	16	1179	Than Lan	သံလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.845174404267453	96.1259302776307
 39	17	1212	Bartar	ဘာတာ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.851150141657822	96.12455583410339
 39	18	1217	Oakyin	အုတ်ကျင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.854916470149714	96.12391686066985
 39	19	2392	Paya Lan	ဘုရားလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.8577458299178	96.1235475540161
@@ -25,10 +25,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	24	1312	Kyoe Kone	ကြို့ကုန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.8784827070093	96.11278095748277
 39	25	1341	B.O.C	ဘီအိုစီ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.884947027069753	96.11010398715734
 39	26	1344	Insein Gon Tadar/ Hino Gade	အင်းစိန်ကုန်းတံတား/ ဟီးနိုးဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.88813384885796	96.10589329618963
-39	27	2202	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.891627	96.104384
+39	27	2202	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.89248812652153	96.10382583690807
 39	28	1319	Aye Theikdi/ Thayet Taw	အေးသိဒ္ဓိ/ သရက်တော	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.894799	96.102108
-39	29	1337	Ywarma	ရွာမ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.898022	96.099447
-39	30	1361	Pyi Taw Thar/ G.T.I Htate	ပြည်တော်သာ/(GTI)ထိပ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.9014	96.096992
+39	29	1337	Ywarma	ရွာမ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.898234258974952	96.09905219636859
+39	30	1361	Pyi Taw Thar/ G.T.I Htate	ပြည်တော်သာ/(GTI)ထိပ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.900988906263134	96.09709422569722
 39	31	44	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.90502450516036	96.09781016595663
 39	32	1356	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907637768103342	96.0976756573655
 39	33	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911877058218828	96.0973906517029
@@ -46,10 +46,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	45	1519	Sit Tat	စစ်တပ်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.958198027604034	96.09759164974095
 39	46	1516	Shwe Pyi Thar Kwae	ရွှေပြည်သာကွေ့	No. 4 Main Road/ Bogyoke Aung San Road	အမှတ်(၄)လမ်းမ/ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961084945144684	96.09701604349542
 39	47	71	Gate Haung	ဂိတ်ဟောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.963966005856975	96.09650778584184
-39	48	1498	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.968062	96.095774
+39	48	1498	Ye Chauk	ရဲ (၆)	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.96787122038794	96.09573139110582
 39	49	1494	Than Phyu	သံဖြူ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.971547071368082	96.09499946236612
-39	50	1488	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.973697985228274	96.09459050931038
-39	51	1490	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.978569	96.093714
+39	50	1488	Oak Pho	အုတ်ဖို	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.973700470429442	96.09446526272224
+39	51	1490	Ponnya	ပုည	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.97904652292607	96.0937109333463
 39	52	1497	Thardukan	သာဓုကန်	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.983833965279114	96.09342852607371
 39	53	1492	Thabarwa	သဘာဝ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.988892	96.092881
 39	54	67	Nwar Chan	နွားခြံ	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.99481507448492	96.09122194815427
@@ -88,10 +88,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	87	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91195420496131	96.09718852210791
 39	88	1355	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907714315111864	96.09755581710488
 39	89	43	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.905062077475037	96.09768565278502
-39	90	1362	Pyi Taw Thar/ G.T.I Htate	ပြည်တော်သာ/(GTI)ထိပ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.9014	96.09682
-39	91	1338	Ywarma	ရွာမ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.898084	96.099061
+39	90	1362	Pyi Taw Thar/ G.T.I Htate	ပြည်တော်သာ/(GTI)ထိပ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.90042232116869	96.09718783060092
+39	91	1338	Ywarma	ရွာမ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.898134229574467	96.09891844214873
 39	92	1318	Aye Theikdi/ Thayet Taw	အေးသိဒ္ဓိ/ သရက်တော	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.894614	96.10185
-39	93	2203	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.891616	96.104212
+39	93	2203	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.892367141189418	96.10364459920675
 39	94	1343	Insein Gon Tadar/ Hino Gade	အင်းစိန်ကုန်းတံတား/ ဟီးနိုးဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.887979295238097	96.1057995236479
 39	95	1342	B.O.C	ဘီအိုစီ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.884919917579392	96.10990806017071
 39	96	1313	Kyoe Kone	ကြို့ကုန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.878436988253824	96.11263456754386
@@ -112,8 +112,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	111	263	Hantharwaddy	ဟံသာဝတီ	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.81193620836817	96.13480080384763
 39	112	265	Mahar Myaing	မဟာမြိုင်	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.80813755165241	96.13589079341183
 39	113	269	Myaynigone	မြေနီကုန်း (ပြည်လမ်း)	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.805399	96.136748
-39	114	199	Halpin	ဟယ်(လ်)ပင်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.79106	96.140884
-39	115	197	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.787286	96.14207
+39	114	199	Halpin	ဟယ်(လ်)ပင်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.79105778473302	96.14084245869891
+39	115	197	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.78724498784618	96.14205184159802
 39	116	117	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.78185953636945	96.14384005777539
 39	117	125	Sanpya	စံပြ	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.778647	96.144935
 39	118	2423	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.7752417060581	96.1447477340698

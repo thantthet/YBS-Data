@@ -3,7 +3,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36	2	2207	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037858185780333	96.1312585277483
 36	3	1468	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.031038	96.13187
 36	4	65	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026319	96.13614
-36	5	1470	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.024247	96.13835
+36	5	1470	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.024106080620214	96.13848494365811
 36	6	62	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022687	96.140088
 36	7	1481	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.020123	96.142577
 36	8	1477	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.015301	96.145109
@@ -27,7 +27,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36	26	589	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.947966453810754	96.15033205132933
 36	27	1415	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940763	96.151611
 36	28	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
-36	29	814	Tat Htate	တပ်ထိပ်	ႊThudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.929566031458144	96.15465174894783
+36	29	814	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9295660314581	96.1546517489478
 36	30	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
 36	31	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924125873138063	96.15775667829439
 36	32	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
@@ -56,19 +56,19 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36	55	322	Har Mit Tic	ဟာမစ်တစ်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.814847	96.155824
 36	56	230	Shwe Gon Daing	ရွှေဂုံတိုင်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.80519530942897	96.1557773128152
 36	57	209	Bahan Thone Lan	ဗဟန်းသုံးလမ်း	Bahan Road	ဗဟန်းလမ်း	Bahan	ဗဟန်း	16.798049388513782	96.15706854499878
-36	58	202	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.789124	96.157233
+36	58	202	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.7887528427616	96.15719425259158
 36	59	194	Youk Lan	ယောက်လမ်း	Alanpya Pagoda Road	အလံပြဘုရားလမ်း	Dagon	ဒဂုံ	16.782682116458677	96.15895088994877
 36	60	144	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Pabedan	ပန်းဘဲတန်း	16.777455	96.158736
 36	61	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.775683412852157	96.15891139023006
 36	62	195	Youk Lan	ယောက်လမ်း	Gyo Phyu Road	ဂျိုးဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.785509	96.159488
-36	63	203	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.788985	96.157356
+36	63	203	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.789040545760724	96.15748437121512
 36	64	208	Bahan Thone Lan	ဗဟန်းသုံးလမ်း	Bahan Road	ဗဟန်းလမ်း	Bahan	ဗဟန်း	16.79706005725926	96.15702768322082
 36	65	210	Yae Khae Saing	ရေခဲဆိုင်	Koe Min Ko Chin Road	ကိုယ်မင်းကိုယ်ချင်းလမ်း	Bahan	ဗဟန်း	16.801598383916467	96.15790716849006
 36	66	2425	Shwe Gon Daing	ရွှေဂုံတိုင်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.8052802428109	96.1559515935369
 36	67	321	Har Mit Tic	ဟာမစ်တစ်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.810533	96.156242
 36	68	323	Kokkaing/ Kyaung Shae	ကုက္ကိုင်း/ ကျောင်းရှေ့	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.820902	96.155249
-36	69	325	Set Hmu Tit/Myanmar Plaza	စက်မှု (၁)/မြန်မာပလာဇာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.827006238460232	96.15445615723729
-36	70	1245	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83381	96.155303
+36	69	325	Set Hmu Tit/Myanmar Plaza	စက်မှု (၁)/မြန်မာပလာဇာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.826940744308455	96.15445330739023
+36	70	1245	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833775752063897	96.1553610675037
 36	71	1241	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.838336980039827	96.15606039718843
 36	72	37	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84295	96.156608
 36	73	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.850729427748476	96.15774345584215
@@ -79,19 +79,19 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36	78	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
 36	79	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
 36	80	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
-36	81	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892684	96.155151
+36	81	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 36	82	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
 36	83	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
 36	84	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
 36	85	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
 36	86	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
 36	87	857	Ou Zanar	ဥဇ္ဇနာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.910726	96.166001
-36	88	848	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.912743	96.165581
+36	88	848	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91255523875324	96.1656310572289
 36	89	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730295539416	96.16369077237324
 36	90	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
 36	91	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924198	96.158284
 36	92	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
-36	93	815	Tat Htate	တပ်ထိပ်	ႊThudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93000665633041	96.15486485883596
+36	93	815	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9300066563304	96.154864858836
 36	94	1419	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.936410575360362	96.15300512406976
 36	95	1416	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940866	96.15189
 36	96	590	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.948091	96.150602
@@ -117,6 +117,6 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36	116	61	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022462	96.14071
 36	117	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02437	96.13865
 36	118	66	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026483	96.136247
-36	119	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.031284	96.132213
-36	120	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03740899869879	96.13150751218201
+36	119	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
+36	120	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037527726843194	96.13150835037233
 36	121	1970	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.042337215160796	96.133386567235

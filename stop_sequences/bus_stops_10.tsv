@@ -1,120 +1,120 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-10	1	542	Lelyar Gate Yinn	လယ်ယာ (ဂိတ်ရင်း)	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.804623	96.225511
-10	2	548	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.803432	96.22418
-10	3	550	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801254	96.225618
-10	4	544	Sauk Lote Yae	ဆောက်လုပ်ရေး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.799426	96.224116
-10	5	504	Sae-Thone Gate	(၁၃) ဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.793798	96.21946
+10	1	542	Lelyar Gate Yinn	လယ်ယာ (ဂိတ်ရင်း)	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.804593633361975	96.22562614269555
+10	2	548	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.80346716562094	96.22400388820097
+10	3	550	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801254430912103	96.22528231702745
+10	4	544	Sauk Lote Yae	ဆောက်လုပ်ရေး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.799351424322637	96.22425188776107
+10	5	504	Sae-Thone Gate	(၁၃) ဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79369001534756	96.21966828592124
 10	6	506	Gate Wa	ဂိတ်ဝ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79125	96.217443
 10	7	482	Khan Ma	ခန်းမ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790942	96.214632
 10	8	488	Lay-sae-koe Asane Gate	(၄၉) အစိမ်းဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791127	96.211778
-10	9	486	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791476	96.210018
-10	10	498	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791846	96.20768
-10	12	492	Ngar Kwae	(၅) ကွေ့	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.791805	96.206628
-10	13	502	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.792955	96.203474
-10	14	460	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793859	96.201414
-10	15	400	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795256	96.198171
-10	16	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
-10	18	409	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799601	96.196862
-10	19	407	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802389	96.19669
-10	20	405	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.804459	96.195386
-10	21	572	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815736	96.190084
-10	22	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.823053	96.183446
-10	23	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82616	96.186578
-10	24	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827618	96.187833
-10	25	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
-10	26	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638
-10	27	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836989	96.18579
-10	28	14	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84163	96.183183
-10	29	1072	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844541	96.181267
-10	30	1068	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846759	96.179625
-10	31	1077	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.849603	96.177746
-10	32	17	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852129	96.176008
-10	33	303	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85482	96.173497
-10	34	1247	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856206	96.171933
-10	35	1249	Nyaung Pin	ညောင်ပင်	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.854265	96.168412
-10	36	1816	Mit Zu Lan	မဉ္ဇူလမ်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.850959	96.162165
-10	37	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.850728	96.157675
-10	38	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.856873	96.156653
-10	40	1240	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.862603	96.155366
-10	41	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867269	96.154778
-10	42	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
-10	43	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87807	96.156157
-10	44	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881761	96.155602
-10	45	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.887233	96.154359
-10	46	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892684	96.155151
-10	47	884	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.893741	96.157579
-10	48	893	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886442	96.163949
-10	49	895	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.885539	96.167661
-10	50	900	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887325	96.170987
-10	51	898	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889337	96.175064
-10	52	914	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891267	96.178755
-10	53	918	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892458	96.181029
-10	54	916	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893546	96.183068
-10	55	904	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894655	96.185235
-10	56	902	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.895476	96.187123
-10	57	930	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897447	96.190685
-10	58	1021	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.8985	96.192522
-10	59	1025	Sein Pan	စိန်ပန်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.900465	96.196543
-10	60	1027	Zay Lay	ဈေးလေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.901163	96.197938
-10	61	3	Gate Haung	ဂိတ်ဟောင်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.90219	96.200126
-10	62	1035	Moke Wa	မုခ်ဝ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.90488	96.204178
-10	63	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
-10	64	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
-10	65	1034	Moke Wa	မုခ်ဝ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.90451	96.204736
-10	66	4	Gate Haung	ဂိတ်ဟောင်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.902703	96.200019
-10	67	1028	Zay Lay	ဈေးလေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.901574	96.198045
-10	68	1026	Sein Pan	စိန်ပန်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.900753	96.196285
-10	69	1022	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.898695	96.192646
-10	70	931	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897899	96.190642
-10	71	903	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.895887	96.186908
-10	72	905	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894943	96.18502
-10	73	917	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893916	96.18296
-10	74	919	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892889	96.181029
-10	75	915	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891657	96.178583
-10	76	899	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889707	96.174892
-10	77	901	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887715	96.170794
-10	79	897	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886011	96.167554
-10	80	894	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886627	96.164271
-10	81	1822	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.893798	96.157713
-10	82	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892889	96.15455
-10	83	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.890251	96.153619
-10	84	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881781	96.15513
-10	85	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878558	96.155932
-10	86	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
-10	87	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867223	96.154443
-10	88	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
-10	89	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85829	96.156009
-10	90	1237	Chaw Twin Kone	ချော်တွင်းကုန်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.850076	96.158262
-10	91	1815	Mit Zu Lan	မဉ္ဇူလမ်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.850759	96.161913
-10	92	1248	Nyaung Pin	ညောင်ပင်	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.853834	96.168176
-10	93	2125	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856031	96.172008
-10	94	304	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854881	96.173047
-10	95	16	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85178	96.17575
-10	96	1076	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.849378	96.177446
-10	97	1067	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846687	96.179389
-10	98	2132	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844449	96.181095
-10	99	15	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.841823	96.182993
-10	100	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836917	96.185677
-10	101	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
-10	102	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
-10	103	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828111	96.188176
-10	104	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826232	96.186427
-10	105	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.823161	96.183397
-10	106	571	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815592	96.189719
-10	107	406	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.804654	96.195043
-10	108	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
-10	109	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
-10	110	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
-10	111	399	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795174	96.19815
-10	112	459	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793695	96.20092
-10	113	501	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.792812	96.20313
-10	114	491	Ngar Kwae	(၅) ကွေ့	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.791271	96.206392
-10	115	497	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791579	96.207443
-10	116	485	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791209	96.209632
-10	117	487	Lay-sae-koe Asane Gate	(၄၉) အစိမ်းဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790983	96.211327
-10	118	481	Khan Ma	ခန်းမ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790511	96.214546
-10	119	505	Gate Wa	ဂိတ်ဝ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790572	96.216842
-10	120	503	Sae-Thone Gate	(၁၃) ဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.793243	96.219589
-10	121	543	Sauk Lote Yae	ဆောက်လုပ်ရေး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.799077	96.224288
-10	122	549	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.800844	96.225919
-10	123	547	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.803	96.223816
+10	9	486	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791294026965303	96.21000692714006
+10	10	498	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79167350648468	96.20764423627409
+10	11	492	Ngar Kwae	(၅) ကွေ့	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.791695112480173	96.20653652586046
+10	12	502	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.792878683953163	96.20340728899467
+10	13	460	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793800290991058	96.20135923381896
+10	14	400	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795256	96.198171
+10	15	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
+10	16	409	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799601	96.196862
+10	17	407	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802389	96.19669
+10	18	405	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.803753863378656	96.19596491334961
+10	19	572	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815698094823947	96.1900429520756
+10	20	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822849160856567	96.18339463602754
+10	21	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826169891044863	96.18673495016994
+10	22	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
+10	23	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
+10	24	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638
+10	25	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
+10	26	14	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.841680924239533	96.18324872804807
+10	27	1072	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844541	96.181267
+10	28	1068	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846759	96.179625
+10	29	1077	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.849540622118948	96.17771046934651
+10	30	17	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852036008309625	96.17587229702623
+10	31	303	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854805688595036	96.17346153594553
+10	32	1247	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856264313885067	96.17213245946915
+10	33	1249	Nyaung Pin	ညောင်ပင်	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.854191214781956	96.16845406126232
+10	34	1816	Mit Zu Lan	မဉ္ဇူလမ်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.850940045535186	96.16227886173876
+10	35	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.850729427748476	96.15774345584215
+10	36	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.856873	96.156653
+10	37	1240	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.862603	96.155366
+10	38	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867269	96.154778
+10	39	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
+10	40	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
+10	41	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
+10	42	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
+10	43	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
+10	44	884	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.893741	96.157579
+10	45	893	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886442	96.163949
+10	46	895	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88560122280656	96.167121862527
+10	47	900	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887277085247543	96.17086744168775
+10	48	898	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889400490004572	96.17500124964864
+10	49	914	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891267	96.178755
+10	50	918	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892458	96.181029
+10	51	916	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893546	96.183068
+10	52	904	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894690731733068	96.18518149014564
+10	53	902	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89563965280148	96.18705258239063
+10	54	930	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897512979444095	96.19064305443318
+10	55	1021	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.898454928978115	96.1924754222855
+10	56	1025	Sein Pan	စိန်ပန်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.900489708373588	96.1964267352596
+10	57	1027	Zay Lay	ဈေးလေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.901195417976574	96.19785446673633
+10	58	3	Gate Haung	ဂိတ်ဟောင်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.902339969961016	96.20012610917912
+10	59	1035	Moke Wa	မုခ်ဝ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.904572413792256	96.20403635082766
+10	60	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
+10	61	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
+10	62	1034	Moke Wa	မုခ်ဝ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.904480808468755	96.20416122023018
+10	63	4	Gate Haung	ဂိတ်ဟောင်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.902497980384474	96.20003734482454
+10	64	1028	Zay Lay	ဈေးလေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.90146845418412	96.19797575287522
+10	65	1026	Sein Pan	စိန်ပန်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.900651750342817	96.19650150183588
+10	66	1022	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.898677323017722	96.19268000358717
+10	67	931	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897712537599975	96.19074761867525
+10	68	903	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.895778460704303	96.18699128972368
+10	69	905	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894786412033504	96.18506841827185
+10	70	917	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893719048615317	96.18304058443758
+10	71	919	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892740824007586	96.18106974754484
+10	72	915	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.8914820050066	96.17864109110089
+10	73	899	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889586983552984	96.17489934666084
+10	74	901	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887516776533143	96.17090319050477
+10	75	897	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.885854210233035	96.16763357771563
+10	76	894	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886627	96.164271
+10	77	1822	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.893798	96.157713
+10	78	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892729094424542	96.15465329959991
+10	79	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889501887498064	96.15369533188642
+10	80	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882105361836498	96.15514125209302
+10	81	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878934279385433	96.15580279380085
+10	82	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
+10	83	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.8672229261052	96.1545687261969
+10	84	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
+10	85	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85825079611413	96.15602290257813
+10	86	1237	Chaw Twin Kone	ချော်တွင်းကုန်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.850228933807884	96.15807387046517
+10	87	1815	Mit Zu Lan	မဉ္ဇူလမ်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.85072120518684	96.16200858727099
+10	88	1248	Nyaung Pin	ညောင်ပင်	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.853851007207716	96.16816387977454
+10	89	2125	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856129688374033	96.1720715649426
+10	90	304	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85492188488732	96.17310744244607
+10	91	16	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.851780308296124	96.17582898354159
+10	92	1076	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84950257748793	96.17750647477808
+10	93	1067	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846687	96.179389
+10	94	2132	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844449	96.181095
+10	95	15	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84227260172592	96.18263882541216
+10	96	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
+10	97	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
+10	98	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
+10	99	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828191207971237	96.18817244656385
+10	100	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826232	96.186427
+10	101	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82310570226515	96.18332737125458
+10	102	571	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81558847378813	96.18976532248782
+10	103	406	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.804654	96.195043
+10	104	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
+10	105	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
+10	106	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
+10	107	399	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795174	96.19815
+10	108	459	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793695	96.20092
+10	109	501	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.79281159945252	96.2031506560743
+10	110	491	Ngar Kwae	(၅) ကွေ့	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.791271	96.206392
+10	111	497	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791579	96.207443
+10	112	485	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791209	96.209632
+10	113	487	Lay-sae-koe Asane Gate	(၄၉) အစိမ်းဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790983	96.211327
+10	114	481	Khan Ma	ခန်းမ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790511	96.214546
+10	115	505	Gate Wa	ဂိတ်ဝ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790572	96.216842
+10	116	503	Sae-Thone Gate	(၁၃) ဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.793243	96.219589
+10	117	543	Sauk Lote Yae	ဆောက်လုပ်ရေး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.799077	96.224288
+10	118	549	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801239084808206	96.22554207220674
+10	119	547	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.80292131131073	96.22375226346777

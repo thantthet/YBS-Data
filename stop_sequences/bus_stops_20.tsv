@@ -2,24 +2,24 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	1	2351	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.878043846604093	96.02374540641904
 20	2	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874074726406537	96.03354724589737
 20	3	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
-20	4	2225	Toe Chae	တိုးချဲ့	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.867983	96.044151
+20	4	2225	Toe Chae	တိုးချဲ့	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86797472202297	96.04404545389117
 20	5	2223	Out Htate	အောက်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.864584	96.05251
-20	6	1132	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.864061	96.054922
+20	6	1132	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86396536324708	96.05529539287092
 20	7	1144	Paya Lan	ဘုရားလမ်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.862165040559443	96.06436481477434
 20	8	32	Nawaday	နဝဒေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.861391	96.068355
 20	9	1149	Ah Sint Myint	အဆင့်မြင့်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.859898491508073	96.07263707544918
 20	10	1153	Bogyoke	ဗိုလ်ချုပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.858362591835384	96.07699319243696
 20	11	1154	Set Hmu Zone	စက်မှုဇုံ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.856657835192994	96.08218637538812
-20	12	1156	Tat Htate	တပ်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.854960335786974	96.08681253535907
+20	12	1156	Tat Htate	တပ်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.85499211602558	96.08673406764866
 20	13	2360	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.858690865634372	96.10848660464399
 20	14	1196	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.851349	96.10936
-20	15	1201	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.848166	96.110927
+20	15	1201	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.84816589648163	96.11089071258903
 20	16	1167	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843268	96.112167
 20	17	1165	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840896	96.112608
 20	18	1161	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.837755	96.11336
 20	19	1162	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833543	96.11603
 20	20	1184	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833461	96.119521
-20	21	310	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.829848	96.121713
+20	21	310	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.83003130648178	96.12164842430505
 20	22	307	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.824419955044178	96.12302745692432
 20	23	302	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81968916689901	96.12181771779436
 20	24	278	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81470006967928	96.12178073264658
@@ -38,11 +38,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	37	234	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810501025184656	96.1633197264746
 20	38	233	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811227	96.165963
 20	39	332	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.81149101866884	96.16997592855115
-20	40	238	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.806461683473657	96.17205346003178
+20	40	238	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.80649379907491	96.17212619399655
 20	41	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799380471876457	96.17574831492675
 20	42	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630927025884	96.17657147347929
 20	43	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794481844001602	96.17555068340155
-20	44	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791805008118352	96.17437027372945
+20	44	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791853797107102	96.17441874928774
 20	45	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784522	96.174755
 20	46	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78143923040722	96.17422713898124
 20	47	161	Si Saing	ဆီဆိုင်	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.775845153839875	96.17261703104306
@@ -57,11 +57,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	56	156	Lan Ngar Sae	လမ်း(၅၀)	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Kyauktada	ကျောက်တံတား	16.778683324374782	96.17133093997838
 20	57	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
 20	58	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784308580655395	96.1750550195575
-20	59	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79174337990411	96.17474787912218
+20	59	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
 20	60	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
-20	61	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796436228050442	96.17687278914674
+20	61	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796450819129205	96.17687573656441
 20	62	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79938512590402	96.17606068030003
-20	63	239	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.80672449251539	96.17219708394259
+20	63	239	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.806694055071702	96.17217367747799
 20	64	333	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.81164669784772	96.17015008338059
 20	65	232	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811207	96.165464
 20	66	235	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810709	96.163007
@@ -80,14 +80,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	79	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81453683073846	96.1219596862793
 20	80	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81928919676379	96.12197063186613
 20	81	308	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.82435998216743	96.12283658003436
-20	82	309	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.829312	96.122069
+20	82	309	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.83009203973736	96.12186057027431
 20	83	1183	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833338	96.120733
 20	84	1163	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833749	96.116288
 20	85	1160	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.836931	96.113665
 20	86	1164	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840732	96.112821
 20	87	1166	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843648	96.11237
-20	88	1200	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.848145	96.111292
-20	89	1197	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.851472	96.109639
+20	88	1200	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.848124823223294	96.11118097789587
+20	89	1197	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.85143636616417	96.10958016011865
 20	90	1192	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.85697243487454	96.10865701217335
 20	91	1157	Tat Htate	တပ်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.85489253813567	96.08784608033604
 20	92	1155	Set Hmu Zone	စက်မှုဇုံ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.85674870134135	96.08235112857075
@@ -95,7 +95,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	94	1148	Ah Sint Myint	အဆင့်မြင့်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.859974	96.073195
 20	95	33	Nawaday	နဝဒေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86135600776091	96.0689658788033
 20	96	1145	Paya Lan	ဘုရားလမ်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86231670092292	96.06468001624309
-20	97	1133	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.864389	96.054901
+20	97	1133	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86418146097808	96.05528579559177
 20	98	2222	Out Htate	အောက်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.864759	96.052575
 20	99	2224	Toe Chae	တိုးချဲ့	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86825	96.044236
 20	100	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872660575089096	96.03753967210653

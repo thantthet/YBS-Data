@@ -1,85 +1,85 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-7B	1	2154	Chauk-Sae-Hnit	62	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ	16.880796	96.250144
+7B	1	2154	Chauk-Sae-Hnit	-၆၂	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ	16.880796	96.250144
 7B	2	742	Ah Kyaw Tae	အကြော်တဲ	Kyansitthar Road	ကျန်စစ်သားလမ်း	South Dagon	တောင်ဒဂုံ	16.877428	96.247206
 7B	3	747	Kyaung Shae	ကျောင်းရှေ့	Kyansitthar Road	ကျန်စစ်သားလမ်း	South Dagon	တောင်ဒဂုံ	16.875457	96.248816
 7B	4	763	War Saing Kwae	ဝါးဆိုင်ကွေ့	Kyansitthar Road	ကျန်စစ်သားလမ်း	South Dagon	တောင်ဒဂုံ	16.874348	96.250189
 7B	5	740	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.870745	96.254781
 7B	6	744	Kar Gyi Gate	ကားကြီးဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.867192	96.251648
 7B	7	734	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.863753	96.248428
-7B	8	736	Ngar-sae-chauk	56	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861514	96.246346
+7B	8	736	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861514	96.246346
 7B	9	717	Ngar-sae Lay Tha Ma	(၅၄) သမ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.859892	96.244973
-7B	10	718	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.854265	96.24005
-7B	11	724	Tadar Htate							
-7B	12	711	Kun Yar Saing							
-7B	13	694	Myo Oo Kyaung							
-7B	14	680	Taung Myauk Lan Sone							
-7B	15	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857859	96.212375
-7B	16	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847427	96.208838
+7B	10	718	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85421004610765	96.24012379674242
+7B	11	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.856103	96.237529
+7B	12	711	Kun Yar Saing	ကွမ်းယာဆိုင်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860241	96.232442
+7B	13	694	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861822	96.230308
+7B	14	680	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.863109994024338	96.2163773411885
+7B	15	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
+7B	16	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
 7B	17	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841989	96.204673
 7B	18	2160	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838739	96.201072
-7B	19	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837507	96.199817
-7B	20	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835024	96.197210
+7B	19	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83751062688879	96.19982625707054
+7B	20	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835042008650188	96.19725657166784
 7B	21	602	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832963	96.195097
-7B	22	616	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.831222	96.193281
-7B	23	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828111	96.188176
+7B	22	616	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.831141607522156	96.1933392752235
+7B	23	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828191207971237	96.18817244656385
 7B	24	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826232	96.186427
-7B	25	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.823161	96.183397
-7B	26	365	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819977	96.178349
-7B	27	345	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.819269	96.17229
-7B	28	343	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.815458	96.172480
-7B	29	363	Tamwe Zay Haung/ Akhun Lut Zay							
-7B	30	385	Tamwe Zay/ Tamwe Bali							
-7B	31	379	Kyauk Myaung Zay							
-7B	32	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799424	96.175791
-7B	33	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796299	96.176668
-7B	34	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794501	96.175571
-7B	35	186	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791643	96.17233
-7B	36	182	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790316	96.169445
+7B	25	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82310570226515	96.18332737125458
+7B	26	365	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820012459663197	96.17833981734296
+7B	27	345	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.819269	96.172287
+7B	28	343	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.815445555142144	96.17246560541389
+7B	29	363	Tamwe Zay Haung/ Akhun Lut Zay	တာမွေဈေးဟောင်း/ အခွန်လွတ်ဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.813353	96.174892
+7B	30	385	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807725	96.176172
+7B	31	379	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804151	96.175646
+7B	32	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799380471876457	96.17574831492675
+7B	33	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630927025884	96.17657147347929
+7B	34	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794481844001602	96.17555068340155
+7B	35	186	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791640666169272	96.17243854561823
+7B	36	182	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790188203753207	96.16940329084174
 7B	37	188	Thein Phyu Sar Taik	သိမ်ဖြူစာတိုက်	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.786857	96.167645
 7B	38	177	Thein Phyu Zay	သိမ်ဖြူဈေး	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.784569	96.167519
-7B	39	160	Sein Paul	စိန်ပေါ(လ်)	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.777440	96.167256
+7B	39	160	Sein Paul	စိန်ပေါ(လ်)	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.777445093691075	96.1672005057335
 7B	40	148	Pansodan	ပန်းဆိုးတန်း	Anawrahta Road	အနော်ရထာလမ်း	Kyauktada	ကျောက်တံတား	16.776767	96.163811
-7B	41	145	Bar lan	ဘားလမ်း	Anawrahta Road	အနော်ရထာလမ်း	Kyauktada	ကျောက်တံတား	16.776890	96.160721
-7B	42	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.776192	96.158876
-7B	43	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.773932	96.159584
+7B	41	145	Bar lan	ဘားလမ်း	Anawrahta Road	အနော်ရထာလမ်း	Kyauktada	ကျောက်တံတား	16.77689	96.160721
+7B	42	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.775683412852157	96.15891139023006
+7B	43	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.77415838048883	96.15955453431526
 7B	44	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774148	96.163092
-7B	45	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774055	96.165646
-7B	46	2216	Sein Paul	စိန်ပေါ(လ်)	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77786	96.167352
+7B	45	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774022586607206	96.16582614602521
+7B	46	2216	Sein Paul	စိန်ပေါ(လ်)	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.777861	96.167352
 7B	47	178	Thein Phyu Zay	သိမ်ဖြူဈေး	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.784877	96.167626
 7B	48	187	Thein Phyu Sar Taik	သိမ်ဖြူစာတိုက်	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.78681	96.167691
-7B	49	181	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790100	96.169348
-7B	50	185	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791571	96.172441
-7B	51	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794280	96.175657
-7B	52	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796432	96.176735
-7B	53	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799395	96.175915
-7B	54	378	Kyauk Myaung Zay							
-7B	55	384	Tamwe Zay/ Tamwe Bali							
-7B	56	363	Tamwe Zay Haung/ Akhun Lut Zay							
-7B	57	342	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.815407	96.172652
-7B	58	344	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81895	96.172480
-7B	59	364	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819885	96.178134
-7B	60	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.823053	96.183446
-7B	61	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826160	96.186578
-7B	62	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827618	96.187833
-7B	63	615	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830771	96.193260
-7B	64	601	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832696	96.195011
-7B	65	610	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83490	96.19744
-7B	66	598	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107	96.199742
-7B	67	2161	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838596	96.201276
-7B	68	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.84187	96.204405
-7B	69	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847601	96.209214
-7B	70	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857366	96.21229
-7B	71	679	Taung Myauk Lan Sone							
-7B	72	693	Myo Oo Kyaung							
-7B	73	710	Kun Yar Saing							
-7B	74	2134	Tadar Htate							
-7B	75	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.854162	96.240190
+7B	49	181	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79003716114739	96.16945385467261
+7B	50	185	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791507840376276	96.17247557267548
+7B	51	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
+7B	52	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796450819129205	96.17687573656441
+7B	53	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79938512590402	96.17606068030003
+7B	54	378	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804056	96.175654
+7B	55	384	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807535	96.176161
+7B	56	363	Tamwe Zay Haung/ Akhun Lut Zay	တာမွေဈေးဟောင်း/ အခွန်လွတ်ဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.813353	96.174892
+7B	57	342	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81540650761808	96.17265560187664
+7B	58	344	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81895	96.17248
+7B	59	364	Than Lan	သံလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81978945155671	96.17808243725449
+7B	60	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822849160856567	96.18339463602754
+7B	61	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826169891044863	96.18673495016994
+7B	62	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
+7B	63	615	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830714765084345	96.19317076745574
+7B	64	601	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83264297934202	96.19510064876523
+7B	65	610	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834929417094717	96.19742584060079
+7B	66	598	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837140047336906	96.19967010581604
+7B	67	2161	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838646395702437	96.20123337233963
+7B	68	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841916421492833	96.20434836717324
+7B	69	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
+7B	70	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
+7B	71	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862952	96.216452
+7B	72	693	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861699	96.23019
+7B	73	710	Kun Yar Saing	ကွမ်းယာဆိုင်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860179	96.232034
+7B	74	2134	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85598	96.237389
+7B	75	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85424167230216	96.24028146034107
 7B	76	716	Ngar-sae Lay Tha Ma	(၅၄) သမ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.859707	96.245273
-7B	77	735	Ngar-sae-chauk	56	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861001	96.246432
-7B	78	733	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.86332	96.24847
-7B	79	743	Kar Gyi Gate	ကားကြီးဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.867089	96.251766
+7B	77	735	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861001	96.246432
+7B	78	733	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.863321	96.248471
+7B	79	743	Kar Gyi Gate	ကားကြီးဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.86703324956808	96.2517108191969
 7B	80	739	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.870642	96.254942
 7B	81	764	War Saing Kwae	ဝါးဆိုင်ကွေ့	Kyansitthar Road	ကျန်စစ်သားလမ်း	South Dagon	တောင်ဒဂုံ	16.874574	96.250157
 7B	82	748	Kyaung Shae	ကျောင်းရှေ့	Kyansitthar Road	ကျန်စစ်သားလမ်း	South Dagon	တောင်ဒဂုံ	16.875652	96.248869
 7B	83	741	Ah Kyaw Tae	အကြော်တဲ	Kyansitthar Road	ကျန်စစ်သားလမ်း	South Dagon	တောင်ဒဂုံ	16.877069	96.247142
-7B	84	2155	Chauk-Sae-Hnit	62	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ	16.88059	96.250294
+7B	84	2155	Chauk-Sae-Hnit	-၆၂	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ	16.88059	96.250294

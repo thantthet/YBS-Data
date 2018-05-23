@@ -3,8 +3,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 25	2	2216	Sein Paul	စိန်ပေါ(လ်)	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.777861	96.167352
 25	3	178	Thein Phyu Zay	သိမ်ဖြူဈေး	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.784877	96.167626
 25	4	187	Thein Phyu Sar Taik	သိမ်ဖြူစာတိုက်	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.78681	96.167691
-25	5	181	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.7901	96.169348
-25	6	185	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791571	96.172441
+25	5	181	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79003716114739	96.16945385467261
+25	6	185	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791507840376276	96.17247557267548
 25	7	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
 25	8	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796450819129205	96.17687573656441
 25	9	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79938512590402	96.17606068030003
@@ -25,7 +25,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 25	24	636	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830175	96.208152
 25	25	627	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83305	96.208259
 25	26	631	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838421	96.207638
-25	27	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847134128717492	96.20919852073713
+25	27	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
 25	28	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
 25	29	1613	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862623	96.212615
 25	30	1010	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866278	96.209139
@@ -33,10 +33,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 25	32	2347	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872727	96.206464
 25	33	1008	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87735960653568	96.2043057032861
 25	34	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880857	96.202573
-25	35	929	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.884656	96.200534
+25	35	929	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.884606955074492	96.20041140820834
 25	36	881	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887581	96.198817
-25	37	925	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.891021	96.196994
-25	38	1034	Moke Wa	မုခ်ဝ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.90451	96.204736
+25	37	925	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.891066012624623	96.19677429087463
+25	38	1034	Moke Wa	မုခ်ဝ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.904480808468755	96.20416122023018
 25	39	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
 25	40	2122	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.913297	96.211864
 25	41	2123	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.915206	96.210791
@@ -44,11 +44,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 25	43	1036	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.914898	96.210383
 25	44	5	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.91305	96.211413
 25	45	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
-25	46	926	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.890795	96.196661
+25	46	926	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.890901135262965	96.1966553097591
 25	47	880	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887499	96.198531
 25	48	928	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88450962539422	96.20014968328181
 25	49	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880652	96.202251
-25	50	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.877005243679555	96.20437395293267
+25	50	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87739888879641	96.20413976255806
 25	51	1006	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872665	96.20622
 25	52	1007	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.869954	96.207272
 25	53	2349	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866127	96.2089
@@ -75,12 +75,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 25	74	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799380471876457	96.17574831492675
 25	75	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630927025884	96.17657147347929
 25	76	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794481844001602	96.17555068340155
-25	77	186	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791643	96.172326
-25	78	182	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790316	96.169445
+25	77	186	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791640666169272	96.17243854561823
+25	78	182	Masalar Set	မဆလာစက်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790188203753207	96.16940329084174
 25	79	188	Thein Phyu Sar Taik	သိမ်ဖြူစာတိုက်	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.786857	96.167645
 25	80	177	Thein Phyu Zay	သိမ်ဖြူဈေး	Thein Phyu Road	သိမ်ဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.784569	96.167519
-25	81	160	Sein Paul	စိန်ပေါ(လ်)	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77744	96.167256
+25	81	160	Sein Paul	စိန်ပေါ(လ်)	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.777445093691075	96.1672005057335
 25	82	154	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77238880436766	96.16698425263168
-25	83	2218	Baho Yone	ဗဟိုရုံး	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.76897	96.166837
+25	83	2218	Baho Yone	ဗဟိုရုံး	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.76898782140798	96.1670203995891
 25	84	412	Bokalay Zay	ဘိုကလေးဈေး	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.769119	96.164778
 25	85	165	Sar Taik Kyee	စာတိုက်ကြီး	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769155	96.162463

@@ -16,25 +16,25 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 27	15	1055	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834791	96.180452
 27	16	1070	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835869	96.18307
 27	17	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
-27	18	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838123	96.189955
+27	18	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
 27	19	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
 27	20	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
 27	21	599	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841705399044663	96.19640950357281
 27	22	593	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843956	96.198989
 27	23	614	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845867625393243	96.20077338069677
-27	24	1090	Se Man Kane	စီမံကိန်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84756	96.19854
-27	25	1088	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.849018	96.194105
-27	26	1087	Moe Swe	မိုးစွေ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.850183769759962	96.18961572647096
-27	27	2129	Kyaetamar	ကျေးတမာ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.851082075031954	96.18768587708475
-27	28	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852869	96.185483
-27	29	2127	Thanat Pyit Kwin	သေနတ်ပစ်ကွင်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854594	96.183885
+27	24	1090	Se Man Kane	စီမံကိန်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847528417649873	96.19850509101526
+27	25	1088	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84893896654162	96.19427426252517
+27	26	1087	Moe Swe	မိုးစွေ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.850145665093024	96.18961987551303
+27	27	2129	Kyaetamar	ကျေးတမာ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.851082075031954	96.18764438666405
+27	28	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8528135748857	96.18543030694127
+27	29	2127	Thanat Pyit Kwin	သေနတ်ပစ်ကွင်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854523480112608	96.18384222965688
 27	30	1079	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856863	96.181911
-27	31	1075	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.859851	96.178992
-27	32	981	Chauk Lan	(၆) လမ်း	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.869153	96.178089
-27	33	984	Hong Kong	ဟောင်ကောင်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87209	96.176373
-27	34	980	Ah Kyaw Tae	အကြော်တဲ	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.874677	96.174527
-27	35	1293	Saik Shae	စိုက်ရှေ့	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.875724	96.173108
-27	36	1291	Kar Lay Gate	ကားလေးဂိတ်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.877942	96.17182
+27	31	1075	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85981610253591	96.17896331241356
+27	32	981	Chauk Lan	(၆) လမ်း	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.869100084134192	96.1779241450131
+27	33	984	Hong Kong	ဟောင်ကောင်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87201549863516	96.1762579274364
+27	34	980	Ah Kyaw Tae	အကြော်တဲ	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.874505655242782	96.17445806041361
+27	35	1293	Saik Shae	စိုက်ရှေ့	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.875632321960424	96.17302861064675
+27	36	1291	Kar Lay Gate	ကားလေးဂိတ်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87791669600555	96.17177469888705
 27	37	896	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88581168142012	96.16783826379107
 27	38	900	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887277085247543	96.17086744168775
 27	39	898	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889400490004572	96.17500124964864
@@ -50,18 +50,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 27	49	2410	8 Tama	၈ သမ	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8930468956899	96.2006957642734
 27	50	2408	Kyaung Lan	ကျောင်းလမ်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8945449454988	96.2036208808422
 27	51	2406	Gate Haung	ဂိတ်ဟောင်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8965190952803	96.207487997599
-27	52	2413	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.89912523809307	96.21134476270528
+27	52	2413	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.89919765828198	96.21127510908994
 27	53	1032	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.902334	96.217293
 27	54	1038	Si Pin	စည်ပင်	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	East Dagon	အရှေ့ဒဂုံ	16.930882590655305	96.23563074041158
-27	55	2117	Sate Kyan Mar Yae Say Yon	စိတ်ကျန်းမာရေးဆေးရုံ	No. 7 Main Road	အမှတ်(၇)လမ်းမ	East Dagon	အရှေ့ဒဂုံ	16.962221	96.25701
-27	56	1037	Si Pin	စည်ပင်	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	East Dagon	အရှေ့ဒဂုံ	16.930705	96.235249
-27	57	1033	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.902662	96.217121
-27	58	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.899182380271025	96.21068686712535
+27	55	2117	Sate Kyan Mar Yae Say Yon	စိတ်ကျန်းမာရေးဆေးရုံ	No. 7 Main Road	အမှတ်(၇)လမ်းမ	East Dagon	အရှေ့ဒဂုံ	16.96188354834146	96.25689256936313
+27	56	1037	Si Pin	စည်ပင်	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	East Dagon	အရှေ့ဒဂုံ	16.930661196860505	96.23528054449709
+27	57	1033	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.90255784827584	96.21715528657663
+27	58	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.899268354153858	96.21075509581716
 27	59	2407	Gate Haung	ဂိတ်ဟောင်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8973209398579	96.2070433376357
 27	60	2409	Kyaung Lan	ကျောင်းလမ်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8953468786695	96.2031126860529
 27	61	2411	8 Tama	၈ သမ	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8934878866662	96.1995235551149
 27	62	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892417	96.196178
-27	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.894696	96.194934
+27	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.894714170604107	96.19477124651895
 27	64	1019	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898430708623312	96.19273792253809
 27	65	931	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897712537599975	96.19074761867525
 27	66	903	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.895778460704303	96.18699128972368
@@ -73,24 +73,24 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 27	72	901	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887516776533143	96.17090319050477
 27	73	895	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88560122280656	96.167121862527
 27	74	1290	Kar Lay Gate	ကားလေးဂိတ်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87786	96.171649
-27	75	1292	Saik Shae	စိုက်ရှေ့	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.875272	96.172936
-27	76	979	Ah Kyaw Tae	အကြော်တဲ	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87443	96.174141
+27	75	1292	Saik Shae	စိုက်ရှေ့	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.875322773024763	96.173000195995
+27	76	979	Ah Kyaw Tae	အကြော်တဲ	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.874492460693673	96.17423740681262
 27	77	983	Hong Kong	ဟောင်ကောင်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87179108795379	96.17623246740551
-27	78	982	Chauk Lan	(၆) လမ်း	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.869174	96.177596
+27	78	982	Chauk Lan	(၆) လမ်း	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.869185189383792	96.17767708841713
 27	79	2124	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.859959	96.178682
 27	80	1078	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856729	96.18176
 27	81	2128	Thanat Pyit Kwin	သေနတ်ပစ်ကွင်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85446	96.183724
-27	82	1082	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852787	96.185333
-27	83	2146	Kyaetamar	ကျေးတမာ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8509686840811	96.18745964951813
-27	84	1086	Moe Swe	မိုးစွေ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.849993647450663	96.18946346919985
-27	85	2126	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.848931	96.194019
-27	86	1089	Se Man Kane	စီမံကိန်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847406	96.198465
+27	82	1082	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852719277159586	96.18528316263111
+27	83	2146	Kyaetamar	ကျေးတမာ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85099840559265	96.1875297012739
+27	84	1086	Moe Swe	မိုးစွေ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.850030909833936	96.18946552276613
+27	85	2126	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84888036518613	96.1940199136734
+27	86	1089	Se Man Kane	စီမံကိန်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847384520334618	96.1984035652131
 27	87	2403	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8462149068633	96.2004411220551
 27	88	594	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.844243	96.198775
 27	89	600	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.842046163467096	96.19653980713338
 27	90	596	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840692221664213	96.19498942745851
 27	91	606	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.839107162036793	96.1929774354212
-27	92	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83835950330981	96.18990211514758
+27	92	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838743682092584	96.19168509263547
 27	93	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107101137917	96.18616104125977
 27	94	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
 27	95	1071	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835962	96.183033

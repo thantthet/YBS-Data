@@ -3,7 +3,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	2	2207	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037858185780333	96.1312585277483
 73	3	1468	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.031038	96.13187
 73	4	65	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026319	96.13614
-73	5	1470	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.024247	96.13835
+73	5	1470	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.024106080620214	96.13848494365811
 73	6	62	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022687	96.140088
 73	7	1481	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.020123	96.142577
 73	8	1477	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.015301	96.145109
@@ -31,9 +31,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	30	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
 73	31	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93017754697439	96.13692542079208
 73	32	1395	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929289728265246	96.12982048653068
-73	33	47	Tayar-Chauk	-၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928401	96.120843
+73	33	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928401	96.120843
 73	34	1390	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92991253750098	96.11708393320443
-73	35	1388	Chauk Lay Chauk	-၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931177	96.114596
+73	35	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931177	96.114596
 73	36	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932409	96.112257
 73	37	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93246	96.108547
 73	38	73	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93408765294573	96.10347699945125
@@ -62,13 +62,13 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	61	1571	Koe Thone Lone	ကိုးသုံးလုံး	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982205898668845	96.07449101982638
 73	62	1575	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982673916408267	96.07241635210815
 73	63	1572	Na-gyi Kwae	(ဏ) ကွေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982994531834905	96.07127115363255
-73	64	1593	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.986778	96.072046
-73	65	1588	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.989323	96.071359
-73	66	1591	Aung Myittar	အောင်မေတ္တာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.991026	96.070801
+73	64	1593	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98656992387351	96.07196519616993
+73	65	1588	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98908231316728	96.07132762670518
+73	66	1591	Aung Myittar	အောင်မေတ္တာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.990693586584005	96.07079189736397
 73	67	1587	Auk Gate	အောက်ဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	17.00111897368812	96.0666501056403
-73	68	1590	Aung Myittar	အောင်မေတ္တာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.990924	96.070544
-73	69	1589	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.989343	96.071016
-73	70	1592	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.986696	96.071767
+73	68	1590	Aung Myittar	အောင်မေတ္တာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.99060753424807	96.07068402227014
+73	69	1589	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.988991570659145	96.0711809853092
+73	70	1592	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.986572609309896	96.07183397747578
 73	71	1573	Na-gyi Kwae	(ဏ) ကွေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.983008861115152	96.07115389080718
 73	72	1574	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98245490838093	96.07236580923201
 73	73	1570	Koe Thone Lone	ကိုးသုံးလုံး	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98212	96.074427
@@ -97,9 +97,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	96	74	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.933879176036193	96.10325703735728
 73	97	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932286	96.108536
 73	98	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932265	96.111935
-73	99	1387	Chauk Lay Chauk	-၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
+73	99	1387	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
 73	100	1389	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929905	96.116613
-73	101	48	Tayar-Chauk	-၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928334	96.120741
+73	101	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928334	96.120741
 73	102	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928199225787175	96.13210053183141
 73	103	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
 73	104	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667

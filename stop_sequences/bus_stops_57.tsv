@@ -1,25 +1,25 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 57	1	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751
-57	2	111	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.777291	96.136732
-57	3	2354	Kili	ကီလီ	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.774989	96.139475
-57	4	121	Maw Tin	မော်တင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Lanmadaw	လမ်းမတော်	16.774918	96.142353
+57	2	111	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77732454956802	96.13656562010875
+57	3	2354	Kili	ကီလီ	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.774839997078754	96.13934765104207
+57	4	121	Maw Tin	မော်တင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Lanmadaw	လမ်းမတော်	16.774861611885502	96.14233911037446
 57	5	134	Sae-ngar Lan	(၁၅) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774744	96.146441
 57	6	131	Maung Khaing	မောင်ခိုင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774456	96.15187
 57	7	143	Theingyi Zay/ Kone Zay Tan	သိမ်ကြီးဈေး/ကုန်ဈေးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pabedan	ပန်းဘဲတန်း	16.774497	96.153833
-57	8	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.773932	96.159584
+57	8	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.77415838048883	96.15955453431526
 57	9	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774148	96.163092
-57	10	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774055	96.165646
-57	11	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773968	96.168393
-57	12	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773917	96.170566
-57	13	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.771487	96.17254
-57	14	167	Botahtaung Paya	ဗိုလ်တထောင်ဘုရား	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769463	96.172158
-57	15	166	Baho Yone	ဗဟိုရုံး	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769017	96.16701
+57	10	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774022586607206	96.16582614602521
+57	11	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77393458964481	96.16845360025765
+57	12	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77381447810167	96.17123553296553
+57	13	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.771537636398886	96.17269266396762
+57	14	167	Botahtaung Paya	ဗိုလ်တထောင်ဘုရား	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769555923477597	96.17248931899667
+57	15	166	Baho Yone	ဗဟိုရုံး	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.76919046440348	96.16704849991949
 57	16	412	Bokalay Zay	ဘိုကလေးဈေး	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.769119	96.164778
-57	18	163	Pansodan	ပန်းဆိုးတန်း	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769358	96.16083
-57	19	136	Chauk Htat Yone	(၆) ထပ်ရုံး	Strand Road	ကမ်းနားလမ်း	Pabedan	ပန်းဘဲတန်း	16.770799	96.157348
-57	20	129	Latha	လသာ	Strand Road	ကမ်းနားလမ်း	Latha	လသာ	16.772114	96.15142
-57	21	132	Nyaung Pin Lay Zay	ညောင်ပင်လေးဈေး	Strand Road	ကမ်းနားလမ်း	Latha	လသာ	16.772689	96.146205
-57	22	123	Maw Tin	မော်တင်	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.774622	96.142243
-57	23	119	Kili	ကီလီ	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.775124	96.139414
-57	24	112	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.777394	96.136774
-57	25	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751
+57	17	163	Pansodan	ပန်းဆိုးတန်း	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769358	96.16083
+57	18	136	Chauk Htat Yone	(၆) ထပ်ရုံး	Strand Road	ကမ်းနားလမ်း	Pabedan	ပန်းဘဲတန်း	16.770799	96.157348
+57	19	129	Latha	လသာ	Strand Road	ကမ်းနားလမ်း	Latha	လသာ	16.772114	96.15142
+57	20	132	Nyaung Pin Lay Zay	ညောင်ပင်လေးဈေး	Strand Road	ကမ်းနားလမ်း	Latha	လသာ	16.772604966397473	96.14620919550363
+57	21	123	Maw Tin	မော်တင်	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.77462749596752	96.14231471903625
+57	22	119	Kili	ကီလီ	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.7750866590258	96.13943345357258
+57	23	112	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77753758308897	96.13666441524401
+57	24	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751

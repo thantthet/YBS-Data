@@ -9,11 +9,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 31	8	435	Thone Gate Haung	(၃) ဂိတ်ဟောင်း	Myintawthar Road	မြင်တော်သာလမ်း	Daw Bon	ဒေါပုံ	16.777582603942278	96.19534492492677
 31	9	426	Dhamar Yon	ဓမ္မာရုံ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.776521	96.197328
 31	10	432	Shukhinthar	ရှုခင်းသာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.774682	96.201276
-31	11	483	Kyaung Shae	ကျောင်းရှေ့	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.77878	96.202701
+31	11	483	Kyaung Shae	ကျောင်းရှေ့	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.778807171074572	96.2026522262022
 31	12	489	Mee Thwe Saing	မီးသွေးဆိုင်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.781574	96.203753
-31	13	495	Si Saing	ဆီဆိုင်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.784122	96.204246
-31	14	479	Nal Myay Yon	နယ်မြေရုံး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.789032	96.205877
-31	15	493	Ngar Kwae	(၅) ကွေ့	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791291	96.206778
+31	13	495	Si Saing	ဆီဆိုင်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.783991285804635	96.2042373698205
+31	14	479	Nal Myay Yon	နယ်မြေရုံး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.788994945837413	96.20584644377233
+31	15	493	Ngar Kwae	(၅) ကွေ့	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79099521339282	96.20662673609331
 31	16	497	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791579	96.207443
 31	17	485	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791209	96.209632
 31	18	487	Lay-sae-koe Asane Gate	(၄၉) အစိမ်းဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.790983	96.211327
@@ -32,10 +32,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 31	31	1824	Paya Kone Lan Sone	ဘုရားကုန်းလမ်းဆုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.72867187909715	96.2735345028341
 31	32	1637	Nyaung Pin	ညောင်ပင်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.729817	96.279691
 31	33	1639	Kunn Yar Saing	ကွမ်းယာဆိုင်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.731071	96.283168
-31	34	1642	A Shae Paing Takke Tho	အရှေ.ပိုင်းတက္ကသိုလ်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.732857720860686	96.28690774552526
+31	34	1642	A Shae Paing Takke Tho	အရှေ.ပိုင်းတက္ကသိုလ်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.732855995057225	96.28682824317367
 31	35	1641	A Shae Paing Takke Tho	အရှေ.ပိုင်းတက္ကသိုလ်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.733831793947385	96.28827567212285
-31	36	1640	Kunn Yar Saing	ကွမ်းယာဆိုင်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.731359	96.283125
-31	37	1638	Nyaung Pin	ညောင်ပင်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.730064	96.279198
+31	36	1640	Kunn Yar Saing	ကွမ်းယာဆိုင်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.73130631758074	96.28316489048302
+31	37	1638	Nyaung Pin	ညောင်ပင်	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်	16.729944702912874	96.27925328677522
 31	38	1825	Paya Kone Lan Sone	ဘုရားကုန်းလမ်းဆုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.728782051960934	96.2740002013743
 31	39	1634	Paya Shae	ဘုရားရှေ့	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.730064	96.272653
 31	40	1632	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739455	96.268619
@@ -49,13 +49,13 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 31	48	504	Sae-Thone Gate	(၁၃) ဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79369001534756	96.21966828592124
 31	49	506	Gate Wa	ဂိတ်ဝ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79125	96.217443
 31	50	488	Lay-sae-koe Asane Gate	(၄၉) အစိမ်းဂိတ်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791127	96.211778
-31	51	486	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791476	96.210018
+31	51	486	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791294026965303	96.21000692714006
 31	52	498	Waizayantar	ဝေဇယန္တာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.79167350648468	96.20764423627409
 31	53	494	Ngar Kwae	(၅) ကွေ့	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.791059610315266	96.20641375193372
-31	54	480	Nal Myay Yon	နယ်မြေရုံး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.789443	96.205727
+31	54	480	Nal Myay Yon	နယ်မြေရုံး	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.789416840002435	96.20581576600674
 31	55	496	Si Saing	ဆီဆိုင်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.784468742879493	96.20403524022551
 31	56	490	Mee Thwe Saing	မီးသွေးဆိုင်	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.781886760928828	96.20372839970516
-31	57	484	Kyaung Shae	ကျောင်းရှေ့	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.778801	96.202358
+31	57	484	Kyaung Shae	ကျောင်းရှေ့	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.779225998227176	96.20256283320488
 31	58	433	Shukhinthar	ရှုခင်းသာ	Shukinthar Myo Pat Road	ရှူ့ခင်းသာမြို့ပတ်လမ်း	Thaketa	သာကေတ	16.775021	96.200396
 31	59	427	Dhamar Yon	ဓမ္မာရုံ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.777404	96.196148
 31	60	436	Thone Gate Haung	(၃) ဂိတ်ဟောင်း	Myintawthar Road	မြင်တော်သာလမ်း	Daw Bon	ဒေါပုံ	16.777643735181925	96.19553163181992

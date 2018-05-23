@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 75	1	586	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820809	96.213452
-75	2	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822309	96.2124
+75	2	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822304545762762	96.2122975755483
 75	3	578	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825018017974298	96.20953163132073
 75	4	592	Thuwunna Zay	သုဝဏ္ဏဈေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825194	96.20649
 75	5	582	Mee Don	မီးဒုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.823418	96.205471

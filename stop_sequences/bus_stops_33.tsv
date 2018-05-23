@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-33	1	1879	Kyauk Tan	ကျောက်တန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.633314	96.327345
-33	2	1878	Zay Kwae	ဈေးကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.634013	96.324985
+33	1	1879	Kyauk Tan	ကျောက်တန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63321394088777	96.32729527540506
+33	2	1878	Zay Kwae	ဈေးကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63582180712637	96.32650771178307
 33	3	1876	Gat Tae Kwae	ဂါတ်တဲကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.638371	96.325285
 33	4	1874	Pal Hlaw Pho	ပဲလှော်ဖို	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.640715	96.323869
 33	5	1872	Aung Chan Thar	အောင်ချမ်းသာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.644457	96.323655
@@ -25,93 +25,93 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 33	24	1836	Nat Sin Koun	နတ်စင်ကုန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.71348	96.292326
 33	25	1834	Gate Wa	ဂိတ်ဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.716193	96.290653
 33	26	1832	Kyaik Inn	ကျိုက်အင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.718762	96.289304
-33	27	1830	San Set	ဆန်စက်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.722851	96.28516
-33	28	1828	Sit See Taw	စစ်စည်းတော	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.724084	96.283529
+33	27	1830	San Set	ဆန်စက်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.72275821205849	96.28508912399411
+33	28	1828	Sit See Taw	စစ်စည်းတော	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.723987446623124	96.28346613608302
 33	29	1826	Nat Sin Ta-Yar	နတ်စင်တစ်ရာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.726345	96.280138
-33	30	1825	Paya Kone Lan Sone	ဘုရားကုန်းလမ်းဆုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.729016	96.273873
+33	30	1825	Paya Kone Lan Sone	ဘုရားကုန်းလမ်းဆုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.728782051960934	96.2740002013743
 33	31	1634	Paya Shae	ဘုရားရှေ့	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.730064	96.272653
 33	32	1632	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739455	96.268619
 33	33	1630	Aung Chan Thar	အောင်ချမ်းသာ	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.745619	96.265293
 33	34	1812	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.750962	96.261367
-33	35	1643	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.755133	96.258491
+33	35	1643	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.75499102814598	96.2584948539734
 33	36	1810	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.757768	96.2566
-33	46	1619	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.779109	96.247011
-33	47	508	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778698	96.244222
-33	48	549	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.800844	96.225919
-33	49	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803247	96.223515
-33	50	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806554	96.219374
-33	51	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806472	96.216753
-33	52	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.805075	96.213709
-33	53	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803884	96.210641
-33	54	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803945	96.205941
-33	55	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803981	96.201926
-33	56	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804582	96.195665
-33	57	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
-33	58	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
-33	59	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
-33	60	467	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.193818
-33	61	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789915	96.191822
-33	62	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786238	96.189934
-33	63	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.782458	96.186715
-33	64	452	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.782709	96.183757
-33	65	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791823	96.174659
-33	66	184	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794101	96.172931
-33	67	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799424	96.175791
-33	68	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796299	96.176668
-33	69	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794501	96.175571
-33	70	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791885	96.174522
-33	71	451	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.782602	96.182764
-33	72	469	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781821	96.187981
-33	73	475	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78558	96.189977
-33	74	473	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789833	96.192209
-33	75	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.194204
-33	76	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
-33	77	409	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799601	96.196862
-33	78	407	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802389	96.19669
-33	79	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80449	96.195472
-33	80	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803894	96.201792
-33	81	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803678	96.205856
-33	82	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803637	96.210855
-33	83	529	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804664	96.21358
-33	84	553	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806421	96.216786
-33	85	551	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806431	96.218966
-33	86	545	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.80298	96.223301
-33	87	550	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801254	96.225618
-33	88	507	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77839	96.243879
-33	89	1618	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778739	96.247226
-33	99	1811	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.757727	96.256536
-33	100	541	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.755112	96.258148
-33	101	1813	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.750941	96.261131
-33	102	1629	Aung Chan Thar	အောင်ချမ်းသာ	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.745455	96.265036
-33	103	1631	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739825	96.26804
-33	104	1633	Paya Shae	ဘုရားရှေ့	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.730598	96.272482
-33	105	1824	Paya Kone Lan Sone	ဘုရားကုန်းလမ်းဆုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.728523	96.27413
-33	106	1827	Nat Sin Ta-Yar	နတ်စင်တစ်ရာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.72618	96.279795
-33	107	1829	Sit See Taw	စစ်စည်းတော	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.723714	96.283271
-33	108	1831	San Set	ဆန်စက်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.722728	96.284859
-33	109	1833	Kyaik Inn	ကျိုက်အင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.71872	96.289026
-33	110	1835	Gate Wa	ဂိတ်ဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.715987	96.290395
-33	111	1837	Nat Sin Koun	နတ်စင်ကုန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.713274	96.292069
-33	112	1839	Saw Bwar	စော်ဘွား	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.711055	96.293914
-33	113	1841	Ngar Su	ငါးစု	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.707849	96.295202
-33	114	1843	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705342	96.297004
-33	115	1845	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.6986	96.3046
-33	116	1847	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.695764	96.30563
-33	117	2119	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.690009	96.307175
-33	118	1849	Aung Ta Pyay	အောင်သပြေ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.685569	96.309321
-33	119	1851	Gate Tit	ဂိတ် (၁)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.683062	96.311595
-33	120	1853	Gate Haung	ဂိတ်ဟောင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.681787	96.31387
-33	121	1855	Alal Ywar	အလယ်ရွာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.680554	96.315501
-33	122	1857	Hta Ma Ni Phone Gyi Kyaung Shae	ထမနီးဘုန်းကြီးကျောင်းရှေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.679033	96.31726
-33	123	1859	Hta Ma Ni Koun Htate	ထမနီးကုန်းထိပ်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.676114	96.319449
-33	124	1861	Saik Pyoe Yay	စိုက်ပျိုးရေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.67336	96.320522
-33	125	1863	Nyaung Wine	ညောင်ဝိုင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.667645	96.321251
-33	126	1865	Mway Paya	မြွေဘုရား	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.662794	96.320951
-33	127	1867	Pa Da Kyi	ပါဒကြီး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.656462	96.318247
-33	128	1869	Chan Myae Thar Yar	ချမ်းမြေ့သာယာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.649925	96.319535
-33	129	1871	Si Saing	ဆီဆိုင်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.648075	96.320865
-33	130	1873	Aung Chan Thar	အောင်ချမ်းသာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.64458	96.323311
-33	131	1875	Pal Hlaw Pho	ပဲလှော်ဖို	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.640756	96.323612
-33	132	1877	Gat Tae Kwae	ဂါတ်တဲကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.638371	96.324856
-33	133	1878	Zay Kwae	ဈေးကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.634013	96.324985
-33	134	1879	Kyauk Tan	ကျောက်တန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.633314	96.327345
+33	37	1619	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77895653734981	96.24703176319599
+33	38	508	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778698	96.244222
+33	39	549	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801239084808206	96.22554207220674
+33	40	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803148852769496	96.22343016788365
+33	41	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806509987261613	96.21929759625347
+33	42	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806458694576083	96.21675431728363
+33	43	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
+33	44	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80369721392604	96.21009579626845
+33	45	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803809991254493	96.20589055353776
+33	46	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80397618824476	96.20196646079421
+33	47	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804283205959198	96.19628983782606
+33	48	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
+33	49	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
+33	50	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
+33	51	467	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.193818
+33	52	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78947198910385	96.19170282036067
+33	53	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786238	96.189934
+33	54	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781991325670376	96.18769811466336
+33	55	452	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.78264304840026	96.18374007521199
+33	56	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
+33	57	184	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794101	96.172931
+33	58	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799380471876457	96.17574831492675
+33	59	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630927025884	96.17657147347929
+33	60	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794481844001602	96.17555068340155
+33	61	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791853797107102	96.17441874928774
+33	62	451	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.78255539648769	96.18273277999835
+33	63	469	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78190317189937	96.18801645934583
+33	64	475	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78558	96.189977
+33	65	473	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789536988387997	96.19198579341175
+33	66	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.194204
+33	67	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
+33	68	409	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799601	96.196862
+33	69	407	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802389	96.19669
+33	70	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804202705380796	96.19609439279887
+33	71	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803823411391047	96.20176495984198
+33	72	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80371470625175	96.20586662320422
+33	73	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803537897279856	96.20986435096712
+33	74	529	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804750521874205	96.21352799702437
+33	75	553	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80611452972553	96.21627231594177
+33	76	551	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806431	96.218966
+33	77	545	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.80298	96.223301
+33	78	550	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801254430912103	96.22528231702745
+33	79	507	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77839	96.243879
+33	80	1618	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778739	96.247226
+33	81	1811	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.757735198524692	96.25641010701658
+33	82	541	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.75506077459433	96.25814553815873
+33	83	1813	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.75087108658183	96.2610245961696
+33	84	1629	Aung Chan Thar	အောင်ချမ်းသာ	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.745436727103243	96.2650060420856
+33	85	1631	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739825	96.26804
+33	86	1633	Paya Shae	ဘုရားရှေ့	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.730598	96.272482
+33	87	1824	Paya Kone Lan Sone	ဘုရားကုန်းလမ်းဆုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.72867187909715	96.2735345028341
+33	88	1827	Nat Sin Ta-Yar	နတ်စင်တစ်ရာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.72618	96.279795
+33	89	1829	Sit See Taw	စစ်စည်းတော	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.723791739332118	96.2831050436944
+33	90	1831	San Set	ဆန်စက်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.722643018574626	96.28477815538645
+33	91	1833	Kyaik Inn	ကျိုက်အင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.718679999262086	96.28899182192984
+33	92	1835	Gate Wa	ဂိတ်ဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.715987	96.290395
+33	93	1837	Nat Sin Koun	နတ်စင်ကုန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.713274	96.292069
+33	94	1839	Saw Bwar	စော်ဘွား	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.711055	96.293914
+33	95	1841	Ngar Su	ငါးစု	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.707849	96.295202
+33	96	1843	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705342	96.297004
+33	97	1845	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.6986	96.3046
+33	98	1847	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.695764	96.30563
+33	99	2119	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.690044803559267	96.30724928341806
+33	100	1849	Aung Ta Pyay	အောင်သပြေ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.685569	96.309321
+33	101	1851	Gate Tit	ဂိတ် (၁)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.683062	96.311595
+33	102	1853	Gate Haung	ဂိတ်ဟောင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.681787	96.31387
+33	103	1855	Alal Ywar	အလယ်ရွာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.680554	96.315501
+33	104	1857	Hta Ma Ni Phone Gyi Kyaung Shae	ထမနီးဘုန်းကြီးကျောင်းရှေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.679033	96.31726
+33	105	1859	Hta Ma Ni Koun Htate	ထမနီးကုန်းထိပ်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.676114	96.319449
+33	106	1861	Saik Pyoe Yay	စိုက်ပျိုးရေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.67336	96.320522
+33	107	1863	Nyaung Wine	ညောင်ဝိုင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.667645	96.321251
+33	108	1865	Mway Paya	မြွေဘုရား	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.662794	96.320951
+33	109	1867	Pa Da Kyi	ပါဒကြီး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.656462	96.318247
+33	110	1869	Chan Myae Thar Yar	ချမ်းမြေ့သာယာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.649925	96.319535
+33	111	1871	Si Saing	ဆီဆိုင်	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.648075	96.320865
+33	112	1873	Aung Chan Thar	အောင်ချမ်းသာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.64458	96.323311
+33	113	1875	Pal Hlaw Pho	ပဲလှော်ဖို	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.640756	96.323612
+33	114	1877	Gat Tae Kwae	ဂါတ်တဲကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.638371	96.324856
+33	115	1878	Zay Kwae	ဈေးကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63582180712637	96.32650771178307
+33	116	1879	Kyauk Tan	ကျောက်တန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63321394088777	96.32729527540506

@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-45	1	2011	Hlegu Zay	လှည်းကူးဈေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.096823	96.219456
-45	2	2013	Tin Zar Oo	သဉ္ဇာဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.098546	96.223276
+45	1	2011	Hlegu Zay	လှည်းကူးဈေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.09667168378695	96.21909714303912
+45	2	2013	Tin Zar Oo	သဉ္ဇာဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.098352190081656	96.22317938134076
 45	3	2015	Hlegu Tar Sone	လှည်းကူးတာဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.099879	96.225738
 45	4	2017	San Taw Tar	စန်းသော်တာ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.104422	96.226661
 45	5	2019	Nyaung Pin	ညောင်ပင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.108185	96.226991
@@ -69,5 +69,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 45	68	2018	Nyaung Pin	ညောင်ပင်	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.108062	96.226777
 45	69	2016	San Taw Tar	စန်းသော်တာ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.104258	96.2268
 45	70	2014	Hlegu Tar Sone	လှည်းကူးတာဆုံ	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Hlegu	လှည်းကူး	17.099807	96.225899
-45	71	2012	Tin Zar Oo	သဉ္ဇာဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.098546	96.223061
-45	72	2010	Hlegu Zay	လှည်းကူးဈေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.097151	96.219327
+45	71	2012	Tin Zar Oo	သဉ္ဇာဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.098558905028337	96.22312917374076
+45	72	2010	Hlegu Zay	လှည်းကူးဈေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး	17.096831172807377	96.21903727529572

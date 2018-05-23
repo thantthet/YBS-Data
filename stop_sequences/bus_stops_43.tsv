@@ -1,9 +1,9 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-43	1	1705	Thayet Taw Pauk	သရက်တောပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.099346	96.039258
-43	2	1703	Hmaw Bi Kar Lay Gate	မှော်ဘီကားလေးဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.100905	96.040374
+43	1	1705	Thayet Taw Pauk	သရက်တောပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.098981026611735	96.03889339137824
+43	2	1703	Hmaw Bi Kar Lay Gate	မှော်ဘီကားလေးဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.10053631487457	96.04010650422427
 43	3	1701	Hmaw Bi Zay	မှော်ဘီဈေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.100765899750144	96.04262164095418
 43	4	1699	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.100894	96.04603
-43	5	1697	A Hmat Lay	အမှတ် (၄)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.104863	96.051189
+43	5	1697	A Hmat Lay	အမှတ် (၄)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.10361280479879	96.04985088575633
 43	6	1695	Yone Pauk	ရုံးပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.106032	96.052519
 43	7	1693	Sae-Chauk Gate	(၁၆) ဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.106545	96.053785
 43	8	1691	Supplies	ဆပ်ပလိုင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.106442	96.060094
@@ -16,7 +16,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 43	15	1675	Sae-Thit Taw	ဆယ့်တစ်တော	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.09789	96.088436
 43	16	1673	Main Ma Line	မိန်းမလိုင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.096659	96.090753
 43	17	1671	San Chaung Pauk	စမ်းချောင်းပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.095716	96.092513
-43	18	1669	Ye Baw Zay	ရဲဘော်ဈေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.094362	96.094823
+43	18	1669	Ye Baw Zay	ရဲဘော်ဈေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.094129775295237	96.09478605911137
 43	19	1667	Kyat Phyu Kan	ကြက်ဖြူကန်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.086257894915484	96.10054895281795
 43	20	1665	Say Khan	ဆေးခန်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.08319431832644	96.10276043415071
 43	21	1662	Mee Sat	မီးစက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.076985087829687	96.1072783637792
@@ -77,7 +77,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 43	76	1246	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833849962299986	96.15510751493277
 43	77	1052	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834796	96.1626
 43	78	6	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.83090737715405	96.16340025560933
-43	79	340	Kyar Hmat Taing	ကြားမှတ်တိုင်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.828979	96.163769
+43	79	340	Kyar Hmat Taing	ကြားမှတ်တိုင်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.8290172507859	96.16373777389528
 43	80	355	Zay Kwae	ဈေးကွေ့	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.822303054572906	96.16266463162903
 43	81	349	Min Lan	မင်းလမ်း	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.819669	96.164948
 43	82	346	Lan Sone	လမ်းဆုံ	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.81753155492063	96.16652819328012
@@ -114,7 +114,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 43	113	341	Kyar Hmat Taing	ကြားမှတ်တိုင်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.829251	96.163823
 43	114	7	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.830835378709462	96.1635034158826
 43	115	1051	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834688	96.162728
-43	116	1245	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83381	96.155303
+43	116	1245	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833775752063897	96.1553610675037
 43	117	1241	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.838336980039827	96.15606039718843
 43	118	37	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84295	96.156608
 43	119	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.850729427748476	96.15774345584215
@@ -155,7 +155,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 43	154	1472	Mwae Myu Yae	မွေးမြူရေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.013906	96.127406
 43	155	1475	Seagull	ဆေးဂဲလ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.01645	96.128565
 43	156	59	Daewoo	ဒေဝူး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.018276	96.131548
-43	157	1460	C.P Light	စီပီလိုက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.02057127830448	96.1336029879749
+43	157	1460	C.P Light	စီပီလိုက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.020534009604063	96.13368295133114
 43	158	64	Nwe Khwe	နွယ်ခွေ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.022236	96.134595
 43	159	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
 43	160	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037527726843194	96.13150835037233
@@ -185,9 +185,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 43	184	1686	Lay Tat	လေတပ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.109047	96.073097
 43	185	1690	Supplies	ဆပ်ပလိုင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.106729	96.060115
 43	186	1692	Sae-Chauk Gate	(၁၆) ဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.106811	96.053828
-43	187	1694	Yone Pauk	ရုံးပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.106504	96.052498
-43	188	1696	A Hmat Lay	အမှတ် (၄)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.105109	96.050996
+43	187	1694	Yone Pauk	ရုံးပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.106256404915268	96.05255333706738
+43	188	1696	A Hmat Lay	အမှတ် (၄)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.10382141656633	96.04968136176467
 43	189	1698	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.101048	96.046041
 43	190	1700	Hmaw Bi Zay	မှော်ဘီဈေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.100932775711676	96.04267161805183
-43	191	1702	Hmaw Bi Kar Lay Gate	မှော်ဘီကားလေးဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.101212	96.040245
-43	192	1704	Thayet Taw Pauk	သရက်တောပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.099674	96.039215
+43	191	1702	Hmaw Bi Kar Lay Gate	မှော်ဘီကားလေးဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.10060881750042	96.04002813342959
+43	192	1704	Thayet Taw Pauk	သရက်တောပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ	17.09916200423804	96.03885521180929

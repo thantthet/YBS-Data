@@ -5,12 +5,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 62	4	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
 62	5	2404	Moke Wa	မုခ်ဝ	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.904594107145346	96.20447759516537
 62	6	2363	Ywar Htate	ရွာထိပ်	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.908472	96.199894
-62	7	2365	Ma Da	မဓ	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.912865	96.194572
-62	8	2367	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.91137933265999	96.19162059389056
+62	7	2365	Ma Da	မဓ	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.91265979145201	96.19451218284668
+62	8	2367	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.912004125783575	96.19301123544574
 62	9	2369	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.909950504558687	96.18892899714412
-62	10	2371	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.909950504558687	96.18892899714412
+62	10	2371	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.910931005628484	96.19084895588458
 62	11	878	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.908431	96.186887
-62	12	1018	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.903442	96.189612
+62	12	1018	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90350883495074	96.18970149429516
 62	13	1023	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90141	96.190749
 62	14	1020	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898700981942675	96.19247929891573
 62	15	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240592043372	96.19431724073367
@@ -25,7 +25,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 62	24	1612	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862089	96.212765
 62	25	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
 62	26	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
-62	27	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841871	96.204405
+62	27	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841916421492833	96.20434836717324
 62	28	2160	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838739	96.201072
 62	29	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83751062688879	96.19982625707054
 62	30	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835042008650188	96.19725657166784
@@ -101,12 +101,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 62	100	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.894714170604107	96.19477124651895
 62	101	1019	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898430708623312	96.19273792253809
 62	102	1024	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.901964	96.190835
-62	103	1017	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.903278	96.190192
-62	104	879	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.908616	96.18723
-62	105	2372	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.909869186856525	96.18909060023726
+62	103	1017	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.903188164191445	96.19007346220316
+62	104	879	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.908516092033064	96.18715706281367
+62	105	2372	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.910869456310497	96.19089367333801
 62	106	2370	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.909869186856525	96.18909060023726
-62	107	2368	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.911288552637057	96.19171702768654
-62	108	2366	Ma Da	မဓ	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.912718	96.194303
+62	107	2368	_	_	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.912090093819174	96.19293093681337
+62	108	2366	Ma Da	မဓ	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.912609189155948	96.19444227777423
 62	109	2364	Ywar Htate	ရွာထိပ်	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.908304	96.199592
 62	110	2404	Moke Wa	မုခ်ဝ	Kyan Sit Thar Road	ကျန်စစ်သားလမ်း	North Dagon	မြောက်ဒဂုံ	16.904594107145346	96.20447759516537
 62	111	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
