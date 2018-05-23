@@ -1,10 +1,10 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-19	1	2213	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.934195	96.190728
+19	1	2213	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.934114220813353	96.19095821399243
 19	2	1605	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93284	96.189119
 19	3	2215	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931752	96.187874
-19	4	839	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930274	96.185986
+19	4	839	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930205137652255	96.18605928495526
 19	5	830	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928036445729113	96.18344400543721
-19	6	835	Sal Myaung	ဆည်မြောင်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.924691284370738	96.17933083791287
+19	6	835	Sal Myaung	ဆည်မြောင်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.924487965862433	96.1793710710481
 19	7	828	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92308415603184	96.17624929407613
 19	8	824	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921900056104676	96.17189386859538
 19	9	1607	Dhamar Yon	ဓမ္မာရုံ	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921450952209103	96.16945517482239
@@ -107,7 +107,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 19	106	834	Sal Myaung	ဆည်မြောင်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92439803413906	96.17941105272624
 19	107	827	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.922930613383453	96.17627328727397
 19	108	829	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928234187397052	96.18398673366755
-19	109	838	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.929925	96.186308
+19	109	838	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.93007106605814	96.18623287416996
 19	110	2214	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931444	96.187917
 19	111	1604	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.932614	96.189269
-19	112	2212	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.934462	96.1909
+19	112	2212	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93433974005151	96.1909826891497
