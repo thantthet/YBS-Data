@@ -24,71 +24,80 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 60	23	1059	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833764	96.176424
 60	24	1055	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834791	96.180452
 60	25	1070	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835869	96.18307
-60	26	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
-60	27	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
-60	28	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
-60	29	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
-60	30	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
-60	31	599	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841705399044663	96.19640950357281
-60	32	593	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843956	96.198989
-60	33	614	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845867625393243	96.20077338069677
-60	34	633	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843309	96.203744
-60	35	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
-60	36	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
-60	37	677	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.858630783290327	96.2144668120891
-60	38	695	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851523565079887	96.21824570931496
-60	39	701	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84817339716358	96.2220901111141
-60	40	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84716076229892	96.22348121367396
-60	41	644	G.E.C	ဂျီအီးစီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.843935	96.227185
-60	42	646	Set Hmu Zone Hnit	စက်မှုဇုံ (၂)	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84219	96.229287
-60	43	657	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.838349134182277	96.23248698189856
-60	44	650	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837302	96.233107
-60	45	660	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.834385	96.233901
-60	46	661	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.83153049759267	96.23421838972719
-60	47	640	Sauk Lote Yae	ဆောက်လုပ်ရေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828635	96.240297
-60	48	662	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.831941	96.234262
-60	49	659	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.834036	96.234201
-60	50	649	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837404	96.233312
-60	51	658	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.838801	96.232545
-60	52	647	Set Hmu Zone Hnit	စက်မှုဇုံ (၂)	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.842231	96.229738
-60	53	645	G.E.C	ဂျီအီးစီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.844346	96.227206
-60	54	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84753359193457	96.22320997528735
-60	55	702	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.848344950113066	96.22227447107436
-60	56	696	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851439454626906	96.21860755607487
-60	57	678	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85871307235143	96.21468201745303
-60	58	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
-60	59	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
-60	60	632	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843237	96.204109
-60	61	613	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845855511844686	96.20105572510512
-60	62	594	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.844243	96.198775
-60	63	600	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.842046163467096	96.19653980713338
-60	64	596	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840692221664213	96.19498942745851
-60	65	606	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.839107162036793	96.1929774354212
-60	66	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838743682092584	96.19168509263547
-60	67	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107101137917	96.18616104125977
-60	68	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
-60	69	1071	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835962	96.183033
-60	70	1056	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834883	96.180404
-60	71	1060	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833882	96.176488
-60	72	1050	Than Lan	သံလမ်း	Yadanar Road	ရတနာလမ်း	Yankin	ရန်ကင်း	16.83370371459609	96.17289694842387
-60	73	1047	Moe Kaung	မိုးကောင်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.837754509616378	96.16616418097692
-60	74	1052	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834796	96.1626
-60	75	6	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.83090737715405	96.16340025560933
-60	76	331	Yankin Zay	ရန်ကင်းဈေး	Yanshin Street	ရန်ရှင်းလမ်းသွယ်	Yankin	ရန်ကင်း	16.82892	96.159207
-60	77	326	Set Hmu Tit	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.827675	96.15721
-60	78	2424	Set Hmu Tit/Myanmar Plaza	စက်မှု (၁)/မြန်မာပလာဇာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.8270325276271	96.1542052030563
-60	79	2323	Koke Kine	ကုက္ကိုင်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.823558610330995	96.15304296836257
-60	80	2325	Inya Myaing	အင်ယာမြိုင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.8248228559485	96.1472372012213
-60	81	2337	Thanlwin	သံလွင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.82406009744107	96.14524126052858
-60	82	2329	UFL	ယူအပ်ဖ်အယ်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.825133	96.142044
-60	83	2331	Kyuanlan	ကျောင်းလမ်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.825918	96.13846
-60	84	318	Kyaung Shae/ Dhamar Yon	ကျောင်းရှေ့/ဓမ္မာရုံ	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.826485	96.132192
-60	85	290	Hledan Zay	လှည်းတန်းဈေး	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.826593902284788	96.12880632519592
-60	86	295	Kyaung Shae/ Kone Sin	ကျောင်းရှေ့/ကုန်းဆင်း	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.825525	96.126583
-60	87	307	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.824419955044178	96.12302745692432
-60	88	309	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.83009203973736	96.12186057027431
-60	89	1183	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833338	96.120733
-60	90	1163	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833749	96.116288
-60	91	1160	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.836931	96.113665
-60	92	1164	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840732	96.112821
-60	93	1166	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843648	96.11237
+60	26	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
+60	27	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
+60	28	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
+60	29	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
+60	30	599	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841705399044663	96.19640950357281
+60	31	593	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843956	96.198989
+60	32	614	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845867625393243	96.20077338069677
+60	33	633	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843309	96.203744
+60	34	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
+60	35	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
+60	36	677	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.858630783290327	96.2144668120891
+60	37	695	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851523565079887	96.21824570931496
+60	38	701	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84817339716358	96.2220901111141
+60	39	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84716076229892	96.22348121367396
+60	40	644	G.E.C	ဂျီအီးစီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.843935	96.227185
+60	41	646	Set Hmu Zone Hnit	စက်မှုဇုံ (၂)	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84219	96.229287
+60	42	657	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.838349134182277	96.23248698189856
+60	43	650	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837302	96.233107
+60	44	660	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.834385	96.233901
+60	45	661	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.83153049759267	96.23421838972719
+60	46	640	Sauk Lote Yae	ဆောက်လုပ်ရေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828635	96.240297
+60	47	651	Chauk-sae-ngar Yat Kwet	(၆၅) ရပ်ကွက်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83494	96.242613
+60	48	663	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83794696402446	96.24378874199466
+60	49	773	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83664088788093	96.24995423946531
+60	50	771	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.835104	96.254607
+60	51	779	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832399568107512	96.26484779175372
+60	52	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83235243422156	96.27009980846198
+60	53	780	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832435189283327	96.26510626869276
+60	54	772	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.835108322794763	96.25544635578991
+60	55	666	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83820260250518	96.2441692594439
+60	56	652	Chauk-sae-ngar Yat Kwet	(၆၅) ရပ်ကွက်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.834919	96.242934
+60	57	641	Sauk Lote Yae	ဆောက်လုပ်ရေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828696	96.24063
+60	58	662	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.831941	96.234262
+60	59	659	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.834036	96.234201
+60	60	649	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837404	96.233312
+60	61	658	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.838801	96.232545
+60	62	647	Set Hmu Zone Hnit	စက်မှုဇုံ (၂)	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.842231	96.229738
+60	63	645	G.E.C	ဂျီအီးစီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.844346	96.227206
+60	64	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84753359193457	96.22320997528735
+60	65	702	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.848344950113066	96.22227447107436
+60	66	696	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851439454626906	96.21860755607487
+60	67	678	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85871307235143	96.21468201745303
+60	68	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
+60	69	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
+60	70	632	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843237	96.204109
+60	71	613	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845855511844686	96.20105572510512
+60	72	594	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.844243	96.198775
+60	73	600	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.842046163467096	96.19653980713338
+60	74	596	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840692221664213	96.19498942745851
+60	75	606	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.839107162036793	96.1929774354212
+60	76	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838743682092584	96.19168509263547
+60	77	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107101137917	96.18616104125977
+60	78	1071	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835962	96.183033
+60	79	1056	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834883	96.180404
+60	80	1060	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833882	96.176488
+60	81	1050	Than Lan	သံလမ်း	Yadanar Road	ရတနာလမ်း	Yankin	ရန်ကင်း	16.83370371459609	96.17289694842387
+60	82	1047	Moe Kaung	မိုးကောင်း	Kanbe Road	ကန်ဘဲ့လမ်း	Yankin	ရန်ကင်း	16.837754509616378	96.16616418097692
+60	83	1052	Yankin Sar Taik	ရန်ကင်းစာတိုက်	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.834796	96.1626
+60	84	6	Sae-hnat-lone-Tan	(၁၂) လုံးတန်း	Yankin Road	ရန်ကင်းလမ်း	Yankin	ရန်ကင်း	16.83090737715405	96.16340025560933
+60	85	331	Yankin Zay	ရန်ကင်းဈေး	Yanshin Street	ရန်ရှင်းလမ်းသွယ်	Yankin	ရန်ကင်း	16.82892	96.159207
+60	86	326	Set Hmu Tit	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.827675	96.15721
+60	87	2424	Set Hmu Tit/Myanmar Plaza	စက်မှု (၁)/မြန်မာပလာဇာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.8270325276271	96.1542052030563
+60	88	2323	Koke Kine	ကုက္ကိုင်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.823558610330995	96.15304296836257
+60	89	2325	Inya Myaing	အင်ယာမြိုင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.8248228559485	96.1472372012213
+60	90	2337	Thanlwin	သံလွင်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.82406009744107	96.14524126052858
+60	91	2329	UFL	ယူအပ်ဖ်အယ်	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း	16.825133	96.142044
+60	92	2331	Kyuanlan	ကျောင်းလမ်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.825918	96.13846
+60	93	318	Kyaung Shae/ Dhamar Yon	ကျောင်းရှေ့/ဓမ္မာရုံ	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Kamayut	ကမာရွတ်	16.826485	96.132192
+60	94	290	Hledan Zay	လှည်းတန်းဈေး	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.826593902284788	96.12880632519592
+60	95	295	Kyaung Shae/ Kone Sin	ကျောင်းရှေ့/ကုန်းဆင်း	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.825525	96.126583
+60	96	307	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.824419955044178	96.12302745692432
+60	97	309	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.83009203973736	96.12186057027431
+60	98	1183	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833338	96.120733
+60	99	1163	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833749	96.116288
+60	100	1160	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.836931	96.113665
+60	101	1164	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840732	96.112821
+60	102	1166	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843648	96.11237
