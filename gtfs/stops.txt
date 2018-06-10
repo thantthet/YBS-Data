@@ -1122,8 +1122,8 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1372,ကုလားဘုရား (Kalar Paya),အမှတ်(၁)လမ်းမ (No. 1 Main Road),16.905906,96.128758
 1373,ပန်းခြံကုန်း (Pan Chan Kone),အမှတ်(၁)လမ်းမ (No. 1 Main Road),16.91071,96.131977
 1374,ပန်းခြံကုန်း (Pan Chan Kone),အမှတ်(၁)လမ်းမ (No. 1 Main Road),16.9111,96.131848
-1375,-၁၉၉ (Tit-Koe-Koe),ရွှေပြည်သာတံတားလမ်း (Shwe Pyi Thar Bridge Road),16.931731,96.085049
-1376,-၁၉၉ (Tit-Koe-Koe),ရွှေပြည်သာတံတားလမ်း (Shwe Pyi Thar Bridge Road),16.932260749785865,96.08562263776548
+1375,၁၉၉ (Tit-Koe-Koe),ရွှေပြည်သာတံတားလမ်း (Shwe Pyi Thar Bridge Road),16.931731,96.085049
+1376,၁၉၉ (Tit-Koe-Koe),ရွှေပြည်သာတံတားလမ်း (Shwe Pyi Thar Bridge Road),16.9322607497859,96.0856226377655
 1377,အောင်ဆန်းဈေး (Aung San Zay),အောက်မင်္ဂလာဒုံလမ်း (Lower Mingalardon Road),16.921601395436287,96.097571910359
 1378,အောင်ဆန်းဈေး (Aung San Zay),အောက်မင်္ဂလာဒုံလမ်း (Lower Mingalardon Road),16.92132490016646,96.0976821674194
 1379,ဘိုခြံ (Bo Chan),အောက်မင်္ဂလာဒုံလမ်း (Lower Mingalardon Road),16.930100441055117,96.10094076488167
