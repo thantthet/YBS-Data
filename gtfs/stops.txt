@@ -593,8 +593,8 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 705,ကားလေးဂိတ် (Kar Lay Gate),လှော်ကားလမ်း (Hlawga Road),16.851626,96.238001
 706,ကုန်တိုက် (Kone Taik),လှော်ကားလမ်း (Hlawga Road),16.848073,96.234933
 707,ကုန်တိုက် (Kone Taik),လှော်ကားလမ်း (Hlawga Road),16.848166,96.234815
-710,ကွမ်းယာဆိုင် (Kun Yar Saing),မောင်းမကန်ကန်သာလမ်း (Maungmakan Kantha Road),16.860179,96.232034
-711,ကွမ်းယာဆိုင် (Kun Yar Saing),မောင်းမကန်ကန်သာလမ်း (Maungmakan Kantha Road),16.860241,96.232442
+710,သပြေညို (Thapyay Nyo),မောင်းမကန်ကန်သာလမ်း (Maungmakan Kantha Road),16.860179,96.232034
+711,သပြေညို (Thapyay Nyo),မောင်းမကန်ကန်သာလမ်း (Maungmakan Kantha Road),16.860241,96.232442
 712,ကျန်းမာရေး (Kyan Mar Yae),စည်ပင်လမ်း (Si Pin Road),16.856036501877288,96.23299812443294
 713,ကျန်းမာရေး (Kyan Mar Yae),စည်ပင်လမ်း (Si Pin Road),16.85637663877632,96.23302459716798
 714,ကျောင်းရှေ့ (Kyaung Shae),စည်ပင်လမ်း (Si Pin Road),16.85445,96.23124
