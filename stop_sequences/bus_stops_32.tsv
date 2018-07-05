@@ -1,126 +1,195 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-32	1	1634	Paya Shae	ဘုရားရှေ့	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.730064	96.272653
-32	2	1632	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739455	96.268619
-32	3	1630	Aung Chan Thar	အောင်ချမ်းသာ	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.745619	96.265293
-32	4	1812	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.750962	96.261367
-32	5	1643	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.75499102814598	96.2584948539734
-32	6	1810	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.757768	96.2566
-32	7	1628	A Paw Kwae	အပေါ်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760382	96.252367
-32	8	1626	Out Kwae	အောက်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760814	96.251112
-32	9	1624	Yone Shae	ရုံးရှေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.761071	96.248912
-32	10	1622	Phoe Myay	ဖိုးမြေ	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.761831	96.24652
-32	11	1808	Myoma Zay	ဲမြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.763618	96.24622
-32	12	1807	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.768015	96.246542
-32	13	1805	Dar Gude	ဒါကုရ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.770732	96.24658
-32	14	1803	Yay Nan Gate	ရေနံဂိ်တ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773198	96.246896
-32	15	1801	Aung Thukha	အောင်သုခ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.778087	96.247427
-32	16	508	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778698	96.244222
-32	17	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803148852769496	96.22343016788365
-32	18	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806509987261613	96.21929759625347
-32	19	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806458694576083	96.21675431728363
-32	20	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
-32	21	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80369721392604	96.21009579626845
-32	22	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803809991254493	96.20589055353776
-32	23	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80397618824476	96.20196646079421
-32	24	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804283205959198	96.19628983782606
-32	25	572	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815698094823947	96.1900429520756
-32	26	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822849160856567	96.18339463602754
-32	27	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826169891044863	96.18673495016994
-32	28	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828191207971237	96.18817244656385
-32	29	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
-32	30	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638
-32	31	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
-32	32	14	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.841680924239533	96.18324872804807
-32	33	1072	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844541	96.181267
-32	34	1068	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846759	96.179625
-32	35	1077	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.849540622118948	96.17771046934651
-32	36	17	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852036008309625	96.17587229702623
-32	37	303	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854805688595036	96.17346153594553
-32	38	2125	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856129688374033	96.1720715649426
-32	39	1081	Pinya	ပင်းယ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85943	96.176149
-32	40	1073	Bay Li	ဘေလီ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.860898	96.177126
-32	41	1288	Lay-Thone-Chauk Hmat Taing	(၄၃၆) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.866689	96.168215
-32	42	1286	Lay-Thone-Ngar Hmat Taing	(၄၃၅) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.870478	96.16174
-32	43	1282	Oak Pon Seik	အုတ်ပုံဆိပ်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87365	96.159584
-32	44	1278	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876771	96.15867
-32	45	1273	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879179	96.158356
-32	46	1277	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881479	96.158035
-32	47	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
-32	48	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
-32	49	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
-32	50	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
-32	51	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
-32	52	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
-32	53	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
-32	54	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
-32	55	857	Ou Zanar	ဥဇ္ဇနာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.910726	96.166001
-32	56	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913262787735245	96.16538791917266
-32	57	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730295539416	96.16369077237324
-32	58	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
-32	59	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924198	96.158284
-32	60	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
-32	61	815	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9300066563304	96.154864858836
-32	62	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044
-32	63	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
-32	64	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
-32	65	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
-32	66	814	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9295660314581	96.1546517489478
-32	67	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
-32	68	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924125873138063	96.15775667829439
-32	69	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
-32	70	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
-32	71	848	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91255523875324	96.1656310572289
-32	72	858	Ou Zanar	ဥဇ္ဇနာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.910967	96.165856
-32	73	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
-32	74	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
-32	75	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
-32	76	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
-32	77	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
-32	78	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892729094424542	96.15465329959991
-32	79	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889501887498064	96.15369533188642
-32	80	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882105361836498	96.15514125209302
-32	81	1276	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881386	96.158051
-32	82	1272	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879066	96.158233
-32	83	1279	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876689	96.158391
-32	84	1283	Oak Pon Seik	အုတ်ပုံဆိပ်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.873691	96.159359
-32	85	1287	Lay-Thone-Ngar Hmat Taing	(၄၃၅) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.870354	96.161612
-32	86	1289	Lay-Thone-Chauk Hmat Taing	(၄၃၆) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.866730096088645	96.16781502496453
-32	87	1074	Bay Li	ဘေလီ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.86095	96.177093
-32	88	1247	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856264313885067	96.17213245946915
-32	89	304	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85492188488732	96.17310744244607
-32	90	16	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.851780308296124	96.17582898354159
-32	91	1076	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84950257748793	96.17750647477808
-32	92	1067	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846687	96.179389
-32	93	2132	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844449	96.181095
-32	94	15	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84227260172592	96.18263882541216
-32	95	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
-32	96	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
-32	97	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
-32	98	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
-32	99	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826232	96.186427
-32	100	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82310570226515	96.18332737125458
-32	101	571	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81558847378813	96.18976532248782
-32	102	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804202705380796	96.19609439279887
-32	103	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803823411391047	96.20176495984198
-32	104	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80371470625175	96.20586662320422
-32	105	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803537897279856	96.20986435096712
-32	106	529	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804750521874205	96.21352799702437
-32	107	553	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80611452972553	96.21627231594177
-32	108	551	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806431	96.218966
-32	109	545	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.80298	96.223301
-32	110	507	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77839	96.243879
-32	111	1800	Aung Thukha	အောင်သုခ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.778113	96.247347
-32	112	1802	Yay Nan Gate	ရေနံဂိ်တ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773066381424545	96.24667687341571
-32	113	1804	Dar Gude	ဒါကုရ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.770742	96.246504
-32	114	1806	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.768025	96.246483
-32	115	1809	Myoma Zay	ဲမြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.763616840580703	96.2460969714448
-32	116	1621	Phoe Myay	ဖိုးမြေ	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.76179	96.246359
-32	117	1623	Yone Shae	ရုံးရှေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760886	96.248676
-32	118	1625	Out Kwae	အောက်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760886	96.250929
-32	119	1627	A Paw Kwae	အပေါ်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760208	96.252088
-32	120	1811	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.757735198524692	96.25641010701658
-32	121	541	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.75506077459433	96.25814553815873
-32	122	1813	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.75087108658183	96.2610245961696
-32	123	1629	Aung Chan Thar	အောင်ချမ်းသာ	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.745436727103243	96.2650060420856
-32	124	1631	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739825	96.26804
-32	125	1633	Paya Shae	ဘုရားရှေ့	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.730598	96.272482
+32	1	2470	Myanmar Maritime University	ရေကြောင်းတက္ကသိုလ်	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7050420217377	96.266485909
+32	2	2473	Yay Kyaung Lan Sone	ရေကြောင်းလမ်းဆုံ	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7170219134721	96.2614136841148
+32	3	2474	Phar Out	ဖားအောက်	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7275224452235	96.268748708535
+32	4	2476	Kyeik Kouk Phayar	ကျိုက်ခေါက်ဘုရား	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7296468766281	96.2694156565704
+32	5	1632	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739455	96.268619
+32	6	1630	Aung Chan Thar	အောင်ချမ်းသာ	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.745619	96.265293
+32	7	1812	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.750962	96.261367
+32	8	1643	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.75499102814598	96.2584948539734
+32	9	1810	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.757768	96.2566
+32	10	1628	A Paw Kwae	အပေါ်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760382	96.252367
+32	11	1626	Out Kwae	အောက်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760814	96.251112
+32	12	1624	Yone Shae	ရုံးရှေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.761071	96.248912
+32	13	1622	Phoe Myay	ဖိုးမြေ	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.761831	96.24652
+32	14	1808	Myoma Zay	ဲမြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.763618	96.24622
+32	15	1807	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.768015	96.246542
+32	16	1805	Dar Gude	ဒါကုရ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.770732	96.24658
+32	17	1803	Yay Nan Gate	ရေနံဂိ်တ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773198	96.246896
+32	18	1801	Aung Thukha	အောင်သုခ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.778087	96.247427
+32	19	1619	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77895653734981	96.24703176319599
+32	20	508	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778698	96.244222
+32	21	549	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801239084808206	96.22554207220674
+32	22	547	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.80292131131073	96.22375226346777
+32	23	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803148852769496	96.22343016788365
+32	24	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806509987261613	96.21929759625347
+32	25	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806458694576083	96.21675431728363
+32	26	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
+32	27	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80369721392604	96.21009579626845
+32	28	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803809991254493	96.20589055353776
+32	29	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80397618824476	96.20196646079421
+32	30	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804283205959198	96.19628983782606
+32	31	2394	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.813132865739	96.1919460841455
+32	32	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822849160856567	96.18339463602754
+32	33	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826169891044863	96.18673495016994
+32	34	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
+32	35	368	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828169138152795	96.18795208289158
+32	36	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
+32	37	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638
+32	38	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
+32	39	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
+32	40	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
+32	41	14	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.841680924239533	96.18324872804807
+32	42	1072	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844541	96.181267
+32	43	1068	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846759	96.179625
+32	44	1077	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.849540622118948	96.17771046934651
+32	45	17	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852036008309625	96.17587229702623
+32	46	303	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854805688595036	96.17346153594553
+32	47	2125	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856129688374033	96.1720715649426
+32	48	1081	Pinya	ပင်းယ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85943	96.176149
+32	49	1073	Bay Li	ဘေလီ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.860898	96.177126
+32	50	1288	Lay-Thone-Chauk Hmat Taing	(၄၃၆) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.866689	96.168215
+32	51	1286	Lay-Thone-Ngar Hmat Taing	(၄၃၅) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.870478	96.16174
+32	52	1282	Oak Pon Seik	အုတ်ပုံဆိပ်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87365	96.159584
+32	53	1278	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876771	96.15867
+32	54	1273	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879179	96.158356
+32	55	1277	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881479	96.158035
+32	56	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
+32	57	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
+32	58	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
+32	59	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
+32	60	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
+32	61	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
+32	62	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
+32	63	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
+32	64	857	Ou Zanar	ဥဇ္ဇနာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.910726	96.166001
+32	65	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913262787735245	96.16538791917266
+32	66	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730295539416	96.16369077237324
+32	67	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
+32	68	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924198	96.158284
+32	69	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
+32	70	815	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9300066563304	96.154864858836
+32	71	1419	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.936410575360362	96.15300512406976
+32	72	1416	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940866	96.15189
+32	73	590	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.948091	96.150602
+32	74	1423	Oh Eain	အိုးအိမ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.953099	96.149787
+32	75	1420	Nyaung Pin	ညောင်ပင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.957102	96.1491
+32	76	1424	Thingangyun	သင်္ဃန်းကျွန်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.96252	96.148303
+32	77	51	Sae-Hnit Lan	(၁၂) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.964706	96.148168
+32	78	1450	Palae Eain Yar	ပုလဲအိမ်ယာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.96878	96.14807
+32	79	1448	Chauk Lan	(၆) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970627	96.147941
+32	80	1458	Yakhine Kyaung	ရခိုင်ကျောင်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974013	96.147877
+32	81	1454	Tadar Phyu	တံတားဖြူ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.977277	96.14777
+32	82	1453	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.981915	96.147276
+32	83	1457	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.984069	96.146611
+32	84	1428	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.988995	96.144723
+32	85	55	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.992381	96.144336
+32	86	1440	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99431	96.144186
+32	87	1432	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99669	96.144723
+32	88	1465	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.000732	96.144658
+32	89	1479	Tat Yin Koe	တပ်ရင်း (၉)	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.003503	96.14453
+32	90	1482	Yae Set	ရေစက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.006313735772967	96.14486009348187
+32	91	1476	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.015137	96.145474
+32	92	1480	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.019897	96.142963
+32	93	61	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022462	96.14071
+32	94	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02437	96.13865
+32	95	66	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026483	96.136247
+32	96	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
+32	97	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037527726843194	96.13150835037233
+32	98	1970	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.042337215160796	96.133386567235
+32	99	1972	Myo Shouk Lan	မြို့လျှောက်လမ်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.04846676126468	96.14161694655195
+32	100	1971	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.04259003163401	96.13333130953836
+32	101	2207	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037858185780333	96.1312585277483
+32	102	1468	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.031038	96.13187
+32	103	65	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026319	96.13614
+32	104	1470	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.024106080620214	96.13848494365811
+32	105	62	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022687	96.140088
+32	106	1481	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.020123	96.142577
+32	107	1477	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.015301	96.145109
+32	108	1483	Yae Set	ရေစက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.006469234153574	96.14451098721477
+32	109	1478	Tat Yin Koe	တပ်ရင်း (၉)	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.002538	96.144294
+32	110	1464	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.000527	96.144336
+32	111	1433	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99698455866258	96.14451358560474
+32	112	1441	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.994658	96.143864
+32	113	56	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99277	96.143972
+32	114	1429	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.989097	96.144401
+32	115	1456	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.983823	96.146332
+32	116	1452	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.981853	96.146933
+32	117	1455	Tadar Phyu	တံတားဖြူ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.977440741057922	96.14751631859691
+32	118	1459	Yakhine Kyaung	ရခိုင်ကျောင်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974957	96.147534
+32	119	1449	Chauk Lan	(၆) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970791	96.147684
+32	120	1451	Palae Eain Yar	ပုလဲအိမ်ယာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.968842	96.147727
+32	121	52	Sae-Hnit Lan	(၁၂) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.964983	96.147943
+32	122	1425	Thingangyun	သင်္ဃန်းကျွန်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.962554092600918	96.14797807764262
+32	123	1421	Nyaung Pin	ညောင်ပင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.957061	96.148778
+32	124	1422	Oh Eain	အိုးအိမ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.953038	96.149508
+32	125	589	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.947966453810754	96.15033205132933
+32	126	1415	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940763	96.151611
+32	127	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044
+32	128	814	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9295660314581	96.1546517489478
+32	129	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
+32	130	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924125873138063	96.15775667829439
+32	131	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
+32	132	2401	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9173295590306	96.163487280719
+32	133	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
+32	134	858	Ou Zanar	ဥဇ္ဇနာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.910967	96.165856
+32	135	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
+32	136	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
+32	137	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
+32	138	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
+32	139	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
+32	140	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892729094424542	96.15465329959991
+32	141	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889501887498064	96.15369533188642
+32	142	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882105361836498	96.15514125209302
+32	143	1276	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881386	96.158051
+32	144	1272	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879066	96.158233
+32	145	1279	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876689	96.158391
+32	146	1283	Oak Pon Seik	အုတ်ပုံဆိပ်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.873691	96.159359
+32	147	1287	Lay-Thone-Ngar Hmat Taing	(၄၃၅) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.870354	96.161612
+32	148	1289	Lay-Thone-Chauk Hmat Taing	(၄၃၆) မှတ်တိုင်	Thanthumar Road	သံသုမာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.866730096088645	96.16781502496453
+32	149	1074	Bay Li	ဘေလီ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.86095	96.177093
+32	150	2352	Pinya	ပင်းယ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85955	96.176045
+32	151	1247	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856264313885067	96.17213245946915
+32	152	304	Ta Kaung	တကောင်း	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85492188488732	96.17310744244607
+32	153	16	Nandawun Zay	နန္ဒဝန်ဈေး	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.851780308296124	96.17582898354159
+32	154	1076	Inwa	အင်းဝ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84950257748793	96.17750647477808
+32	155	1067	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846687	96.179389
+32	156	1066	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846384	96.179937
+32	157	2132	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844449	96.181095
+32	158	15	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84227260172592	96.18263882541216
+32	159	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
+32	160	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
+32	161	369	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828347114200742	96.18792818038857
+32	162	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828191207971237	96.18817244656385
+32	163	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826232	96.186427
+32	164	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82310570226515	96.18332737125458
+32	165	572	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815698094823947	96.1900429520756
+32	166	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804202705380796	96.19609439279887
+32	167	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803823411391047	96.20176495984198
+32	168	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80371470625175	96.20586662320422
+32	169	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803537897279856	96.20986435096712
+32	170	529	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804750521874205	96.21352799702437
+32	171	553	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80611452972553	96.21627231594177
+32	172	551	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806431	96.218966
+32	173	545	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.80298	96.223301
+32	174	550	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801254430912103	96.22528231702745
+32	175	507	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77839	96.243879
+32	176	1618	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778739	96.247226
+32	177	1800	Aung Thukha	အောင်သုခ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.778113	96.247347
+32	178	1802	Yay Nan Gate	ရေနံဂိ်တ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773066381424545	96.24667687341571
+32	179	1804	Dar Gude	ဒါကုရ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.770742	96.246504
+32	180	1806	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.768025	96.246483
+32	181	1809	Myoma Zay	ဲမြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.763616840580703	96.2460969714448
+32	182	1621	Phoe Myay	ဖိုးမြေ	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.76179	96.246359
+32	183	1623	Yone Shae	ရုံးရှေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760886	96.248676
+32	184	1625	Out Kwae	အောက်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760886	96.250929
+32	185	1627	A Paw Kwae	အပေါ်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760208	96.252088
+32	186	1811	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.757735198524692	96.25641010701658
+32	187	541	Thama College	သမကောလိပ်	Thanlyin	သံလျင်	Thanlyin	သန်လျင်	16.75506077459433	96.25814553815873
+32	188	1813	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.75087108658183	96.2610245961696
+32	189	1629	Aung Chan Thar	အောင်ချမ်းသာ	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.745436727103243	96.2650060420856
+32	190	1631	Sae-Shit Kone	(၁၈) ကုန်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.739825	96.26804
+32	191	2477	Kyeik Kouk Phayar	ကျိုက်ခေါက်ဘုရား	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7296571513517	96.2692976393737
+32	192	2475	Phar Out	ဖားအောက်	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7275646884508	96.2686614738777
+32	193	2472	Yay Kyaung Lan Sone	ရေကြောင်းလမ်းဆုံ	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7169385060719	96.2613621773198
+32	194	2471	Myanmar Maritime University	ရေကြောင်းတက္ကသိုလ်	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်	16.7050022823246	96.2664020061493
