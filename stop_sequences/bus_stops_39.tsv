@@ -2,7 +2,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	1	121	Maw Tin	မော်တင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Lanmadaw	လမ်းမတော်	16.774861611885502	96.14233911037446
 39	2	1284	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.77531801226666	96.14491745320267
 39	3	126	Sanpya	စံပြ	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.777905085915634	96.14501520060006
-39	4	118	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.783	96.14361
+39	4	118	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.78301131037706	96.14358860068025
 39	5	196	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.786334463253585	96.14242921583356
 39	6	198	Halpin	ဟယ်(လ်)ပင်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.79028	96.141303
 39	7	268	Myaynigone	မြေနီကုန်း (ပြည်လမ်း)	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.7995437639817	96.13851143047215
@@ -114,7 +114,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 39	113	269	Myaynigone	မြေနီကုန်း (ပြည်လမ်း)	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.805399	96.136748
 39	114	199	Halpin	ဟယ်(လ်)ပင်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.79105778473302	96.14084245869891
 39	115	197	Bago Kalat	ပဲခူးကလပ်	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.78724498784618	96.14205184159802
-39	116	117	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.78185953636945	96.14384005777539
+39	116	117	Sein Gyun	စိန်ဂျွန်း	Pyay Road	ပြည်လမ်း	Dagon	ဒဂုံ	16.781941992465832	96.14384621847422
 39	117	125	Sanpya	စံပြ	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.778647	96.144935
 39	118	2423	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.7752417060581	96.1447477340698
 39	119	123	Maw Tin	မော်တင်	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.77462749596752	96.14231471903625
