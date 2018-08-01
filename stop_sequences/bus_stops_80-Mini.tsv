@@ -1,5 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-80-Mini	1	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80397618824476	96.20196646079421
+80-Mini	1	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803925877813356	96.20191101450476
 80-Mini	2	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803809991254493	96.20589055353776
 80-Mini	3	522	Kyaung Kwae	ကျောင်းကွေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.803614185536972	96.2065722118132
 80-Mini	4	527	Paya Shae	ဘုရားရှေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.801955174820478	96.20668983086945
@@ -28,7 +28,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-Mini	27	185	Mingalar Zay/ Layy Lan	မင်္ဂလာဈေး/ (၄)လမ်း	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791507840376276	96.17247557267548
 80-Mini	28	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791853797107102	96.17441874928774
 80-Mini	29	451	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.78255539648769	96.18273277999835
-80-Mini	30	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781900684172875	96.18712900439277
+80-Mini	30	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781964622745882	96.187147423625
 80-Mini	31	477	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.77991	96.191028
 80-Mini	32	431	Man Pyae	မာန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.7784294714913	96.19375705718996
 80-Mini	33	435	Thone Gate Haung	(၃) ဂိတ်ဟောင်း	Myintawthar Road	မြင်တော်သာလမ်း	Daw Bon	ဒေါပုံ	16.777582603942278	96.19534492492677
@@ -44,4 +44,4 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-Mini	43	528	Paya Shae	ဘုရားရှေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.80207503442768	96.20659907581286
 80-Mini	44	521	Kyaung Kwae	ကျောင်းကွေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.803613042116037	96.2064541107975
 80-Mini	45	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80371470625175	96.20586662320422
-80-Mini	46	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803823411391047	96.20176495984198
+80-Mini	46	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80387992038607	96.20176776777953

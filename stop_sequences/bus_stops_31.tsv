@@ -1,9 +1,9 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 31	1	167	Botahtaung Paya	ဗိုလ်တထောင်ဘုရား	Strand Road	ကမ်းနားလမ်း	Seikkan	ဆိပ်ကမ်း	16.769591556452138	96.17250742390753
 31	2	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.771537636398886	96.17269266396762
-31	3	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.773757	96.174186
-31	4	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773551349520524	96.17727521806958
-31	5	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781900684172875	96.18712900439277
+31	3	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.77377908667666	96.17418332258242
+31	4	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773625182052797	96.17738384753467
+31	5	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781964622745882	96.187147423625
 31	6	477	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.77991	96.191028
 31	7	431	Man Pyae	မာန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.7784294714913	96.19375705718996
 31	8	435	Thone Gate Haung	(၃) ဂိတ်ဟောင်း	Myintawthar Road	မြင်တော်သာလမ်း	Daw Bon	ဒေါပုံ	16.777582603942278	96.19534492492677
@@ -62,5 +62,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 31	61	430	Man Pyae	မာန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.778396729199493	96.1940399883315
 31	62	478	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.77987692794149	96.19138317648323
 31	63	472	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781293798309072	96.18871798273177
-31	64	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77385	96.177383
+31	64	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77371660996132	96.17738485336305
 31	65	413	Botahtaung Zay	ဗိုလ်တထောင်ဈေး	Strand Road	ကမ်းနားလမ်း	Pazundaung	ပုဇွန်တောင်	16.769349354982467	96.17495725840854

@@ -20,17 +20,17 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 32-Mini	19	1618	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778739	96.247226
 32-Mini	20	508	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778698	96.244222
 32-Mini	21	549	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801239084808206	96.22554207220674
-32-Mini	22	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803148852769496	96.22343016788365
+32-Mini	22	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803144078473853	96.22349219396712
 32-Mini	23	547	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.80292131131073	96.22375226346777
-32-Mini	24	545	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.80298	96.223301
-32-Mini	25	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806509987261613	96.21929759625347
-32-Mini	26	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806458694576083	96.21675431728363
+32-Mini	24	545	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.80307737874286	96.2232931656763
+32-Mini	25	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.80646595619294	96.21927025029437
+32-Mini	26	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806456548186517	96.21683321194723
 32-Mini	27	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
-32-Mini	28	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80369721392604	96.21009579626845
+32-Mini	28	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803656271446375	96.21009707450868
 32-Mini	29	522	Kyaung Kwae	ကျောင်းကွေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.803614185536972	96.2065722118132
 32-Mini	30	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803809991254493	96.20589055353776
-32-Mini	31	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80397618824476	96.20196646079421
-32-Mini	32	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804283205959198	96.19628983782606
+32-Mini	31	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803925877813356	96.20191101450476
+32-Mini	32	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804257850186374	96.19623910635711
 32-Mini	33	572	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815698094823947	96.1900429520756
 32-Mini	34	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822849160856567	96.18339463602754
 32-Mini	35	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826169891044863	96.18673495016994
@@ -110,8 +110,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 32-Mini	109	361	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826232	96.186427
 32-Mini	110	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82310570226515	96.18332737125458
 32-Mini	111	2393	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8131511194368	96.1917712166905
-32-Mini	112	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804202705380796	96.19609439279887
-32-Mini	113	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803823411391047	96.20176495984198
+32-Mini	112	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804242484265444	96.19614460039885
+32-Mini	113	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80387992038607	96.20176776777953
 32-Mini	114	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80371470625175	96.20586662320422
 32-Mini	115	521	Kyaung Kwae	ကျောင်းကွေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.803613042116037	96.2064541107975
 32-Mini	116	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803537897279856	96.20986435096712

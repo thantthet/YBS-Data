@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 89-MyinTawThar	1	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
-89-MyinTawThar	2	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80369721392604	96.21009579626845
+89-MyinTawThar	2	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803656271446375	96.21009707450868
 89-MyinTawThar	3	521	Kyaung Kwae	ကျောင်းကွေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.803613042116037	96.2064541107975
 89-MyinTawThar	4	528	Paya Shae	ဘုရားရှေ့	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.80207503442768	96.20659907581286
 89-MyinTawThar	5	516	Khun Zay	(၇) ဈေး	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.798961508627155	96.2058216542937
@@ -16,7 +16,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 89-MyinTawThar	15	430	Man Pyae	မာန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.778396729199493	96.1940399883315
 89-MyinTawThar	16	478	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.77987692794149	96.19138317648323
 89-MyinTawThar	17	472	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781293798309072	96.18871798273177
-89-MyinTawThar	18	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77385	96.177383
+89-MyinTawThar	18	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77371660996132	96.17738485336305
 89-MyinTawThar	19	418	Gandee	ဂန္ဓီ	Merchant Road	ကုန်သည်လမ်း	Pazundaung	ပုဇွန်တောင်	16.771189	96.174722
 89-MyinTawThar	20	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.771537636398886	96.17269266396762
 89-MyinTawThar	21	155	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်	16.771425522061257	96.1712548742071
@@ -55,14 +55,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 89-MyinTawThar	54	134	Sae-ngar Lan	(၁၅) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774744	96.146441
 89-MyinTawThar	55	131	Maung Khaing	မောင်ခိုင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774456	96.15187
 89-MyinTawThar	56	143	Theingyi Zay/ Kone Zay Tan	သိမ်ကြီးဈေး/ကုန်ဈေးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pabedan	ပန်းဘဲတန်း	16.774497	96.153833
-89-MyinTawThar	57	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.77415838048883	96.15955453431526
-89-MyinTawThar	58	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774148	96.163092
-89-MyinTawThar	59	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774022586607206	96.16582614602521
-89-MyinTawThar	60	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77393458964481	96.16845360025765
-89-MyinTawThar	61	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77381447810167	96.17123553296553
-89-MyinTawThar	62	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.773757	96.174186
-89-MyinTawThar	63	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773551349520524	96.17727521806958
-89-MyinTawThar	64	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781900684172875	96.18712900439277
+89-MyinTawThar	57	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.774245735327835	96.15955352783205
+89-MyinTawThar	58	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774167148075545	96.1630940437317
+89-MyinTawThar	59	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774037199157437	96.16584133822472
+89-MyinTawThar	60	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773966998215048	96.16845309734346
+89-MyinTawThar	61	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773862730005543	96.1712372303009
+89-MyinTawThar	62	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.77377908667666	96.17418332258242
+89-MyinTawThar	63	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773625182052797	96.17738384753467
+89-MyinTawThar	64	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781964622745882	96.187147423625
 89-MyinTawThar	65	477	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.77991	96.191028
 89-MyinTawThar	66	431	Man Pyae	မာန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.7784294714913	96.19375705718996
 89-MyinTawThar	67	435	Thone Gate Haung	(၃) ဂိတ်ဟောင်း	Myintawthar Road	မြင်တော်သာလမ်း	Daw Bon	ဒေါပုံ	16.777582603942278	96.19534492492677

@@ -6,10 +6,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 84	5	502	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.792878683953163	96.20340728899467
 84	6	460	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793800290991058	96.20135923381896
 84	7	400	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795256	96.198171
-84	8	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
+84	8	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.79648420025332	96.19548993185163
 84	9	409	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799601	96.196862
 84	10	407	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802389	96.19669
-84	11	405	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.803753863378656	96.19596491334961
+84	11	405	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.803721707193578	96.19594672461973
 84	12	2394	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.813132865739	96.1919460841455
 84	13	357	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822849160856567	96.18339463602754
 84	14	360	Khap Chee Yar	ခပ်ချီးယား	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.826169891044863	96.18673495016994
@@ -63,9 +63,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 84	62	356	Athin Taik	အသင်းတိုက်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82310570226515	96.18332737125458
 84	63	572	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815698094823947	96.1900429520756
 84	64	406	Kyauk Taing	ကျောက်တိုင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.804654	96.195043
-84	65	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
-84	66	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
-84	67	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
+84	65	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.80246923659517	96.19655983988197
+84	66	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799613273416288	96.1967783770524
+84	67	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796411660495362	96.19535839883612
 84	68	399	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795174	96.19815
 84	69	459	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793695	96.20092
 84	70	501	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.79281159945252	96.2031506560743

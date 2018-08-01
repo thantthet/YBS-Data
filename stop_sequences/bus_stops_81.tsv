@@ -25,28 +25,28 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 81	24	500	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.793286245858457	96.20301669230687
 81	25	460	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793800290991058	96.20135923381896
 81	26	400	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795256	96.198171
-81	27	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796412	96.195339
-81	28	467	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.193818
-81	29	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78947198910385	96.19170282036067
-81	30	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786238	96.189934
+81	27	395	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796411660495362	96.19535839883612
+81	28	467	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793654065915273	96.19393487926574
+81	29	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789451747038292	96.19179095607251
+81	30	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786142631820557	96.19004884036259
 81	31	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781991325670376	96.18769811466336
-81	32	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77385	96.177383
-81	33	415	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.773932	96.174293
+81	32	2219	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77371660996132	96.17738485336305
+81	33	415	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.77384041977127	96.17437187349427
 81	34	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.771537636398886	96.17269266396762
 81	35	155	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်	16.771425522061257	96.1712548742071
 81	36	147	Bokalay Zay	ဘိုကလေးဈေး	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77159734508142	96.16637403616551
 81	37	151	Pansodan (Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း)	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165175700966	96.16308339871469
-81	38	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774148	96.163092
-81	39	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774022586607206	96.16582614602521
-81	40	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77393458964481	96.16845360025765
-81	41	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.77381447810167	96.17123553296553
-81	42	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.773757	96.174186
-81	43	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773551349520524	96.17727521806958
-81	44	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781900684172875	96.18712900439277
-81	45	475	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78558	96.189977
-81	46	473	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789536988387997	96.19198579341175
-81	47	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.194204
-81	48	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
+81	38	149	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774167148075545	96.1630940437317
+81	39	146	Bokalay Zay	ဘိုကလေးဈေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား	16.774037199157437	96.16584133822472
+81	40	159	Lay-sae-chauk Lan	(၄၆) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773966998215048	96.16845309734346
+81	41	157	Lan Ngar Sae	လမ်း(၅၀)	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773862730005543	96.1712372303009
+81	42	416	Gandee	ဂန္ဓီ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Pazundaung	ပုဇွန်တောင်	16.77377908667666	96.17418332258242
+81	43	2220	Ocean	အိုးရှင်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Botahtaung	ဗိုလ်တထောင်	16.773625182052797	96.17738384753467
+81	44	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781964622745882	96.187147423625
+81	45	475	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.785668248425793	96.18991768453272
+81	46	473	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78953502236059	96.19193950435148
+81	47	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793775034122927	96.19409279432148
+81	48	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.79648420025332	96.19548993185163
 81	49	399	Anawmar	အနော်မာ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.795174	96.19815
 81	50	459	Htu Par Yon	ထူပါရုံ	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ	16.793695	96.20092
 81	51	519	Kyan Mar Yae	ကျန်းမာရေး	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.796244493961968	96.20461510028693

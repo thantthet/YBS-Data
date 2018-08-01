@@ -1,22 +1,22 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-9	1	639	Alo Taw Pyae	အလိုတော်ပြည့်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.81998883100594	96.23791845515372
-9	2	643	Thit Sait	သစ်ဆိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.81558654814814	96.23651976697148
+9	1	639	Alo Taw Pyae	အလိုတော်ပြည့်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.820018597497278	96.23800340574235
+9	2	643	Thit Sait	သစ်ဆိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.815545126824926	96.23662282247099
 9	3	559	Than Lan	သံလမ်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.811973972979157	96.23229436576368
 9	4	2143	Paya Lay	ဘုရားလေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.812716	96.22903
 9	5	538	Thone-Sae-Lay Kar Gyi Gate	(၃၄) ကားကြီးဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.810434247803283	96.22448767069727
 9	6	535	Ta Sal Zay	(၁၀) ဈေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.808245204423173	96.22030396945776
-9	7	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806458694576083	96.21675431728363
+9	7	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806456548186517	96.21683321194723
 9	8	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
-9	9	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80369721392604	96.21009579626845
+9	9	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803656271446375	96.21009707450868
 9	10	524	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803809991254493	96.20589055353776
-9	11	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80397618824476	96.20196646079421
-9	12	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804283205959198	96.19628983782606
-9	13	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.802477	96.196551
-9	14	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799616	96.196739
-9	15	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.796504	96.195467
-9	16	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793695	96.194204
-9	17	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78947198910385	96.19170282036067
-9	18	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786238	96.189934
+9	11	398	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803925877813356	96.20191101450476
+9	12	404	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804257850186374	96.19623910635711
+9	13	408	Myayni Lan	မြေနီလမ်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.80246923659517	96.19655983988197
+9	14	410	Tat Phwet	တပ်ဖွဲ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.799613273416288	96.1967783770524
+9	15	396	Tit Zay Kwae	(၁) ဈေးကွေ့	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.79648420025332	96.19548993185163
+9	16	468	Thadar Yon	သဒ္ဓါရုံ	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.793775034122927	96.19409279432148
+9	17	474	Wet Su	ဝက်စု	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.789451747038292	96.19179095607251
+9	18	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786142631820557	96.19004884036259
 9	19	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781991325670376	96.18769811466336
 9	20	452	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.78264304840026	96.18374007521199
 9	21	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791853797107102	96.17441874928774
@@ -30,8 +30,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 9	29	392	Zay Lay	ဈေးလေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.809938	96.183548
 9	30	359	Kaw Set	ကော်စက်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.813935505248818	96.18836680194363
 9	31	570	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.815078499448063	96.19104293407872
-9	32	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804202705380796	96.19609439279887
-9	33	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803823411391047	96.20176495984198
+9	32	403	Kyauk Taing	ကျောက်တိုင်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804242484265444	96.19614460039885
+9	33	397	Anawmar	အနော်မာ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80387992038607	96.20176776777953
 9	34	523	Kyaung Kwae/ Htuu Par Yone	ကျောင်းကွေ့/ထူပါရုံ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80371470625175	96.20586662320422
 9	35	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803537897279856	96.20986435096712
 9	36	529	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804750521874205	96.21352799702437
@@ -40,5 +40,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 9	39	537	Thone-Sae-Lay Kar Gyi Gate	(၃၄) ကားကြီးဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80950883002897	96.22312393505126
 9	40	2144	Paya Lay	ဘုရားလေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.812593	96.229069
 9	41	558	Than Lan	သံလမ်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.811976380075	96.23197799082848
-9	42	642	Thit Sait	သစ်ဆိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.815327910449547	96.23674645554276
-9	43	638	Alo Taw Pyae	အလိုတော်ပြည့်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.81997856116419	96.23819891363382
+9	42	642	Thit Sait	သစ်ဆိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.815399419977282	96.23667323961857
+9	43	638	Alo Taw Pyae	အလိုတော်ပြည့်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.820003533727657	96.23811668716371
