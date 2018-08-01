@@ -33,8 +33,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 76	32	569	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.814838154709474	96.19087100028993
 76	33	359	Kaw Set	ကော်စက်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81390294961131	96.18837193585934
 76	34	392	Zay Lay	ဈေးလေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.80992578411149	96.18358842562886
-76	35	372	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807365	96.180173
-76	36	380	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809533	96.177093
+76	35	372	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807330066555078	96.18016288848594
+76	36	380	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809529852271563	96.17703606141733
 76	37	383	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.810901	96.175102
 76	38	237	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.811882399727807	96.1710895097349
 76	39	350	Mya Lan	မြလမ်း	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Bahan	ဗဟန်း	16.815803476666527	96.16824572185578
@@ -52,8 +52,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 76	51	351	Mya Lan	မြလမ်း	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Bahan	ဗဟန်း	16.816393	96.16748
 76	52	236	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	West Horse Race Course Road	အနောက်မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.811851525336696	96.17080198246187
 76	53	382	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.81067485889442	96.17535173892976
-76	54	381	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809481	96.17689
-76	55	373	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.807201	96.180065
+76	54	381	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809481208242932	96.17696179775523
+76	55	373	Arthawka	အာသောက	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.80724230568274	96.18010130245239
 76	56	391	Zay Lay	ဈေးလေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.809825	96.183666
 76	57	358	Kaw Set	ကော်စက်	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.81376522496099	96.18829467566685
 76	58	2393	Thuwunna Lan Sone	သုဝဏ္ဏလမ်းဆုံ	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8131511194368	96.1917712166905
