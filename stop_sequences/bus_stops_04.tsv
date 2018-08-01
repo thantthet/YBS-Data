@@ -1,5 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-4	1	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.820727	96.265875
+4	1	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82123621147536	96.26615587156266
 4	2	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823479261236997	96.2680244911462
 4	3	790	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827174214026527	96.26915147993715
 4	4	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83235243422156	96.27009980846198
@@ -8,7 +8,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 4	7	774	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.836384391127602	96.24936158390484
 4	8	666	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83820260250518	96.2441692594439
 4	9	651	Chauk-sae-ngar Yat Kwet	(၆၅) ရပ်ကွက်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83494	96.242613
-4	10	2139	Sauk Lote Yae	ဆောက်လုပ်ရေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828347	96.240619
+4	10	2139	Sauk Lote Yae	ဆောက်လုပ်ရေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.8283374064192	96.24063836177811
 4	11	639	Alo Taw Pyae	အလိုတော်ပြည့်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.81998883100594	96.23791845515372
 4	12	643	Thit Sait	သစ်ဆိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.81558654814814	96.23651976697148
 4	13	557	Asean	အာဆီယံ	National Races Village	တိုင်းရင်းသားကျေးရွာ	Thaketa	သာကေတ	16.807075670241478	96.23233510181309
@@ -60,7 +60,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 4	59	555	Asean	အာဆီယံ	National Races Village	တိုင်းရင်းသားကျေးရွာ	Thaketa	သာကေတ	16.806883	96.232313
 4	60	642	Thit Sait	သစ်ဆိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.815327910449547	96.23674645554276
 4	61	638	Alo Taw Pyae	အလိုတော်ပြည့်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.81997856116419	96.23819891363382
-4	62	2140	Sauk Lote Yae	ဆောက်လုပ်ရေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828234	96.240737
+4	62	2140	Sauk Lote Yae	ဆောက်လုပ်ရေး	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828250658142586	96.24069602927194
 4	63	652	Chauk-sae-ngar Yat Kwet	(၆၅) ရပ်ကွက်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.834919	96.242934
 4	64	663	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.83794696402446	96.24378874199466
 4	65	773	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83664088788093	96.24995423946531
@@ -69,4 +69,4 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 4	68	781	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832013330637594	96.27023702021688
 4	69	789	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82707468856849	96.2693357979879
 4	70	791	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82351171494022	96.26775840763004
-4	71	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.821399	96.26605
+4	71	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82127753126424	96.26612567575648

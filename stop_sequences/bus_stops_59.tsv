@@ -3,8 +3,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 59	2	732	Ayar Wun	ဧရာဝဏ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.849192043165782	96.24611821956933
 59	3	730	Awaiyar	အဝေရာ	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.850601637066966	96.24439376872034
 59	4	2136	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85390842379656	96.24016143148766
-59	5	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.856103	96.237529
-59	6	720	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.858028394567956	96.23442374635488
+59	5	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.856038641124687	96.23746423982085
+59	6	720	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.858028354459456	96.23452187748626
 59	7	713	Kyan Mar Yae	ကျန်းမာရေး	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85637663877632	96.23302459716798
 59	8	714	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85445	96.23124
 59	9	688	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.852594536156595	96.22968792915346
@@ -98,9 +98,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 59	97	687	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.852236877975855	96.22972862329335
 59	98	715	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85420667003113	96.23146698810163
 59	99	712	Kyan Mar Yae	ကျန်းမာရေး	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.856036501877288	96.23299812443294
-59	100	721	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.858031128683457	96.2346897670068
+59	100	721	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85800675602665	96.23459486290815
 59	101	2134	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85598	96.237389
-59	102	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.854034266940296	96.23979736352341
+59	102	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85407168896496	96.23980641597882
 59	103	729	Awaiyar	အဝေရာ	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.850287494635474	96.24454011674972
 59	104	731	Ayar Wun	ဧရာဝဏ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.849152	96.245892
 59	105	664	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.838579621501808	96.24387042364107

@@ -4,7 +4,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 5	3	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83235243422156	96.27009980846198
 5	4	790	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827174214026527	96.26915147993715
 5	5	791	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82351171494022	96.26775840763004
-5	6	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.821399	96.26605
+5	6	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82127753126424	96.26612567575648
 5	7	557	Asean	အာဆီယံ	National Races Village	တိုင်းရင်းသားကျေးရွာ	Thaketa	သာကေတ	16.807075670241478	96.23233510181309
 5	8	548	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.80346716562094	96.22400388820097
 5	9	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803148852769496	96.22343016788365
@@ -58,7 +58,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 5	57	547	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.80292131131073	96.22375226346777
 5	58	542	Lelyar Gate Yinn	လယ်ယာ (ဂိတ်ရင်း)	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.804593633361975	96.22562614269555
 5	59	555	Asean	အာဆီယံ	National Races Village	တိုင်းရင်းသားကျေးရွာ	Thaketa	သာကေတ	16.806883	96.232313
-5	60	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.820727	96.265875
+5	60	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82123621147536	96.26615587156266
 5	61	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823479261236997	96.2680244911462
 5	62	789	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82707468856849	96.2693357979879
 5	63	781	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832013330637594	96.27023702021688

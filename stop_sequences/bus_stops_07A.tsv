@@ -9,11 +9,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 7A	8	736	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861514	96.246346
 7A	9	717	Ngar-sae Lay Tha Ma	(၅၄) သမ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.859892	96.244973
 7A	10	718	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85421004610765	96.24012379674242
-7A	11	2137	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85176	96.237883
-7A	12	704	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849706	96.236123
-7A	13	707	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848166	96.234815
-7A	14	668	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845968	96.232785
-7A	15	654	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.844059	96.231197
+7A	11	2137	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.851689559776855	96.23795613180849
+7A	12	704	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849672384434964	96.2361857062206
+7A	13	707	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848127169693857	96.23488533776255
+7A	14	668	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845890508766836	96.23292652890088
+7A	15	654	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.843938533011876	96.23138951836154
 7A	16	647	Set Hmu Zone Hnit	စက်မှုဇုံ (၂)	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.842231	96.229738
 7A	17	645	G.E.C	ဂျီအီးစီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.844346	96.227206
 7A	18	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84753359193457	96.22320997528735
@@ -84,12 +84,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 7A	83	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84716076229892	96.22348121367396
 7A	84	644	G.E.C	ဂျီအီးစီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.843935	96.227185
 7A	85	646	Set Hmu Zone Hnit	စက်မှုဇုံ (၂)	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.84219	96.229287
-7A	86	653	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.84375	96.231433
-7A	87	667	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845599	96.232957
-7A	88	706	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848073	96.234933
-7A	89	703	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849573	96.236241
-7A	90	705	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.851626	96.238001
-7A	91	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85424167230216	96.24028146034107
+7A	86	653	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.84376623400407	96.23136122943835
+7A	87	667	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845669055354318	96.23283600434662
+7A	88	706	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848082987854298	96.2349270586856
+7A	89	703	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849592564960716	96.23621470760554
+7A	90	705	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.851636715038946	96.23798595042899
+7A	91	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.854238142682732	96.24026182573289
 7A	92	716	Ngar-sae Lay Tha Ma	(၅၄) သမ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.859707	96.245273
 7A	93	735	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861001	96.246432
 7A	94	733	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.863321	96.248471

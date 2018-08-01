@@ -20,7 +20,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 93	19	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044
 93	20	815	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9300066563304	96.154864858836
 93	21	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
-93	22	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924125873138063	96.15775667829439
+93	22	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924183749482854	96.1578971380368
 93	23	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
 93	24	2401	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9173295590306	96.163487280719
 93	25	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
@@ -90,10 +90,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 93	89	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
 93	90	857	Ou Zanar	ဥဇ္ဇနာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.910726	96.166001
 93	91	848	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91255523875324	96.1656310572289
-93	92	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730295539416	96.16369077237324
+93	92	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730520076527	96.16367541253568
 93	93	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
-93	94	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924198	96.158284
-93	95	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
+93	94	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92416237914078	96.15815366618338
+93	95	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15607757354157
 93	96	814	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9295660314581	96.1546517489478
 93	97	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
 93	98	2396	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9345216386605	96.1488714627922

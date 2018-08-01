@@ -27,8 +27,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	26	2397	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9342768753382	96.1489348928444
 66	27	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
 66	28	814	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9295660314581	96.1546517489478
-66	29	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
-66	30	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924125873138063	96.15775667829439
+66	29	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15607757354157
+66	30	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924183749482854	96.1578971380368
 66	31	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
 66	32	2401	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9173295590306	96.163487280719
 66	33	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
@@ -45,8 +45,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	44	1018	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90350883495074	96.18970149429516
 66	45	1023	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90141	96.190749
 66	46	1020	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898700981942675	96.19247929891573
-66	47	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240592043372	96.19431724073367
-66	48	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892201	96.195899
+66	47	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240251188223	96.19434594875203
+66	48	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892272422091686	96.19597513927147
 66	49	2410	8 Tama	၈ သမ	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8930468956899	96.2006957642734
 66	50	2408	Kyaung Lan	ကျောင်းလမ်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8945449454988	96.2036208808422
 66	51	2406	Gate Haung	ဂိတ်ဟောင်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8965190952803	96.207487997599
@@ -60,8 +60,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	59	2407	Gate Haung	ဂိတ်ဟောင်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8973209398579	96.2070433376357
 66	60	2409	Kyaung Lan	ကျောင်းလမ်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8953468786695	96.2031126860529
 66	61	2411	8 Tama	၈ သမ	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8934878866662	96.1995235551149
-66	62	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892417	96.196178
-66	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.894714170604107	96.19477124651895
+66	62	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89231729537041	96.1960483551957
+66	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89475018104531	96.1947276396677
 66	64	1019	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898430708623312	96.19273792253809
 66	65	1024	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.901964	96.190835
 66	66	1017	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.903188164191445	96.19007346220316
@@ -75,10 +75,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	74	860	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914244454419183	96.17083351593466
 66	75	852	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914089621473913	96.16931676864625
 66	76	847	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913153143078006	96.16594741120936
-66	77	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913262787735245	96.16538791917266
-66	78	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730295539416	96.16369077237324
+66	77	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9132609232353	96.16537733701992
+66	78	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730520076527	96.16367541253568
 66	79	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
-66	80	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924198	96.158284
+66	80	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92416237914078	96.15815366618338
 66	81	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
 66	82	815	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9300066563304	96.154864858836
 66	83	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044

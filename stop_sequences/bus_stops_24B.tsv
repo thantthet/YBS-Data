@@ -9,12 +9,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 24B	8	964	Thone-sae-chauk Gate Haung	(၃၆) ဂိတ်ဟောင်း	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892253	96.215533
 24B	9	946	Bo Min Gaung	ဗိုလ်မင်းခေါင်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891267	96.213731
 24B	10	952	Kyaung Lan Htate	ကျောင်းလမ်းထိပ်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889974	96.211392
-24B	11	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880652	96.202251
-24B	12	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87739888879641	96.20413976255806
-24B	13	1006	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872665	96.20622
-24B	14	1007	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.869954	96.207272
-24B	15	2349	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866127	96.2089
-24B	16	1612	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862089	96.212765
+24B	11	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88080835336168	96.202354375273
+24B	12	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.877414870397843	96.2041931343265
+24B	13	1006	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872657507025735	96.20631312718616
+24B	14	1007	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86995660937107	96.20740002952516
+24B	15	2349	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866103428460274	96.20897377375516
+24B	16	1612	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86210389646696	96.21278439648451
 24B	17	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
 24B	18	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
 24B	19	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841916421492833	96.20434836717324
@@ -73,12 +73,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 24B	72	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841989	96.204673
 24B	73	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
 24B	74	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
-24B	75	1613	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862623	96.212615
-24B	76	1010	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866278	96.209139
-24B	77	2348	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.869967	96.207591
-24B	78	2347	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872727	96.206464
+24B	75	1613	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86233184812082	96.21266275411473
+24B	76	1010	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866145520536634	96.20901987422258
+24B	77	2348	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86995237819045	96.20748372282834
+24B	78	2347	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872685841491208	96.20636325096713
 24B	79	1008	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87735960653568	96.2043057032861
-24B	80	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880857	96.202573
+24B	80	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88079154992208	96.20245808037
 24B	81	951	Kyaung Lan Htate	ကျောင်းလမ်းထိပ်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889625	96.211413
 24B	82	945	Bo Min Gaung	ဗိုလ်မင်းခေါင်	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.890508	96.21328
 24B	83	963	Thone-sae-chauk Gate Haung	(၃၆) ဂိတ်ဟောင်း	Tapin Shwe Htee Road	တပင်ရွှေထီးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891842	96.215769

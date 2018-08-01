@@ -17,14 +17,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 15	16	852	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914089621473913	96.16931676864625
 15	17	847	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913153143078006	96.16594741120936
 15	18	848	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91255523875324	96.1656310572289
-15	19	2181	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91189421976302	96.1621455056593
-15	20	806	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911275	96.160062
-15	21	796	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.909899460462768	96.15677897119895
-15	22	799	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908163431703446	96.15518008125947
+15	19	2181	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911895703354393	96.16217873990537
+15	20	806	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9112472324752	96.16011490579696
+15	21	796	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.909889596480344	96.15678749978544
+15	22	799	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908165677183476	96.1552193085663
 15	23	808	Yone	ရုံး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906204	96.154612
-15	24	802	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903042	96.154445
-15	25	798	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899901488038225	96.15467708325015
-15	26	892	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.895928	96.155689
+15	24	802	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903042063734052	96.15450213197622
+15	25	798	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899902089532446	96.15472618024799
+15	26	892	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89591011057234	96.1557766213082
 15	27	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892729094424542	96.15465329959991
 15	28	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889501887498064	96.15369533188642
 15	29	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882105361836498	96.15514125209302
@@ -101,15 +101,15 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 15	100	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
 15	101	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 15	102	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
-15	103	891	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.895877	96.155904
-15	104	797	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899113067809424	96.15498803090304
-15	105	801	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.902611	96.15467
-15	106	807	Yone	ရုံး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906199	96.154768
-15	107	800	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908146329966318	96.15539201768117
-15	108	795	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.909601	96.156623
-15	109	805	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911152	96.1601
-15	110	867	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91164557770474	96.16181611781941
-15	111	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913262787735245	96.16538791917266
+15	103	891	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89589108290139	96.15585430059582
+15	104	797	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899141658952285	96.15495756268503
+15	105	801	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90260875401312	96.15462668705733
+15	106	807	Yone	ရုံး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906181203728323	96.15469828946517
+15	107	800	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908143543164915	96.15533472737297
+15	108	795	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90964289650805	96.15656512789428
+15	109	805	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911158778027442	96.16009204415606
+15	110	867	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91171406356808	96.1617955612019
+15	111	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9132609232353	96.16537733701992
 15	112	2359	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913001857805305	96.16601165849717
 15	113	851	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913882	96.169347
 15	114	859	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914087	96.170817

@@ -9,10 +9,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 7B	8	736	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861514	96.246346
 7B	9	717	Ngar-sae Lay Tha Ma	(၅၄) သမ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.859892	96.244973
 7B	10	718	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85421004610765	96.24012379674242
-7B	11	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.856103	96.237529
-7B	12	711	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860241	96.232442
-7B	13	694	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861822	96.230308
-7B	14	680	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.863109994024338	96.2163773411885
+7B	11	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.856038641124687	96.23746423982085
+7B	12	711	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860159848941148	96.23227607226
+7B	13	694	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861769819555995	96.23023074120285
+7B	14	680	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.86303282731339	96.21640563011171
 7B	15	674	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857509683996202	96.21210170422273
 7B	16	628	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847406480977263	96.20899594388904
 7B	17	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841989	96.204673
@@ -69,12 +69,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 7B	68	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841916421492833	96.20434836717324
 7B	69	629	Kar Gyi Gate	ကားကြီးဂိတ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.847180777593348	96.20910117868335
 7B	70	673	Tadar Phyu	တံတားဖြူ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.857341615494583	96.21233842357469
-7B	71	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862952	96.216452
-7B	72	693	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861699	96.23019
-7B	73	710	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860179	96.232034
+7B	71	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862961456099224	96.21641847537832
+7B	72	693	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861739939306485	96.23018830781804
+7B	73	710	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860160029427412	96.23216115636751
 7B	74	2134	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85598	96.237389
-7B	75	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.854034266940296	96.23979736352341
-7B	76	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85424167230216	96.24028146034107
+7B	75	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85407168896496	96.23980641597882
+7B	76	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.854238142682732	96.24026182573289
 7B	77	716	Ngar-sae Lay Tha Ma	(၅၄) သမ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.859707	96.245273
 7B	78	735	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861001	96.246432
 7B	79	733	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.863321	96.248471

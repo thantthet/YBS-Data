@@ -1,104 +1,107 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-2	1	791	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.82351171494022	96.26775840763004
-2	2	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.821399	96.26605
-2	3	641	Sauk Lote Yae	ဆောက်လုပ်ရေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828696	96.24063
-2	4	662	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.831941	96.234262
-2	5	659	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.834036	96.234201
-2	6	649	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837404	96.233312
-2	7	658	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.838801	96.232545
-2	8	653	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.84375	96.231433
-2	9	667	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845599	96.232957
-2	10	706	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848073	96.234933
-2	11	703	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849573	96.236241
-2	12	705	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.851626	96.238001
-2	13	719	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85424167230216	96.24028146034107
-2	14	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.856103	96.237529
-2	15	711	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860241	96.232442
-2	16	694	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861822	96.230308
-2	17	680	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.863109994024338	96.2163773411885
-2	18	1613	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862623	96.212615
-2	19	1010	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866278	96.209139
-2	20	2348	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.869967	96.207591
-2	21	2347	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872727	96.206464
-2	22	1008	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87735960653568	96.2043057032861
-2	23	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880857	96.202573
-2	24	929	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.884606955074492	96.20041140820834
-2	25	881	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887581	96.198817
-2	26	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892417	96.196178
-2	27	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.894714170604107	96.19477124651895
-2	28	1022	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.898677323017722	96.19268000358717
-2	29	931	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897712537599975	96.19074761867525
-2	30	903	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.895778460704303	96.18699128972368
-2	31	905	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894786412033504	96.18506841827185
-2	32	917	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893719048615317	96.18304058443758
-2	33	919	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892740824007586	96.18106974754484
-2	34	915	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.8914820050066	96.17864109110089
-2	35	899	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889586983552984	96.17489934666084
-2	36	901	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887516776533143	96.17090319050477
-2	37	897	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.885854210233035	96.16763357771563
-2	38	894	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886627	96.164271
-2	39	1822	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.893798	96.157713
-2	40	891	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.895877	96.155904
-2	41	797	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899113067809424	96.15498803090304
-2	42	801	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.902611	96.15467
-2	43	807	Yone	ရုံး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906199	96.154768
-2	44	800	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908146329966318	96.15539201768117
-2	45	795	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.909601	96.156623
-2	46	805	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911152	96.1601
-2	47	867	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91164557770474	96.16181611781941
-2	48	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913262787735245	96.16538791917266
-2	49	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730295539416	96.16369077237324
-2	50	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
-2	51	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924198	96.158284
-2	52	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
-2	53	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15606020204724
-2	54	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924125873138063	96.15775667829439
-2	55	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
-2	56	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
-2	57	2181	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91189421976302	96.1621455056593
-2	58	806	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911275	96.160062
-2	59	796	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.909899460462768	96.15677897119895
-2	60	799	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908163431703446	96.15518008125947
-2	61	808	Yone	ရုံး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906204	96.154612
-2	62	802	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903042	96.154445
-2	63	798	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899901488038225	96.15467708325015
-2	64	892	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.895928	96.155689
-2	65	884	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.893741	96.157579
-2	66	893	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886442	96.163949
-2	67	896	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88581168142012	96.16783826379107
-2	68	900	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887277085247543	96.17086744168775
-2	69	898	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889400490004572	96.17500124964864
-2	70	914	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891267	96.178755
-2	71	918	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892458	96.181029
-2	72	916	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893546	96.183068
-2	73	904	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894690731733068	96.18518149014564
-2	74	902	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89563965280148	96.18705258239063
-2	75	930	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897512979444095	96.19064305443318
-2	76	1021	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.898454928978115	96.1924754222855
-2	77	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240592043372	96.19431724073367
-2	78	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892201	96.195899
-2	79	880	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887499	96.198531
-2	80	928	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88450962539422	96.20014968328181
-2	81	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880652	96.202251
-2	82	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87739888879641	96.20413976255806
-2	83	1006	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872665	96.20622
-2	84	1007	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.869954	96.207272
-2	85	2349	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866127	96.2089
-2	86	1612	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.862089	96.212765
-2	87	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862952	96.216452
-2	88	693	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861699	96.23019
-2	89	710	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860179	96.232034
-2	90	2134	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85598	96.237389
-2	91	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.854034266940296	96.23979736352341
-2	92	2137	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.85176	96.237883
-2	93	704	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849706	96.236123
-2	94	707	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848166	96.234815
-2	95	668	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845968	96.232785
-2	96	654	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.844059	96.231197
-2	97	657	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.838349134182277	96.23248698189856
-2	98	650	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837302	96.233107
-2	99	660	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.834385	96.233901
-2	100	661	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.83153049759267	96.23421838972719
-2	101	640	Sauk Lote Yae	ဆောက်လုပ်ရေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828635	96.240297
-2	102	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.820727	96.265875
-2	103	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823479261236997	96.2680244911462
+2	1	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82127753126424	96.26612567575648
+2	2	641	Sauk Lote Yae	ဆောက်လုပ်ရေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828641957742104	96.24061445239933
+2	3	662	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.831915592797035	96.23418641276659
+2	4	659	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.83407247249304	96.23411625623704
+2	5	649	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837391662143506	96.2332585360855
+2	6	658	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.838776975544747	96.23249247204514
+2	7	653	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.84376623400407	96.23136122943835
+2	8	667	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845669055354318	96.23283600434662
+2	9	706	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848082987854298	96.2349270586856
+2	10	703	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849592564960716	96.23621470760554
+2	11	705	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.851636715038946	96.23798595042899
+2	12	2135	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85407168896496	96.23980641597882
+2	13	724	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.856038641124687	96.23746423982085
+2	14	720	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.858028354459456	96.23452187748626
+2	15	711	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860159848941148	96.23227607226
+2	16	694	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861769819555995	96.23023074120285
+2	17	680	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.86303282731339	96.21640563011171
+2	18	676	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.861615886085886	96.21354356640951
+2	19	1613	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86233184812082	96.21266275411473
+2	20	1010	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866145520536634	96.20901987422258
+2	21	2348	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86995237819045	96.20748372282834
+2	22	2347	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872685841491208	96.20636325096713
+2	23	1009	Ma Wa Ta	မဝတ	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.876962612612097	96.20422358158977
+2	24	1008	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87735960653568	96.2043057032861
+2	25	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88079154992208	96.20245808037
+2	26	929	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88423259445147	96.20055408915506
+2	27	881	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88746103440087	96.19877320714295
+2	28	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89231729537041	96.1960483551957
+2	29	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89475018104531	96.1947276396677
+2	30	1019	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898430708623312	96.19273792253809
+2	31	931	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897671715713674	96.19074508314952
+2	32	903	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.895778460704303	96.18699128972368
+2	33	905	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89478855742108	96.18510517291726
+2	34	917	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89369583017576	96.18304902920501
+2	35	919	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892696953358254	96.1810520826839
+2	36	915	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891451367530795	96.17866087239238
+2	37	899	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88953455043226	96.17495382903147
+2	38	901	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887478779649808	96.17090463638307
+2	39	897	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.885837768165995	96.16769803455102
+2	40	894	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.886599234879682	96.16411596536638
+2	41	1822	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.8937631997334	96.15762690547854
+2	42	891	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89589108290139	96.15585430059582
+2	43	797	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899141658952285	96.15495756268503
+2	44	801	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90260875401312	96.15462668705733
+2	45	807	Yone	ရုံး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906181203728323	96.15469828946517
+2	46	800	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908143543164915	96.15533472737297
+2	47	795	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90964289650805	96.15656512789428
+2	48	805	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911158778027442	96.16009204415606
+2	49	867	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91171406356808	96.1617955612019
+2	50	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9132609232353	96.16537733701992
+2	51	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730520076527	96.16367541253568
+2	52	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
+2	53	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92416237914078	96.15815366618338
+2	54	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
+2	55	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924183749482854	96.1578971380368
+2	56	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
+2	57	2401	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9173295590306	96.163487280719
+2	58	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
+2	59	2181	Za-myin-zwe Zay	(ဈ) ဈေး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911895703354393	96.16217873990537
+2	60	806	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9112472324752	96.16011490579696
+2	61	796	Nwe Thar Gi	နွယ်သာဂီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.909889596480344	96.15678749978544
+2	62	799	Mya Yadanar	ဲမြရတနာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.908165677183476	96.1552193085663
+2	63	808	Yone	ရုံး	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906204	96.154612
+2	64	802	Oakkar	ဥက္ကာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903042063734052	96.15450213197622
+2	65	798	May Dar Wi	မေဓာဝီ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899902089532446	96.15472618024799
+2	66	892	Yone Thit	ရုံးသစ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89591011057234	96.1557766213082
+2	67	884	Gate Haung	ဂိတ်ဟောင်း	Industrial Road	စက်မှုဇုန်လမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.893741	96.157579
+2	68	893	Gandar Yon	ဂန္ဓာရုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88654367293746	96.16404314758257
+2	69	896	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.885808032082593	96.1677930643782
+2	70	900	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887427849778334	96.17094120243566
+2	71	898	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889467961350498	96.17499171523379
+2	72	914	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89139185702693	96.17869836045429
+2	73	918	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892589702811076	96.18100633844735
+2	74	916	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893628380392165	96.18303972529247
+2	75	904	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894690731733068	96.18518149014564
+2	76	902	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89563965280148	96.18705258239063
+2	77	930	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897539686124034	96.1906479788013
+2	78	1021	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.898454928978115	96.1924754222855
+2	79	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240251188223	96.19434594875203
+2	80	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892272422091686	96.19597513927147
+2	81	880	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887568327965283	96.19860955048354
+2	82	928	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.8842043419244	96.200472638011
+2	83	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88080835336168	96.202354375273
+2	84	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.877414870397843	96.2041931343265
+2	85	1006	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.872657507025735	96.20631312718616
+2	86	1007	Ka Pa Ya	ကပရ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86995660937107	96.20740002952516
+2	87	2349	Tadar Htate	တံတားထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.866103428460274	96.20897377375516
+2	88	1612	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.86210389646696	96.21278439648451
+2	89	675	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.861557830113263	96.21348862303421
+2	90	679	Taung Myauk Lan Sone	တောင်/မြောက်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.862961456099224	96.21641847537832
+2	91	693	Myo Oo Kyaung	မြို့ဦးကျောင်း	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.861739939306485	96.23018830781804
+2	92	710	Thapyay Nyo	သပြေညို	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.860160029427412	96.23216115636751
+2	93	721	Sae-shit Kwae	(၁၈) ကွေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85800675602665	96.23459486290815
+2	94	2134	Tadar Htate	တံတားထိပ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.85598	96.237389
+2	95	2479	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ	16.8541099332237	96.2398896901869
+2	96	2137	Kar Lay Gate	ကားလေးဂိတ်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.851689559776855	96.23795613180849
+2	97	704	Hnit-sae Zay	(၂၀) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.849672384434964	96.2361857062206
+2	98	707	Kone Taik	ကုန်တိုက်	Hlawga Road	လှော်ကားလမ်း	South Dagon	တောင်ဒဂုံ	16.848127169693857	96.23488533776255
+2	99	668	Thitsar	သစ္စာ	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.845890508766836	96.23292652890088
+2	100	654	Kyar Kan	ကြာကန်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.843938533011876	96.23138951836154
+2	101	657	Set Hmu Zone Zay	စက်မှုဇုံဈေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.83839169373108	96.23262995621191
+2	102	650	Ayeyarwaddy Lan Htate	ဧရာဝတီလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.837339695896507	96.2331836228259
+2	103	660	Shwe Taung Kyar Lan	ရွှေတောင်ကြားလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.83437753606991	96.23404959915207
+2	104	661	Sittaung Lan Htate	စစ်တောင်းလမ်းထိပ်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.83164594600799	96.23431846965107
+2	105	640	Sauk Lote Yae	ဆောက်လုပ်ရေး	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.828674350388894	96.24029874801636
+2	106	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82123621147536	96.26615587156266

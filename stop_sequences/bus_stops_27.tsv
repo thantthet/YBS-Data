@@ -35,18 +35,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 27	34	980	Ah Kyaw Tae	အကြော်တဲ	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.874505655242782	96.17445806041361
 27	35	1293	Saik Shae	စိုက်ရှေ့	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.875632321960424	96.17302861064675
 27	36	1291	Kar Lay Gate	ကားလေးဂိတ်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87791669600555	96.17177469888705
-27	37	896	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88581168142012	96.16783826379107
-27	38	900	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887277085247543	96.17086744168775
-27	39	898	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889400490004572	96.17500124964864
-27	40	914	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891267	96.178755
-27	41	918	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892458	96.181029
-27	42	916	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893546	96.183068
+27	37	896	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.885808032082593	96.1677930643782
+27	38	900	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887427849778334	96.17094120243566
+27	39	898	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889467961350498	96.17499171523379
+27	40	914	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89139185702693	96.17869836045429
+27	41	918	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892589702811076	96.18100633844735
+27	42	916	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893628380392165	96.18303972529247
 27	43	904	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894690731733068	96.18518149014564
 27	44	902	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89563965280148	96.18705258239063
-27	45	930	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897512979444095	96.19064305443318
+27	45	930	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897539686124034	96.1906479788013
 27	46	1021	Lay-sae-chauk Lan Sone	(၄၆) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.898454928978115	96.1924754222855
-27	47	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240592043372	96.19431724073367
-27	48	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892201	96.195899
+27	47	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240251188223	96.19434594875203
+27	48	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892272422091686	96.19597513927147
 27	49	2410	8 Tama	၈ သမ	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8930468956899	96.2006957642734
 27	50	2408	Kyaung Lan	ကျောင်းလမ်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8945449454988	96.2036208808422
 27	51	2406	Gate Haung	ဂိတ်ဟောင်း	Yarzardirit Road	ရာဇာဓိရာဇ်လမ်း	North Dagon	မြောက်ဒဂုံ	16.8965190952803	96.207487997599
@@ -60,17 +60,17 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 27	59	2407	Gate Haung	ဂိတ်ဟောင်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8973209398579	96.2070433376357
 27	60	2409	Kyaung Lan	ကျောင်းလမ်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8953468786695	96.2031126860529
 27	61	2411	8 Tama	၈ သမ	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8934878866662	96.1995235551149
-27	62	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892417	96.196178
-27	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.894714170604107	96.19477124651895
+27	62	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89231729537041	96.1960483551957
+27	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89475018104531	96.1947276396677
 27	64	1019	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898430708623312	96.19273792253809
-27	65	931	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897712537599975	96.19074761867525
+27	65	931	Kyar Hmat Taing	ကြားမှတ်တိုင်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.897671715713674	96.19074508314952
 27	66	903	Ba Htoo Zay	ဗထူးဈေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.895778460704303	96.18699128972368
-27	67	905	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.894786412033504	96.18506841827185
-27	68	917	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.893719048615317	96.18304058443758
-27	69	919	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892740824007586	96.18106974754484
-27	70	915	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.8914820050066	96.17864109110089
-27	71	899	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.889586983552984	96.17489934666084
-27	72	901	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887516776533143	96.17090319050477
+27	67	905	Banyardala	ဗညားဒလ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89478855742108	96.18510517291726
+27	68	917	Kyaung Lay Shae	ကျောင်းလေးရှေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.89369583017576	96.18304902920501
+27	69	919	Lay-sae-lay Lan Sone	(၄၄) လမ်းဆုံ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.892696953358254	96.1810520826839
+27	70	915	Kyan Mar Yae	ကျန်းမာရေး	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.891451367530795	96.17866087239238
+27	71	899	Kyaung Kwae	ကျောင်းကွေ့	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88953455043226	96.17495382903147
+27	72	901	Phyo Sabei	ဖြိုးစံပယ်	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.887478779649808	96.17090463638307
 27	73	895	Khay Mar	ခေမာ	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ	16.88560122280656	96.167121862527
 27	74	1290	Kar Lay Gate	ကားလေးဂိတ်	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.87786	96.171649
 27	75	1292	Saik Shae	စိုက်ရှေ့	U Wisara Road	ဦးဝိစာရလမ်း	North Dagon	မြောက်ဒဂုံ	16.875322773024763	96.173000195995

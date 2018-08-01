@@ -4,11 +4,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 29	3	5	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.91305	96.211413
 29	4	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
 29	5	1033	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.90255784827584	96.21715528657663
-29	6	926	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.890901135262965	96.1966553097591
-29	7	880	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887499	96.198531
-29	8	928	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88450962539422	96.20014968328181
-29	9	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880652	96.202251
-29	10	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87739888879641	96.20413976255806
+29	6	926	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.890982561398648	96.19669476756827
+29	7	880	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887568327965283	96.19860955048354
+29	8	928	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.8842043419244	96.200472638011
+29	9	1004	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88080835336168	96.202354375273
+29	10	2346	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.877414870397843	96.2041931343265
 29	11	172	Mandalay Lan	မန္တလေးလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.8744	96.198868
 29	12	1003	Sittaung Lan	စစ်တောင်းလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.872970930494294	96.19630813132972
 29	13	997	Kyaung Lan	ကျောင်းလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.871300956933585	96.19305180385712
@@ -75,9 +75,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 29	74	1002	Sittaung Lan	စစ်တောင်းလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.872829	96.196371
 29	75	173	Mandalay Lan	မန္တလေးလမ်း	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.874343	96.199035
 29	76	1008	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.87735960653568	96.2043057032861
-29	77	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.880857	96.202573
-29	78	929	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.884606955074492	96.20041140820834
-29	79	881	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887581	96.198817
+29	77	1005	Swan In	စွမ်းအင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88079154992208	96.20245808037
+29	78	929	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88423259445147	96.20055408915506
+29	79	881	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.88746103440087	96.19877320714295
 29	80	925	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.891066012624623	96.19677429087463
 29	81	1032	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.902334	96.217293
 29	82	1029	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910341	96.213602
