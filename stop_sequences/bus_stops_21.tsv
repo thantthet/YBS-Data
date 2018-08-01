@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-21	1	2120	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947051772278275	96.01576214656234
-21	2	1094	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.92253305373918	96.05467587249224
+21	1	2120	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947078532068097	96.01580571150409
+21	2	1094	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922554865387212	96.05480410857128
 21	3	1101	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922576	96.06975
 21	4	2246	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.930389793371084	96.0828197468618
 21	5	1375	Tit-Koe-Koe	၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.931731	96.085049
@@ -94,5 +94,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 21	93	1376	Tit-Koe-Koe	၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.9322607497859	96.0856226377655
 21	94	2245	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.93082537461608	96.08320237714
 21	95	1102	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922762168754172	96.069577216349
-21	96	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9226242394326	96.05491493468436
-21	97	2121	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947231293312196	96.01589407771826
+21	96	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922602177239348	96.05486885877326
+21	97	2121	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947158089802755	96.01584588177504

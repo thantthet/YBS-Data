@@ -1,16 +1,16 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-79	1	1094	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.92253305373918	96.05467587249224
-79	2	2238	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905598	96.048142
-79	3	1100	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.902724	96.047004
+79	1	1094	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922554865387212	96.05480410857128
+79	2	2238	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905563428573107	96.04826549068095
+79	3	1100	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.902665935234516	96.04706547455862
 79	4	21	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899854230636002	96.04588567977771
-79	5	2236	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897139	96.044644
-79	6	2232	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89486	96.043788
-79	7	1105	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.892653	96.042468
-79	8	1098	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890446	96.040224
-79	9	1103	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887079	96.038057
-79	10	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884307	96.036876
-79	11	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882418	96.03604
-79	12	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87939840322537	96.03473072871569
+79	5	2236	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89714712561828	96.04473907733338
+79	6	2232	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89486721493176	96.04384242324159
+79	7	1105	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89269262243436	96.04262861888857
+79	8	1098	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890095313381465	96.0400802269578
+79	9	1103	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887054918383406	96.03817097609864
+79	10	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.88430690519446	96.03697292972358
+79	11	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.88241913055526	96.03616929380225
+79	12	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87943379497747	96.03490199195221
 79	13	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874114310138687	96.0335786570795
 79	14	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
 79	15	1123	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872309492066083	96.04157363064589
@@ -116,15 +116,15 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	115	1124	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872406206400104	96.04160020127894
 79	116	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87264850336244	96.03750987444076
 79	117	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874178979592063	96.03369491407649
-79	118	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87948935901228	96.03507346473634
-79	119	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882295	96.03634
-79	120	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884492	96.037306
-79	121	1104	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887243	96.038464
-79	122	1097	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890159	96.040331
-79	123	1106	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.892633	96.042725
-79	124	2231	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.894994	96.043981
-79	125	2235	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897304	96.045052
+79	118	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.879487975425892	96.03504023049028
+79	119	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882274999130328	96.03622960159558
+79	120	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.88453198275208	96.0371833574027
+79	121	1104	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887218034603848	96.03838986949995
+79	122	1097	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890025235648455	96.04012873722243
+79	123	1106	Shwe Yin Aye Paya	ရွှေရင်အေးဘုရား	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.892614004118194	96.04272589087486
+79	124	2231	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.894878443123318	96.04391874046998
+79	125	2235	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89729968676996	96.04490661062303
 79	126	20	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899658103267804	96.045927379746
-79	127	1099	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.90258	96.047219
-79	128	2237	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905495	96.048399
-79	129	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9226242394326	96.05491493468436
+79	127	1099	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.90259642355812	96.04712886270136
+79	128	2237	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.90552304946902	96.04837150080131
+79	129	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922602177239348	96.05486885877326

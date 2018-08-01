@@ -40,13 +40,13 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 89-MyinTawThar	39	259	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809123167748957	96.12182549200953
 89-MyinTawThar	40	250	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809933587198	96.12593092722818
 89-MyinTawThar	41	256	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806301299283557	96.12574257194865
-89-MyinTawThar	42	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.800635186111215	96.12599570886235
+89-MyinTawThar	42	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80060702485202	96.12604542402553
 89-MyinTawThar	43	244	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797192	96.126132
 89-MyinTawThar	44	97	White Taw	ဝှိုက်တော	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.793536	96.126588
-89-MyinTawThar	45	95	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.79049560487622	96.12791893327085
+89-MyinTawThar	45	95	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.790543070149177	96.12796158995481
 89-MyinTawThar	46	93	Chan Mar Phee	ချန်မာဖီ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78735983441184	96.12950640221246
-89-MyinTawThar	47	99	Ahlone Sar Taik	အလုံစာတိုက်	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.785089601797072	96.13130154066313
-89-MyinTawThar	48	109	Jama Khar Nar	ဂျမခါနာ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78284086190647	96.13336601061748
+89-MyinTawThar	47	99	Ahlone Sar Taik	အလုံစာတိုက်	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.785148945106275	96.13131663529204
+89-MyinTawThar	48	109	Jama Khar Nar	ဂျမခါနာ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.783082370652377	96.13320021657276
 89-MyinTawThar	49	2427	Thakhin Mya Pan Cha	သခင်မြပန်းခြံ	Thakhin Mya Garden Street	သခင်မြပန်းခြံလမ်း	Ahlone	အလုံ	16.7802983809211	96.1349705792964
 89-MyinTawThar	50	114	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77828194398644	96.13544789397567
 89-MyinTawThar	51	111	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77732454956802	96.13656562010875

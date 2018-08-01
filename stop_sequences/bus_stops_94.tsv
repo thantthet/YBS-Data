@@ -34,31 +34,31 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 94	33	1350	Ma Nya Ka	မညက	Min Gyi Street	မင်းကြီးလမ်းသွယ်	Insein	အင်းစိန်	16.897026	96.104942
 94	34	1348	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.892273	96.105639
 94	35	1345	Insein Pan Chan	အင်းစိန်ပန်းခြံ	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.887531514108538	96.10758610535414
-94	36	1317	Myo Thit	မြို့သစ်	Baho Road	ဗဟိုလမ်း	Insein	အင်းစိန်	16.876714345607116	96.11178317572922
+94	36	1317	Myo Thit	မြို့သစ်	Baho Road	ဗဟိုလမ်း	Insein	အင်းစိန်	16.877994297784596	96.11159701365979
 94	37	2199	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Baho Road	ဗဟိုလမ်း	Mayangone	မရမ်းကုန်း	16.860991908782935	96.11480158288032
-94	38	1199	Oakyin	အုတ်ကျင်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.855304786661755	96.11625787569211
+94	38	1199	Oakyin	အုတ်ကျင်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.85530492704355	96.116295279935
 94	39	1206	Thiri Myaing	သီရိမြိုင်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.850141794460644	96.11763747408988
-94	40	1203	Than Lan	သံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.84523631594647	96.11895670183004
-94	41	1173	Kamayut	ကမာရွတ်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.840549983807726	96.12022838322447
+94	40	1203	Than Lan	သံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.845245140414768	96.11897845286877
+94	41	1173	Kamayut	ကမာရွတ်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.84050331324128	96.12027295399459
 94	42	1169	Butar Yon Lan	ဘူတာရုံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.83721344052062	96.12113069510089
 94	43	2197	Ywarma Kwae	ရွာမကွေ့	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.834529	96.1219
-94	44	2198	Site Kar Gate	ဆိုက်ကားဂိတ်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.831664	96.123331
+94	44	2198	Site Kar Gate	ဆိုက်ကားဂိတ်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.831640269862728	96.12334844190629
 94	45	282	B.R.B	ဘီအာဘီ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.829474	96.124027
-94	46	293	Khaing Shwe Wah	ခိုင်ရွှေဝါ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.82567695409153	96.12509425973259
-94	47	297	Pyi Yeik Mon	ပြည်ရိပ်မွန်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.821953415987313	96.12567258322088
-94	48	312	Ye Win	ရဲဝင်း	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.81817455052221	96.12637565005573
+94	46	293	Khaing Shwe Wah	ခိုင်ရွှေဝါ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.825700361405058	96.12513395491989
+94	47	297	Pyi Yeik Mon	ပြည်ရိပ်မွန်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.822004376970582	96.12576660001652
+94	48	312	Ye Win	ရဲဝင်း	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.818096001513386	96.12644176231697
 94	49	284	Hantharwaddy	ဟံသာဝတီ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.816320576623713	96.12593807280065
-94	50	279	Nat Sin Lan	နတ်စင်လမ်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.814202007934437	96.12586942501369
+94	50	279	Nat Sin Lan	နတ်စင်လမ်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.8145082067416	96.12593155587093
 94	51	300	Salin Kwin	စလင်းကွင်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812730481580218	96.12592935562135
 94	52	250	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809933587198	96.12593092722818
 94	53	256	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806301299283557	96.12574257194865
-94	54	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.800635186111215	96.12599570886235
+94	54	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80060702485202	96.12604542402553
 94	55	244	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797192	96.126132
 94	56	97	White Taw	ဝှိုက်တော	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.793536	96.126588
-94	57	95	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.79049560487622	96.12791893327085
+94	57	95	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.790543070149177	96.12796158995481
 94	58	93	Chan Mar Phee	ချန်မာဖီ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78735983441184	96.12950640221246
-94	59	99	Ahlone Sar Taik	အလုံစာတိုက်	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.785089601797072	96.13130154066313
-94	60	109	Jama Khar Nar	ဂျမခါနာ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78284086190647	96.13336601061748
+94	59	99	Ahlone Sar Taik	အလုံစာတိုက်	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.785148945106275	96.13131663529204
+94	60	109	Jama Khar Nar	ဂျမခါနာ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.783082370652377	96.13320021657276
 94	61	108	Bogyoke Kwae	ဗိုလ်ချုပ်ကွေ့	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Ahlone	အလုံ	16.780236715431304	96.1367306813918
 94	62	1814	Bahosi/ Mawtin	ဗဟိုစည်/ မော်တင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Lanmadaw	လမ်းမတော်	16.780018	96.140015
 94	63	190	Thayet Taw Kyaung	သရက်တောကျောင်း	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Latha	လသာ	16.779782	96.145659
@@ -73,30 +73,30 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 94	72	133	Sae-ngar Lan/ Nyaung Pin Lay Zay	(၁၅) လမ်း / ညောင်ပင်လေးဈေး	Anawrahta Road	အနော်ရထာလမ်း	Lanmadaw	လမ်းမတော်	16.777373	96.14642
 94	73	126	Sanpya	စံပြ	Phone Gyi Road	ဘုန်းကြီးလမ်း	Lanmadaw	လမ်းမတော်	16.777905085915634	96.14501520060006
 94	74	110	Jama Khar Nar	ဂျမခါနာ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.783100366432155	96.13329419866206
-94	75	100	Ahlone Sar Taik	အလုံစာတိုက်	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.785450997849157	96.13124012947084
-94	76	94	Chan Mar Phee	ချန်မာဖီ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.787589	96.129576
+94	75	100	Ahlone Sar Taik	အလုံစာတိုက်	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.785382566574427	96.13126657437533
+94	76	94	Chan Mar Phee	ချန်မာဖီ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78753614374465	96.12954945769162
 94	77	96	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.790742	96.12801
-94	78	98	White Taw	ဝှိုက်တော	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.793813	96.126604
-94	79	245	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.798088	96.126251
-94	80	246	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.800337724704953	96.12624429515564
+94	78	98	White Taw	ဝှိုက်တော	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.793685501607825	96.12661432474853
+94	79	245	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.7980176794345	96.12623665714638
+94	80	246	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80036473598132	96.12621706444772
 94	81	257	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806369318492735	96.12588311894798
 94	82	251	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809454549304007	96.1260079778731
 94	83	299	Salin Kwin	စလင်းကွင်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81202472257673	96.12604951020332
-94	84	280	Nat Sin Lan	နတ်စင်လမ်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81454172510049	96.12605868838727
-94	85	283	Hantharwaddy	ဟံသာဝတီ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.816171299925603	96.12607955932619
-94	86	311	Ye Win	ရဲဝင်း	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.81772275286729	96.12663205247374
-94	87	298	Pyi Yeik Mon	ပြည်ရိပ်မွန်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.822191003751193	96.12590789794923
-94	88	294	Khaing Shwe Wah	ခိုင်ရွှေဝါ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.826047	96.125175
-94	89	281	B.R.B	ဘီအာဘီ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.828871	96.124271
-94	90	1178	Site Kar Gate	ဆိုက်ကားဂိတ်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.831448	96.123565
+94	84	280	Nat Sin Lan	နတ်စင်လမ်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81446189081883	96.12602310720831
+94	85	283	Hantharwaddy	ဟံသာဝတီ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81622872794096	96.12603888614106
+94	86	311	Ye Win	ရဲဝင်း	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.81780316747273	96.12658046185972
+94	87	298	Pyi Yeik Mon	ပြည်ရိပ်မွန်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.822107535600747	96.12583635840566
+94	88	294	Khaing Shwe Wah	ခိုင်ရွှေဝါ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.82599739534933	96.12515507731588
+94	89	281	B.R.B	ဘီအာဘီ	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.82887075200248	96.1243519652635
+94	90	1178	Site Kar Gate	ဆိုက်ကားဂိတ်	Baho Road	ဗဟိုလမ်း	Kamayut	ကမာရွတ်	16.83145598559162	96.12350157927723
 94	91	1185	Ywarma Kwae	ရွာမကွေ့	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.834442	96.122012
 94	92	1168	Butar Yon Lan	ဘူတာရုံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.83708517941315	96.12129460321741
-94	93	1172	Kamayut	ကမာရွတ်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.840033	96.120604
-94	94	1204	Than Lan	သံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.845229	96.119167
+94	93	1172	Kamayut	ကမာရွတ်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.8400675335421	96.12050999421628
+94	94	1204	Than Lan	သံလမ်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.845236656891842	96.11910843523222
 94	95	1205	Thiri Myaing	သီရိမြိုင်	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.85002719964002	96.1177970445715
-94	96	1198	Oakyin	အုတ်ကျင်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.855287800463195	96.11647670622915
+94	96	1198	Oakyin	အုတ်ကျင်း	Baho Road	ဗဟိုလမ်း	Hlaing	လှိုင်	16.854429965369796	96.11661871662365
 94	97	1202	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Baho Road	ဗဟိုလမ်း	Mayangone	မရမ်းကုန်း	16.86096291078395	96.11492917640135
-94	98	1316	Myo Thit	မြို့သစ်	Baho Road	ဗဟိုလမ်း	Insein	အင်းစိန်	16.876700990794117	96.112027047202
+94	98	1316	Myo Thit	မြို့သစ်	Baho Road	ဗဟိုလမ်း	Insein	အင်းစိန်	16.878032376785438	96.11165648326278
 94	99	1346	Insein Pan Chan	အင်းစိန်ပန်းခြံ	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.8876457653682	96.1077884444967
 94	100	1347	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.892232	96.105865
 94	101	1349	Ma Nya Ka	မညက	Min Gyi Street	မင်းကြီးလမ်းသွယ်	Insein	အင်းစိန်	16.896944	96.105124

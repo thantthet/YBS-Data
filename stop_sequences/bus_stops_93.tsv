@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-93	1	2120	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947051772278275	96.01576214656234
-93	2	1094	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.92253305373918	96.05467587249224
+93	1	2120	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947078532068097	96.01580571150409
+93	2	1094	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922554865387212	96.05480410857128
 93	3	2362	Shwe Lin Pan Lan Sone	ရွှေလင်ပန်း	Khayae Pin Road	ခရေပင်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.919713	96.064228
 93	4	1102	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922762168754172	96.069577216349
 93	5	2246	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.930389793371084	96.0828197468618
@@ -112,4 +112,4 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 93	111	2245	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.93082537461608	96.08320237714
 93	112	1101	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922576	96.06975
 93	113	2436	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9215803388265	96.0561275482178
-93	114	2121	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947231293312196	96.01589407771826
+93	114	2121	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.947158089802755	96.01584588177504
