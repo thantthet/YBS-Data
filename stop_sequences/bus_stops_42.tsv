@@ -29,11 +29,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 42	28	1513	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942929	96.102614
 42	29	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
 42	30	74	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.933879176036193	96.10325703735728
-42	31	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932286	96.108536
+42	31	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932607985925838	96.10705590806903
 42	32	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932265	96.111935
 42	33	1387	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
 42	34	1389	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929905	96.116613
-42	35	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928334	96.120741
+42	35	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928213579292933	96.12062063533813
 42	36	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928199225787175	96.13210053183141
 42	37	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
 42	38	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
@@ -49,9 +49,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 42	48	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
 42	49	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
 42	50	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
-42	51	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892729094424542	96.15465329959991
-42	52	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889501887498064	96.15369533188642
-42	53	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882105361836498	96.15514125209302
+42	51	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
+42	52	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
+42	53	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
 42	54	1276	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881386	96.158051
 42	55	1272	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879066	96.158233
 42	56	1279	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876689	96.158391
@@ -105,7 +105,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 42	104	1278	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876771	96.15867
 42	105	1273	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879179	96.158356
 42	106	1277	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881479	96.158035
-42	107	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
+42	107	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425
 42	108	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 42	109	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 42	110	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
@@ -123,11 +123,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 42	122	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
 42	123	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93017754697439	96.13692542079208
 42	124	1395	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929289728265246	96.12982048653068
-42	125	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928401	96.120843
+42	125	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92833311829347	96.12075281795116
 42	126	1390	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92991253750098	96.11708393320443
-42	127	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931177	96.114596
-42	128	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932409	96.112257
-42	129	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93246	96.108547
+42	127	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931012131163108	96.11459247535096
+42	128	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932263830269875	96.11216939287262
+42	129	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932785576252602	96.10694704810159
 42	130	73	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93408765294573	96.10347699945125
 42	131	1514	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.941071	96.102753
 42	132	1512	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942795	96.102796

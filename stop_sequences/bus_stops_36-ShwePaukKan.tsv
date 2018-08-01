@@ -1,13 +1,13 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-36-ShwePaukKan	1	2212	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93433974005151	96.1909826891497
-36-ShwePaukKan	2	1605	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93284	96.189119
-36-ShwePaukKan	3	2215	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931752	96.187874
-36-ShwePaukKan	4	839	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930205137652255	96.18605928495526
-36-ShwePaukKan	5	830	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928036445729113	96.18344400543721
-36-ShwePaukKan	6	833	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92693338661236	96.18214916903527
+36-ShwePaukKan	1	2212	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.934279942398952	96.19099616305904
+36-ShwePaukKan	2	1605	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93275552683445	96.18915090803058
+36-ShwePaukKan	3	2215	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931683266637606	96.1879055458121
+36-ShwePaukKan	4	839	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930159872462657	96.18610081728548
+36-ShwePaukKan	5	830	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92802131038405	96.18351822718978
+36-ShwePaukKan	6	833	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92687172224156	96.18224380072208
 36-ShwePaukKan	7	835	Sal Myaung	ဆည်မြောင်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.924487965862433	96.1793710710481
-36-ShwePaukKan	8	828	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92308415603184	96.17624929407613
-36-ShwePaukKan	9	824	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921900056104676	96.17189386859538
+36-ShwePaukKan	8	828	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.923073029757173	96.17628271691503
+36-ShwePaukKan	9	824	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92179045656964	96.17189168930054
 36-ShwePaukKan	10	1607	Dhamar Yon	ဓမ္မာရုံ	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921450952209103	96.16945517482239
 36-ShwePaukKan	11	826	Kyaung Lan	ကျောင်းလမ်း	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92091903074239	96.16779907839373
 36-ShwePaukKan	12	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
@@ -19,14 +19,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36-ShwePaukKan	18	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
 36-ShwePaukKan	19	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
 36-ShwePaukKan	20	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
-36-ShwePaukKan	21	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892729094424542	96.15465329959991
-36-ShwePaukKan	22	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889501887498064	96.15369533188642
+36-ShwePaukKan	21	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
+36-ShwePaukKan	22	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
 36-ShwePaukKan	23	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 36-ShwePaukKan	24	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
-36-ShwePaukKan	25	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882105361836498	96.15514125209302
-36-ShwePaukKan	26	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878934279385433	96.15580279380085
+36-ShwePaukKan	25	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
+36-ShwePaukKan	26	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87902250832039	96.15584973245862
 36-ShwePaukKan	27	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
-36-ShwePaukKan	28	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.8672229261052	96.1545687261969
+36-ShwePaukKan	28	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86719996509984	96.1546583287418
 36-ShwePaukKan	29	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
 36-ShwePaukKan	30	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.858238763575493	96.15608746418731
 36-ShwePaukKan	31	1236	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84896682323709	96.15729967597873
@@ -56,10 +56,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36-ShwePaukKan	55	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85072782334624	96.1577095091343
 36-ShwePaukKan	56	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.856873	96.156653
 36-ShwePaukKan	57	1240	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.862603	96.155366
-36-ShwePaukKan	58	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867269	96.154778
+36-ShwePaukKan	58	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722711724037	96.15476446459071
 36-ShwePaukKan	59	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
 36-ShwePaukKan	60	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
-36-ShwePaukKan	61	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
+36-ShwePaukKan	61	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425
 36-ShwePaukKan	62	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
 36-ShwePaukKan	63	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
 36-ShwePaukKan	64	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
@@ -71,12 +71,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 36-ShwePaukKan	70	820	Chauk Kwae	(၆) ကွေ့	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918906604656474	96.16331216180699
 36-ShwePaukKan	71	825	Kyaung Lan	ကျောင်းလမ်း	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.920713743497096	96.1675022961572
 36-ShwePaukKan	72	1606	Dhamar Yon	ဓမ္မာရုံ	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921493974171383	96.17003819905221
-36-ShwePaukKan	73	822	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921710988346664	96.17188632488252
-36-ShwePaukKan	74	827	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.922930613383453	96.17627328727397
+36-ShwePaukKan	73	822	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921713414092604	96.17191566154362
+36-ShwePaukKan	74	827	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92299081558836	96.17629948072138
 36-ShwePaukKan	75	834	Sal Myaung	ဆည်မြောင်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92439803413906	96.17941105272624
-36-ShwePaukKan	76	831	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92655129171389	96.18205952458085
-36-ShwePaukKan	77	829	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928234187397052	96.18398673366755
-36-ShwePaukKan	78	838	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.93007106605814	96.18623287416996
-36-ShwePaukKan	79	2214	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931444	96.187917
-36-ShwePaukKan	80	1604	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.932614	96.189269
-36-ShwePaukKan	81	2213	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.934114220813353	96.19095821399243
+36-ShwePaukKan	76	831	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.926634807380704	96.18204737082127
+36-ShwePaukKan	77	829	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928063669300347	96.18371666874738
+36-ShwePaukKan	78	838	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930082592851164	96.18619069224226
+36-ShwePaukKan	79	2214	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931599713117766	96.18793938774617
+36-ShwePaukKan	80	1604	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.932671091752532	96.18922791676596
+36-ShwePaukKan	81	2213	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93414469098398	96.19094914058223

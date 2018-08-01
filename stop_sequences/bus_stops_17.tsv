@@ -1,49 +1,49 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-17	1	2213	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.934114220813353	96.19095821399243
-17	2	1605	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93284	96.189119
-17	3	2215	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931752	96.187874
-17	4	839	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930205137652255	96.18605928495526
-17	5	830	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928036445729113	96.18344400543721
-17	6	833	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92693338661236	96.18214916903527
+17	1	2212	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.934279942398952	96.19099616305904
+17	2	1605	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93275552683445	96.18915090803058
+17	3	2215	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931683266637606	96.1879055458121
+17	4	839	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930159872462657	96.18610081728548
+17	5	830	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92802131038405	96.18351822718978
+17	6	833	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92687172224156	96.18224380072208
 17	7	835	Sal Myaung	ဆည်မြောင်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.924487965862433	96.1793710710481
-17	8	828	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92308415603184	96.17624929407613
-17	9	824	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921900056104676	96.17189386859538
+17	8	828	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.923073029757173	96.17628271691503
+17	9	824	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92179045656964	96.17189168930054
 17	10	1607	Dhamar Yon	ဓမ္မာရုံ	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921450952209103	96.16945517482239
 17	11	826	Kyaung Lan	ကျောင်းလမ်း	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92091903074239	96.16779907839373
-17	12	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
+17	12	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
 17	13	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92416237914078	96.15815366618338
 17	14	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
 17	15	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044
 17	16	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
 17	17	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93017754697439	96.13692542079208
 17	18	1395	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929289728265246	96.12982048653068
-17	19	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928401	96.120843
+17	19	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92833311829347	96.12075281795116
 17	20	1390	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92991253750098	96.11708393320443
-17	21	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931177	96.114596
-17	22	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932409	96.112257
-17	23	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93246	96.108547
+17	21	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931012131163108	96.11459247535096
+17	22	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932263830269875	96.11216939287262
+17	23	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932785576252602	96.10694704810159
 17	24	73	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93408765294573	96.10347699945125
 17	25	1503	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933782970932047	96.0931649466511
 17	26	80	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933531574714472	96.08846573397388
 17	27	1376	Tit-Koe-Koe	၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.9322607497859	96.0856226377655
 17	28	2245	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.93082537461608	96.08320237714
 17	29	1102	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922762168754172	96.069577216349
-17	30	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9226242394326	96.05491493468436
+17	30	2435	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9217958894363	96.0561811923981
 17	31	2238	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905598	96.048142
 17	32	1100	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.902724	96.047004
-17	33	21	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899891	96.045781
+17	33	21	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899854230636002	96.04588567977771
 17	34	2236	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897139	96.044644
 17	35	2232	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.89486	96.043788
-17	36	21	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899891	96.045781
+17	36	21	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899854230636002	96.04588567977771
 17	37	1098	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890446	96.040224
 17	38	1103	Bago Lan	ပဲခူးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.887079	96.038057
 17	39	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884307	96.036876
 17	40	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882418	96.03604
 17	41	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87939840322537	96.03473072871569
-17	42	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874178979592063	96.03369491407649
+17	42	2484	Thama Kone	သမကုန်း	Anawratha Road	အနော်ရထာလမ်း	Hlaingtharya	လှိုင်သာယာ	16.8750226482338	96.0330382129178
 17	43	25	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.878047836977906	96.0241029993631
 17	44	2351	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87796967376101	96.02406488265842
-17	45	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874114310138687	96.0335786570795
+17	45	2485	Thama Kone	သမကုန်း	Anawratha Road	အနော်ရထာလမ်း	Hlaingtharya	လှိုင်သာယာ	16.874974241611692	96.03311117738487
 17	46	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87948935901228	96.03507346473634
 17	47	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882295	96.03634
 17	48	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884492	96.037306
@@ -51,21 +51,21 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 17	50	1097	Kyaung Lan	ကျောင်းလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890159	96.040331
 17	51	2231	Zay Lan	ဈေးလမ်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.894994	96.043981
 17	52	2235	Gate Haung	ဂိတ်ဟောင်း	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.897304	96.045052
-17	53	20	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899644	96.046017
+17	53	20	Kyaung Shae	ကျောင်းရှေ့	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.899658103267804	96.045927379746
 17	54	1099	Yoe Lay	ရိုးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.90258	96.047219
 17	55	2237	Yoe Gyi	ရိုးကြီး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.905495	96.048399
-17	56	1096	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9226242394326	96.05491493468436
+17	56	2436	Awine	အဝိုင်း	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.9215803388265	96.0561275482178
 17	57	1101	Mile Hnat-sae	မိုင် (၂၀)	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.922576	96.06975
 17	58	2246	Ayar Myay	ဧရာမြေ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.930389793371084	96.0828197468618
 17	59	1375	Tit-Koe-Koe	၁၉၉	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.931731	96.085049
 17	60	79	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933362174061912	96.0884708503727
 17	61	1502	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933667909143974	96.09436305245255
 17	62	74	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.933879176036193	96.10325703735728
-17	63	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932286	96.108536
+17	63	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932607985925838	96.10705590806903
 17	64	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932265	96.111935
 17	65	1387	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
 17	66	1389	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929905	96.116613
-17	67	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928334	96.120741
+17	67	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928213579292933	96.12062063533813
 17	68	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928199225787175	96.13210053183141
 17	69	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
 17	70	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
@@ -75,12 +75,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 17	74	820	Chauk Kwae	(၆) ကွေ့	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918906604656474	96.16331216180699
 17	75	825	Kyaung Lan	ကျောင်းလမ်း	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.920713743497096	96.1675022961572
 17	76	1606	Dhamar Yon	ဓမ္မာရုံ	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921493974171383	96.17003819905221
-17	77	822	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921710988346664	96.17188632488252
-17	78	827	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.922930613383453	96.17627328727397
+17	77	822	Kar Gyi Gate	ကားကြီးဂိတ်	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.921713414092604	96.17191566154362
+17	78	827	Hmaw Kyun	မော်ကျွန်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92299081558836	96.17629948072138
 17	79	834	Sal Myaung	ဆည်မြောင်း	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92439803413906	96.17941105272624
-17	80	831	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.92655129171389	96.18205952458085
-17	81	829	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928234187397052	96.18398673366755
-17	82	838	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.93007106605814	96.18623287416996
-17	83	2214	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931444	96.187917
-17	84	1604	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.932614	96.189269
-17	85	2212	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93433974005151	96.1909826891497
+17	80	831	Min Htoo Kyaw	မင်းထူးကျော်	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.926634807380704	96.18204737082127
+17	81	829	Mee Thet	မီးသတ်	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.928063669300347	96.18371666874738
+17	82	838	Say Yon Kwae	ဆေးရုံကွေ့	Bagan Road	ပုဂံလမ်း	North Dagon	မြောက်ဒဂုံ	16.930082592851164	96.18619069224226
+17	83	2214	Kyauk Lan	ကျောက်လမ်း	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.931599713117766	96.18793938774617
+17	84	1604	Tadar Phyu	တံတားဖြူ	Bagan Road	ပုဂံလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.932671091752532	96.18922791676596
+17	85	2213	Sin Phon Kwae	ဆင်ဖုံကွေ့	Hanthar Waddy Road	ဟံသာဝတီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.93414469098398	96.19094914058223

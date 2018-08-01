@@ -29,12 +29,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 65A	28	79	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933362174061912	96.0884708503727
 65A	29	1502	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933667909143974	96.09436305245255
 65A	30	70	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.93334660815077	96.10175833571702
-65A	31	1379	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.930100441055117	96.10094076488167
-65A	32	1383	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92555507485196	96.09845086455609
-65A	33	1377	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.921601395436287	96.097571910359
-65A	34	1382	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917969040914706	96.09728939847628
-65A	35	41	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91551400101933	96.09716179775207
-65A	36	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91195420496131	96.09718852210791
+65A	31	1379	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.930069803122507	96.10099055338652
+65A	32	1383	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92549591591529	96.09853390138596
+65A	33	1377	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92158657359925	96.09760954510422
+65A	34	1382	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917977527826658	96.0973806353286
+65A	35	41	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91550135721653	96.09722418710592
+65A	36	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911949854431207	96.09726368682459
 65A	37	1355	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907714315111864	96.09755581710488
 65A	38	43	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.905062077475037	96.09768565278502
 65A	39	1361	Pyi Taw Thar/ G.T.I Htate	ပြည်တော်သာ/(GTI)ထိပ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.900988906263134	96.09709422569722
@@ -134,12 +134,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 65A	133	1359	Pyi Taw Thar	ပြည်တော်သာ	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.900780188855	96.097832985688
 65A	134	44	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.90502450516036	96.09781016595663
 65A	135	1356	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907637768103342	96.0976756573655
-65A	136	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911877058218828	96.0973906517029
+65A	136	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911906288978923	96.09734033932911
 65A	137	42	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.915288559472796	96.0973123995973
-65A	138	1381	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917880275512832	96.09750537212676
+65A	138	1381	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91788444547496	96.09746233792977
 65A	139	1378	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92132490016646	96.0976821674194
-65A	140	1384	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92545	96.098632
-65A	141	1380	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.929958043309373	96.10113552495022
+65A	140	1384	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.925462798129	96.09860481228681
+65A	141	1380	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.930007017169302	96.10109809320423
 65A	142	69	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.933232955911787	96.10197149799207
 65A	143	1503	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933782970932047	96.0931649466511
 65A	144	80	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933531574714472	96.08846573397388

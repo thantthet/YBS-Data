@@ -21,19 +21,19 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 69	20	1513	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942929	96.102614
 69	21	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
 69	22	70	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.93334660815077	96.10175833571702
-69	23	1379	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.930100441055117	96.10094076488167
-69	24	1383	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92555507485196	96.09845086455609
-69	25	1377	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.921601395436287	96.097571910359
-69	26	1382	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917969040914706	96.09728939847628
-69	27	41	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91551400101933	96.09716179775207
-69	28	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91195420496131	96.09718852210791
+69	23	1379	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.930069803122507	96.10099055338652
+69	24	1383	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92549591591529	96.09853390138596
+69	25	1377	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92158657359925	96.09760954510422
+69	26	1382	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917977527826658	96.0973806353286
+69	27	41	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91550135721653	96.09722418710592
+69	28	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911949854431207	96.09726368682459
 69	29	1355	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907714315111864	96.09755581710488
 69	30	43	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.905062077475037	96.09768565278502
 69	31	1358	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900814	96.095425
-69	32	1335	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898545875580638	96.09545824583621
-69	33	1333	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.894631041797663	96.09448984265329
+69	32	1335	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898545795380826	96.09539680648597
+69	33	1333	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.894617928856686	96.09454614808783
 69	34	1328	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.890683724701926	96.09557161107661
-69	35	2201	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.88635	96.097422
+69	35	2201	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.886358940891423	96.09739128034565
 69	36	1332	Pauk Taw Wa	ပေါက်တောဝ	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.885151591308578	96.09710751101375
 69	37	1323	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.88350071428124	96.09398344997318
 69	38	31	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.878179559370544	96.07839642092587
@@ -57,17 +57,17 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 69	56	2395	Pauk Taw Wa	ပေါက်တောဝ	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.885452461951	96.0977136483416
 69	57	1326	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.886319	96.097508
 69	58	1327	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.890691905422955	96.09579406678678
-69	59	1334	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.89456158731092	96.09481154009701
+69	59	1334	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.894571973404968	96.09472344629468
 69	60	1336	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898276805037824	96.095501286909
-69	61	1357	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900651429547175	96.09562030993403
+69	61	1357	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900696842175126	96.09556369017811
 69	62	44	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.90502450516036	96.09781016595663
 69	63	1356	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907637768103342	96.0976756573655
-69	64	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911877058218828	96.0973906517029
+69	64	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911906288978923	96.09734033932911
 69	65	42	Tit Gate	(၁) ဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.915288559472796	96.0973123995973
-69	66	1381	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.917880275512832	96.09750537212676
+69	66	1381	Kyaung Gate	ကျောင်းဂိတ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.91788444547496	96.09746233792977
 69	67	1378	Aung San Zay	အောင်ဆန်းဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92132490016646	96.0976821674194
-69	68	1384	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.92545	96.098632
-69	69	1380	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.929958043309373	96.10113552495022
+69	68	1384	Ywar Thit	ရွာသစ်	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.925462798129	96.09860481228681
+69	69	1380	Bo Chan	ဘိုခြံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.930007017169302	96.10109809320423
 69	70	69	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.933232955911787	96.10197149799207
 69	71	1514	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.941071	96.102753
 69	72	1512	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942795	96.102796

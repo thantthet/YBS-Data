@@ -16,11 +16,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	15	1513	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942929	96.102614
 66	16	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
 66	17	74	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.933879176036193	96.10325703735728
-66	18	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932286	96.108536
+66	18	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932607985925838	96.10705590806903
 66	19	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932265	96.111935
 66	20	1387	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
 66	21	1389	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929905	96.116613
-66	22	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928334	96.120741
+66	22	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928213579292933	96.12062063533813
 66	23	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928199225787175	96.13210053183141
 66	24	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
 66	25	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
@@ -32,18 +32,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	31	819	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918460340415336	96.16298958426344
 66	32	2401	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9173295590306	96.163487280719
 66	33	850	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913219783941475	96.16519050439821
-66	34	2359	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913001857805305	96.16601165849717
-66	35	851	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913882	96.169347
-66	36	859	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914087	96.170817
-66	37	844	Gate Haung Kwae	ဂိတ်ဟောင်းကွေ.	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914013718600703	96.17309331893922
-66	38	855	Myittar	မေတ္တာ	Thu Nandar Road	သုနန္ဒာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91174686299499	96.17276952601972
-66	39	853	Kyoe Tadar	ကြိုးတံတား	Karuna Road	ကရုဏာ	North Okkalapa	မြောက်ဥက္ကလာပ	16.908215719302802	96.17230659350756
-66	40	872	Dawei Gyaung	ထားဝယ်ချောင်	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907804816170874	96.17672536522151
-66	41	870	Duyar Lan	ဒူးယားလမ်း	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907405	96.181823
-66	42	874	Kyan Mar Yae	ကျန်းမာရေး	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907466	96.184977
-66	43	878	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.908431	96.186887
-66	44	1018	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90350883495074	96.18970149429516
-66	45	1023	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90141	96.190749
+66	34	2359	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91302318931679	96.16597796324643
+66	35	851	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91399830145236	96.16936462931336
+66	36	859	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914137236176707	96.17083181859927
+66	37	844	Gate Haung Kwae	ဂိတ်ဟောင်းကွေ.	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914070635734323	96.17311999434605
+66	38	855	Myittar	မေတ္တာ	Thu Nandar Road	သုနန္ဒာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911767392706718	96.1728229187429
+66	39	853	Kyoe Tadar	ကြိုးတံတား	Karuna Road	ကရုဏာ	North Okkalapa	မြောက်ဥက္ကလာပ	16.908271475350386	96.17232342017816
+66	40	872	Dawei Gyaung	ထားဝယ်ချောင်	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90772303641652	96.17677538422869
+66	41	870	Duyar Lan	ဒူးယားလမ်း	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90754143270664	96.18182667531075
+66	42	874	Kyan Mar Yae	ကျန်းမာရေး	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907604226148745	96.1849242914468
+66	43	878	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90847234534696	96.18702159030363
+66	44	1018	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.903535981868796	96.18976978585125
+66	45	1023	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.901471561878427	96.19089308660477
 66	46	1020	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898700981942675	96.19247929891573
 66	47	936	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.895240251188223	96.19434594875203
 66	48	2350	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.892272422091686	96.19597513927147
@@ -63,18 +63,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	62	927	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89231729537041	96.1960483551957
 66	63	935	Lay-sae-nga Hmat Taing	(၄၅) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.89475018104531	96.1947276396677
 66	64	1019	Lay-sae-chauk Hmat Taing	(၄၆) မှတ်တိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.898430708623312	96.19273792253809
-66	65	1024	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.901964	96.190835
-66	66	1017	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.903188164191445	96.19007346220316
-66	67	879	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.908516092033064	96.18715706281367
-66	68	875	Kyan Mar Yae	ကျန်းမာရေး	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90772047014759	96.1850186926313
-66	69	871	Duyar Lan	ဒူးယားလမ်း	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90759851218697	96.18225737940523
-66	70	873	Dawei Gyaung	ထားဝယ်ချောင်	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90795003078332	96.17665512487295
-66	71	854	Kyoe Tadar	ကြိုးတံတား	Karuna Road	ကရုဏာ	North Okkalapa	မြောက်ဥက္ကလာပ	16.9083532749157	96.172353385482
+66	65	1024	Myawaddy	မြဝတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90149321548901	96.19098746683451
+66	66	1017	A Aye Saing	အအေးဆိုင်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.90321513071059	96.19003197178246
+66	67	879	Ngar-sae Kwae	(၅၀) ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.9085248533984	96.18708577472717
+66	68	875	Kyan Mar Yae	ကျန်းမာရေး	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907717683339918	96.18502397323029
+66	69	871	Duyar Lan	ဒူးယားလမ်း	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.907581149761704	96.18225880432875
+66	70	873	Dawei Gyaung	ထားဝယ်ချောင်	Yarza Thingyan Road	ရာဇသင်္ကြန်လမ်း	North Dagon	မြောက်ဒဂုံ	16.90782037416867	96.17671122075991
+66	71	854	Kyoe Tadar	ကြိုးတံတား	Karuna Road	ကရုဏာ	North Okkalapa	မြောက်ဥက္ကလာပ	16.908348503275363	96.17235302925111
 66	72	856	Myittar	မေတ္တာ	Thu Nandar Road	သုနန္ဒာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.911973	96.172931
-66	73	846	Gate Haung Kwae	ဂိတ်ဟောင်းကွေ.	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9141634793909	96.17313623428346
-66	74	860	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914244454419183	96.17083351593466
-66	75	852	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914089621473913	96.16931676864625
-66	76	847	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.913153143078006	96.16594741120936
+66	73	846	Gate Haung Kwae	ဂိတ်ဟောင်းကွေ.	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914127733285394	96.17314178729431
+66	74	860	Sabei	စံပယ်	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91421263779301	96.17086253827439
+66	75	852	Kyaung Lan	ကျောင်းလမ်း	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.914036974634836	96.16934497375043
+66	76	847	Kan Tharyar	ကန်သာယာ	Khaymarthi Road	ခေမာသီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91307004244961	96.16596859646961
 66	77	849	Kan Tharyar	ကန်သာယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9132609232353	96.16537733701992
 66	78	1823	Ayar	ဧရာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.91730520076527	96.16367541253568
 66	79	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
@@ -86,11 +86,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 66	85	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
 66	86	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93017754697439	96.13692542079208
 66	87	1395	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929289728265246	96.12982048653068
-66	88	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928401	96.120843
+66	88	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92833311829347	96.12075281795116
 66	89	1390	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92991253750098	96.11708393320443
-66	90	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931177	96.114596
-66	91	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932409	96.112257
-66	92	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93246	96.108547
+66	90	1388	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931012131163108	96.11459247535096
+66	91	1386	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932263830269875	96.11216939287262
+66	92	1391	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932785576252602	96.10694704810159
 66	93	73	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.93408765294573	96.10347699945125
 66	94	1514	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.941071	96.102753
 66	95	1512	Phone Gyi Kyaung	ဘုန်းကြီးကျောင်း	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.942795	96.102796

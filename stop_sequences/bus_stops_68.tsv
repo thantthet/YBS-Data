@@ -25,7 +25,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 68	24	1540	Tadar Htate	တံတားထိပ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.938895	96.087044
 68	25	1530	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937397	96.086959
 68	26	78	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.933612791992044	96.0878936829977
-68	27	2445	Myawaddy Min Gyi	မြဝတီမင်ကြီးလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.929399143015	96.08874484431
+68	27	2445	Myawaddy Min Gyi	မြဝတီမင်ကြီးလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.929391605467373	96.08879264211284
 68	28	2447	U Tun	ဦးထွန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.923253415657	96.0886788368225
 68	29	2449	Set Hmu	စက်မှု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.9206664512181	96.0887456825003
 68	30	2451	U Mye	ဦးမြဲ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.9174636998408	96.0888874204829
@@ -42,7 +42,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 68	41	1253	Kha Wae Chan	ခဝဲခြံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.869274405472567	96.11956872744487
 68	42	1251	Kalar Kyaung	ကုလားကျောင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.865719	96.120693
 68	43	1222	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.863580854665273	96.12128087785096
-68	44	1216	Kyway Tit	ကြွေ (၁)	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.86129067214001	96.1205073958263
+68	44	1216	Kyway Tit	ကြွေ (၁)	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.86123510275285	96.12060110550375
 68	45	1224	U Ba Han	ဦးဘဟန်	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.86117	96.118397
 68	46	1207	Zay Butar	ဈေးဘူတာ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.860185	96.112882
 68	47	1194	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.859507	96.109374
@@ -73,8 +73,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 68	72	1156	Tat Htate	တပ်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.85499211602558	96.08673406764866
 68	73	1195	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.859289522179772	96.10922870691867
 68	74	1208	Zay Butar	ဈေးဘူတာ	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.860016582911346	96.11289853462951
-68	75	1225	U Ba Han	ဦးဘဟန်	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.861083	96.118365
-68	76	2200	Kyway Tit	ကြွေ (၁)	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.861146243839613	96.12073119264097
+68	75	1225	U Ba Han	ဦးဘဟန်	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.86105718434528	96.1184082948603
+68	76	2200	Kyway Tit	ကြွေ (၁)	Thamine Buteryon Road	သမိုင်းဘူတာရုံလမ်း	Mayangone	မရမ်းကုန်း	16.861160642555987	96.12068710383029
 68	77	2402	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.8633007849722	96.1216056346893
 68	78	1250	Kalar Kyaung	ကုလားကျောင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.864784	96.121143
 68	79	1252	Kha Wae Chan	ခဝဲခြံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.869492	96.119748
@@ -92,7 +92,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 68	91	2452	U Mye	ဦးမြဲ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.9173999072868	96.0890929028392
 68	92	2450	Set Hmu	စက်မှု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.9206142472644	96.0890133585781
 68	93	2448	U Tun	ဦးထွန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.923232887197	96.0889148712158
-68	94	2446	Myawaddy Min Gyi	မြဝတီမင်ကြီးလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.9293930087342	96.0889710299671
+68	94	2446	Myawaddy Min Gyi	မြဝတီမင်ကြီးလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.92936746927571	96.08887989772485
 68	95	77	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.9335894849711	96.08765084174594
 68	96	1531	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937438	96.086615
 68	97	1536	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.940866	96.08565

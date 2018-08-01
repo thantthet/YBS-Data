@@ -13,7 +13,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 23B	12	1330	Pauk Taw Wa	ပေါက်တောဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.884824192173284	96.09771021176131
 23B	13	1305	Nyaung Pin	ညောင်ပင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.88148744768163	96.09900986775757
 23B	14	1302	Myo Thit Zay	မြို့သစ်ဈေးု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.879021345302874	96.09977603657171
-23B	15	1306	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.875324	96.101637
+23B	15	1306	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.87547392809735	96.10150914173575
 23B	16	1314	Kyoe Kone Lan Sone	ကြို့ကုန်းလမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.871474	96.104232
 23B	17	1308	Bayint Naung Zay/ Zay Pwae Yon	ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.864245	96.106743
 23B	18	2360	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.858690865634372	96.10848660464399
@@ -66,8 +66,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 23B	65	35	Dhamar Yon	ဓမ္မာရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.861069316974206	96.1081514018588
 23B	66	1193	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.862482665993724	96.10756609356032
 23B	67	1309	Bayint Naung Zay/ Zay Pwae Yon	ဘုရင့်နောင်ဈေး/ဈေးပွဲရုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.864492	96.10685
-23B	68	1315	Kyoe Kone Lan Sone	ကြို့ကုန်းလမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.871679	96.10449
-23B	69	1307	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.875683	96.101595
+23B	68	1315	Kyoe Kone Lan Sone	ကြို့ကုန်းလမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.871653425474662	96.10436688875781
+23B	69	1307	Padauk Lan	ပိတောက်လမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.875570781177903	96.10164941288532
 23B	70	1303	Myo Thit Zay	မြို့သစ်ဈေးု	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.87911318356011	96.10005002003163
 23B	71	1304	Nyaung Pin	ညောင်ပင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.881557869464423	96.09919393435123
 23B	72	1329	Pauk Taw Wa	ပေါက်တောဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.884871212723404	96.09790085814895

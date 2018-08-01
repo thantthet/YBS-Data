@@ -80,23 +80,21 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 14	79	1059	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833764	96.176424
 14	80	1055	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834791	96.180452
 14	81	1070	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835869	96.18307
-14	82	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
-14	83	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
-14	84	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
-14	85	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
-14	86	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
-14	87	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
-14	88	599	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841705399044663	96.19640950357281
-14	89	593	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843956	96.198989
-14	90	614	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845867625393243	96.20077338069677
-14	91	1090	Se Man Kane	စီမံကိန်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84748429583662	96.19847623631361
-14	92	1088	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84893896654162	96.19427426252517
-14	93	1087	Moe Swe	မိုးစွေ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.850142356003158	96.18960512336345
-14	94	2129	Kyaetamar	ကျေးတမာ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.851082075031954	96.18764438666405
-14	95	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8528135748857	96.18543030694127
-14	96	2127	Thanat Pyit Kwin	သေနတ်ပစ်ကွင်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854523480112608	96.18384222965688
-14	97	1079	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85684434759549	96.1818828759715
-14	98	1075	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85981610253591	96.17896331241356
-14	99	2352	Pinya	ပင်းယ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85950512390363	96.17608593078333
-14	100	1247	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856264313885067	96.17213245946915
-14	101	1249	Nyaung Pin	ညောင်ပင်	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.854191214781956	96.16845406126232
+14	82	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
+14	83	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
+14	84	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
+14	85	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
+14	86	599	Bawa Myint	ဘဝမြင့်	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.841705399044663	96.19640950357281
+14	87	593	Daywadaha	ဒေဝဒဟ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.843956	96.198989
+14	88	614	Lai Sin Yone	လိုင်စင်ရုံး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.845867625393243	96.20077338069677
+14	89	1090	Se Man Kane	စီမံကိန်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84748429583662	96.19847623631361
+14	90	1088	Thone-sae-tit Gate/ Tit Gate	(၃၁) ဂိတ်/(၁) ဂိတ်	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84893896654162	96.19427426252517
+14	91	1087	Moe Swe	မိုးစွေ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.850142356003158	96.18960512336345
+14	92	2129	Kyaetamar	ကျေးတမာ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.851082075031954	96.18764438666405
+14	93	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8528135748857	96.18543030694127
+14	94	2127	Thanat Pyit Kwin	သေနတ်ပစ်ကွင်း	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.854523480112608	96.18384222965688
+14	95	1079	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85684434759549	96.1818828759715
+14	96	1075	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85981610253591	96.17896331241356
+14	97	2352	Pinya	ပင်းယ	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85950512390363	96.17608593078333
+14	98	1247	Kaytu Marlar Kwae	ကေတုမာလာကွေ့	Parami Road	ပါရမီလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856264313885067	96.17213245946915
+14	99	1249	Nyaung Pin	ညောင်ပင်	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.854191214781956	96.16845406126232

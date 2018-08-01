@@ -54,7 +54,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 32-Mini	53	1278	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876771	96.15867
 32-Mini	54	1273	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879179	96.158356
 32-Mini	55	1277	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881479	96.158035
-32-Mini	56	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881808877188373	96.15557153709234
+32-Mini	56	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425
 32-Mini	57	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 32-Mini	58	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 32-Mini	59	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
@@ -84,9 +84,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 32-Mini	83	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
 32-Mini	84	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
 32-Mini	85	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
-32-Mini	86	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892729094424542	96.15465329959991
-32-Mini	87	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889501887498064	96.15369533188642
-32-Mini	88	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882105361836498	96.15514125209302
+32-Mini	86	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
+32-Mini	87	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
+32-Mini	88	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
 32-Mini	89	1276	Kyaung Kwae	ကျောင်းကွေ့	Phone Gyi Road	ဘုန်းကြီးလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.881386	96.158051
 32-Mini	90	1272	Hnit Zay	(၂) ဈေး	Thuzitar Road	သုဇိတာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.879066	96.158233
 32-Mini	91	1279	Kyaung Lan	ကျောင်းလမ်း	Thuzitar Street	သုဇိတာလမ်းသွယ်	North Okkalapa	မြောက်ဥက္ကလာပ	16.876689	96.158391
