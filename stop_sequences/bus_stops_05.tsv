@@ -1,8 +1,8 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-5	1	787	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.842409857684817	96.2796291941777
-5	2	2147	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832310956392227	96.27648317255083
-5	3	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83231693337206	96.27009249525146
-5	4	790	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827150626377357	96.26922021154316
+5	1	787	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.842434486340437	96.27967866836117
+5	2	2147	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.27653847215699
+5	3	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832336428754644	96.27021702937783
+5	4	790	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827135683519842	96.26922913827003
 5	5	791	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823556905408946	96.26786213368177
 5	6	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82127753126424	96.26612567575648
 5	7	557	Asean	အာဆီယံ	National Races Village	တိုင်းရင်းသားကျေးရွာ	Thaketa	သာကေတ	16.807009413205225	96.23251386685298
@@ -55,11 +55,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 5	54	553	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80611452972553	96.21627231594177
 5	55	551	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806431	96.218966
 5	56	545	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.80307737874286	96.2232931656763
-5	57	542	Lelyar Gate Yinn	လယ်ယာ (ဂိတ်ရင်း)	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.80470448440709	96.2256053555757
+5	57	542	Lelyar Gate Yinn	လယ်ယာ (ဂိတ်ရင်း)	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.80473274880544	96.22560560703279
 5	58	555	Asean	အာဆီယံ	National Races Village	တိုင်းရင်းသားကျေးရွာ	Thaketa	သာကေတ	16.806862155204307	96.23230758821595
 5	59	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82123621147536	96.26615587156266
-5	60	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823542503831536	96.26791326329115
-5	61	789	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827104794924768	96.26928969752043
+5	60	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823533397541077	96.26791923539714
+5	61	789	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827114903920087	96.2692688475363
 5	62	781	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83207512627888	96.27043889835477
-5	63	2145	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832315328813735	96.27663530409338
-5	64	788	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.8423831833229	96.27978052943948
+5	63	2145	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832328907388145	96.27659708261491
+5	64	788	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.84239599905062	96.27974180504681
