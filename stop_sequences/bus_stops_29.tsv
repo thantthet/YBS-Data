@@ -17,7 +17,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 29	16	991	Thin Win	သင်းဝင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.866909573314597	96.1845249356702
 29	17	978	Nar Yee Sin	နာရီစင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.866120273313303	96.18284151423723
 29	18	2124	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.859959	96.178682
-29	19	1078	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856729	96.18176
+29	19	1078	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85676082108605	96.18179788347335
 29	20	1082	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.852719277159586	96.18528316263111
 29	21	1080	Paya Lan	ဘုရားလမ်း	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847858	96.181458
 29	22	1066	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846384	96.179937
@@ -65,7 +65,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 29	64	1065	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84592753129176	96.1797006474808
 29	65	2130	Paya Lan	ဘုရားလမ်း	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.847724	96.181653
 29	66	1083	Taung Okkalar Paya	တောင်ဥက္ကလာပဘုရား	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8528135748857	96.18543030694127
-29	67	1079	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.856863	96.181911
+29	67	1079	Myin Thar Zay	မြင်သာဈေး	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85684434759549	96.1818828759715
 29	68	1075	Bay Li	ဘေလီ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.85981610253591	96.17896331241356
 29	69	977	Nar Yee Sin	နာရီစင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.866016115948014	96.18298748508097
 29	70	990	Thin Win	သင်းဝင်	Pin Lon Road	ပင်လုံလမ်း	North Dagon	မြောက်ဒဂုံ	16.866484	96.184355
