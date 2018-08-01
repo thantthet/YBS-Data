@@ -9,7 +9,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 6A	8	714	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.854353757739055	96.23134559718892
 6A	9	688	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.852380771600217	96.2296228017658
 6A	10	692	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.849945354749266	96.22755198972301
-6A	11	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847477858062096	96.22324167983606
+6A	11	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847488848406	96.22321617789568
 6A	12	702	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.848345591882044	96.22222401201726
 6A	13	696	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851441460122164	96.21855676174165
 6A	14	682	Than Lan	သံလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.854732930507534	96.21484707808123
@@ -55,14 +55,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 6A	54	1323	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.88350071428124	96.09398344997318
 6A	55	31	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.878179559370544	96.07839642092587
 6A	56	1139	Thone Htate	(၃) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87769609222099	96.0750614047356
-6A	57	1135	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.877163485866696	96.07127779629083
-6A	58	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875759159838704	96.06262076402346
+6A	57	1135	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87705918419795	96.0712819453329
+6A	58	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875691697065914	96.06260942062363
 6A	59	1131	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.874082055613908	96.05199716635981
 6A	60	1124	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872406206400104	96.04160020127894
 6A	61	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87264850336244	96.03750987444076
-6A	62	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87418313046785	96.03370373602957
-6A	63	25	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.8781015165209	96.0241266153753
-6A	64	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874074726406537	96.03354724589737
+6A	62	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874178979592063	96.03369491407649
+6A	63	25	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.878047836977906	96.0241029993631
+6A	64	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874114310138687	96.0335786570795
 6A	65	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
 6A	66	1123	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872309492066083	96.04157363064589
 6A	67	1130	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.8737204576502	96.05064585344736
@@ -89,7 +89,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 6A	88	1262	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866588278879597	96.14353745011616
 6A	89	1820	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866678037634564	96.15251949755476
 6A	90	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
-6A	91	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85825079611413	96.15602290257813
+6A	91	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.858238763575493	96.15608746418731
 6A	92	2480	Chaw Twin Kone	ချော်တွင်းကုန်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.850098094413852	96.158027832862
 6A	93	1815	Mit Zu Lan	မဉ္ဇူလမ်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.85072120518684	96.16200858727099
 6A	94	1248	Nyaung Pin	ညောင်ပင်	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.853851007207716	96.16816387977454
@@ -112,7 +112,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 6A	111	681	Than Lan	သံလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.854747570367522	96.21478148968893
 6A	112	695	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85140732658994	96.21852030046286
 6A	113	701	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.848305521426965	96.22216035146268
-6A	114	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847307186763604	96.22333109378815
+6A	114	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847183565294515	96.22347964206712
 6A	115	691	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.84975661600442	96.22747806133705
 6A	116	687	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85231094058949	96.2297002505511
 6A	117	715	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.854293994891357	96.23140462674202

@@ -9,7 +9,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 59	8	714	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.854353757739055	96.23134559718892
 59	9	688	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.852380771600217	96.2296228017658
 59	10	692	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.849945354749266	96.22755198972301
-59	11	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847477858062096	96.22324167983606
+59	11	648	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847488848406	96.22321617789568
 59	12	702	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.848345591882044	96.22222401201726
 59	13	696	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.851441460122164	96.21855676174165
 59	14	682	Than Lan	သံလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.854732930507534	96.21484707808123
@@ -93,7 +93,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 59	92	681	Than Lan	သံလမ်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.854747570367522	96.21478148968893
 59	93	695	Pan Chan	ပန်းခြံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.85140732658994	96.21852030046286
 59	94	701	Yauk Kaw	ယောက်ကော်	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.848305521426965	96.22216035146268
-59	95	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847307186763604	96.22333109378815
+59	95	2138	Thit Saing Kwae	သစ်ဆိုင်ကွေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	South Dagon	တောင်ဒဂုံ	16.847183565294515	96.22347964206712
 59	96	691	Kone Padaythar	ကုန်ပဒေသာ	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.84975661600442	96.22747806133705
 59	97	687	Gate Haung	ဂိတ်ဟောင်း	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.85231094058949	96.2297002505511
 59	98	715	Kyaung Shae	ကျောင်းရှေ့	Si Pin Road	စည်ပင်လမ်း	South Dagon	တောင်ဒဂုံ	16.854293994891357	96.23140462674202

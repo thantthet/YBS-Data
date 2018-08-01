@@ -11,7 +11,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	10	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884307	96.036876
 79	11	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882418	96.03604
 79	12	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87939840322537	96.03473072871569
-79	13	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874074726406537	96.03354724589737
+79	13	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874114310138687	96.0335786570795
 79	14	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
 79	15	1123	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872309492066083	96.04157363064589
 79	16	1130	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.8737204576502	96.05064585344736
@@ -39,7 +39,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	38	1262	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866588278879597	96.14353745011616
 79	39	1820	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866678037634564	96.15251949755476
 79	40	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
-79	41	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85825079611413	96.15602290257813
+79	41	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.858238763575493	96.15608746418731
 79	42	1236	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84896682323709	96.15729967597873
 79	43	36	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.842775	96.156468
 79	44	1242	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83789230363614	96.15568609020558
@@ -110,12 +110,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	109	1323	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.88350071428124	96.09398344997318
 79	110	31	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.878179559370544	96.07839642092587
 79	111	1138	Thone Htate	(၃) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.8775803210003	96.07509382534774
-79	112	1135	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.877163485866696	96.07127779629083
-79	113	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875759159838704	96.06262076402346
+79	112	1135	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87705918419795	96.0712819453329
+79	113	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875691697065914	96.06260942062363
 79	114	1131	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.874082055613908	96.05199716635981
 79	115	1124	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872406206400104	96.04160020127894
 79	116	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87264850336244	96.03750987444076
-79	117	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87418313046785	96.03370373602957
+79	117	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874178979592063	96.03369491407649
 79	118	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87948935901228	96.03507346473634
 79	119	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882295	96.03634
 79	120	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884492	96.037306

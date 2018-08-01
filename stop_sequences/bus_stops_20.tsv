@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-20	1	2351	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.877934883298753	96.02404384408148
-20	2	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874074726406537	96.03354724589737
+20	1	2351	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87796967376101	96.02406488265842
+20	2	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874114310138687	96.0335786570795
 20	3	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
 20	4	2225	Toe Chae	တိုးချဲ့	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86797472202297	96.04404545389117
 20	5	2223	Out Htate	အောက်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.864584	96.05251
@@ -116,5 +116,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	115	2222	Out Htate	အောက်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.864759	96.052575
 20	116	2224	Toe Chae	တိုးချဲ့	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86825	96.044236
 20	117	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87264850336244	96.03750987444076
-20	118	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87418313046785	96.03370373602957
-20	119	25	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.8781015165209	96.0241266153753
+20	118	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874178979592063	96.03369491407649
+20	119	25	Dagon Ayar A Way Pyay	ဒဂုံဧရာအဝေးပြေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.878047836977906	96.0241029993631

@@ -12,7 +12,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 22	11	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884307	96.036876
 22	12	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882418	96.03604
 22	13	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87939840322537	96.03473072871569
-22	14	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874074726406537	96.03354724589737
+22	14	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874114310138687	96.0335786570795
 22	15	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
 22	16	1123	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872309492066083	96.04157363064589
 22	17	1130	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.8737204576502	96.05064585344736
@@ -82,12 +82,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 22	81	1323	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.88350071428124	96.09398344997318
 22	82	31	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.878179559370544	96.07839642092587
 22	83	1139	Thone Htate	(၃) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87769609222099	96.0750614047356
-22	84	1135	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.877163485866696	96.07127779629083
-22	85	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875759159838704	96.06262076402346
+22	84	1135	Ngar Htate	(၅) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87705918419795	96.0712819453329
+22	85	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875691697065914	96.06260942062363
 22	86	1131	Mee Khwat Zay	မီးခွက်ဈေး	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.874082055613908	96.05199716635981
 22	87	1124	Sanay Ma	စနေမ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872406206400104	96.04160020127894
 22	88	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87264850336244	96.03750987444076
-22	89	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87418313046785	96.03370373602957
+22	89	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874178979592063	96.03369491407649
 22	90	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87948935901228	96.03507346473634
 22	91	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882295	96.03634
 22	92	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884492	96.037306

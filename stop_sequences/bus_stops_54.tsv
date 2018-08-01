@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 54	1	1121	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87264850336244	96.03750987444076
-54	2	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.87418313046785	96.03370373602957
+54	2	1126	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874178979592063	96.03369491407649
 54	3	2233	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87948935901228	96.03507346473634
 54	4	18	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882295	96.03634
 54	5	1110	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884492	96.037306
@@ -17,7 +17,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 54	16	1132	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.86396536324708	96.05529539287092
 54	17	1144	Paya Lan	ဘုရားလမ်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.862165040559443	96.06436481477434
 54	18	1146	Zay Lay	ဈေးလေး	Kyansitthar Road	ကျန်စစ်သားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.865795143884586	96.06464365613648
-54	19	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875759159838704	96.06262076402346
+54	19	2229	Yone Shae	ရုံးရှေ့	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.875691697065914	96.06260942062363
 54	20	1129	Mee Khwat Zay	မီးခွက်ဈေး	Bo Aung Kyaw Road	ဗိုလ်အောင်ကျော်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.874627617890894	96.0515366577238
 54	21	1128	Chauk Tha Ma	(၆) သမ	Bo Aung Kyaw Road	ဗိုလ်အောင်ကျော်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87927112320091	96.05070443263685
 54	22	1114	Shwe Myin Pyan	ရွှေမြင်းပျံ	Bo Aung Kyaw Street	ဗိုလ်အောင်ကျော်လမ်းသွယ်	Hlaing Tharyar	လှိုင်သာယာ	16.88452215754581	96.04981293668972
@@ -30,5 +30,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 54	29	1109	Zay Lay	ဈေးလေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.884307	96.036876
 54	30	19	Sae-Hnit Thama	(၁၂) သမ	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.882418	96.03604
 54	31	2234	Arr Man	အားမာန်	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87939840322537	96.03473072871569
-54	32	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874074726406537	96.03354724589737
+54	32	1125	Thama Kone	သမကုန်း	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.874114310138687	96.0335786570795
 54	33	1122	B.O.C	ဘီအိုစီ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.872540258842154	96.03740002959967
