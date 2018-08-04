@@ -1418,10 +1418,10 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 1707,မီးစက် (မှော်ဘီ) (Mee Sat (Hmaw Bi)),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.098033,96.038142
 1708,ထန်းတပင်တာဆုံ (Htan Ta Pin Tar Sone),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.097623,96.036147
 1709,ထန်းတပင်တာဆုံ (Htan Ta Pin Tar Sone),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.097849,96.036361
-1710,စုပေါင်းရုံး (Su Paung Yone),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.105642,96.018784
-1711,စုပေါင်းရုံး (Su Paung Yone),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.105724,96.019127
-1712,ဦးသုမင်္ဂလ (U Thu Mingala),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.10958,96.015694
-1713,ဦးသုမင်္ဂလ (U Thu Mingala),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.109539,96.015394
+1710,စုပေါင်းရုံး (Su Paung Yone),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.105247484835537,96.01937776431444
+1711,စုပေါင်းရုံး (Su Paung Yone),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.10545224942925,96.01955965161325
+1712,ဦးသုမင်္ဂလ (U Thu Mingala),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.11025093452228,96.01492797955872
+1713,ဦးသုမင်္ဂလ (U Thu Mingala),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.110105616314655,96.01464559324089
 1714,ဒေါင်းလေးကွေ့ (Daung Lay Kwae),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.115281,96.01063
 1715,ဒေါင်းလေးကွေ့ (Daung Lay Kwae),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.115322,96.01033
 1716,အုန်းခြံ (Own Chan),ရန်ကုန်-ပြည်လမ်းမကြီး (Yangon-Pyay Main Road),17.120777,96.008184
