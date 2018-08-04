@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-16C	1	1415	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940763	96.151611
-16C	2	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
+16C	1	1415	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940851255933037	96.15172684192659
+16C	2	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935503234610785	96.1530465516262
 16C	3	814	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9295660314581	96.1546517489478
 16C	4	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15607757354157
 16C	5	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924183749482854	96.1578971380368
@@ -86,5 +86,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 16C	85	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92416237914078	96.15815366618338
 16C	86	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
 16C	87	815	Tat Htate	တပ်ထိပ်	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.9300066563304	96.154864858836
-16C	88	1419	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.936410575360362	96.15300512406976
-16C	89	1416	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940866	96.15189
+16C	88	1419	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93665820247034	96.1529042897746
+16C	89	1416	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940879800649824	96.1517957202159

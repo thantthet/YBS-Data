@@ -13,9 +13,9 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 17	12	818	Chauk Kwae	(၆) ကွေ့	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.919091	96.162873
 17	13	810	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.92416237914078	96.15815366618338
 17	14	813	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926473729963266	96.15626067621635
-17	15	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044
-17	16	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
-17	17	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93017754697439	96.13692542079208
+17	15	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935730315771806	96.15226288558917
+17	16	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931714599198003	96.14123401930556
+17	17	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93015907059915	96.13694009603934
 17	18	1395	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929289728265246	96.12982048653068
 17	19	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92833311829347	96.12075281795116
 17	20	1390	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92991253750098	96.11708393320443
@@ -62,14 +62,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 17	61	1502	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933667909143974	96.09436305245255
 17	62	74	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.933879176036193	96.10325703735728
 17	63	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932607985925838	96.10705590806903
-17	64	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932265	96.111935
+17	64	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932314066450406	96.11202289815995
 17	65	1387	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
 17	66	1389	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929905	96.116613
 17	67	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928213579292933	96.12062063533813
-17	68	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928199225787175	96.13210053183141
-17	69	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
-17	70	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
-17	71	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935217538537646	96.15312103891485
+17	68	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928300462082344	96.13208529772238
+17	69	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930114386749644	96.13701406633484
+17	70	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931647203114764	96.1412768927403
+17	71	1417	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935503234610785	96.1530465516262
 17	72	812	Aung Mingalar A Way Pyay	အောင်မင်္ဂလာအဝေးပြေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.926507148276386	96.15607757354157
 17	73	809	Dhamar Yon	ဓမ္မာရုံ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.924183749482854	96.1578971380368
 17	74	820	Chauk Kwae	(၆) ကွေ့	Wai Bargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.918906604656474	96.16331216180699

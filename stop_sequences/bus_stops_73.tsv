@@ -5,31 +5,31 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	4	65	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026319	96.13614
 73	5	1470	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.024106080620214	96.13848494365811
 73	6	62	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022687	96.140088
-73	7	1481	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.020123	96.142577
+73	7	1481	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.020083598739554	96.14260148489849
 73	8	1477	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.015301	96.145109
-73	9	1483	Yae Set	ရေစက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.006469234153574	96.14451098721477
+73	9	1483	Yae Set	ရေစက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.006413366966736	96.14460656186569
 73	10	1478	Tat Yin Koe	တပ်ရင်း (၉)	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.002538	96.144294
-73	11	1464	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.000527	96.144336
-73	12	1433	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99698455866258	96.14451358560474
-73	13	1441	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.994658	96.143864
+73	11	1464	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.00055297085431	96.1444505536929
+73	12	1433	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.996964358888743	96.14457001676784
+73	13	1441	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99459816476566	96.14396115532146
 73	14	56	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99277	96.143972
-73	15	1429	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.989097	96.144401
-73	16	1456	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.983823	96.146332
-73	17	1452	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.981853	96.146933
-73	18	1455	Tadar Phyu	တံတားဖြူ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.977440741057922	96.14751631859691
-73	19	1459	Yakhine Kyaung	ရခိုင်ကျောင်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974957	96.147534
-73	20	1449	Chauk Lan	(၆) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970791	96.147684
-73	21	1451	Palae Eain Yar	ပုလဲအိမ်ယာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.968842	96.147727
-73	22	52	Sae-Hnit Lan	(၁၂) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.964983	96.147943
-73	23	1425	Thingangyun	သင်္ဃန်းကျွန်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.962554092600918	96.14797807764262
-73	24	1421	Nyaung Pin	ညောင်ပင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.957061	96.148778
-73	25	1422	Oh Eain	အိုးအိမ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.953038	96.149508
-73	26	589	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.947966453810754	96.15033205132933
-73	27	1415	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940763	96.151611
-73	28	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93571377782574	96.15230129566044
-73	29	2396	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9345216386605	96.1488714627922
-73	30	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931745022929974	96.14126306260006
-73	31	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93017754697439	96.13692542079208
+73	15	1429	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.989058344964885	96.14451075671244
+73	16	1456	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.983855108387846	96.14639010513204
+73	17	1452	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.98185303580901	96.14711069734767
+73	18	1455	Tadar Phyu	တံတားဖြူ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.97742721301432	96.14758217940107
+73	19	1459	Yakhine Kyaung	ရခိုင်ကျောင်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.97495342850686	96.14767743973063
+73	20	1449	Chauk Lan	(၆) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.97075875085798	96.14780440460892
+73	21	1451	Palae Eain Yar	ပုလဲအိမ်ယာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.968965200636532	96.14782768534496
+73	22	52	Sae-Hnit Lan	(၁၂) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.964962239723793	96.14796248730273
+73	23	1425	Thingangyun	သင်္ဃန်းကျွန်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.962530642132165	96.14804988959807
+73	24	1421	Nyaung Pin	ညောင်ပင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.957059627896772	96.14889761433007
+73	25	1422	Oh Eain	အိုးအိမ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.95312291976099	96.14954647840933
+73	26	589	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.948028772742532	96.15044265054169
+73	27	1415	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940851255933037	96.15172684192659
+73	28	1418	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.935730315771806	96.15226288558917
+73	29	2396	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.934478880275098	96.14887829404326
+73	30	1402	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931714599198003	96.14123401930556
+73	31	1404	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.93015907059915	96.13694009603934
 73	32	1395	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929289728265246	96.12982048653068
 73	33	47	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92833311829347	96.12075281795116
 73	34	1390	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.92991253750098	96.11708393320443
@@ -49,18 +49,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	48	1561	Khaung Thone Lone	ခေါင်သုံးလုံး	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.957204	96.083989
 73	49	1559	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956507	96.080984
 73	50	84	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956968	96.076414
-73	51	1562	Say Khan	ဆေးခန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.958467	96.076875
-73	52	1556	Kar Gyi Gate	ကားကြီးဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961504	96.077862
+73	51	1562	Say Khan	ဆေးခန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.95848753712748	96.07683872804047
+73	52	1556	Kar Gyi Gate	ကားကြီးဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961580314433366	96.07787607237698
 73	53	1565	Shwe Nyar Maung	ရွှေညာမောင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.964019	96.07857
 73	54	1566	Taw Win	တော်ဝင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.965855	96.07841
-73	55	1576	Kyaw Swar	ကျော်စွာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.968821	96.077346
-73	56	86	Nawarat	နဝရတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.973049	96.076037
-73	57	1584	Yae Chan Sin	ရေချမ်းစင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.976538	96.076316
-73	58	1578	Nga Mauk Zay	ငမောက်ဈေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.979493	96.077045
-73	59	1583	Thone Htate	(၃) ထိပ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98134	96.077539
-73	60	1581	Sin Hnat Kaung	ဆင်နှစ်ကောင်	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981976	96.076058
+73	55	1576	Kyaw Swar	ကျော်စွာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.968801553958958	96.07717228587718
+73	56	86	Nawarat	နဝရတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.972976513905603	96.07600389048459
+73	57	1584	Yae Chan Sin	ရေချမ်းစင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.97668276828205	96.07626850716771
+73	58	1578	Nga Mauk Zay	ငမောက်ဈေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.979461719609002	96.07696847990157
+73	59	1583	Thone Htate	(၃) ထိပ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981545364987188	96.07738866470756
+73	60	1581	Sin Hnat Kaung	ဆင်နှစ်ကောင်	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981839608288887	96.07606465928258
 73	61	1571	Koe Thone Lone	ကိုးသုံးလုံး	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982205898668845	96.07449101982638
-73	62	1575	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982673916408267	96.07241635210815
+73	62	1575	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982644897057696	96.07243236154319
 73	63	1572	Na-gyi Kwae	(ဏ) ကွေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982994531834905	96.07127115363255
 73	64	1593	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98656992387351	96.07196519616993
 73	65	1588	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98908231316728	96.07132762670518
@@ -70,18 +70,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	69	1589	Aung Chan Thar	အောင်ချမ်းသာ	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.988991570659145	96.0711809853092
 73	70	1592	Nyein Chan Yae	ငြိမ်းချမ်းရေး	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.986572609309896	96.07183397747578
 73	71	1573	Na-gyi Kwae	(ဏ) ကွေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.983008861115152	96.07115389080718
-73	72	1574	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98245490838093	96.07236580923201
+73	72	1574	Yone Shae	ရုံးရှေ့	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.982581407192182	96.07241920195521
 73	73	1570	Koe Thone Lone	ကိုးသုံးလုံး	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98212	96.074427
-73	74	1580	Sin Hnat Kaung	ဆင်နှစ်ကောင်	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981648	96.075972
-73	75	1582	Thone Htate	(၃) ထိပ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981237	96.077174
-73	76	1579	Nga Mauk Zay	ငမောက်ဈေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.97976	96.076852
-73	77	1585	Yae Chan Sin	ရေချမ်းစင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.976681	96.075994
-73	78	85	Nawarat	နဝရတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.97231	96.076037
+73	74	1580	Sin Hnat Kaung	ဆင်နှစ်ကောင်	Mahar Myaing Road	မဟာမြိုင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.981726496424493	96.07598591130228
+73	75	1582	Thone Htate	(၃) ထိပ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.98139269177223	96.07731699943542
+73	76	1579	Nga Mauk Zay	ငမောက်ဈေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.97968610220012	96.0768779134378
+73	77	1585	Yae Chan Sin	ရေချမ်းစင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.97666805772777	96.07608075253667
+73	78	85	Nawarat	နဝရတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.972579801702338	96.07597602065654
 73	79	1577	Kyaw Swar	ကျော်စွာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.969006	96.076959
 73	80	1567	Taw Win	တော်ဝင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.965999	96.078163
 73	81	1564	Shwe Nyar Maung	ရွှေညာမောင်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.963536	96.078356
-73	82	1557	Kar Gyi Gate	ကားကြီးဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961576	96.077691
-73	83	1563	Say Khan	ဆေးခန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.958559	96.076704
+73	82	1557	Kar Gyi Gate	ကားကြီးဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.961626494048822	96.0777669819072
+73	83	1563	Say Khan	ဆေးခန်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.95859292618001	96.07674677856266
 73	84	83	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956804	96.076328
 73	85	1558	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956271	96.080888
 73	86	1560	Khaung Thone Lone	ခေါင်သုံးလုံး	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.957061	96.084074
@@ -96,37 +96,37 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 73	95	1515	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 4 Main Road	အမှတ်(၄)လမ်းမ	Shwe Pyithar	ရွှေပြည်သာ	16.94143	96.102625
 73	96	74	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.933879176036193	96.10325703735728
 73	97	1392	Yae Set	ရေစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932607985925838	96.10705590806903
-73	98	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932265	96.111935
+73	98	1385	Asar Set	အစာစက်	Khayae Pin Road	ခရေပင်လမ်း	Insein	အင်းစိန်	16.932314066450406	96.11202289815995
 73	99	1387	Chauk Lay Chauk	၆၄၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930992	96.114231
 73	100	1389	Pan Chan	ပန်းခြံ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.929905	96.116613
 73	101	48	Tayar-Chauk	၁၀၆	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928213579292933	96.12062063533813
-73	102	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928199225787175	96.13210053183141
-73	103	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930075389545287	96.13715025834608
-73	104	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931584531388598	96.14136377116667
-73	105	2397	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9342768753382	96.1489348928444
-73	106	1419	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.936410575360362	96.15300512406976
-73	107	1416	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940866	96.15189
-73	108	590	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.948091	96.150602
-73	109	1423	Oh Eain	အိုးအိမ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.953099	96.149787
-73	110	1420	Nyaung Pin	ညောင်ပင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.957102	96.1491
-73	111	1424	Thingangyun	သင်္ဃန်းကျွန်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.96252	96.148303
-73	112	51	Sae-Hnit Lan	(၁၂) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.964706	96.148168
-73	113	1450	Palae Eain Yar	ပုလဲအိမ်ယာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.96878	96.14807
-73	114	1448	Chauk Lan	(၆) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970627	96.147941
-73	115	1458	Yakhine Kyaung	ရခိုင်ကျောင်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974013	96.147877
-73	116	1454	Tadar Phyu	တံတားဖြူ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.977277	96.14777
-73	117	1453	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.981915	96.147276
-73	118	1457	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.984069	96.146611
-73	119	1428	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.988995	96.144723
+73	102	1396	Khayae Pin Lan Khawe	ခရေပင်လမ်းခွဲ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.928300462082344	96.13208529772238
+73	103	1403	Yar Thet Pan	ရာသက်ပန်	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.930114386749644	96.13701406633484
+73	104	1401	Thone Yarthi	သုံးရာသီ	Khayae Pin Road	ခရေပင်လမ်း	Mingalardon	မင်္ဂလာဒုံ	16.931647203114764	96.1412768927403
+73	105	2397	Khayae Pin Yate Mon	ခရေပင်ရိပ်မွန်	Khayae Pin Road	ခရေပင်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.934386748249768	96.1489316239022
+73	106	1419	Ah-Hmat-Thone Lan Sone	အမှတ် (၃) လမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.93665820247034	96.1529042897746
+73	107	1416	Alal Pauk	အလယ်ပေါက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.940879800649824	96.1517957202159
+73	108	590	Ta Yar Yone	တရားရုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.948074394437004	96.15052982233468
+73	109	1423	Oh Eain	အိုးအိမ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.95324001759319	96.14966340595858
+73	110	1420	Nyaung Pin	ညောင်ပင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.957062033143238	96.14899792475626
+73	111	1424	Thingangyun	သင်္ဃန်းကျွန်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.962464880588353	96.1481743399054
+73	112	51	Sae-Hnit Lan	(၁၂) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.964758964750473	96.14811145467687
+73	113	1450	Palae Eain Yar	ပုလဲအိမ်ယာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.968784237266046	96.14801215007904
+73	114	1448	Chauk Lan	(၆) လမ်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.97063795612536	96.14792988169938
+73	115	1458	Yakhine Kyaung	ရခိုင်ကျောင်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.97398622826001	96.14780878415333
+73	116	1454	Tadar Phyu	တံတားဖြူ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.97733137431306	96.1477044085041
+73	117	1453	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.981894240252835	96.1472080112435
+73	118	1457	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.9840053947385	96.14648593124004
+73	119	1428	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.98900638044869	96.14459193544464
 73	120	55	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.992381	96.144336
-73	121	1440	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99431	96.144186
-73	122	1432	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99669	96.144723
-73	123	1465	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.000732	96.144658
-73	124	1479	Tat Yin Koe	တပ်ရင်း (၉)	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.003503	96.14453
-73	125	1482	Yae Set	ရေစက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.006313735772967	96.14486009348187
-73	126	1476	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.015137	96.145474
-73	127	1480	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.019897	96.142963
-73	128	61	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022462	96.14071
+73	121	1440	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.994324121501144	96.14414905663581
+73	122	1432	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.996689898254097	96.14463736535984
+73	123	1465	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.000718633818547	96.14459206117319
+73	124	1479	Tat Yin Koe	တပ်ရင်း (၉)	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.003502559285785	96.14445503801109
+73	125	1482	Yae Set	ရေစက်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.00632964630908	96.14474930567668
+73	126	1476	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.01509444298104	96.14532354986298
+73	127	1480	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.019923663449635	96.14288131473587
+73	128	61	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022482170880327	96.14054949022831
 73	129	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02437	96.13865
 73	130	66	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026483	96.136247
 73	131	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
