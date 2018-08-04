@@ -2067,3 +2067,7 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2483,ဖိုးစိန်လမ်း (Phoe Sein Lan),နတ်မောက်လမ်း (Nat Mauk Road),16.800016788722,96.1676752567291
 2484,သမကုန်း (Thama Kone),အနော်ရထာလမ်း (Anawratha Road),16.8750226482338,96.0330382129178
 2485,သမကုန်း (Thama Kone),အနော်ရထာလမ်း (Anawratha Road),16.874974241611692,96.03311117738487
+2486,တိုင်းရင်းသားနည်းပညာသက္ကသိုလ် (Tine Yin Tharr Nee Pyin Nyar),စက်မှုဇုံလမ်း (Industrial Zone Road),16.8193498331709,96.2410688982345
+2487,တိုင်းရင်းသားနည်းပညာသက္ကသိုလ် (Tine Yin Tharr Nee Pyin Nyar),စက်မှုဇုံလမ်း (Industrial Zone Road),16.8194234673659,96.2411034316756
+2488,ရတနာလမ်း (Yadanar Lann),ရတနာ လမ်း (Yadanar Road),16.8179051449378,96.2445892556571
+2489,ရတနာလမ်း (Yadanar Lann),ရတနာ လမ်း (Yadanar Road),16.8177613655219,96.2446321710013
