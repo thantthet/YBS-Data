@@ -12,10 +12,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	11	1154	Set Hmu Zone	စက်မှုဇုံ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.856657835192994	96.08218637538812
 20	12	1156	Tat Htate	တပ်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.85499211602558	96.08673406764866
 20	13	2360	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.858690865634372	96.10848660464399
-20	14	1196	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.851349	96.10936
+20	14	1196	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.851360518316554	96.10922244144606
 20	15	1201	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.84816589648163	96.11089071258903
-20	16	1167	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843268	96.112167
-20	17	1165	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840896	96.112608
+20	16	1167	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.84320407004642	96.11213211435825
+20	17	1165	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840952669893166	96.11249662237243
 20	18	1161	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.837755	96.11336
 20	19	1162	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833543	96.11603
 20	20	1184	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833461	96.119521
@@ -101,10 +101,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 20	100	1183	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833338	96.120733
 20	101	1163	Chaung Wa	ချောင်းဝ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833749	96.116288
 20	102	1160	Butar Yon Lan	ဘူတာရုံလမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.836931	96.113665
-20	103	1164	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840732	96.112821
-20	104	1166	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.843648	96.11237
+20	103	1164	O One	အိုဝမ်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.840790175591227	96.11273590475324
+20	104	1166	Padauk Chaung/Thiri Mingalar Market	ပိတောက်ချောင်း/သီရိမင်္ဂလာဈေးသစ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.84360304016526	96.11229918664321
 20	105	1200	Sit Kyawe Yae/ Shaw Yawe	စစ်ကြောရေး/ လျှော်ရွေး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.848124823223294	96.11118097789587
-20	106	1197	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.85143636616417	96.10958016011865
+20	106	1197	Buya	ဘုရ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.851490835408775	96.10952764749528
 20	107	1192	Bayint Naung Lan Sone	ဘုရင့်နောင်လမ်းဆုံ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Mayangone	မရမ်းကုန်း	16.85697243487454	96.10865701217335
 20	108	1157	Tat Htate	တပ်ထိပ်	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.85489253813567	96.08784608033604
 20	109	1155	Set Hmu Zone	စက်မှုဇုံ	No. 5 Main Road	အမှတ်(၅)လမ်းမ	Hlaing Tharyar	လှိုင်သာယာ	16.85674870134135	96.08235112857075
