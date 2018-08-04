@@ -75,13 +75,13 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 91	74	1646	Nine Gate	(၉) ဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.0519248486086	96.11956057604404
 91	75	1644	Gate Haung	ဂိတ်ဟောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.044148	96.126373
 91	76	1487	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	Htauk Kyant	ထောက်ကြန့်	17.04265	96.131818
-91	77	2207	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037858185780333	96.1312585277483
-91	78	1468	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.031038	96.13187
-91	79	63	Nwe Khwe	နွယ်ခွေ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.022154	96.13423
-91	80	1461	C.P Light	စီပီလိုက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.020699835227017	96.13338748924434
-91	81	60	Daewoo	ဒေဝူး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.018543	96.131376
-91	82	1474	Seagull	ဆေးဂဲလ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.016424468717815	96.12806397490205
-91	83	1473	Mwae Myu Yae	မွေးမြူရေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.014152	96.127127
+91	77	2207	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037797820068036	96.13129090284932
+91	78	1468	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03111213172036	96.13192968769
+91	79	63	Nwe Khwe	နွယ်ခွေ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.022154029079687	96.13431618316102
+91	80	1461	C.P Light	စီပီလိုက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.020660703118264	96.13338895607741
+91	81	60	Daewoo	ဒေဝူး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.01841052297509	96.13143829861659
+91	82	1474	Seagull	ဆေးဂဲလ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.01631133764975	96.12807133002208
+91	83	1473	Mwae Myu Yae	မွေးမြူရေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.013881748309583	96.12716292031111
 91	84	1484	Yae Sin	ရေစင်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.010048	96.127278
 91	85	1463	Chan Pauk	ခြံပေါက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.008304	96.12717
 91	86	1467	Kone Htate	ကုန်းထိပ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.004467	96.128899
@@ -127,7 +127,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 91	126	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02437	96.13865
 91	127	65	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026319	96.13614
 91	128	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
-91	129	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037527726843194	96.13150835037233
+91	129	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03743217934309	96.13143140450121
 91	130	1486	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	Htauk Kyant	ထောက်ကြန့်	17.042732	96.131957
 91	131	1645	Gate Haung	ဂိတ်ဟောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.044476	96.126072
 91	132	1647	Nine Gate	(၉) ဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.051861	96.119764
