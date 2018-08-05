@@ -19,7 +19,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 21	18	1360	Pyi Taw Thar	ပြည်တော်သာ	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.90061315461297	96.09785547014329
 21	19	1365	Thayet Taw	သရက်တော	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.902188696058865	96.10298538347709
 21	20	1367	Bo Kone	ဗိုလ်ကုန်း	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.900902050977837	96.10639025922868
-21	21	1370	Hight Pak	ဟိုက်ပက်	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.898819557221824	96.10545127652587
+21	21	1370	Hight Pak	ဟိုက်ပက်	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.898822965708614	96.1055231932551
 21	22	1350	Ma Nya Ka	မညက	Min Gyi Street	မင်းကြီးလမ်းသွယ်	Insein	အင်းစိန်	16.897026	96.104942
 21	23	1348	Insein Say Yon Gyi	အင်းစိန်ဆေးရုံကြီး	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.892273	96.105639
 21	24	1345	Insein Pan Chan	အင်းစိန်ပန်းခြံ	Min Gyi Road	မင်းကြီးလမ်း	Insein	အင်းစိန်	16.887531514108538	96.10758610535414
@@ -27,7 +27,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 21	26	1313	Kyoe Kone	ကြို့ကုန်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.878436988253824	96.11263456754386
 21	27	1310	B.P.I	ဘီပီအိုင်	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Insein	အင်းစိန်	16.874841	96.116313
 21	28	1253	Kha Wae Chan	ခဝဲခြံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.869274405472567	96.11956872744487
-21	29	1251	Kalar Kyaung	ကုလားကျောင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.865719	96.120693
+21	29	1251	Kalar Kyaung	ကုလားကျောင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.865467614374143	96.12075034528971
 21	30	1222	Thamine Lan Son	သမိုင်းလမ်းဆုံ	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Mayangone	မရမ်းကုန်း	16.863580854665273	96.12128087785096
 21	31	1219	Paya Lan	ဘုရားလမ်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.858449573541584	96.1232297960669
 21	32	1218	Oakyin	အုတ်ကျင်း	Yangon-Insein Road	ရန်ကုန်-အင်းစိန်လမ်း	Hlaing	လှိုင်	16.85535357935823	96.12357353791595

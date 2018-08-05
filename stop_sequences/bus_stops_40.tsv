@@ -19,12 +19,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 40	18	83	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956804	96.076328
 40	19	1558	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956271	96.080888
 40	20	1554	Shit-Sae-Tit Gate	(၈၁) ဂိတ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.951868	96.082014
-40	21	1539	Pyaw Bwal	ပျော်ဘွယ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.949138	96.082667
-40	22	1542	Zin Yaw	ဇင်ယော်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.947126	96.083139
+40	21	1539	Pyaw Bwal	ပျော်ဘွယ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.948988048720878	96.08277231920512
+40	22	1542	Zin Yaw	ဇင်ယော်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.94705730463963	96.08330042101444
 40	23	1535	Palae Lan	ပုလဲလမ်း	Industrial Road	စက်မှုဇုန်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.944008147065258	96.08448151499033
 40	24	1536	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.940866	96.08565
-40	25	1541	Tadar Htate	တံတားထိပ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.939203	96.086701
-40	26	1531	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937438	96.086615
+40	25	1541	Tadar Htate	တံတားထိပ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.938821964033284	96.08684005681425
+40	26	1531	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937112261501255	96.0867354925722
 40	27	77	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.9335894849711	96.08765084174594
 40	28	1503	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933782970932047	96.0931649466511
 40	29	70	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.93334660815077	96.10175833571702
@@ -115,12 +115,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 40	114	69	Danyin Gone Lan Sone	ဒညင်းကုန်းလမ်းဆုံ	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.933232955911787	96.10197149799207
 40	115	1502	Butar Zay	ဘူတာဈေး	Shwe Pyi Thar Bridge Road	ရွှေပြည်သာတံတားလမ်း	Insein	အင်းစိန်	16.933667909143974	96.09436305245255
 40	116	78	Sae-Lay Lan Sone	(၁၄) လမ်းဆုံ	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.933612791992044	96.0878936829977
-40	117	1530	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937397	96.086959
-40	118	1540	Tadar Htate	တံတားထိပ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.938895	96.087044
+40	117	1530	Tit-Koe-Koe Gate Haung	(၁၉၉) ဂိတ်ဟောင်း	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.937120039289773	96.0868900967762
+40	118	1540	Tadar Htate	တံတားထိပ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.93879979352655	96.0870061023161
 40	119	1537	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.941051	96.085907
 40	120	1534	Palae Lan	ပုလဲလမ်း	Industrial Road	စက်မှုဇုန်လမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.9438898006853	96.08467088313773
-40	121	1543	Zin Yaw	ဇင်ယော်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.947229	96.08344
-40	122	1538	Pyaw Bwal	ပျော်ဘွယ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.949015	96.082946
+40	121	1543	Zin Yaw	ဇင်ယော်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.946978528609357	96.08343943487856
+40	122	1538	Pyaw Bwal	ပျော်ဘွယ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.949098293886138	96.08286137692632
 40	123	1555	Shit-Sae-Tit Gate	(၈၁) ဂိတ်	Palae Road	ပုလဲလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.951909	96.082197
 40	124	1559	Kar Lay Gate	ကားလေးဂိတ်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956507	96.080984
 40	125	84	Htan Chauk Pin	ထန်းခြောက်ပင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.956968	96.076414
