@@ -23,37 +23,37 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 28	22	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
 28	23	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87902250832039	96.15584973245862
 28	24	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
-28	25	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86719996509984	96.1546583287418
+28	25	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867192084160248	96.15463779307905
 28	26	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
 28	27	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.858238763575493	96.15608746418731
 28	28	1236	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84896682323709	96.15729967597873
-28	29	36	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.842775	96.156468
+28	29	36	Tayar-Chauk	(၁၀၆)	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.8431164862356	96.1565192369744
 28	30	1242	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83789230363614	96.15568609020558
 28	31	1246	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833849962299986	96.15510751493277
 28	32	2424	Set Hmu Tit/Myanmar Plaza	စက်မှု (၁)/မြန်မာပလာဇာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.8270325276271	96.1542052030563
-28	33	324	Kokkaing/ Kyaung Shae	ကုက္ကိုင်း/ ကျောင်းရှေ့	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.820614	96.155217
+28	33	324	Kokkaing/ Kyaung Shae	ကုက္ကိုင်း/ ကျောင်းရှေ့	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.820593206201824	96.15520644234495
 28	34	322	Har Mit Tic	ဟာမစ်တစ်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.814847	96.155824
 28	35	230	Shwe Gon Daing	ရွှေဂုံတိုင်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.80519530942897	96.1557773128152
 28	36	209	Bahan Thone Lan	ဗဟန်းသုံးလမ်း	Bahan Road	ဗဟန်းလမ်း	Bahan	ဗဟန်း	16.798049388513782	96.15706854499878
 28	37	202	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.7887528427616	96.15719425259158
 28	38	194	Youk Lan	ယောက်လမ်း	Alanpya Pagoda Road	အလံပြဘုရားလမ်း	Dagon	ဒဂုံ	16.7826821164587	96.15895088994877
 28	39	144	Yoke Shin Yon	ရုပ်ရှင်ရုံ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Pabedan	ပန်းဘဲတန်း	16.777455	96.158736
-28	40	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.775683412852157	96.15891139023006
+28	40	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.775753793727244	96.15887872176246
 28	41	195	Youk Lan	ယောက်လမ်း	Gyo Phyu Road	ဂျိုးဖြူလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.785509	96.159488
 28	42	203	Kyauk Taing	ကျောက်တိုင်	ZOOlogical Garden Road	တိရိစ္ဆာန်ဥယျာဉ်လမ်း	Dagon	ဒဂုံ	16.789040545760724	96.15748437121512
 28	43	208	Bahan Thone Lan	ဗဟန်းသုံးလမ်း	Bahan Road	ဗဟန်းလမ်း	Bahan	ဗဟန်း	16.79706005725926	96.15702768322082
 28	44	210	Yae Khae Saing	ရေခဲဆိုင်	Koe Min Ko Chin Road	ကိုယ်မင်းကိုယ်ချင်းလမ်း	Bahan	ဗဟန်း	16.801598383916467	96.15790716849006
 28	45	2425	Shwe Gon Daing	ရွှေဂုံတိုင်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.8052802428109	96.1559515935369
-28	46	321	Har Mit Tic	ဟာမစ်တစ်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.810533	96.156242
-28	47	323	Kokkaing/ Kyaung Shae	ကုက္ကိုင်း/ ကျောင်းရှေ့	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.820902	96.155249
+28	46	321	Har Mit Tic	ဟာမစ်တစ်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.81308608812293	96.15594863891603
+28	47	323	Kokkaing/ Kyaung Shae	ကုက္ကိုင်း/ ကျောင်းရှေ့	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.820664372753658	96.15529937669635
 28	48	325	Set Hmu Tit/Myanmar Plaza	စက်မှု (၁)/မြန်မာပလာဇာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Bahan	ဗဟန်း	16.826940744308455	96.15445330739023
 28	49	1245	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833775752063897	96.1553610675037
 28	50	1241	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.838336980039827	96.15606039718843
-28	51	37	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84295	96.156608
+28	51	37	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.843123967061878	96.15666602505372
 28	52	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85072782334624	96.1577095091343
 28	53	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.856873	96.156653
 28	54	1240	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.862603	96.155366
-28	55	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722711724037	96.15476446459071
+28	55	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722805974444	96.15481840213761
 28	56	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
 28	57	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
 28	58	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425

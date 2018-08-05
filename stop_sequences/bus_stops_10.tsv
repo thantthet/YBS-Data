@@ -36,7 +36,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 10	35	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85072782334624	96.1577095091343
 10	36	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.856873	96.156653
 10	37	1240	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.862603	96.155366
-10	38	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722711724037	96.15476446459071
+10	38	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722805974444	96.15481840213761
 10	39	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
 10	40	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
 10	41	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425
@@ -81,7 +81,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 10	80	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
 10	81	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87902250832039	96.15584973245862
 10	82	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
-10	83	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86719996509984	96.1546583287418
+10	83	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867192084160248	96.15463779307905
 10	84	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
 10	85	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.858238763575493	96.15608746418731
 10	86	1237	Chaw Twin Kone	ချော်တွင်းကုန်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း	16.850164577041834	96.15806391695516

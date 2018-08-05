@@ -42,10 +42,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 62	41	235	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810709	96.163007
 62	42	227	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810236	96.160738
 62	43	2177	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.80679	96.156254
-62	44	229	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805571665361676	96.15438880864532
+62	44	229	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.80552882418637	96.15440628491342
 62	45	225	Oak Lan	အုတ်လမ်း	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.804480996918812	96.15122687187979
 62	46	223	Link Lan	လင့်လမ်း	Shwe Gon Road	ရွှေဂုံလမ်း	Bahan	ဗဟန်း	16.806090939455864	96.14742122246754
-62	47	274	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.805219943235446	96.14327571864125
+62	47	274	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.805199662416154	96.14333391655238
 62	48	266	Myaynigone	မြေနီကုန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803804	96.138814
 62	49	273	Shwe Man	ရွှေမန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803827	96.136105
 62	50	261	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80383891776587	96.13184186629952
@@ -68,7 +68,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 62	67	2389	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.8050307383558	96.1434358686529
 62	68	222	Link Lan	လင့်လမ်း	Shwe Gon Road	ရွှေဂုံလမ်း	Bahan	ဗဟန်း	16.805999079236297	96.14723340186174
 62	69	224	Oak Lan	အုတ်လမ်း	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.804344087884044	96.1511853185948
-62	70	228	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805293836643138	96.15444100694732
+62	70	228	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805330733421666	96.15442281821743
 62	71	231	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.806550186916283	96.15607654675843
 62	72	226	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.809993885588426	96.16076869424434
 62	73	234	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810501025184656	96.1633197264746

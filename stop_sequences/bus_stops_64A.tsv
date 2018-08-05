@@ -10,18 +10,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 64A	9	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
 64A	10	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
 64A	11	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
-64A	12	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
+64A	12	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89905760980185	96.16216262569652
 64A	13	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
 64A	14	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
 64A	15	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
 64A	16	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
 64A	17	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87902250832039	96.15584973245862
 64A	18	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
-64A	19	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86719996509984	96.1546583287418
+64A	19	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867192084160248	96.15463779307905
 64A	20	1818	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.861586	96.155325
 64A	21	1239	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.858238763575493	96.15608746418731
 64A	22	1817	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.85072782334624	96.1577095091343
-64A	23	37	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84295	96.156608
+64A	23	37	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.843123967061878	96.15666602505372
 64A	24	1242	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83789230363614	96.15568609020558
 64A	25	2383	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.825994453613134	96.15880109846331
 64A	26	2385	Baho Bank	ဗဟိုဘဏ်	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.824887	96.160199
@@ -62,11 +62,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 64A	61	2387	Baho Bank	ဗဟိုဘဏ်	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.824887	96.160199
 64A	62	2388	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.826158759059954	96.1581852240488
 64A	63	1242	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83789230363614	96.15568609020558
-64A	64	36	Tayar-Chauk	-၁၀၆	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.842775	96.156468
+64A	64	36	Tayar-Chauk	(၁၀၆)	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.8431164862356	96.1565192369744
 64A	65	1236	Chaw Twin Kone	ချော်တွင်းကုန်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.84896682323709	96.15729967597873
 64A	66	1238	Kabar Aye Paya/ Paya Lan	ကမ္ဘာအေးဘုရားလမ်း	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.856873	96.156653
 64A	67	1240	Sar Taik	စာတိုက်	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.862603	96.155366
-64A	68	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722711724037	96.15476446459071
+64A	68	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722805974444	96.15481840213761
 64A	69	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
 64A	70	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
 64A	71	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425

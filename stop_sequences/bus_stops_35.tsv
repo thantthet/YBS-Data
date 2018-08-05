@@ -37,14 +37,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 35	36	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
 35	37	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
 35	38	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
-35	39	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
+35	39	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89905760980185	96.16216262569652
 35	40	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
 35	41	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
 35	42	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
 35	43	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
 35	44	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87902250832039	96.15584973245862
 35	45	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
-35	46	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86719996509984	96.1546583287418
+35	46	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867192084160248	96.15463779307905
 35	47	1819	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866798658414414	96.15263734711336
 35	48	1265	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866761660028782	96.14343701396139
 35	49	1234	Khun-hnat Mile	(၇) မိုင်	Pyay Road	ပြည်လမ်း	Mayangone	မရမ်းကုန်း	16.856072	96.141118
@@ -81,14 +81,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 35	80	1233	Khun-hnat Mile	(၇) မိုင်	Pyay Road	ပြည်လမ်း	Mayangone	မရမ်းကုန်း	16.856031	96.141375
 35	81	1262	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866588278879597	96.14353745011616
 35	82	1820	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866678037634564	96.15251949755476
-35	83	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722711724037	96.15476446459071
+35	83	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722805974444	96.15481840213761
 35	84	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
 35	85	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
 35	86	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425
 35	87	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 35	88	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 35	89	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
-35	90	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
+35	90	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898928568619148	96.16229091072456
 35	91	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
 35	92	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
 35	93	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
@@ -113,7 +113,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 35	112	1453	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.981894240252835	96.1472080112435
 35	113	1457	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.9840053947385	96.14648593124004
 35	114	1428	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.98900638044869	96.14459193544464
-35	115	55	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.992381	96.144336
+35	115	55	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99238055709902	96.1442415090278
 35	116	1440	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.994324121501144	96.14414905663581
 35	117	1432	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.996689898254097	96.14463736535984
 35	118	1465	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.000718633818547	96.14459206117319
@@ -122,7 +122,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 35	121	1476	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.01509444298104	96.14532354986298
 35	122	1480	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.019923663449635	96.14288131473587
 35	123	61	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022482170880327	96.14054949022831
-35	124	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02437	96.13865
+35	124	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02427883571988	96.13859422272074
 35	125	66	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026483	96.136247
 35	126	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
 35	127	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03743217934309	96.13143140450121

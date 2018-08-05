@@ -18,7 +18,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 81	17	2163	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819443	96.214001
 81	18	2165	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817646	96.214762
 81	19	539	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.80827599579392	96.21778252534571
-81	20	2429	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.802462737110584	96.2165252817795
+81	20	2429	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.802411603811972	96.21658942429349
 81	21	2431	Khine Shwe War	ခိုင်ရွှေဝါ	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.7987809037868	96.2151469197124
 81	22	2434	Ayat Sine Kwae	အရက်ဆိုင်ကွေ့	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.7956620278775	96.2139007821679
 81	23	520	Kyan Mar Yae	ကျန်းမာရေး	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.796622960548277	96.20468148496003
@@ -52,7 +52,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 81	51	519	Kyan Mar Yae	ကျန်းမာရေး	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.796244493961968	96.20461510028693
 81	52	2433	Ayat Sine Kwae	အရက်ဆိုင်ကွေ့	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.79564220775	96.2139879958704
 81	53	2432	Khine Shwe War	ခိုင်ရွှေဝါ	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.798739458733	96.2152311578393
-81	54	2430	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.8023709820173	96.2167241005227
+81	54	2430	Damaryone Lan	ဓမာရုံလမ်း	Shu Kin Thar Road	ရှုခင်းသာလမ်း	Thaketa	သာကေတ	16.802369999070024	96.21668889652939
 81	55	540	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ	16.807905	96.21795
 81	56	2164	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817656	96.214966
 81	57	2162	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819464	96.214172

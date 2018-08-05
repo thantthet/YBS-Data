@@ -58,7 +58,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 32-Mini	57	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 32-Mini	58	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 32-Mini	59	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
-32-Mini	60	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
+32-Mini	60	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898928568619148	96.16229091072456
 32-Mini	61	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
 32-Mini	62	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
 32-Mini	63	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
@@ -82,7 +82,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 32-Mini	81	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
 32-Mini	82	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
 32-Mini	83	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
-32-Mini	84	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
+32-Mini	84	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89905760980185	96.16216262569652
 32-Mini	85	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
 32-Mini	86	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
 32-Mini	87	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948

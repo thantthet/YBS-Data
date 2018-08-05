@@ -11,7 +11,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 18	10	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
 18	11	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
 18	12	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
-18	13	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
+18	13	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89905760980185	96.16216262569652
 18	14	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
 18	15	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
 18	16	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
@@ -79,7 +79,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 18	78	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 18	79	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 18	80	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
-18	81	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
+18	81	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898928568619148	96.16229091072456
 18	82	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
 18	83	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
 18	84	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621

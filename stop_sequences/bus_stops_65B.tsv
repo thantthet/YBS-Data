@@ -68,7 +68,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 65B	67	2389	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.8050307383558	96.1434358686529
 65B	68	222	Link Lan	လင့်လမ်း	Shwe Gon Road	ရွှေဂုံလမ်း	Bahan	ဗဟန်း	16.805999079236297	96.14723340186174
 65B	69	224	Oak Lan	အုတ်လမ်း	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.804344087884044	96.1511853185948
-65B	70	228	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805293836643138	96.15444100694732
+65B	70	228	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805330733421666	96.15442281821743
 65B	71	231	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.806550186916283	96.15607654675843
 65B	72	226	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.809993885588426	96.16076869424434
 65B	73	234	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810501025184656	96.1633197264746
@@ -102,10 +102,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 65B	101	235	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810709	96.163007
 65B	102	227	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810236	96.160738
 65B	103	2177	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.80679	96.156254
-65B	104	229	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805571665361676	96.15438880864532
+65B	104	229	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.80552882418637	96.15440628491342
 65B	105	225	Oak Lan	အုတ်လမ်း	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.804480996918812	96.15122687187979
 65B	106	223	Link Lan	လင့်လမ်း	Shwe Gon Road	ရွှေဂုံလမ်း	Bahan	ဗဟန်း	16.806090939455864	96.14742122246754
-65B	107	274	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.805219943235446	96.14327571864125
+65B	107	274	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.805199662416154	96.14333391655238
 65B	108	266	Myaynigone	မြေနီကုန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803804	96.138814
 65B	109	264	Mahar Myaing	မဟာမြိုင်	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.806672	96.13654
 65B	110	262	Hantharwaddy	ဟံသာဝတီ	Pyay Road	ပြည်လမ်း	San Chaung	စမ်းချောင်း	16.811922855564923	96.13503597189266

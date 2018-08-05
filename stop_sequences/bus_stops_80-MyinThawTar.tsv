@@ -23,7 +23,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-MyinThawTar	22	458	Ashae Kyar	အရှေ့ကြား	Myintawthar Road	မြင်တော်သာလမ်း	Thaketa	သာကေတ	16.780623653626908	96.19684635428713
 80-MyinThawTar	23	436	Thone Gate Haung	(၃) ဂိတ်ဟောင်း	Myintawthar Road	မြင်တော်သာလမ်း	Daw Bon	ဒေါပုံ	16.777643735181925	96.19553163181992
 80-MyinThawTar	24	430	Man Pyae	မာန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.778396729199493	96.1940399883315
-80-MyinThawTar	25	478	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.77987692794149	96.19138317648323
+80-MyinThawTar	25	478	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.779837585327368	96.19136542780326
 80-MyinThawTar	26	472	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781293798309072	96.18871798273177
 80-MyinThawTar	27	452	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.782604468723882	96.18374168872835
 80-MyinThawTar	28	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
@@ -34,10 +34,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-MyinThawTar	33	235	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810709	96.163007
 80-MyinThawTar	34	227	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810236	96.160738
 80-MyinThawTar	35	2177	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.80679	96.156254
-80-MyinThawTar	36	229	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805571665361676	96.15438880864532
+80-MyinThawTar	36	229	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.80552882418637	96.15440628491342
 80-MyinThawTar	37	225	Oak Lan	အုတ်လမ်း	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.804480996918812	96.15122687187979
 80-MyinThawTar	38	223	Link Lan	လင့်လမ်း	Shwe Gon Road	ရွှေဂုံလမ်း	Bahan	ဗဟန်း	16.806090939455864	96.14742122246754
-80-MyinThawTar	39	274	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.805219943235446	96.14327571864125
+80-MyinThawTar	39	274	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.805199662416154	96.14333391655238
 80-MyinThawTar	40	266	Myaynigone	မြေနီကုန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803804	96.138814
 80-MyinThawTar	41	273	Shwe Man	ရွှေမန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803827	96.136105
 80-MyinThawTar	42	261	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80383891776587	96.13184186629952
@@ -64,7 +64,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-MyinThawTar	63	2389	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း	16.8050307383558	96.1434358686529
 80-MyinThawTar	64	222	Link Lan	လင့်လမ်း	Shwe Gon Road	ရွှေဂုံလမ်း	Bahan	ဗဟန်း	16.805999079236297	96.14723340186174
 80-MyinThawTar	65	224	Oak Lan	အုတ်လမ်း	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.804344087884044	96.1511853185948
-80-MyinThawTar	66	228	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805293836643138	96.15444100694732
+80-MyinThawTar	66	228	Shwe Gon Daing	ရွှေဂုံတိုင်	West Shwe Gon Daing Road	အနောက်ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.805330733421666	96.15442281821743
 80-MyinThawTar	67	231	Shwe Gon Daing	ရွှေဂုံတိုင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.806550186916283	96.15607654675843
 80-MyinThawTar	68	226	Bandar Pin	ဗန်ဒါပင်	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.809993885588426	96.16076869424434
 80-MyinThawTar	69	234	Ngar Htat Kyee	(၅) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.810501025184656	96.1633197264746

@@ -37,7 +37,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 92-Thudhamma	36	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
 92-Thudhamma	37	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
 92-Thudhamma	38	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
-92-Thudhamma	39	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
+92-Thudhamma	39	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89905760980185	96.16216262569652
 92-Thudhamma	40	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
 92-Thudhamma	41	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
 92-Thudhamma	42	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
@@ -92,7 +92,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 92-Thudhamma	91	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 92-Thudhamma	92	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 92-Thudhamma	93	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
-92-Thudhamma	94	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
+92-Thudhamma	94	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898928568619148	96.16229091072456
 92-Thudhamma	95	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
 92-Thudhamma	96	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
 92-Thudhamma	97	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
@@ -117,7 +117,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 92-Thudhamma	116	1453	Palae Lan Sone	ပုလဲလမ်းဆုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.981894240252835	96.1472080112435
 92-Thudhamma	117	1457	Thone Thone Lone	သုံးသုံးလုံး	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.9840053947385	96.14648593124004
 92-Thudhamma	118	1428	Hmoe Yon	မှိုုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.98900638044869	96.14459193544464
-92-Thudhamma	119	55	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.992381	96.144336
+92-Thudhamma	119	55	Nilar	နီလာ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.99238055709902	96.1442415090278
 92-Thudhamma	120	1440	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.994324121501144	96.14414905663581
 92-Thudhamma	121	1432	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.996689898254097	96.14463736535984
 92-Thudhamma	122	1465	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.000718633818547	96.14459206117319
@@ -126,7 +126,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 92-Thudhamma	125	1476	Site Thit	ဆိုက်သစ်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.01509444298104	96.14532354986298
 92-Thudhamma	126	1480	War Saing	ဝါးဆိုင်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.019923663449635	96.14288131473587
 92-Thudhamma	127	61	Nwe Khwe	နွယ်ခွေ	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.022482170880327	96.14054949022831
-92-Thudhamma	128	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02437	96.13865
+92-Thudhamma	128	1471	Lay Yat Kwet	(၄) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.02427883571988	96.13859422272074
 92-Thudhamma	129	66	Tit Yat Kwat	(၁) ရပ်ကွက်	No. 3 Set Thwe Road	အမှတ်(၃)စက်သွယ်လမ်း	Mingalardon	မင်္ဂလာဒုံ	17.026483	96.136247
 92-Thudhamma	130	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
 92-Thudhamma	131	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03743217934309	96.13143140450121

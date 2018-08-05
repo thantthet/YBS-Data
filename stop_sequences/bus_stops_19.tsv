@@ -15,14 +15,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 19	14	843	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90722	96.166135
 19	15	864	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.903951	96.165427
 19	16	866	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901323	96.164128
-19	17	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.899026	96.162241
+19	17	862	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89905760980185	96.16216262569652
 19	18	883	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.89677	96.159541
 19	19	888	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892733405297037	96.15468894364314
 19	20	886	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.889507722313613	96.15371194900948
 19	21	890	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.882091345698665	96.15521738072859
 19	22	1275	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.87902250832039	96.15584973245862
 19	23	1821	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874205	96.156698
-19	24	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86719996509984	96.1546583287418
+19	24	1280	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.867192084160248	96.15463779307905
 19	25	1819	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866798658414414	96.15263734711336
 19	26	1265	Myaing Hay Wun	မြိုင်ဟေဝန်ပန်းခြံ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866761660028782	96.14343701396139
 19	27	1267	Shit Mile	(၈) မိုင်	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.86567957937846	96.14160246681422
@@ -86,14 +86,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 19	85	1270	Ye Baw Haung	ရဲဘော်ဟောင်း	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.867445677792176	96.13734274171294
 19	86	1266	Shit Mile	(၈) မိုင်	Kyaik Wine Pagoda Road	ကျိုက်ဝိုင်းဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.864713	96.141169
 19	87	1820	Nawaday	နဝဒေး	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.866678037634564	96.15251949755476
-19	88	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722711724037	96.15476446459071
+19	88	38	Lan Wa/ Nawaday	လမ်းဝ/နဝဒေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.86722805974444	96.15481840213761
 19	89	1281	Ngar Lan	(၅) လမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.874128	96.156913
 19	90	1274	Hnit Zay	(၂) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.878721968315737	96.15608145017178
 19	91	889	Phone Gyi Lan	ဘုန်းကြီးလမ်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88188224645447	96.15551120834425
 19	92	885	Kyauk Yae Twin	ကျောက်ရေတွင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.88791116167424	96.15428918972613
 19	93	887	Myauk Okkalar Awine	မြောက်ဥက္ကလာအဝိုင်း	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.892739761327437	96.15506128873677
 19	94	882	Ga-gyi Zay	(ဃ) ဈေး	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.896452	96.159434
-19	95	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898997	96.162273
+19	95	861	Thandar	သန္တာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.898928568619148	96.16229091072456
 19	96	865	Waziyar	ဝဇီယာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.901507	96.16437
 19	97	863	Thu Nandar	သုနန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.90436155507222	96.16570844314994
 19	98	842	Eindar	က္ကန္ဒာ	Thudhamar Road	သုဓမ္မာလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ	16.906969	96.16621
