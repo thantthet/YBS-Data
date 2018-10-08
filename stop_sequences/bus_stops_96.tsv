@@ -57,18 +57,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 96	56	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
 96	57	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
 96	58	369	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828347114200742	96.18792818038857
-96	59	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
-96	60	615	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830733889574624	96.1931522190571
-96	61	601	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832662314235495	96.19507358176634
-96	62	610	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834930861177277	96.19739677291366
-96	63	598	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837140047336906	96.19967010581604
-96	64	2161	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838646395702437	96.20123337233963
-96	65	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.84200212059943	96.20458014775069
+96	59	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
+96	60	615	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830733889574624	96.1931522190571
+96	61	601	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832662314235495	96.19507358176634
+96	62	610	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834930861177277	96.19739677291366
+96	63	598	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837140047336906	96.19967010581604
+96	64	2161	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838646395702437	96.20123337233963
+96	65	635	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.84200212059943	96.20458014775069
 96	66	630	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83949687481868	96.20740019716325
 96	67	626	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832865	96.20798
 96	68	637	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830512077460014	96.20798843912782
 96	69	577	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825081	96.209117
-96	70	580	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822580183134985	96.21189562138171
+96	70	580	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822580183134985	96.21189562138171
 96	71	587	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820932	96.213044
 96	72	2163	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819443	96.214001
 96	73	2165	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817646	96.214762
@@ -78,18 +78,18 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 96	77	2164	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817656	96.214966
 96	78	2162	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819464	96.214172
 96	79	586	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820809	96.213452
-96	80	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822304545762762	96.2122975755483
+96	80	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822304545762762	96.2122975755483
 96	81	578	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825018017974298	96.20953163132073
 96	82	636	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8301749562444	96.2080962304026
 96	83	627	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833007132875704	96.20810620486738
 96	84	631	Sanpya Zay Kwae	စံပြဈေးကွေ့	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838397750744317	96.20758237782866
-96	85	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.84191124705454	96.20437290519476
-96	86	2160	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838714941415013	96.20109388371932
-96	87	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837495855328342	96.19981845142321
-96	88	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835010345871222	96.19727026904003
-96	89	602	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83286665425466	96.1950981616974
-96	90	616	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83113763950624	96.19334714021535
-96	91	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82807920732785	96.18817041395235
+96	85	634	Sanpya Zay/ Nga Moe Yeik	စံပြဈေး/ ငမိုးရိပ်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.84191124705454	96.20437290519476
+96	86	2160	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838714941415013	96.20109388371932
+96	87	597	Bawa Myint	ဘဝမြင့်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837495855328342	96.19981845142321
+96	88	609	Kalar Su	ကုလားစု	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835010345871222	96.19727026904003
+96	89	602	B.O.C	ဘီအိုစီ	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83286665425466	96.1950981616974
+96	90	616	Paya Lan	ဘုရားလမ်း	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.83113763950624	96.19334714021535
+96	91	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82807920732785	96.18817041395235
 96	92	368	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828169138152795	96.18795208289158
 96	93	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
 96	94	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638

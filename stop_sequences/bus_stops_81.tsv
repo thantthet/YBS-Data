@@ -13,7 +13,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 81	12	626	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832865	96.20798
 81	13	637	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.830512077460014	96.20798843912782
 81	14	577	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825081	96.209117
-81	15	580	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822580183134985	96.21189562138171
+81	15	580	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822580183134985	96.21189562138171
 81	16	587	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820932	96.213044
 81	17	2163	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819443	96.214001
 81	18	2165	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817646	96.214762
@@ -57,7 +57,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 81	56	2164	Sat Yon Shae	စက်ရုံရှေ့	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.817656	96.214966
 81	57	2162	Sagar Wah	စကားဝါ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.819464	96.214172
 81	58	586	Nyaung Pin	ညောင်ပင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.820809	96.213452
-81	59	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822304545762762	96.2122975755483
+81	59	579	Bayint Naung	ဘုရင့်နောင်	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.822304545762762	96.2122975755483
 81	60	578	Aung Zay Ya	အောင်ဇေယျ	Kamarkyi Road	ကမာကြည်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.825018017974298	96.20953163132073
 81	61	636	Waibula	ဝေဘူလ	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8301749562444	96.2080962304026
 81	62	627	Chan Aye/ Thwar Say	ချမ်းအေးသွားဆေး	Thanthumar Road	သံသုမာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833007132875704	96.20810620486738

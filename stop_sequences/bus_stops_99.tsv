@@ -16,7 +16,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 99	15	2195	Insein Pan Chan	အင်းစိန်ပန်းခြံ	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.888464510569012	96.1078345659189
 99	16	1351	Oakyin Wa	အုတ်ကျင်းဝ	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.89040993100321	96.11139262095097
 99	17	1353	Workshop	ဝပ်ရှော့	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.891115999129372	96.11466250615196
-99	18	1339	Ar Lain Ngar Sint	အာလိန်ငါးဆင့်	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.891479839530728	96.1165958759375
+99	18	1339	Ar Lain Ngar Sint	အာလိန်ငါးဆင့်	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.891479839530728	96.1165958759375
 99	19	1294	A Way Pyay	အဝေးပြေး	Pyay Road	ပြည်လမ်း	Insein	အင်းစိန်	16.888535030003954	96.12289267592132
 99	20	39	Sae-Mile Kone	(၁၀) မိုင်ကုန်း	Pyay Road	ပြည်လမ်း	Insein	အင်းစိန်	16.888832606891466	96.1299168993719
 99	21	1301	Koe Mile Khawe	(၉) မိုင်ခွဲ	Pyay Road	ပြည်လမ်း	Mayangone	မရမ်းကုန်း	16.884384	96.135772
@@ -97,7 +97,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 99	96	1300	Koe Mile Khawe	(၉) မိုင်ခွဲ	Pyay Road	ပြည်လမ်း	Mayangone	မရမ်းကုန်း	16.88384696413571	96.13588529638947
 99	97	40	Sae-Mile Kone	(၁၀) မိုင်ကုန်း	Pyay Road	ပြည်လမ်း	Insein	အင်းစိန်	16.88897721453234	96.12986868247393
 99	98	1295	A Way Pyay	အဝေးပြေး	Pyay Road	ပြည်လမ်း	Insein	အင်းစိန်	16.888651646674504	96.12301192944871
-99	99	1340	Ar Lain Ngar Sint	အာလိန်ငါးဆင့်	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.89157790749199	96.11658990383148
+99	99	1340	Ar Lain Ngar Sint	အာလိန်ငါးဆင့်	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.89157790749199	96.11658990383148
 99	100	1354	Workshop	ဝပ်ရှော့	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.891200332528562	96.11466914881022
 99	101	1352	Oakyin Wa	အုတ်ကျင်းဝ	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.890591511108763	96.11145546427
 99	102	2196	Insein Pan Chan	အင်းစိန်ပန်းခြံ	Lan Thit Road	လမ်းသစ်လမ်း	Insein	အင်းစိန်	16.888589689064485	96.10769888386132

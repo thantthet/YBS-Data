@@ -13,14 +13,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 76	12	1626	Out Kwae	အောက်ကွေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်	16.760814	96.251112
 76	13	1807	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.768015	96.246542
 76	14	1805	Dar Gude	ဒါကုရ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.770732	96.24658
-76	15	1803	Yay Nan Gate	ရေနံဂိ်တ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773198	96.246896
+76	15	1803	Yay Nan Gate	ရေနံဂိတ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773198	96.246896
 76	16	1801	Aung Thukha	အောင်သုခ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.778087	96.247427
-76	17	1619	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77895653734981	96.24703176319599
+76	17	1619	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77895653734981	96.24703176319599
 76	18	508	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778698	96.244222
 76	19	549	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801239084808206	96.22554207220674
 76	20	547	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yadanar Road	ရတနာလမ်း	Thaketa	သာကေတ	16.80292131131073	96.22375226346777
-76	21	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803144078473853	96.22349219396712
-76	22	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.80646595619294	96.21927025029437
+76	21	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803144078473853	96.22349219396712
+76	22	552	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.80646595619294	96.21927025029437
 76	23	2159	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.806456548186517	96.21683321194723
 76	24	530	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804948553065124	96.21374232228845
 76	25	526	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803656271446375	96.21009707450868
@@ -64,13 +64,13 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 76	63	525	Myayni	မြေနီ	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.803537897279856	96.20986435096712
 76	64	529	Shit Gate	(၈) ဂိတ်	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.804750521874205	96.21352799702437
 76	65	553	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.80611452972553	96.21627231594177
-76	66	551	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806431	96.218966
-76	67	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803144078473853	96.22349219396712
+76	66	551	Tayar-Shit Taung	(၁၀၈) တောင်	Thalyin Thada Chin Kat Road	သန်လျှင်တံတားချင့်ကပ်လမ်း	Thaketa	သာကေတ	16.806431	96.218966
+76	67	546	Sauk Lote Yae	ဆောက်လုပ်ရေး	Thanlyin Tada Chint Road	သန်လျှင်တံတားချင့်လမ်း	Thaketa	သာကေတ	16.803144078473853	96.22349219396712
 76	68	550	Tadar Htate	တံတားထိပ်	Nawarat Pat Road	နဝရတ်ပတ်လမ်း	Thaketa	သာကေတ	16.801254430912103	96.22528231702745
 76	69	507	Lat Hmat Gate	လက်မှတ်ဂိတ်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.77839	96.243879
-76	70	1618	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778739	96.247226
+76	70	1618	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်	16.778739	96.247226
 76	71	1800	Aung Thukha	အောင်သုခ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.778113	96.247347
-76	72	1802	Yay Nan Gate	ရေနံဂိ်တ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773066381424545	96.24667687341571
+76	72	1802	Yay Nan Gate	ရေနံဂိတ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.773066381424545	96.24667687341571
 76	73	1804	Dar Gude	ဒါကုရ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.770742	96.246504
 76	74	1806	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.768025	96.246483
 76	75	1809	Myoma Zay	ဲမြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်	16.763616840580703	96.2460969714448

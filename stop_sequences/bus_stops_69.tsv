@@ -29,11 +29,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 69	28	1363	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911949854431207	96.09726368682459
 69	29	1355	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907714315111864	96.09755581710488
 69	30	43	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.905062077475037	96.09768565278502
-69	31	1358	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900814	96.095425
-69	32	1335	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898545795380826	96.09539680648597
-69	33	1333	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.894617928856686	96.09454614808783
-69	34	1328	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.890683724701926	96.09557161107661
-69	35	2201	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.886358940891423	96.09739128034565
+69	31	1358	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900814	96.095425
+69	32	1335	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898545795380826	96.09539680648597
+69	33	1333	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.894617928856686	96.09454614808783
+69	34	1328	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.890683724701926	96.09557161107661
+69	35	2201	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.886358940891423	96.09739128034565
 69	36	1332	Pauk Taw Wa	ပေါက်တောဝ	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.885151591308578	96.09710751101375
 69	37	1323	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.88350071428124	96.09398344997318
 69	38	31	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.878179559370544	96.07839642092587
@@ -55,11 +55,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 69	54	30	Tit Htate	(၁) ထိပ်	Nyaung Done Road	ညောင်တန်းလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.87808727951249	96.07841787859799
 69	55	1322	Insein Kannar	အင်းစိန်ကမ်းနား	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.883421651001527	96.09407741110773
 69	56	2395	Pauk Taw Wa	ပေါက်တောဝ	Hlaing River Road	လှိုင်မြစ်လမ်း	Insein	အင်းစိန်	16.885452461951	96.0977136483416
-69	57	1326	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.886319	96.097508
-69	58	1327	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.890691905422955	96.09579406678678
-69	59	1334	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.894571973404968	96.09472344629468
-69	60	1336	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898276805037824	96.095501286909
-69	61	1357	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900696842175126	96.09556369017811
+69	57	1326	Lay-sae-shit Gate	(၄၈) ဂိတ်	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.886319	96.097508
+69	58	1327	Min Zedi	မင်းစေတီ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.890691905422955	96.09579406678678
+69	59	1334	Sayardaw Gyi	ဆရာတော်ကြီး	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.894571973404968	96.09472344629468
+69	60	1336	Ywarma	ရွာမ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.898276805037824	96.095501286909
+69	61	1357	Pyi Taw Thar	ပြည်တော်သာ	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Insein	အင်းစိန်	16.900696842175126	96.09556369017811
 69	62	44	Japan Lan	ဂျပန်လမ်း	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.90502450516036	96.09781016595663
 69	63	1356	Phot Kan Zay	ဖော့ကန်ဈေး	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.907637768103342	96.0976756573655
 69	64	1364	Saung Hnit	ဆောင် (၂)	Lower Mingalardon Road	အောက်မင်္ဂလာဒုံလမ်း	Insein	အင်းစိန်	16.911906288978923	96.09734033932911

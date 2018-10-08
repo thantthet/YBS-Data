@@ -1,6 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-APS-Pyay	1	2478	Yangon Intl. Airport	လေဆိပ်	Yangon Airport Road	ရန်ကုန်လေဆိပ်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9013101020537	96.1352032190189
-APS-Pyay	2	1299	Koe Mile	(၉) မိုင်	Pyay Road	ပြည်လမ်း	Mayangone	မရမ်းကုန်း	16.88177976207406	96.13486798480155
+APS-Pyay	1	2478	Yangon Intl. Airport	လေဆိပ်	Yangon Airport Road	ရန်ကုန်လေဆိပ်လမ်း	Mingaladon	မင်္ဂလာဒုံ	16.9013101020537	96.1352032190189APS-Pyay	2	1299	Koe Mile	(၉) မိုင်	Pyay Road	ပြည်လမ်း	Mayangone	မရမ်းကုန်း	16.88177976207406	96.13486798480155
 APS-Pyay	3	1269	Shit Mile	(၈) မိုင်	Pyay Road	ပြည်လမ်း	Mayangone	မရမ်းကုန်း	16.867915966141403	96.14123360021041
 APS-Pyay	4	1189	Marlar	မာလာ	Pyay Road	ပြည်လမ်း	Kamayut	ကမာရွတ်	16.832085	96.132472
 APS-Pyay	5	320	Saik Pyoe Yay	စိုက်ပျိုးရေး	Pyay Road	ပြည်လမ်း	Kamayut	ကမာရွတ်	16.817302720172133	96.1332632484846

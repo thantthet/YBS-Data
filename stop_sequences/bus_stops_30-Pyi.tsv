@@ -1,13 +1,12 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-30-Pyi	1	1031	Dagon Takke Tho	ဒဂုံတက္ကသိုလ်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.916878098620895	96.2128589116037
-30-Pyi	2	1036	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.914898	96.210383
+30-Pyi	1	1031	Dagon Takke Tho	ဒဂုံတက္ကသိုလ်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.916878098620895	96.212858911603730-Pyi	2	1036	Yone Shae	ရုံးရှေ့	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.914898	96.210383
 30-Pyi	3	5	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.91305	96.211413
 30-Pyi	4	1030	Awine	အဝိုင်း	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ	16.910484	96.212894
 30-Pyi	5	1033	Moke Wa	မုခ်ဝ	Min Ye Kyaw Swar Road	မင်းရဲကျော်စွာလမ်း	North Dagon	မြောက်ဒဂုံ	16.90255784827584	96.21715528657663
-30-Pyi	6	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.89929117091002	96.21082443511114
-30-Pyi	7	2407	Gate Haung	ဂိတ်ဟောင်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8973209398579	96.2070433376357
-30-Pyi	8	2409	Kyaung Lan	ကျောင်းလမ်း	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8953468786695	96.2031126860529
-30-Pyi	9	2411	8 Tama	၈ သမ	Min Ye Kyaw Swa Rd	မင်း​ရဲကျော်​စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8934878866662	96.1995235551149
+30-Pyi	6	2412	Bhone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Min Ye Kyaw Swa Rd	မင်းရဲကျော်စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.89929117091002	96.21082443511114
+30-Pyi	7	2407	Gate Haung	ဂိတ်ဟောင်း	Min Ye Kyaw Swa Rd	မင်းရဲကျော်စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8973209398579	96.2070433376357
+30-Pyi	8	2409	Kyaung Lan	ကျောင်းလမ်း	Min Ye Kyaw Swa Rd	မင်းရဲကျော်စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8953468786695	96.2031126860529
+30-Pyi	9	2411	8 Tama	၈ သမ	Min Ye Kyaw Swa Rd	မင်းရဲကျော်စွာ လမ်း	North Dagon	မြောက်ဒဂုံ	16.8934878866662	96.1995235551149
 30-Pyi	10	926	Khun/ Shit Lan Sone	(၇/၈) လမ်းဆုံ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.890982561398648	96.19669476756827
 30-Pyi	11	880	Yone Shae	ရုံးရှေ့	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.887568327965283	96.19860955048354
 30-Pyi	12	928	Kone Padaythar	ကုန်ပဒေသာ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ	16.8842043419244	96.200472638011
@@ -39,31 +38,31 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 30-Pyi	38	1189	Marlar	မာလာ	Pyay Road	ပြည်လမ်း	Kamayut	ကမာရွတ်	16.832085	96.132472
 30-Pyi	39	290	Hledan Zay	လှည်းတန်းဈေး	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.826593902284788	96.12880632519592
 30-Pyi	40	295	Kyaung Shae/ Kone Sin	ကျောင်းရှေ့/ကုန်းဆင်း	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.825525	96.126583
-30-Pyi	41	302	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81968916689901	96.12181771779436
-30-Pyi	42	278	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81470006967928	96.12178073264658
-30-Pyi	43	292	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81251231920376	96.12181011121723
-30-Pyi	44	259	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809123167748957	96.12182549200953
-30-Pyi	45	252	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80417773402748	96.12214895317268
-30-Pyi	46	242	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80093324235627	96.12209948942565
-30-Pyi	47	240	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797407638738495	96.12237939960325
-30-Pyi	48	91	Thiri Mingalar Zay	သီရိမင်္ဂလာဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.793428	96.122795
-30-Pyi	49	88	Kwin Kyaung	ကွင်းကျောင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.791815	96.122913
-30-Pyi	50	90	Sin Min Zay	ဆင်မင်းဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.789089342355922	96.12395543150343
-30-Pyi	51	103	Thit Taw	သစ်တော	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.782208533496107	96.12772663112992
-30-Pyi	52	102	Htaw Li Kwae	ထော်လီကွေ့	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.781329094605752	96.13000275101513
-30-Pyi	53	114	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77828194398644	96.13544789397567
-30-Pyi	54	101	Htaw Li Kwae	ထော်လီကွေ့	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.78144456699472	96.13020934397356
-30-Pyi	55	104	Thit Taw	သစ်တော	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.782335032700068	96.12792007857935
-30-Pyi	56	89	Sin Min Zay	ဆင်မင်းဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.788381214980394	96.12434903847318
-30-Pyi	57	87	Kwin Kyaung	ကွင်းကျောင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.791499113712398	96.12318266881633
-30-Pyi	58	92	Thiri Mingalar Zay	သီရိမင်္ဂလာဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.793387246927256	96.12304329872131
-30-Pyi	59	241	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.79766915959169	96.12243203091568
-30-Pyi	60	243	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80093620461995	96.12225324844077
-30-Pyi	61	253	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80426559990839	96.12227894601347
-30-Pyi	62	258	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80935599745288	96.12198447575794
-30-Pyi	63	291	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812434	96.121964
-30-Pyi	64	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81453683073846	96.1219596862793
-30-Pyi	65	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81928919676379	96.12197063186613
+30-Pyi	41	302	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81968916689901	96.12181771779436
+30-Pyi	42	278	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81470006967928	96.12178073264658
+30-Pyi	43	292	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81251231920376	96.12181011121723
+30-Pyi	44	259	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809123167748957	96.12182549200953
+30-Pyi	45	252	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80417773402748	96.12214895317268
+30-Pyi	46	242	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80093324235627	96.12209948942565
+30-Pyi	47	240	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797407638738495	96.12237939960325
+30-Pyi	48	91	Thiri Mingalar Zay	သီရိမင်္ဂလာဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.793428	96.122795
+30-Pyi	49	88	Kwin Kyaung	ကွင်းကျောင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.791815	96.122913
+30-Pyi	50	90	Sin Min Zay	ဆင်မင်းဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.789089342355922	96.12395543150343
+30-Pyi	51	103	Thit Taw	သစ်တော	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.782208533496107	96.12772663112992
+30-Pyi	52	102	Htaw Li Kwae	ထော်လီကွေ့	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.781329094605752	96.13000275101513
+30-Pyi	53	114	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77828194398644	96.13544789397567
+30-Pyi	54	101	Htaw Li Kwae	ထော်လီကွေ့	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.78144456699472	96.13020934397356
+30-Pyi	55	104	Thit Taw	သစ်တော	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.782335032700068	96.12792007857935
+30-Pyi	56	89	Sin Min Zay	ဆင်မင်းဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.788381214980394	96.12434903847318
+30-Pyi	57	87	Kwin Kyaung	ကွင်းကျောင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.791499113712398	96.12318266881633
+30-Pyi	58	92	Thiri Mingalar Zay	သီရိမင်္ဂလာဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.793387246927256	96.12304329872131
+30-Pyi	59	241	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.79766915959169	96.12243203091568
+30-Pyi	60	243	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80093620461995	96.12225324844077
+30-Pyi	61	253	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80426559990839	96.12227894601347
+30-Pyi	62	258	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80935599745288	96.12198447575794
+30-Pyi	63	291	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812434	96.121964
+30-Pyi	64	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81453683073846	96.1219596862793
+30-Pyi	65	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81928919676379	96.12197063186613
 30-Pyi	66	296	Kyaung Shae/ Kone Sin	ကျောင်းရှေ့/ကုန်းဆင်း	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.82535746158587	96.12666466528029
 30-Pyi	67	289	Hledan Zay	လှည်းတန်းဈေး	Hledan Road	လှည်းတန်းလမ်း	Kamayut	ကမာရွတ်	16.826457	96.128887
 30-Pyi	68	1188	Marlar	မာလာ	Pyay Road	ပြည်လမ်း	Kamayut	ကမာရွတ်	16.832547	96.132826

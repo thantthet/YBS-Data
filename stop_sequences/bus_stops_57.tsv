@@ -1,6 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-57	1	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751
-57	2	111	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77732454956802	96.13656562010875
+57	1	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.13575157	2	111	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77732454956802	96.13656562010875
 57	3	2354	Kili	ကီလီ	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.774839997078754	96.13934765104207
 57	4	121	Maw Tin	မော်တင်	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Lanmadaw	လမ်းမတော်	16.774861611885502	96.14233911037446
 57	5	134	Sae-ngar Lan	(၁၅) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ	16.774744	96.146441
@@ -21,5 +20,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 57	20	132	Nyaung Pin Lay Zay	ညောင်ပင်လေးဈေး	Strand Road	ကမ်းနားလမ်း	Latha	လသာ	16.772604966397473	96.14620919550363
 57	21	123	Maw Tin	မော်တင်	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.77462749596752	96.14231471903625
 57	22	119	Kili	ကီလီ	Strand Road	ကမ်းနားလမ်း	Lanmadaw	လမ်းမတော်	16.7750866590258	96.13943345357258
-57	23	112	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77753758308897	96.13666441524401
-57	24	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751
+57	23	112	Kyone Gyi Gate	ကျုံးကြီးဂိတ်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.77753758308897	96.13666441524401
+57	24	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751
