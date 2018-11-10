@@ -1,6 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-53	1	2362	Shwe Lin Pan Lan Sone	ရွှေလင်ပန်း	Khayae Pin Road	ခရေပင်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.919713	96.064228
-53	2	1118	Koe-Sae-Chauk Gate Haung	(၉၆) ဂိတ်ဟောင်း	Kyansitthar Road	ကျန်စစ်သားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.896708	96.064146
+53	1	2362	Shwe Lin Pan Lan Sone	ရွှေလင်ပန်း	Khayae Pin Road	ခရေပင်လမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.919713	96.06422853	2	1118	Koe-Sae-Chauk Gate Haung	(၉၆) ဂိတ်ဟောင်း	Kyansitthar Road	ကျန်စစ်သားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.896708	96.064146
 53	3	1120	Shwe Thee Lay	ရွှေသီးလေး	Kyansitthar Road	ကျန်စစ်သားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.891883	96.062883
 53	4	23	Sae-Ngar Zay Lay	(၁၅) ဈေးလေး	Kyansitthar Road	ကျန်စစ်သားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.890118	96.062261
 53	5	2244	Gate Haung	ဂိတ်ဟောင်း	Kyansitthar Road	ကျန်စစ်သားလမ်း	Hlaing Tharyar	လှိုင်သာယာ	16.88943	96.06223
