@@ -3,15 +3,16 @@
 import utils
 import re
 import csv
+import json
+import codecs
 from pymongo import MongoClient
 
 def export_stops(db):
-  coll = db.stops
   file = './../data/stops.txt'
   print 'Writing to %s' % file
-  with open(file, 'wb') as stopsTxt:
+  with open(file, 'wb') as file:
     stops = []
-    for stop in coll.find({}).sort('id'):
+    for stop in db.stops.find({}).sort('id'):
       props = {
         'id': stop['id'],
         'name_en': format(stop['name_en']),
@@ -24,11 +25,29 @@ def export_stops(db):
         'lng': stop['lng']
       }
       stops.append(props)
-    with open('./../data/stops.tsv', 'wb') as file:
-      dw = csv.DictWriter(file, sorted(stops[0].keys()), delimiter='\t')
-      dw.writeheader()
-      dw.writerows(stops)
+      
+    dw = csv.DictWriter(file, sorted(stops[0].keys()), delimiter='\t')
+    dw.writeheader()
+    dw.writerows(stops)
+
+def export_routes(db):
+  
+  def remove_mongo_attrs(x):
+    x.pop(u'_id', None)
+    x.pop(u'_etag', None)
+    x.pop(u'waypoints', None)
+    x.pop(u'poi', None)
+    x['shape'].pop(u'_id', None)
+    return x
+
+  file = './../data/routes.json'
+  print 'Writing to %s' % file
+  with codecs.open(file, 'wb', encoding='utf-8') as file:
+    routes = db.routes.find({}).sort('id')
+    routes = map(remove_mongo_attrs, routes)
+    file.write(json.dumps(routes))
 
 client = MongoClient(username='restheart', password='R3ste4rt!')
 db = client.transit
 export_stops(db)
+export_routes(db)
