@@ -1,5 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-33	1	1879	Kyauk Tan	ကျောက်တန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63321394088777	96.3272952754050633	2	1878	Zay Kwae	ဈေးကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63582180712637	96.32650771178307
+33	1	1879	Kyauk Tan	ကျောက်တန်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63321394088777	96.32729527540506
+33	2	1878	Zay Kwae	ဈေးကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.63582180712637	96.32650771178307
 33	3	1876	Gat Tae Kwae	ဂါတ်တဲကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.638334531242144	96.32524437038228
 33	4	1874	Pal Hlaw Pho	ပဲလှော်ဖို	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.64071443214706	96.32379771675916
 33	5	1872	Aung Chan Thar	အောင်ချမ်းသာ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း	16.64446904485579	96.32354684639724

@@ -1,5 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-56	1	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.13575156	2	108	Bogyoke Kwae	ဗိုလ်ချုပ်ကွေ့	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Ahlone	အလုံ	16.780236715431304	96.1367306813918
+56	1	115	Thakhin Mya Pan Chan	သခင်မြပန်းခြံ	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.778411	96.135751
+56	2	108	Bogyoke Kwae	ဗိုလ်ချုပ်ကွေ့	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Ahlone	အလုံ	16.780236715431304	96.1367306813918
 56	3	1814	Bahosi/ Mawtin	ဗဟိုစည်/ မော်တင်	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Lanmadaw	လမ်းမတော်	16.780018	96.140015
 56	4	190	Thayet Taw Kyaung	သရက်တောကျောင်း	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Latha	လသာ	16.779782	96.145659
 56	5	189	Say Yon Gyi	ဆေးရုံကြီး	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Latha	လသာ	16.779525351941228	96.15056259557605
