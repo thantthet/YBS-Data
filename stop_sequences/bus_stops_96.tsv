@@ -53,7 +53,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 96	52	1067	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846687	96.179389
 96	53	2132	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844449	96.181095
 96	54	15	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84227260172592	96.18263882541216
-96	55	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
+96	55	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405	96.1856573307887
 96	56	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
 96	57	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
 96	58	369	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828347114200742	96.18792818038857
@@ -93,8 +93,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 96	92	368	Zawana	ဇဝန	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.828169138152795	96.18795208289158
 96	93	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
 96	94	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638
-96	95	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
-96	96	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
+96	95	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8368424959228	96.1858759517782
+96	96	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8369962890998	96.1858079954982
 96	97	14	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.841680924239533	96.18324872804807
 96	98	1072	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844541	96.181267
 96	99	1066	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thitsar Road	သစ္စာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846384	96.179937

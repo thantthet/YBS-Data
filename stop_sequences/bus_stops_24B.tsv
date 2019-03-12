@@ -38,8 +38,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 24B	37	377	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.80380672147519	96.18508073966952
 24B	38	371	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79994	96.186782
 24B	39	390	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797218	96.186182
-24B	40	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792376131395525	96.18502307217571
-24B	41	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79025310248505	96.18329807650301
+24B	40	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792376131395525	96.18502307217571
+24B	41	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79025310248505	96.18329807650301
 24B	42	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784480218365655	96.17485465016216
 24B	43	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78161309073329	96.17429679259658
 24B	44	446	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77857725311318	96.1752471746877
@@ -53,8 +53,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 24B	52	445	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77814227405194	96.17549379123376
 24B	53	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
 24B	54	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784401976400744	96.17494081612678
-24B	55	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790336237025983	96.18324508192019
-24B	56	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79231857579237	96.18512290064247
+24B	55	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790336237025983	96.18324508192019
+24B	56	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79231857579237	96.18512290064247
 24B	57	389	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797084	96.186241
 24B	58	370	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79996	96.186879
 24B	59	376	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803754746018726	96.18524909019472

@@ -6,10 +6,10 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 5,(၁၀) မိုင် (Sal Mile),ဒဂုံတက္ကသိုလ် (Dagon University),16.91305,96.211413
 6,(၁၂) လုံးတန်း (Sae-hnat-lone-Tan),ရန်ကင်းလမ်း (Yankin Road),16.83090737715405,96.16340025560933
 7,(၁၂) လုံးတန်း (Sae-hnat-lone-Tan),ရန်ကင်းလမ်း (Yankin Road),16.830835378709462,96.1635034158826
-10,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),ရတနာလမ်း (Yadanar Road),16.837107101137917,96.18616104125977
-11,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),ရတနာလမ်း (Yadanar Road),16.836842495922827,96.18587595177816
-12,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),သုမင်္ဂလာလမ်း (Thu Mingalar Road),16.836957339405043,96.18565733078869
-13,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),သုမင်္ဂလာလမ်း (Thu Mingalar Road),16.83699628909975,96.1858079954982
+10,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),ရတနာလမ်း (Yadanar Road),16.8371071011379,96.1861610412598
+11,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),ရတနာလမ်း (Yadanar Road),16.8368424959228,96.1858759517782
+12,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),သုမင်္ဂလာလမ်း (Thu Mingalar Road),16.836957339405,96.1856573307887
+13,(၁၄/၁၅) လမ်းဆုံ ((Sae-Lay/ Sae-Ngar) Lan Sone),သုမင်္ဂလာလမ်း (Thu Mingalar Road),16.8369962890998,96.1858079954982
 14,ပဒေသာ (Padaythar),သုမင်္ဂလာလမ်း (Thu Mingalar Road),16.841680924239533,96.18324872804807
 15,ပဒေသာ (Padaythar),သုမင်္ဂလာလမ်း (Thu Mingalar Road),16.84227260172592,96.18263882541216
 16,နန္ဒဝန်ဈေး (Nandawun Zay),သုမင်္ဂလာလမ်း (Thu Mingalar Road),16.851780308296124,96.17582898354159
@@ -614,8 +614,8 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 734,ကွမ်းယာဆိုင် (Kun Yar Saing),လှော်ကားလမ်း (Hlawga Road),16.863654852674667,96.24854038003834
 735,-၅၆ (Ngar-sae-chauk),လှော်ကားလမ်း (Hlawga Road),16.861108542460062,96.24637269414961
 736,-၅၆ (Ngar-sae-chauk),လှော်ကားလမ်း (Hlawga Road),16.861270217152768,96.24644708354028
-739,(၇၀/၇၁) ဈေး ((Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay),လှော်ကားလမ်း (Hlawga Road),16.87067308123673,96.25487992772835
-740,(၇၀/၇၁) ဈေး ((Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay),လှော်ကားလမ်း (Hlawga Road),16.870692031238004,96.25483634183185
+739,(၇၀/၇၁) ဈေး ((Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay),လှော်ကားလမ်း (Hlawga Road),16.8706730812367,96.2548799277284
+740,(၇၀/၇၁) ဈေး ((Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay),လှော်ကားလမ်း (Hlawga Road),16.870692031238,96.2548363418318
 741,အကြော်တဲ (Ah Kyaw Tae),ကျန်စစ်သားလမ်း (Kyansitthar Road),16.877069,96.247142
 742,အကြော်တဲ (Ah Kyaw Tae),ကျန်စစ်သားလမ်း (Kyansitthar Road),16.877428,96.247206
 743,ကားကြီးဂိတ် (Kar Gyi Gate),လှော်ကားလမ်း (Hlawga Road),16.86708979234193,96.25171133782716
@@ -2074,3 +2074,15 @@ stop_id,stop_name,stop_desc,stop_lat,stop_lon
 2490,နှင်းဆီကုန်းရိပ်သာ (Hnin Si Kone Yate Thar),ကမ္ဘာအေးဘုရားလမ်း (Kabar Aye Pagoda Road),16.8103514630747,96.1559350602329
 2491,နှင်းဆီကုန်းရိပ်သာ (Hnin Si Kone Yate Thar),ကမ္ဘာအေးဘုရားလမ်း (Kabar Aye Pagoda Road),16.8103257871641,96.1561818234623
 2492,ရွှေလီလမ်း (Shwe Li Road),ရွှေလီလမ်း (Shwe Li Road),16.8271044138317,96.2457429198548
+2494,သံဃာတက္ကသိုလ် (Thanghar Thetkathol),ဝေဇယန္တာလမ်း (Waizayantar Road),16.8675339120932,96.1582204699516
+2495,သံဃာတက္ကသိုလ် (Thanghar Thetkathol),ဝေဇယန္တာလမ်း (Waizayantar Road),16.8668325685815,96.1586201190948
+2496,ပါရမီ (Parami),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8513654,96.1674329
+2497,ပါရမီ (Parami),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8512319,96.1676907
+2498,ကန်သာယာ (Kantharyar),ဝေဇယန္တာလမ်း (Waizayanta Road),16.850097893862905,96.16806633537635
+2499,ကန်သာယာ (Kantharyar),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8501296210204,96.1682896083221
+2500,ဟံသာဝတီလမ်း (Hantharwaddy),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8435344894853,96.1717567406595
+2501,ဟံသာဝတီလမ်း (Hantharwaddy),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8436351494717,96.1719705420546
+2502,ရတနာလမ်း (Yadanar Lann),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8347771,96.1777704
+2503,ရတနာလမ်း (Yadanar Lann),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8351786,96.1772756
+2504,သုဝဏ္ဏဘောလုံးကွင်း (Thuwanna Stadium),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8187753209889,96.1865820433013
+2505,သုဝဏ္ဏဘောလုံးကွင်း (Thuwanna Stadium),ဝေဇယန္တာလမ်း (Waizayanta Road),16.8183803102587,96.1867243051529

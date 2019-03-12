@@ -44,7 +44,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	43	36	Tayar-Chauk	(၁၀၆)	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.8431164862356	96.1565192369744
 79	44	1242	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.83789230363614	96.15568609020558
 79	45	1246	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833849962299986	96.15510751493277
-79	46	2388	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.826158759059954	96.1581852240488
+79	46	2388	1)	စက်မှု (၁) (Set Hmu	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.826158759059954	96.1581852240488
 79	47	355	Zay Kwae	ဈေးကွေ့	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.822303054572906	96.16266463162903
 79	48	349	Min Lan	မင်းလမ်း	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.819669	96.164948
 79	49	346	Lan Sone	လမ်းဆုံ	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.81753155492063	96.16652819328012
@@ -56,8 +56,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	55	377	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.80380672147519	96.18508073966952
 79	56	371	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79994	96.186782
 79	57	390	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797218	96.186182
-79	58	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792376131395525	96.18502307217571
-79	59	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790336237025983	96.18324508192019
+79	58	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792376131395525	96.18502307217571
+79	59	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790336237025983	96.18324508192019
 79	60	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784480218365655	96.17485465016216
 79	61	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78161309073329	96.17429679259658
 79	62	446	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77857725311318	96.1752471746877
@@ -67,8 +67,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	66	445	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77814227405194	96.17549379123376
 79	67	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
 79	68	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784401976400744	96.17494081612678
-79	69	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79025310248505	96.18329807650301
-79	70	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79231857579237	96.18512290064247
+79	69	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79025310248505	96.18329807650301
+79	70	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79231857579237	96.18512290064247
 79	71	389	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797084	96.186241
 79	72	370	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79996	96.186879
 79	73	376	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803754746018726	96.18524909019472
@@ -81,7 +81,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 79	80	348	Min Lan	မင်းလမ်း	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.819495	96.165249
 79	81	354	Zay Kwae	ဈေးကွေ့	U Chit Maung Road	ဦးချစ်မောင်လမ်း	Bahan	ဗဟန်း	16.82250281937509	96.16280280730281
 79	82	2387	Baho Bank	ဗဟိုဘဏ်	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.824887	96.160199
-79	83	2383	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.825994453613134	96.15880109846331
+79	83	2383	1)	စက်မှု (၁) (Set Hmu	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း	16.825994453613134	96.15880109846331
 79	84	1245	Lan Ni	လမ်းနီ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.833775752063897	96.1553610675037
 79	85	1241	Yeik Thar	ရိပ်သာ	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.838336980039827	96.15606039718843
 79	86	37	Tayar-Chauk	(၁၀၆)	Kabar Aye Pagoda Road	ကမ္ဘာအေးဘုရားလမ်း	Mayangone	မရမ်းကုန်း	16.8431239670619	96.1566660250537

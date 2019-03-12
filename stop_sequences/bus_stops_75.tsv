@@ -28,17 +28,17 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 75	27	273	Shwe Man	ရွှေမန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803827	96.136105
 75	28	261	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80383891776587	96.13184186629952
 75	29	255	Koe Htat Kyee	(၉) ထပ်ကြီး	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80385946248815	96.12814109193097
-75	30	257	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806369318492735	96.12588311894798
-75	31	251	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809454549304007	96.1260079778731
-75	32	299	Salin Kwin	စလင်းကွင်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81202472257673	96.12604951020332
-75	33	291	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812434	96.121964
-75	34	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81453683073846	96.1219596862793
-75	35	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81928919676379	96.12197063186613
-75	36	284	Hantharwaddy	ဟံသာဝတီ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.816320576623713	96.12593807280065
-75	37	279	Nat Sin Lan	နတ်စင်လမ်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.8145082067416	96.12593155587093
-75	38	300	Salin Kwin	စလင်းကွင်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812730481580218	96.12592935562135
-75	39	250	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809933587198	96.12593092722818
-75	40	256	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806301299283557	96.12574257194865
+75	30	257	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806369318492735	96.12588311894798
+75	31	251	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809454549304007	96.1260079778731
+75	32	299	Salin Kwin	စလင်းကွင်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81202472257673	96.12604951020332
+75	33	291	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812434	96.121964
+75	34	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81453683073846	96.1219596862793
+75	35	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81928919676379	96.12197063186613
+75	36	284	Hantharwaddy	ဟံသာဝတီ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.816320576623713	96.12593807280065
+75	37	279	Nat Sin Lan	နတ်စင်လမ်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.8145082067416	96.12593155587093
+75	38	300	Salin Kwin	စလင်းကွင်း	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812730481580218	96.12592935562135
+75	39	250	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809933587198	96.12593092722818
+75	40	256	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806301299283557	96.12574257194865
 75	41	254	Koe Htat Kyee	(၉) ထပ်ကြီး	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80377692571842	96.12809622083661
 75	42	260	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803776350638998	96.13150128861892
 75	43	272	Shwe Man	ရွှေမန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803697434586116	96.13618335686625

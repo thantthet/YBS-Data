@@ -1,5 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-70	1	2118	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.689966603091765	96.30743383197115
+70	1	2118	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.689966603091765	96.30743383197115
 70	2	1846	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.69593774696568	96.30585053237155
 70	3	1844	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.698724	96.304815
 70	4	1842	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705506	96.297305
@@ -82,4 +82,4 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 70	81	1843	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705342	96.297004
 70	82	1845	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.698622614431475	96.3046585628763
 70	83	1847	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.695801000704293	96.30572916241363
-70	84	2119	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68995813271067	96.30737094674261
+70	84	2119	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68995813271067	96.30737094674261

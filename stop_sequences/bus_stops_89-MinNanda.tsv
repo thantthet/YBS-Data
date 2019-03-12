@@ -15,7 +15,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 89-MinNanda	14	418	Gandee	ဂန္ဓီ	Merchant Road	ကုန်သည်လမ်း	Pazundaung	ပုဇွန်တောင်	16.771189	96.174722
 89-MinNanda	15	155	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်	16.771425522061257	96.1712548742071
 89-MinNanda	16	147	Bokalay Zay	ဘိုကလေးဈေး	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77159734508142	96.16637403616551
-89-MinNanda	17	151	Pansodan (Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း)	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165175700966	96.16308339871469
+89-MinNanda	17	151	Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း) (Pansodan	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165175700966	96.16308339871469
 89-MinNanda	18	139	Lan Thone Sae	လမ်း(၃၀)	Merchant Road	ကုန်သည်လမ်း	Pabedan	ပန်းဘဲတန်း	16.77192146900368	96.15661520976575
 89-MinNanda	19	129	Latha	လသာ	Strand Road	ကမ်းနားလမ်း	Latha	လသာ	16.772114	96.15142
 89-MinNanda	20	132	Nyaung Pin Lay Zay	ညောင်ပင်လေးဈေး	Strand Road	ကမ်းနားလမ်း	Latha	လသာ	16.772604966397473	96.14620919550363
@@ -28,14 +28,14 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 89-MinNanda	27	89	Sin Min Zay	ဆင်မင်းဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.788381214980394	96.12434903847318
 89-MinNanda	28	87	Kwin Kyaung	ကွင်းကျောင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.791499113712398	96.12318266881633
 89-MinNanda	29	92	Thiri Mingalar Zay	သီရိမင်္ဂလာဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Ahlone	အလုံ	16.793387246927256	96.12304329872131
-89-MinNanda	30	241	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.79766915959169	96.12243203091568
-89-MinNanda	31	243	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80093620461995	96.12225324844077
-89-MinNanda	32	253	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80426559990839	96.12227894601347
-89-MinNanda	33	258	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80935599745288	96.12198447575794
-89-MinNanda	34	250	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809933587198	96.12593092722818
-89-MinNanda	35	256	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806301299283557	96.12574257194865
-89-MinNanda	36	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80060702485202	96.12604542402553
-89-MinNanda	37	244	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797192	96.126132
+89-MinNanda	30	241	Home Lan	ဟုမ်းလမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.79766915959169	96.12243203091568
+89-MinNanda	31	243	Thal Kwin	သဲကွင်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80093620461995	96.12225324844077
+89-MinNanda	32	253	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80426559990839	96.12227894601347
+89-MinNanda	33	258	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80935599745288	96.12198447575794
+89-MinNanda	34	250	Kyee Myin Daing Nya Zay	ကြည်မြင်တိုင်ညဈေး	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809933587198	96.12593092722818
+89-MinNanda	35	256	Kyee Myin Daing Butar	ကြည့်မြင်တိုင်ဘူတာ	Upper Kyee Myin Daing Road	အထက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.806301299283557	96.12574257194865
+89-MinNanda	36	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80060702485202	96.12604542402553
+89-MinNanda	37	244	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797192	96.126132
 89-MinNanda	38	97	White Taw	ဝှိုက်တော	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.793536	96.126588
 89-MinNanda	39	95	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.790543070149177	96.12796158995481
 89-MinNanda	40	93	Chan Mar Phee	ချန်မာဖီ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78735983441184	96.12950640221246

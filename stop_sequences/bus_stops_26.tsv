@@ -31,7 +31,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 26	30	2417	Say Yone Shae	ဆေးရုံရှေ့	Metta Road	မေတ္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8446797919989	96.1867720400915
 26	31	2416	Zay Mat Tine	စျေးမှတ်တိုင်	Metta Road	မေတ္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8435364750086	96.1853710259311
 26	32	14	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.841680924239533	96.18324872804807
-26	33	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
+26	33	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405	96.1856573307887
 26	34	1071	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835962	96.183033
 26	35	1056	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834883	96.180404
 26	36	1060	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833882	96.176488
@@ -45,10 +45,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 26	44	2414	Tamwe Zay Haung/ Akhun Lut Zay	တာမွေဈေးဟောင်း/ အခွန်လွတ်ဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.8132196008765	96.1745333508588
 26	45	385	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807725	96.176172
 26	46	379	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804151	96.175646
-26	47	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
-26	48	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
-26	49	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
-26	50	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
+26	47	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
+26	48	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
+26	49	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
+26	50	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
 26	51	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784480218365655	96.17485465016216
 26	52	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78161309073329	96.17429679259658
 26	53	445	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77814227405194	96.17549379123376
@@ -64,10 +64,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 26	63	446	Nyaung Tan	ညောင်တန်း	Lower Pazundaung Road	အောက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.77857725311318	96.1752471746877
 26	64	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
 26	65	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784401976400744	96.17494081612678
-26	66	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
-26	67	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
-26	68	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
-26	69	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
+26	66	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
+26	67	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
+26	68	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
+26	69	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
 26	70	378	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804033700192896	96.1757376836613
 26	71	384	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807521575682284	96.17627263767645
 26	72	363	Tamwe Zay Haung/ Akhun Lut Zay	တာမွေဈေးဟောင်း/ အခွန်လွတ်ဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.813353	96.174892
@@ -81,7 +81,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 26	80	1059	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833764	96.176424
 26	81	1055	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834791	96.180452
 26	82	1070	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835869	96.18307
-26	83	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
+26	83	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8369962890998	96.1858079954982
 26	84	2415	Zay Mat Tine	စျေးမှတ်တိုင်	Metta Road	မေတ္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.843560501844	96.1855576070957
 26	85	2418	Say Yone Shae	ဆေးရုံရှေ့	Metta Road	မေတ္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8445925097062	96.186873964034
 26	86	2420	13 Lan	၁၃ လမ်း	Metta Road	မေတ္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8474254132553	96.1902615940198

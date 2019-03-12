@@ -24,7 +24,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 60-Mini	23	1059	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833764	96.176424
 60-Mini	24	1055	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834791	96.180452
 60-Mini	25	1070	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835869	96.18307
-60-Mini	26	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
+60-Mini	26	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8368424959228	96.1858759517782
 60-Mini	27	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
 60-Mini	28	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
 60-Mini	29	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
@@ -64,7 +64,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 60-Mini	63	596	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840692221664213	96.19498942745851
 60-Mini	64	606	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.839107162036793	96.1929774354212
 60-Mini	65	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838743682092584	96.19168509263547
-60-Mini	66	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107101137917	96.18616104125977
+60-Mini	66	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8371071011379	96.1861610412598
 60-Mini	67	1071	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835962	96.183033
 60-Mini	68	1056	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834883	96.180404
 60-Mini	69	1060	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833882	96.176488

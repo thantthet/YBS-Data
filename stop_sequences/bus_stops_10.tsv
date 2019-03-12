@@ -23,7 +23,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 10	22	366	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.827762389884697	96.18795190133825
 10	23	1069	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832619	96.187951
 10	24	1054	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835304	96.186638
-10	25	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.83699628909975	96.1858079954982
+10	25	13	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.8369962890998	96.1858079954982
 10	26	14	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.841680924239533	96.18324872804807
 10	27	1072	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844541	96.181267
 10	28	1068	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846759	96.179625
@@ -94,7 +94,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 10	93	1067	Taung Okkalar Sar Taik	တောင်ဥက္ကလာစာတိုက်	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.846687	96.179389
 10	94	2132	Yone Shae	ရုံးရှေ့	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.844449	96.181095
 10	95	15	Padaythar	ပဒေသာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.84227260172592	96.18263882541216
-10	96	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405043	96.18565733078869
+10	96	12	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.836957339405	96.1856573307887
 10	97	1053	Aung Yadanar	အောင်ရတနာ	Thu Mingalar Road	သုမင်္ဂလာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.835243	96.186482
 10	98	2131	Thayet Taw	သရက်တော	Thu Mingalar Road	သုမင်္ဂလာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.832547	96.187779
 10	99	367	Zawana	ဇဝန	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.82807920732785	96.18817041395235

@@ -24,7 +24,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 60	23	1059	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833764	96.176424
 60	24	1055	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834791	96.180452
 60	25	1070	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835869	96.18307
-60	26	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.836842495922827	96.18587595177816
+60	26	11	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8368424959228	96.1858759517782
 60	27	611	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837686511660152	96.18816041853279
 60	28	605	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.838916146122667	96.19297112803909
 60	29	595	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840423	96.194977
@@ -50,7 +50,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 60	49	773	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.836587958714585	96.24994466314095
 60	50	771	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.835173105870915	96.25461451476441
 60	51	779	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832399568107512	96.26484779175372
-60	52	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
+60	52	782	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
 60	53	780	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832435189283327	96.26510626869276
 60	54	772	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83504769143127	96.2554765935056
 60	55	666	Thein Kyaung	သိမ်ကျောင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ	16.838174523605293	96.24415834201501
@@ -75,7 +75,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 60	74	596	Ar Nandar Paya	အာနန္ဒာဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.840692221664213	96.19498942745851
 60	75	606	Gate Haung	ဂိတ်ဟောင်း	Yadanar Road	ရတနာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ	16.839107162036793	96.1929774354212
 60	76	612	Kyaikkasan Paya	ကျိုက္ကစံဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.838743682092584	96.19168509263547
-60	77	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.837107101137917	96.18616104125977
+60	77	10	(Sae-Lay/ Sae-Ngar) Lan Sone	(၁၄/၁၅) လမ်းဆုံ	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.8371071011379	96.1861610412598
 60	78	1071	Yadanar Zay	ရတနာဈေး	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.835962	96.183033
 60	79	1056	Kalar Paya	ကုလားဘုရား	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.834883	96.180404
 60	80	1060	Sae-Chauk Kwae	(၁၆) ကွေ့	Yadanar Road	ရတနာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း	16.833882	96.176488

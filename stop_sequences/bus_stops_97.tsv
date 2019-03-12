@@ -34,12 +34,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 97	33	377	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.80380672147519	96.18508073966952
 97	34	371	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79994	96.186782
 97	35	390	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797218	96.186182
-97	36	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792376131395525	96.18502307217571
-97	37	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790336237025983	96.18324508192019
-97	38	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
-97	39	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
-97	40	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
-97	41	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
+97	36	441	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.792376131395525	96.18502307217571
+97	37	439	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.790336237025983	96.18324508192019
+97	38	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
+97	39	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
+97	40	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
+97	41	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
 97	42	239	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.806694055071702	96.17217367747799
 97	43	333	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.81164669784772	96.17015008338059
 97	44	233	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811227	96.165963
@@ -173,12 +173,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 97	172	232	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811207	96.165464
 97	173	332	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.81149101866884	96.16997592855115
 97	174	238	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.80649379907491	96.17212619399655
-97	175	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
-97	176	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
-97	177	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
-97	178	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
-97	179	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79025310248505	96.18329807650301
-97	180	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79231857579237	96.18512290064247
+97	175	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
+97	176	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
+97	177	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
+97	178	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
+97	179	440	Athin Taik	အသင်းတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79025310248505	96.18329807650301
+97	180	442	Koe Lan	(၉) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79231857579237	96.18512290064247
 97	181	389	Yone Lay	ရုံးလေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.797084	96.186241
 97	182	370	A.B.C	အေဘီစီ	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.79996	96.186879
 97	183	376	Chauk Lan	(၆) လမ်း	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.803754746018726	96.18524909019472

@@ -1,5 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-80-MyinThawTar	1	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
+80-MyinThawTar	1	782	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
 80-MyinThawTar	2	780	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832435189283327	96.26510626869276
 80-MyinThawTar	3	772	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83504769143127	96.2554765935056
 80-MyinThawTar	4	773	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.836587958714585	96.24994466314095
@@ -26,8 +26,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-MyinThawTar	25	478	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.779837585327368	96.19136542780326
 80-MyinThawTar	26	472	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781293798309072	96.18871798273177
 80-MyinThawTar	27	452	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.782604468723882	96.18374168872835
-80-MyinThawTar	28	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
-80-MyinThawTar	29	184	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794101	96.172931
+80-MyinThawTar	28	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
+80-MyinThawTar	29	184	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794101	96.172931
 80-MyinThawTar	30	239	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.806694055071702	96.17217367747799
 80-MyinThawTar	31	333	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.81164669784772	96.17015008338059
 80-MyinThawTar	32	232	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811207	96.165464
@@ -42,8 +42,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-MyinThawTar	41	273	Shwe Man	ရွှေမန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803827	96.136105
 80-MyinThawTar	42	261	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80383891776587	96.13184186629952
 80-MyinThawTar	43	255	Koe Htat Kyee	(၉) ထပ်ကြီး	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80385946248815	96.12814109193097
-80-MyinThawTar	44	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80060702485202	96.12604542402553
-80-MyinThawTar	45	244	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797192	96.126132
+80-MyinThawTar	44	247	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80060702485202	96.12604542402553
+80-MyinThawTar	45	244	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.797192	96.126132
 80-MyinThawTar	46	97	White Taw	ဝှိုက်တော	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.793536	96.126588
 80-MyinThawTar	47	95	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.790543070149177	96.12796158995481
 80-MyinThawTar	48	93	Chan Mar Phee	ချန်မာဖီ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78735983441184	96.12950640221246
@@ -55,8 +55,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-MyinThawTar	54	94	Chan Mar Phee	ချန်မာဖီ	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.78753614374465	96.12954945769162
 80-MyinThawTar	55	96	Sin Min Zay	ဆင်မင်းဈေး	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.790742	96.12801
 80-MyinThawTar	56	98	White Taw	ဝှိုက်တော	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Ahlone	အလုံ	16.793685501607825	96.12661432474853
-80-MyinThawTar	57	245	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.7980176794345	96.12623665714638
-80-MyinThawTar	58	246	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80036473598132	96.12621706444772
+80-MyinThawTar	57	245	Home Lan	ဟုမ်းလမ်း	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.7980176794345	96.12623665714638
+80-MyinThawTar	58	246	Kyaung Shae	ကျောင်းရှေ့	Lower Kyee Myin Daing Road	အောက်ကြည့်မြင်တိုင်လမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80036473598132	96.12621706444772
 80-MyinThawTar	59	254	Koe Htat Kyee	(၉) ထပ်ကြီး	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80377692571842	96.12809622083661
 80-MyinThawTar	60	260	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803776350638998	96.13150128861892
 80-MyinThawTar	61	272	Shwe Man	ရွှေမန်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803697434586116	96.13618335686625
@@ -71,8 +71,8 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 80-MyinThawTar	70	233	Chauk Htat Kyee	(၆) ထပ်ကြီး	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.811227	96.165963
 80-MyinThawTar	71	332	Awine Htate/ Tamwe	အဝိုင်းထိပ်/ တာမွေ	East Shwe Gon Daing Road	အရှေ့ရွှေဂုံတိုင်လမ်း	Bahan	ဗဟန်း	16.81149101866884	96.16997592855115
 80-MyinThawTar	72	238	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.80649379907491	96.17212619399655
-80-MyinThawTar	73	183	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.793952681275336	96.17282722854725
-80-MyinThawTar	74	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
+80-MyinThawTar	73	183	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.793952681275336	96.17282722854725
+80-MyinThawTar	74	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
 80-MyinThawTar	75	451	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.78255539648769	96.18273277999835
 80-MyinThawTar	76	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781964622745882	96.187147423625
 80-MyinThawTar	77	477	Yan Pyay	ရန်ပြေ	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.77991	96.191028

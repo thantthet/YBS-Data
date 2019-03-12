@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 6B	1	765	Yone Shae	ရုံးရှေ့	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.872617361512543	96.25652747461574
-6B	2	740	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.870692031238004	96.25483634183185
+6B	2	740	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.870692031238	96.2548363418318
 6B	3	744	Kar Gyi Gate	ကားကြီးဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.867168581712477	96.25166383339092
 6B	4	734	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.863654852674667	96.24854038003834
 6B	5	736	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861270217152768	96.24644708354028
@@ -129,5 +129,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 6B	128	735	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.861108542460062	96.24637269414961
 6B	129	733	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.863385431598722	96.24840335687624
 6B	130	743	Kar Gyi Gate	ကားကြီးဂိတ်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.86708979234193	96.25171133782716
-6B	131	739	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.87067308123673	96.25487992772835
+6B	131	739	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.8706730812367	96.2548799277284
 6B	132	766	Yone Shae	ရုံးရှေ့	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ	16.87263370446725	96.25665764557199

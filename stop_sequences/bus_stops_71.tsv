@@ -1,5 +1,5 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-71	1	2344	Lay Daung Kan (Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.960345	96.294871
+71	1	2344	Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁) (Lay Daung Kan	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.960345	96.294871
 71	2	2085	Yeik Thar	ရိပ်သာ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.958359	96.293384
 71	3	2088	Thama	သမ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.956527	96.291597
 71	4	2090	U Khway Pu	ဦးခွေးပု	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.954532378346236	96.29007409326734
@@ -68,4 +68,4 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 71	67	2089	U Khway Pu	ဦးခွေးပု	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.954393	96.290224
 71	68	2087	Thama	သမ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.956322	96.291811
 71	69	2086	Yeik Thar	ရိပ်သာ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.958333	96.293432
-71	70	2084	Lay Daung Kan (Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.959837867470966	96.29481309559198
+71	70	2084	Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁) (Lay Daung Kan	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ	16.959837867470966	96.29481309559198

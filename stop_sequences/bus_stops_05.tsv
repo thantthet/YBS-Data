@@ -1,7 +1,7 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 5	1	787	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.842434486340437	96.27967866836117
 5	2	2147	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.27653847215699
-5	3	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
+5	3	782	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
 5	4	790	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827135683519842	96.26922913827003
 5	5	791	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823556905408946	96.26786213368177
 5	6	2345	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82127753126424	96.26612567575648
@@ -62,6 +62,6 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 5	61	2141	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ	16.82123621147536	96.26615587156266
 5	62	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823533397541077	96.26791923539714
 5	63	789	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827114903920087	96.2692688475363
-5	64	781	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83207512627888	96.27043889835477
+5	64	781	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83207512627888	96.27043889835477
 5	65	2145	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832328907388145	96.27659708261491
 5	66	788	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.84239599905062	96.27974180504681

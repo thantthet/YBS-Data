@@ -1,7 +1,7 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
 3A	1	792	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823533397541077	96.26791923539714
 3A	2	789	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827114903920087	96.2692688475363
-3A	3	782	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
+3A	3	782	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83233149473826	96.2701914855279
 3A	4	780	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832435189283327	96.26510626869276
 3A	5	772	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83504769143127	96.2554765935056
 3A	6	773	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.836587958714585	96.24994466314095
@@ -35,10 +35,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 3A	34	345	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.819240515122235	96.17228088201956
 3A	35	343	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.815445555142144	96.17246560541389
 3A	36	238	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.80649379907491	96.17212619399655
-3A	37	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
-3A	38	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
-3A	39	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
-3A	40	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
+3A	37	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
+3A	38	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
+3A	39	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
+3A	40	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
 3A	41	450	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784480218365655	96.17485465016216
 3A	42	448	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78161309073329	96.17429679259658
 3A	43	161	Si Saing	ဆီဆိုင်	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.775845153839875	96.17261703104306
@@ -46,7 +46,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 3A	45	162	Ye Sa Khan	ရဲစခန်း	Botahtaung Pagoda Road	ဗိုလ်တထောင်ဘုရားလမ်း	Botahtaung	ဗိုလ်တထောင်	16.771446709027767	96.17255423683675
 3A	46	155	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်	16.771425522061257	96.1712548742071
 3A	47	147	Bokalay Zay	ဘိုကလေးဈေး	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77159734508142	96.16637403616551
-3A	48	151	Pansodan (Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း)	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165175700966	96.16308339871469
+3A	48	151	Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း) (Pansodan	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား	16.77165175700966	96.16308339871469
 3A	49	152	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား	16.774245735327835	96.15955352783205
 3A	50	141	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား	16.775753793727244	96.15887872176246
 3A	51	174	Pansodan	ပန်းဆိုးတန်း	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Kyauktada	ကျောက်တံတား	16.779170806025874	96.16235559118651
@@ -54,10 +54,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 3A	53	156	Lan Ngar Sae	လမ်း(၅၀)	Bogyoke Aung San Road	ဗိုလ်ချုပ်အောင်ဆန်းလမ်း	Kyauktada	ကျောက်တံတား	16.778733641495005	96.17131233215333
 3A	54	447	Pazundaung Zay	ပုဇွန်တောင်ဈေး	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.78022529329327	96.17454728577287
 3A	55	449	Sar Taik	စာတိုက်	Upper Pazundaung Road	အထက်ပုဇွန်တောင်လမ်း	Pazundaung	ပုဇွန်တောင်	16.784401976400744	96.17494081612678
-3A	56	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
-3A	57	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
-3A	58	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
-3A	59	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
+3A	56	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
+3A	57	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
+3A	58	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
+3A	59	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
 3A	60	239	Byaing Yae Oh Sin	ဗျိုင်းရေအိုးစင်	Banyardala Road	ဗညားဒလလမ်း	Tamwe	တာမွေ	16.806694055071702	96.17217367747799
 3A	61	342	Kyaung Shae	ကျောင်းရှေ့	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.81540650761808	96.17265560187664
 3A	62	344	Lan Sone	လမ်းဆုံ	East Horse Race Course Road	အရှေ့မြင်းပြိုင်လမ်း	Tamwe	တာမွေ	16.818935326878414	96.17252718424426
@@ -91,6 +91,6 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 3A	90	774	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83661172569713	96.24944820301609
 3A	91	771	Mya Nandar	မြနန္ဒာ	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.835173105870915	96.25461451476441
 3A	92	779	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.832399568107512	96.26484779175372
-3A	93	781	Moke Oo (Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83207512627888	96.27043889835477
+3A	93	781	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.83207512627888	96.27043889835477
 3A	94	790	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.827135683519842	96.26922913827003
 3A	95	791	Sae-Tit Lan	(၁၁) လမ်း	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း	16.823556905408946	96.26786213368177

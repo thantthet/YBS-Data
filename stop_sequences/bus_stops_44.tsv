@@ -21,7 +21,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 44	20	1411	Waryar Let	ဝါယာလက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.960714	96.127084
 44	21	1413	Yae Kyi I	ရေကြည်အိုင်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.965784	96.127299
 44	22	1445	Sin Min	ဆင်မင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970278	96.126763
-44	23	57	Tit Numpad	်(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974734331301605	96.12423683982342
+44	23	57	Tit Numpad	(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974734331301605	96.12423683982342
 44	24	1427	Bo Chan	ဘိုခြံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.980499	96.12687
 44	25	1442	Shan Su	ရှမ်းစု	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.987558	96.127256
 44	26	1446	Ye Baw Haung	ရဲဘော်ဟောင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.991406	96.13111
@@ -96,7 +96,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 44	95	1447	Ye Baw Haung	ရဲဘော်ဟောင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.991488	96.130938
 44	96	1443	Shan Su	ရှမ်းစု	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.98794828918517	96.1271884222515
 44	97	1426	Bo Chan	ဘိုခြံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.980232	96.126419
-44	98	58	Tit Numpad	်(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974884204079043	96.12405782332644
+44	98	58	Tit Numpad	(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974884204079043	96.12405782332644
 44	99	1444	Sin Min	ဆင်မင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970032	96.126548
 44	100	1414	Yae Kyi I	ရေကြည်အိုင်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.966603022677855	96.1274304497056
 44	101	1412	Waryar Let	ဝါယာလက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.961805600297204	96.1267461720854

@@ -16,7 +16,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 95	15	1852	Gate Haung	ဂိတ်ဟောင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.681890245410656	96.31402485771106
 95	16	1850	Gate Tit	ဂိတ် (၁)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.683113721287373	96.31187360035256
 95	17	1848	Aung Ta Pyay	အောင်သပြေ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.685701096470222	96.30937933456153
-95	18	2118	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.689966603091765	96.30743383197115
+95	18	2118	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.689966603091765	96.30743383197115
 95	19	1846	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.69593774696568	96.30585053237155
 95	20	1844	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.698724	96.304815
 95	21	1842	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705506	96.297305
@@ -55,10 +55,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 95	54	385	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807725	96.176172
 95	55	379	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804151	96.175646
 95	56	2468	Alote Thamar Say Yone	အလုပ်သမားဆေးရုံကြီး	Kyaikasan Road	ကျိုက္ကစံလမ်း	Tamwe	တာမွေ	16.7979369154101	96.1727124452591
-95	57	183	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.793952681275336	96.17282722854725
-95	58	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
-95	59	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
-95	60	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
+95	57	183	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.793952681275336	96.17282722854725
+95	58	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
+95	59	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
+95	60	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
 95	61	378	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804033700192896	96.1757376836613
 95	62	384	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807521575682284	96.17627263767645
 95	63	381	Tamwe Bali	တာမွေဗလီ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.809481208242932	96.17696179775523
@@ -96,7 +96,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 95	95	1843	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705342	96.297004
 95	96	1845	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.698622614431475	96.3046585628763
 95	97	1847	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.695801000704293	96.30572916241363
-95	98	2119	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68995813271067	96.30737094674261
+95	98	2119	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68995813271067	96.30737094674261
 95	99	1849	Aung Ta Pyay	အောင်သပြေ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.685632649435334	96.30936221452431
 95	100	1851	Gate Tit	ဂိတ် (၁)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68306887884278	96.31179736694321
 95	101	1853	Gate Haung	ဂိတ်ဟောင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.681839340679655	96.31396830081941

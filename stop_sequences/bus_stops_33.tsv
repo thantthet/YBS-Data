@@ -16,7 +16,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 33	15	1852	Gate Haung	ဂိတ်ဟောင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.681890245410656	96.31402485771106
 33	16	1850	Gate Tit	ဂိတ် (၁)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.683113721287373	96.31187360035256
 33	17	1848	Aung Ta Pyay	အောင်သပြေ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.685701096470222	96.30937933456153
-33	18	2118	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.689966603091765	96.30743383197115
+33	18	2118	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.689966603091765	96.30743383197115
 33	19	1846	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.69593774696568	96.30585053237155
 33	20	1844	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.698724	96.304815
 33	21	1842	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705506	96.297305
@@ -54,12 +54,12 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 33	53	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786142631820557	96.19004884036259
 33	54	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781991325670376	96.18769811466336
 33	55	452	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.782604468723882	96.18374168872835
-33	56	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
-33	57	184	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794101	96.172931
-33	58	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
-33	59	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
-33	60	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
-33	61	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
+33	56	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
+33	57	184	Mingalar Mon Zay	မင်္ဂလာမွန်ဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794101	96.172931
+33	58	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
+33	59	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
+33	60	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
+33	61	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
 33	62	451	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.78255539648769	96.18273277999835
 33	63	469	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78190317189937	96.18801645934583
 33	64	475	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.785668248425793	96.18991768453272
@@ -97,7 +97,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 33	96	1843	Hta Ma Lon	ထားမလုံ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.705342	96.297004
 33	97	1845	Paya Lay	ဘုရားလေး	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.698622614431475	96.3046585628763
 33	98	1847	Ko Tin Maung Chan Wa	ကိုတင်မောင်ခြံဝ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.695801000704293	96.30572916241363
-33	99	2119	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68995813271067	96.30737094674261
+33	99	2119	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68995813271067	96.30737094674261
 33	100	1849	Aung Ta Pyay	အောင်သပြေ	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.685632649435334	96.30936221452431
 33	101	1851	Gate Tit	ဂိတ် (၁)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.68306887884278	96.31179736694321
 33	102	1853	Gate Haung	ဂိတ်ဟောင်း	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်	16.681839340679655	96.31396830081941

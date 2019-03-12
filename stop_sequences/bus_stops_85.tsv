@@ -13,10 +13,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 85	12	476	Yan Aung	ရန်အောင်	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.786142631820557	96.19004884036259
 85	13	470	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.781991325670376	96.18769811466336
 85	14	452	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.782604468723882	96.18374168872835
-85	15	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
-85	16	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
-85	17	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
-85	18	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
+85	15	443	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.791772569051048	96.17468064185232
+85	16	453	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.794241794144632	96.1756777111441
+85	17	375	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.796485925479523	96.17683447664605
+85	18	387	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79939878707904	96.1760182469152
 85	19	378	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804033700192896	96.1757376836613
 85	20	384	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807521575682284	96.17627263767645
 85	21	383	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.810901	96.175102
@@ -34,11 +34,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 85	33	261	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80383891776587	96.13184186629952
 85	34	255	Koe Htat Kyee	(၉) ထပ်ကြီး	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80385946248815	96.12814109193097
 85	35	249	Kyaung Shae	ကျောင်းရှေ့	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803900983450813	96.12383145251444
-85	36	253	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80426559990839	96.12227894601347
-85	37	258	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80935599745288	96.12198447575794
-85	38	291	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812434	96.121964
-85	39	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81453683073846	96.1219596862793
-85	40	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81928919676379	96.12197063186613
+85	36	253	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80426559990839	96.12227894601347
+85	37	258	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80935599745288	96.12198447575794
+85	38	291	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.812434	96.121964
+85	39	277	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81453683073846	96.1219596862793
+85	40	301	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81928919676379	96.12197063186613
 85	41	307	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.824419955044178	96.12302745692432
 85	42	309	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.83009203973736	96.12186057027431
 85	43	1183	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833338	96.120733
@@ -80,11 +80,11 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 85	79	1184	Ywarma Kwae	ရွာမကွေ့	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Hlaing	လှိုင်	16.833461	96.119521
 85	80	310	Yae Kyaung	ရေကြောင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.83003130648178	96.12164842430505
 85	81	308	Thinbaw Kyin	သင်္ဘောကျင်း	Bayint Naung Road	ဘုရင့်နောင်လမ်း	Kamayut	ကမာရွတ်	16.82435998216743	96.12283658003436
-85	82	302	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81968916689901	96.12181771779436
-85	83	278	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81470006967928	96.12178073264658
-85	84	292	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81251231920376	96.12181011121723
-85	85	259	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809123167748957	96.12182549200953
-85	86	252	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80417773402748	96.12214895317268
+85	82	302	Sinmalite	ဆင်မလိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81968916689901	96.12181771779436
+85	83	278	Nat Sin Lan	နတ်စင်လမ်း	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81470006967928	96.12178073264658
+85	84	292	Kannar Zay	ကမ်းနားဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.81251231920376	96.12181011121723
+85	85	259	Kyee Myin Daing Nya Zay	ကြည့်မြင်တိုင်ညဈေး	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.809123167748957	96.12182549200953
+85	86	252	Sar Taik	စာတိုက်	Kyee Myin Daing Kannar Road	ကြည့်မြင်တိုင်ကမ်းနားလမ်း	Kyee Myin Daing	ကြည့်မြင်တိုင်	16.80417773402748	96.12214895317268
 85	87	248	Kyaung Shae	ကျောင်းရှေ့	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80371763172144	96.1233366758097
 85	88	254	Koe Htat Kyee	(၉) ထပ်ကြီး	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.80377692571842	96.12809622083661
 85	89	260	Shan Lan	ရှမ်းလမ်း	Bargayar Road	ဗားဂရာလမ်း	San Chaung	စမ်းချောင်း	16.803776350638998	96.13150128861892
@@ -102,10 +102,10 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 85	101	382	Tamwe Plaza	တာမွေပလာဇာ	Thamain Bayan Road	သမိန်ဗရမ်းလမ်း	Tamwe	တာမွေ	16.81067485889442	96.17535173892976
 85	102	385	Tamwe Zay/ Tamwe Bali	တာမွေဈေး/ တာမွေဗလီ	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.807725	96.176172
 85	103	379	Kyauk Myaung Zay	ကျောက်မြောင်းဈေး	Kyaikkasan Road	ကျိုက္ကဆံလမ်း	Tamwe	တာမွေ	16.804151	96.175646
-85	104	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
-85	105	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
-85	106	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
-85	107	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
+85	104	388	Thida	သီတာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.799386810982924	96.17579292040321
+85	105	374	Aung Mingalar	အောင်မင်္ဂလာ	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79630894928623	96.1766241118312
+85	106	454	Yuzana Plaza/ Lan Kyal	ယုဇနပလာဇာ/လမ်းကျယ်	Banyardala Road	ဗညားဒလလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79446266570228	96.17558569880204
+85	107	444	Mingalar Zay	မင်္ဂလာဈေး	Mill Road	စက်ရုံလမ်း	Mingalar Taung Nyunt	မင်္ဂလာတောင်ညွန့်	16.79177780504188	96.17451729951428
 85	108	451	Warso	ဝါဆို	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.78255539648769	96.18273277999835
 85	109	471	Thinbaw Kyin	သင်္ဘောကျင်း	Yamonar Road	ယမုံနာလမ်း	Daw Bon	ဒေါပုံ	16.781964622745882	96.187147423625
 85	110	469	Thinbaw Kyin	သင်္ဘောကျင်း	Min Nandar Road	မင်းနန္ဒာလမ်း	Thaketa	သာကေတ	16.78190317189937	96.18801645934583

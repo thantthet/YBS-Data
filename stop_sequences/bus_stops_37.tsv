@@ -1,6 +1,6 @@
 svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_mm	lat	lng
-37	1	1644	Gate Haung	ဂိတ်ဟောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.044148	96.126373
-37	2	1487	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	Htauk Kyant	ထောက်ကြန့်	17.04265	96.131818
+37	1	1644	Gate Haung	ဂိတ်ဟောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.044148	96.126373
+37	2	1487	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	Htauk Kyant	ထောက်ကြန့်	17.04265	96.131818
 37	3	2207	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.037797820068036	96.13129090284932
 37	4	1468	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03111213172036	96.13192968769
 37	5	63	Nwe Khwe	နွယ်ခွေ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.022154029079687	96.13431618316102
@@ -15,7 +15,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 37	14	1447	Ye Baw Haung	ရဲဘော်ဟောင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.991488	96.130938
 37	15	1443	Shan Su	ရှမ်းစု	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.98794828918517	96.1271884222515
 37	16	1426	Bo Chan	ဘိုခြံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.980232	96.126419
-37	17	58	Tit Numpad	်(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974884204079043	96.12405782332644
+37	17	58	Tit Numpad	(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974884204079043	96.12405782332644
 37	18	1444	Sin Min	ဆင်မင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970032	96.126548
 37	19	1414	Yae Kyi I	ရေကြည်အိုင်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.966603022677855	96.1274304497056
 37	20	1412	Waryar Let	ဝါယာလက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.961805600297204	96.1267461720854
@@ -89,7 +89,7 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 37	88	1411	Waryar Let	ဝါယာလက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.960714	96.127084
 37	89	1413	Yae Kyi I	ရေကြည်အိုင်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.965784	96.127299
 37	90	1445	Sin Min	ဆင်မင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.970278	96.126763
-37	91	57	Tit Numpad	်(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974734331301605	96.12423683982342
+37	91	57	Tit Numpad	(၁) နံပါတ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.974734331301605	96.12423683982342
 37	92	1427	Bo Chan	ဘိုခြံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.980499	96.12687
 37	93	1442	Shan Su	ရှမ်းစု	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.987558	96.127256
 37	94	1446	Ye Baw Haung	ရဲဘော်ဟောင်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	16.991406	96.13111
@@ -104,5 +104,5 @@ svc_name	sequence	stop_id	name_en	name_mm	road_en	road_mm	township_en	township_m
 37	103	64	Nwe Khwe	နွယ်ခွေ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.022236	96.134595
 37	104	1469	Kyaung Shae	ကျောင်းရှေ့	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03120950570694	96.1321399686858
 37	105	2206	Lan Thit	လမ်းသစ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ	17.03743217934309	96.13143140450121
-37	106	1486	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	Htauk Kyant	ထောက်ကြန့်	17.042732	96.131957
-37	107	1645	Gate Haung	ဂိတ်ဟောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.044476	96.126072
+37	106	1486	Htauk Kyant Lan Sone	ထောက်ကြန့်လမ်းဆုံ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	Htauk Kyant	ထောက်ကြန့်	17.042732	96.131957
+37	107	1645	Gate Haung	ဂိတ်ဟောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်	17.044476	96.126072
