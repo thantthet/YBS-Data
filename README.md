@@ -1,5 +1,5 @@
-# YBS-Data
-YBS Data is improved update-to-date version of official lastest YBS data release.
+# Yangon Bus Service – YBS Data
+YBS Data is improved update-to-date version of officially released version.
 
 Data are gathered around Facebook/Groups/Pages that are related to YBS. Data validity is by best effort.
 
