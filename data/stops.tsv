@@ -125,7 +125,7 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 147	16.77159734508142	96.16637403616551	Bokalay Zay	ဘိုကလေးဈေး	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား
 148	16.776707203236217	96.16380633786322	Pansodan	ပန်းဆိုးတန်း	Anawrahta Road	အနော်ရထာလမ်း	Kyauktada	ကျောက်တံတား
 149	16.774167148075545	96.1630940437317	Pansodan	ပန်းဆိုးတန်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Kyauktada	ကျောက်တံတား
-151	16.77165175700966	96.16308339871469	Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း) (Pansodan	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား
+151	16.77165175700966	96.16308339871469	(Pansodan Seikkanthar)	ပန်းဆိုးတန်း (ဆိပ်ကမ်းသာလမ်း)	Merchant Road	ကုန်သည်လမ်း	Kyauktada	ကျောက်တံတား
 152	16.774245735327835	96.15955352783205	Sule Pan Chan	ဆူးလေပန်းခြံ	Mahabandoola Road / Mahabandoola Garden	မဟာဗန္ဓုလလမ်း / မဟာဗန္ဓုလဥယျာဉ်	Kyauktada	ကျောက်တံတား
 154	16.77238880436766	96.16698425263168	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်
 155	16.771425522061257	96.1712548742071	Lan Ngar Sae	လမ်း(၅၀)	Merchant Road	ကုန်သည်လမ်း	Botahtaung	ဗိုလ်တထောင်
@@ -612,8 +612,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 732	16.849249782051785	96.24598773429172	Ayar Wun	ဧရာဝဏ်	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ
 733	16.863385431598722	96.24840335687624	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
 734	16.863654852674667	96.24854038003834	Kun Yar Saing	ကွမ်းယာဆိုင်	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
-735	16.861108542460062	96.24637269414961	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
-736	16.861270217152768	96.24644708354028	Ngar-sae-chauk	-၅၆	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
+735	16.861108542460062	96.24637269414961	Ngar-sae-chauk	(၅၆)	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
+736	16.861270217152768	96.24644708354028	Ngar-sae-chauk	(၅၆)	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
 739	16.8706730812367	96.2548799277284	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
 740	16.870692031238	96.2548363418318	(Khun-Hnit-Sal/ Khun-Hnit-Sae Tit) Zay	(၇၀/၇၁) ဈေး	Hlawga Road	လှော်ကားလမ်း	Shwe Pyithar	ရွှေပြည်သာ
 741	16.877069	96.247142	Ah Kyaw Tae	အကြော်တဲ	Kyansitthar Road	ကျန်စစ်သားလမ်း	South Dagon	တောင်ဒဂုံ
@@ -638,8 +638,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 774	16.83661172569713	96.24944820301609	Yadanar Lan	ရတနာလမ်း	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
 779	16.832399568107512	96.26484779175372	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
 780	16.832435189283327	96.26510626869276	Ma Wa Ta Yone Shae/Oh Eain	မဝတရုံးရှေ့/အိုးအိမ်	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
-781	16.83207512627888	96.27043889835477	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
-782	16.83233149473826	96.2701914855279	Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်) (Moke Oo	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
+781	16.83207512627888	96.27043889835477	(Moke Oo Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
+782	16.83233149473826	96.2701914855279	(Moke Oo Yuzana Garden)	မုခ်ဦး (ယုဇနဥယျာဉ်)	Bago River Road	ပဲခူးမြစ်လမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
 787	16.842434486340437	96.27967866836117	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
 788	16.84239599905062	96.27974180504681	Shit-sae-koe Kwae	(၈၉) ကွေ့	Kun At Min Thar Road	ကွမ်းအစ်မင်းသားလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
 789	16.827114903920087	96.2692688475363	Padauk Kwae	ပိတောက်ကွေ့	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
@@ -1358,8 +1358,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1645	17.044476	96.126072	Gate Haung	ဂိတ်ဟောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
 1646	17.0519248486086	96.11956057604404	Nine Gate	(၉) ဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
 1647	17.051861	96.119764	Nine Gate	(၉) ဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
-1648	17.054992925228067	96.11984258517623	Shit-Sae-Hnit	-၈၂	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
-1649	17.055089805976248	96.1194466240704	Shit-Sae-Hnit	-၈၂	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
+1648	17.054992925228067	96.11984258517623	Shit-Sae-Hnit	(၈၂)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
+1649	17.055089805976248	96.1194466240704	Shit-Sae-Hnit	(၈၂)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
 1650	17.057523	96.118519	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
 1651	17.057564	96.11882	Sauk Lote Yae	ဆောက်လုပ်ရေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
 1652	17.060272	96.117575	Kyant Khaing Yae	ကြံ့ခိုင်ရေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Htauk Kyant	ထောက်ကြန့်
@@ -1414,8 +1414,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1703	17.10053631487457	96.04010650422427	Hmaw Bi Kar Lay Gate	မှော်ဘီကားလေးဂိတ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1704	17.09916200423804	96.03885521180929	Thayet Taw Pauk	သရက်တောပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1705	17.098981026611735	96.03889339137824	Thayet Taw Pauk	သရက်တောပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1706	17.098238	96.037885	Hmaw Bi)	မီးစက် (မှော်ဘီ) (Mee Sat	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1707	17.098033	96.038142	Hmaw Bi)	မီးစက် (မှော်ဘီ) (Mee Sat	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1706	17.098238	96.037885	(Mee Sat Hmaw Bi)	မီးစက် (မှော်ဘီ)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1707	17.098033	96.038142	(Mee Sat Hmaw Bi)	မီးစက် (မှော်ဘီ)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1708	17.097623	96.036147	Htan Ta Pin Tar Sone	ထန်းတပင်တာဆုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1709	17.097849	96.036361	Htan Ta Pin Tar Sone	ထန်းတပင်တာဆုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1710	17.105247484835537	96.01937776431444	Su Paung Yone	စုပေါင်းရုံး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
@@ -1464,8 +1464,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1754	17.168962	95.993679	Sauk Lote Yae Thit	ဆောက်လုပ်ရေးသစ်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1755	17.170848	95.991747	Chan Aye	ချမ်းအေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1756	17.170848	95.991361	Chan Aye	ချမ်းအေး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1757	17.173267	95.989044	Hmaw Bi)	ဆောက်လုပ်ရေး (မှော်ဘီ) (Sauk Lote Yae	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1758	17.173062	95.988915	Hmaw Bi)	ဆောက်လုပ်ရေး (မှော်ဘီ) (Sauk Lote Yae	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1757	17.173267	95.989044	Sauk Lote Yae (Mee Sat Hmaw Bi)	ဆောက်လုပ်ရေး (မှော်ဘီ)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1758	17.173062	95.988915	Sauk Lote Yae (Mee Sat Hmaw Bi)	ဆောက်လုပ်ရေး (မှော်ဘီ)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1759	17.175809	95.984795	Pha-Ye Khinn	ဖရဲခင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1760	17.175604	95.984581	Pha-Ye Khinn	ဖရဲခင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1761	17.177449	95.982778	Than-Ma-Ni Sat Yon	သံမဏိစက်ရုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
@@ -1788,7 +1788,7 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2081	17.350679	96.207826	Min Kone	မင်းကုန်း	Hlegu-Phaung Gyi Road	လှည်းကူး-ဖောင်ကြီးလမ်း	Phaung Gyi	ဖောင်ကြီး
 2082	16.76255	96.343739	Chan Wine	ခြံဝိုင်း	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်
 2083	16.762755	96.343267	Chan Wine	ခြံဝိုင်း	No. 6 Main Road	အမှတ်(၆)လမ်းမ	Thanlyin	သန်လျင်
-2084	16.959837867470966	96.29481309559198	Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁) (Lay Daung Kan	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
+2084	16.959837867470966	96.29481309559198	Lay Daung Kan (Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
 2085	16.958359	96.293384	Yeik Thar	ရိပ်သာ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
 2086	16.958333	96.293432	Yeik Thar	ရိပ်သာ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
 2087	16.956322	96.291811	Thama	သမ	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
@@ -1822,8 +1822,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2115	16.895045	96.242849	Lai Sin Yone Alal Pauk	လိုင်စင်ရုံး (အလယ်ပေါက်)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
 2116	16.895251	96.24257	Lai Sin Yone Alal Pauk	လိုင်စင်ရုံး (အလယ်ပေါက်)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
 2117	16.96188354834146	96.25689256936313	Sate Kyan Mar Yae Say Yon	စိတ်ကျန်းမာရေးဆေးရုံ	No. 7 Main Road	အမှတ်(၇)လမ်းမ	East Dagon	အရှေ့ဒဂုံ
-2118	16.689966603091765	96.30743383197115	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်
-2119	16.68995813271067	96.30737094674261	G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ) (Nee Pyinyar Takke Tho	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်
+2118	16.689966603091765	96.30743383197115	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်
+2119	16.68995813271067	96.30737094674261	Nee Pyinyar Takke Tho (G.T.U)	နည်းပညာတက္ကသိုလ်(ဂျီတီယူ)	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Thanlyin	သန်လျင်
 2120	16.947078532068097	96.01580571150409	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ
 2121	16.947158089802755	96.01584588177504	A Nout Paing Takke Tho	အနောက်ပိုင်းတက္ကသိုလ်	West University Road	အနောက်ပိုင်းတက္ကသိုလ်လမ်း	Hlaing Tharyar	လှိုင်သာယာ
 2122	16.913297	96.211864	Sal Mile	(၁၀) မိုင်	Dagon University	ဒဂုံတက္ကသိုလ်	North Dagon	မြောက်ဒဂုံ
@@ -1850,8 +1850,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2145	16.832328907388145	96.27659708261491	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
 2146	16.85099840559265	96.1875297012739	Kyaetamar	ကျေးတမာ	Thanthumar Road	သံသုမာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ
 2147	16.83233149473826	96.27653847215699	Kanaung Kwae	ကနောင်ကွေ့	Kanaung Minthargyi Road	ကနောင်မင်းသားကြီးလမ်း	Dagon Seikkan	ဒဂုံဆိပ်ကမ်း
-2154	16.880796	96.250144	Chauk-Sae-Hnit	-၆၂	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ
-2155	16.88059	96.250294	Chauk-Sae-Hnit	-၆၂	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ
+2154	16.880796	96.250144	Chauk-Sae-Hnit	(၆၂)	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ
+2155	16.88059	96.250294	Chauk-Sae-Hnit	(၆၂)	Yadanarpon Road	ရတနာပုံလမ်း	South Dagon	တောင်ဒဂုံ
 2158	16.807905	96.21795	Awine	အဝိုင်း	Shukinthar Road	ရှူ့ခင်းသာလမ်း	Thaketa	သာကေတ
 2159	16.806456548186517	96.21683321194723	Thaketa Awine	သာကေတအဝိုင်း	Ayar Wun Main Road	ဧရာဝဏ်လမ်းမကြီး	Thaketa	သာကေတ
 2160	16.838714941415013	96.20109388371932	Myittar Shwe Yi	မေတ္တာရွှေရည်	Lay Daung Kan Road	လေးထောင့်ကန်လမ်း	Thingangyun	သင်္ဃန်းကျွန်း
@@ -1927,7 +1927,7 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2341	16.823771625176313	96.1522226314992	Koke Kine	ကုက္ကိုင်း	University Avenue Road	တက္ကသိုလ်ရိပ်သာလမ်း	Bahan	ဗဟန်း
 2342	17.099458	96.225736	Hlegu Tar Sone	လှည်းကူးတာဆုံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး
 2343	17.09956	96.225669	Hlegu Tar Sone	လှည်းကူးတာဆုံ	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Hlegu	လှည်းကူး
-2344	16.960345	96.294871	Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁) (Lay Daung Kan	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
+2344	16.960345	96.294871	Lay Daung Kan (Site Mway Tit)	လေးထောင့်ကန် (ဆိုက်မွေး-၁)	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
 2345	16.82127753126424	96.26612567575648	Thone-Sae-Hnit Gate	(၃၂) ဂိတ်	Kyun Shwe Wah Road	ကျွန်းရွှေဝါလမ်း	South Dagon	တောင်ဒဂုံ
 2346	16.877414870397843	96.2041931343265	Ma Wa Ta	မဝတ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ
 2347	16.872685841491208	96.20636325096713	Arr Kasar Kwin	အားကစားကွင်း	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ
@@ -1964,12 +1964,12 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2380	16.917156484967013	96.15984115283938	Gate Haung	ဂိတ်ဟောင်း	Waibargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ
 2381	16.915429985795324	96.15664844401184	Myo Thit	မြို့သစ်	Waibargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ
 2382	16.914043089367464	96.15407276898624	Nwethargi	နွယ်သာဂီ	Waibargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ
-2383	16.825994453613134	96.15880109846331	1)	စက်မှု (၁) (Set Hmu	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း
+2383	16.825994453613134	96.15880109846331	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း
 2384	16.91225292775671	96.15105222444983	Waibargi	ဝေဘာဂီ	Waibargi Road	ဝေဘာဂီလမ်း	North Okkalapa	မြောက်ဥက္ကလာပ
 2385	16.824887	96.160199	Baho Bank	ဗဟိုဘဏ်	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း
 2386	16.77228030193074	96.16714954376222	Kyel Ngar Pwint	ကြယ်ငါးပွင့်	Thein Phyu Road	သိမ်ဖြူလမ်း	Botahtaung	ဗိုလ်တထောင်
 2387	16.824887	96.160199	Baho Bank	ဗဟိုဘဏ်	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း
-2388	16.826158759059954	96.1581852240488	1)	စက်မှု (၁) (Set Hmu	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း
+2388	16.826158759059954	96.1581852240488	Set Hmu (1)	စက်မှု (၁)	No. 1 Industrial Road	အမှတ်(၁)စက်မှုဇုန်လမ်း	Yankin	ရန်ကင်း
 2389	16.8050307383558	96.1434358686529	Wizaya Plaza	ဝိဇယပလာဇာ	Dhamazedi Road	ဓမ္မစေတီလမ်း	Bahan	ဗဟန်း
 2390	16.8810724195694	96.0502926587112	Shwe Myin Pyan	ရွှေမြင်းပျံ	Bo Aung Kyaw Street	ဗိုလ်အောင်ကျော်လမ်းသွယ်	Hlaing Tharyar	လှိုင်သာယာ
 2391	16.8809338214197	96.0504267669792	Shwe Myin Pyan	ရွှေမြင်းပျံ	Bo Aung Kyaw Street	ဗိုလ်အောင်ကျော်လမ်းသွယ်	Hlaing Tharyar	လှိုင်သာယာ
