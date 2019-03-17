@@ -12,7 +12,7 @@ def convert_stops():
     x['lat'] = float(x['lat'])
     x['lng'] = float(x['lng'])
     return x
-  tsv_path = './../data/stops.txt'
+  tsv_path = './../data/stops.tsv'
   json_path = './../data/stops.json'
   print 'Reading from %s' % tsv_path
   rows = utils.readTsv(tsv_path)
