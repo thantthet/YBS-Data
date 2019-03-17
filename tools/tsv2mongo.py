@@ -2,7 +2,12 @@
 
 import utils
 import re
+import json
+import codecs
 from pymongo import MongoClient
+import glob
+
+client = MongoClient(username='restheart', password='R3ste4rt!')
 
 def import_stops():
 	def normalize_stop(x):
@@ -33,9 +38,20 @@ def import_stops():
 		}
 
 	stops = map(normalize_stop, utils.readTsv('../data/stops.tsv'))
-	client = MongoClient(username='restheart', password='R3ste4rt!')
 	db = client.transit
 	db.stops.drop()
 	db.stops.insert_many(stops)
 
+def import_routes():
+	db = client.transit
+	db.routes.drop()
+
+	pattern = '../data/routes/*.json'
+	for path in glob.glob(pattern):
+		print('Reading from %s' % path)
+		with codecs.open(path, 'r', encoding='utf-8') as file:
+			route = json.loads(file.read())
+			db.routes.insert(route)
+
 import_stops()
+import_routes()
