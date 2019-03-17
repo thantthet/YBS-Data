@@ -8,7 +8,7 @@ import codecs
 from pymongo import MongoClient
 
 def export_stops(db):
-  file = './../data/stops.txt'
+  file = './../data/stops.tsv'
   print 'Writing to %s' % file
   with open(file, 'wb') as file:
     stops = []
