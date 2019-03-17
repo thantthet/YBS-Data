@@ -49,7 +49,8 @@ def export_routes(db):
     with codecs.open(file, 'wb', encoding='utf-8') as file:
       file.write(json.dumps(route, sort_keys=True, indent=2))
 
-client = MongoClient(username='restheart', password='R3ste4rt!')
-db = client.transit
-export_stops(db)
-export_routes(db)
+if __name__ == '__main__':
+  client = MongoClient(username='restheart', password='R3ste4rt!')
+  db = client.transit
+  export_stops(db)
+  export_routes(db)

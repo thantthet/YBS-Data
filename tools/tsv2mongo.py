@@ -7,9 +7,7 @@ import codecs
 from pymongo import MongoClient
 import glob
 
-client = MongoClient(username='restheart', password='R3ste4rt!')
-
-def import_stops():
+def import_stops(db):
 	def normalize_stop(x):
 		sid = int(x['id'])
 		lat = float(x['lat'])
@@ -38,12 +36,10 @@ def import_stops():
 		}
 
 	stops = map(normalize_stop, utils.readTsv('../data/stops.tsv'))
-	db = client.transit
 	db.stops.drop()
 	db.stops.insert_many(stops)
 
-def import_routes():
-	db = client.transit
+def import_routes(db):
 	db.routes.drop()
 
 	pattern = '../data/routes/*.json'
@@ -53,5 +49,8 @@ def import_routes():
 			route = json.loads(file.read())
 			db.routes.insert(route)
 
-import_stops()
-import_routes()
+if __name__ == '__main__':
+	client = MongoClient(username='restheart', password='R3ste4rt!')
+	db = client.transit
+	import_stops(db)
+	import_routes(db)
