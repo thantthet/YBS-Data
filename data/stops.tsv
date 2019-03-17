@@ -2040,12 +2040,12 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2458	16.8465024223867	96.1701214313507	Byamaso	ဗြဟ္မစိုရ်	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဉက္ကလာပ
 2459	16.8405164098818	96.1736772442237	Baho Zay	ဗဟိုစျေး	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဉက္ကလာပ
 2460	16.8406480982571	96.1738911503926	Baho Zay	ဗဟိုစျေး	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဉက္ကလာပ
-2461	16.8333699218422	96.1780101014301	16 Kwae	၁၆ ကွေ့	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
-2462	16.8334418056416	96.1783212376759	16 Kwae	၁၆ ကွေ့	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
-2463	16.8283761372554	96.1797009408474	Pyithaya	ပြည်သာယာ	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
-2464	16.828427484183	96.1799691617489	Pyithaya	ပြည်သာယာ	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
-2465	16.8229020738042	96.1814099270851	Athin Thike	အသင်းတိုက်	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
-2466	16.822917638792745	96.1816737893969	Athin Thike	အသင်းတိုက်	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
+2461	16.8351786	96.1772756	Yadanar Lan	ရတနာလမ်း(မြို့ထဲ)	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
+2462	16.8347771	96.1777704	Yadanar Lan	ရတနာလမ်း(မြို့ပြင်)	Waizayandar Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
+2463	16.829299	96.179507	Pyithaya	ပြည်သာယာ	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
+2464	16.831541	96.179103	Pyithaya	ပြည်သာယာ	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
+2465	16.823686	96.181026	Athin Thike	အသင်းတိုက်	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
+2466	16.824758	96.180914	Athin Thike	အသင်းတိုက်	Pyithaya Street	ပြည်သာယာလမ်း	Thingangyun	သင်္ဃန်းကျွန်း
 2467	16.6358423666602	96.3266551494599	Zay Kwae	ဈေးကွေ့	Thanlyin-Kyauktan Road	သန်လျှင်-ကျောက်တန်းလမ်း	Kyauktan	ကျောက်တန်း
 2468	16.7979369154101	96.1727124452591	Alote Thamar Say Yone	အလုပ်သမားဆေးရုံကြီး	Kyaikasan Road	ကျိုက္ကစံလမ်း	Tamwe	တာမွေ
 2469	16.7978650181473	96.1729055643082	Alote Thamar Say Yone	အလုပ်သမားဆေးရုံကြီး	Kyaikasan Road	ကျိုက္ကစံလမ်း	Tamwe	တာမွေ
@@ -2078,7 +2078,5 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2497	16.8512319	96.1676907	Parami	ပါရမီ	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ
 2500	16.8435344894853	96.1717567406595	Hantharwaddy	ဟံသာဝတီလမ်း	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ
 2501	16.8436351494717	96.1719705420546	Hantharwaddy	ဟံသာဝတီလမ်း	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ
-2502	16.8347771	96.1777704	Sae Chauk Kwae	၁၆ ကွေ့	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ
-2503	16.8351786	96.1772756	Sae Chauk Kwae	၁၆ ကွေ့	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ
-2504	16.8187753209889	96.1865820433013	Thuwanna Stadium	သုဝဏ္ဏဘောလုံးကွင်း	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ကန်းကျွန်း
-2505	16.8183803102587	96.1867243051529	Thuwanna Stadium	သုဝဏ္ဏဘောလုံးကွင်း	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ကန်းကျွန်း
+2502	16.820033	96.184398	Thuwanna Stadium	သုဝဏ္ဏဘောလုံးကွင်း(မြို့ထဲ)	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ကန်းကျွန်း
+2503	16.81947	96.185596	Thuwanna Stadium	သုဝဏ္ဏဘောလုံးကွင်း(မြို့ပြင်)	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ကန်းကျွန်း
