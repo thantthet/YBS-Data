@@ -9,7 +9,7 @@ from pymongo import MongoClient
 
 def export_stops(db):
   file = './../data/stops.tsv'
-  print 'Writing to %s' % file
+  print('Writing to %s' % file)
   with open(file, 'wb') as file:
     stops = []
     for stop in db.stops.find({}).sort('id'):
@@ -40,12 +40,14 @@ def export_routes(db):
     x['shape'].pop(u'_id', None)
     return x
 
-  file = './../data/routes.json'
-  print 'Writing to %s' % file
-  with codecs.open(file, 'wb', encoding='utf-8') as file:
-    routes = db.routes.find({}).sort('id')
-    routes = map(remove_mongo_attrs, routes)
-    file.write(json.dumps(routes))
+  routes = db.routes.find({}).sort('id')
+  routes = map(remove_mongo_attrs, routes)
+
+  for route in routes:
+    file = ('./../data/routes/route%s.json' % route['route_id'])
+    print('Writing to %s' % file)
+    with codecs.open(file, 'wb', encoding='utf-8') as file:
+      file.write(json.dumps(route, sort_keys=True, indent=2))
 
 client = MongoClient(username='restheart', password='R3ste4rt!')
 db = client.transit
