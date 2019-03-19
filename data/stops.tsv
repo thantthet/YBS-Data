@@ -114,7 +114,7 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 133	16.777373	96.14642	Sae-ngar Lan/ Nyaung Pin Lay Zay	(၁၅) လမ်း / ညောင်ပင်လေးဈေး	Anawrahta Road	အနော်ရထာလမ်း	Lanmadaw	လမ်းမတော်
 134	16.774744	96.146441	Sae-ngar Lan	(၁၅) လမ်း	Mahabandoola Road	မဟာဗန္ဓုလလမ်း	Latha	လသာ
 136	16.770799	96.157348	Chauk Htat Yone	(၆) ထပ်ရုံး	Strand Road	ကမ်းနားလမ်း	Pabedan	ပန်းဘဲတန်း
-137	16.777137	96.155131	Kone Zay Tan	ကုန်ဈေးတန်း	Anawrahta Road	အနော်ရထာလမ်း	Pabedan	ပန်းဘဲတန်း
+137	16.777052183781823	96.15509154740721	Kone Zay Tan	ကုန်ဈေးတန်း	Anawrahta Road	အနော်ရထာလမ်း	Pabedan	ပန်းဘဲတန်း
 138	16.776963746839762	96.15723368944602	Lan Thone Sae	လမ်း(၃၀)	Anawrahta Road	အနော်ရထာလမ်း	Pabedan	ပန်းဘဲတန်း
 139	16.77192146900368	96.15661520976575	Lan Thone Sae	လမ်း(၃၀)	Merchant Road	ကုန်သည်လမ်း	Pabedan	ပန်းဘဲတန်း
 141	16.775753793727244	96.15887872176246	Sule Myodaw Khan Ma	ဆူးလေမြို့တော်ခန်းမ	Sule Pagoda Road	ဆူးလေးဘုရားလမ်း	Kyauktada	ကျောက်တံတား
@@ -1179,7 +1179,7 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1429	16.989058344964885	96.14451075671244	Hmoe Yon	မှိုရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1432	16.996689898254097	96.14463736535984	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1433	16.996964358888743	96.14457001676784	London Set Yon	လန်ဒန်စက်ရုံ	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
-1438	16.996834	96.130217	Paya Lay	ဘုရားလေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
+1438	16.996841096134453	96.1302709928714	Paya Lay	ဘုရားလေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1439	16.997059	96.130496	Paya Lay	ဘုရားလေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1440	16.994324121501144	96.14414905663581	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1441	16.99459816476566	96.14396115532146	Saing Bote	ဆိုင်းဘုတ်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
@@ -1203,8 +1203,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1459	16.97495342850686	96.14767743973063	Yakhine Kyaung	ရခိုင်ကျောင်း	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1460	17.020607344781673	96.13362610107289	C.P Light	စီပီလိုက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1461	17.020660703118264	96.13338895607741	C.P Light	စီပီလိုက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
-1462	17.00816	96.127514	Chan Pauk	ခြံပေါက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
-1463	17.008304	96.12717	Chan Pauk	ခြံပေါက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
+1462	17.00790905085006	96.12742971628906	Chan Pauk	ခြံပေါက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
+1463	17.008303444034432	96.12727372907105	Chan Pauk	ခြံပေါက်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1464	17.00055297085431	96.1444505536929	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1465	17.000718633818547	96.14459206117319	Kon Ta La Paung	ကုန်းတလပေါင်	No. 3 Main Road	အမှတ်(၃)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1466	17.004641	96.129039	Kone Htate	ကုန်းထိပ်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
@@ -1416,12 +1416,12 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1705	17.098981026611735	96.03889339137824	Thayet Taw Pauk	သရက်တောပေါက်	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1706	17.098238	96.037885	(Mee Sat Hmaw Bi)	မီးစက် (မှော်ဘီ)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1707	17.098033	96.038142	(Mee Sat Hmaw Bi)	မီးစက် (မှော်ဘီ)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1708	17.097623	96.036147	Htan Ta Pin Tar Sone	ထန်းတပင်တာဆုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1709	17.097849	96.036361	Htan Ta Pin Tar Sone	ထန်းတပင်တာဆုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1710	17.105247484835537	96.01937776431444	Su Paung Yone	စုပေါင်းရုံး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1708	17.097990032793195	96.03541938588025	Htan Ta Pin Tar Sone	ထန်းတပင်တာဆုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1709	17.09808152354066	96.03557751048356	Htan Ta Pin Tar Sone	ထန်းတပင်တာဆုံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1710	17.10524740472416	96.01946566952394	Su Paung Yone	စုပေါင်းရုံး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1711	17.10545224942925	96.01955965161325	Su Paung Yone	စုပေါင်းရုံး	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1712	17.11025093452228	96.01492797955872	U Thu Mingala	ဦးသုမင်္ဂလ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
-1713	17.110105616314655	96.01464559324089	U Thu Mingala	ဦးသုမင်္ဂလ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
+1713	17.11013069052286	96.01481941295788	U Thu Mingala	ဦးသုမင်္ဂလ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1714	17.115281	96.01063	Daung Lay Kwae	ဒေါင်းလေးကွေ့	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1715	17.115322	96.01033	Daung Lay Kwae	ဒေါင်းလေးကွေ့	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
 1716	17.120777	96.008184	Own Chan	အုန်းခြံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Hmaw Bi	မှော်ဘီ
@@ -1680,9 +1680,9 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1973	17.048292	96.141779	Myo Shouk Lan	မြို့လျှောက်လမ်း	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1974	17.055858679941718	96.15205440670253	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1975	17.055638074739015	96.15216672420502	Sauk Lote Yae	ဆောက်လုပ်ရေး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
-1976	17.058056	96.154997	Ka Lai Htaw	ကလိုင်ထော်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
-1977	17.057769	96.155341	Ka Lai Htaw	ကလိုင်ထော်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
-1978	17.060805	96.158938	Sain Lae Oo	စိမ်းလဲ့ဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
+1976	17.05805239739223	96.15510344970971	Ka Lai Htaw	ကလိုင်ထော်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
+1977	17.057838425684224	96.15525773959236	Ka Lai Htaw	ကလိုင်ထော်	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
+1978	17.06080015215485	96.15908659296112	Sain Lae Oo	စိမ်းလဲ့ဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1979	17.060682	96.159289	Sain Lae Oo	စိမ်းလဲ့ဦး	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1980	17.065687	96.165984	A Mhat Thone	အမှတ် (၃)	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
 1981	17.065441	96.16607	A Mhat Thone	အမှတ် (၃)	No. 1 Main Road	အမှတ်(၁)လမ်းမ	Mingalardon	မင်္ဂလာဒုံ
@@ -2080,3 +2080,5 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2501	16.8436351494717	96.1719705420546	Hantharwaddy	ဟံသာဝတီလမ်း	Waizayanta Road	ဝေဇယန္တာလမ်း	South Okkalapa	တောင်ဥက္ကလာပ
 2502	16.820033	96.184398	Thuwanna Stadium	သုဝဏ္ဏဘောလုံးကွင်း(မြို့ထဲ)	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ကန်းကျွန်း
 2503	16.81947	96.185596	Thuwanna Stadium	သုဝဏ္ဏဘောလုံးကွင်း(မြို့ပြင်)	Waizayanta Road	ဝေဇယန္တာလမ်း	Thingangyun	သင်္ကန်းကျွန်း
+2504	17.500193	95.85472	Okkan	ဥက္ကံ	Pyay Road	ပြည်လမ်း	Okkan	ဥက္ကံ
+2505	17.500114	95.854539	Okkan	ဥက္ကံ	Pyay Road	ပြည်လမ်း	Okkan	ဥက္ကံ
