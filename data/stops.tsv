@@ -1331,8 +1331,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1613	16.86233184812082	96.21266275411473	Myo Oo Zedi	မြို့ဦးစေတီ	Pyi Htaung Su Main Road	ပြည်ထောင်စုလမ်းမကြီး	North Dagon	မြောက်ဒဂုံ
 1616	16.929014847983165	96.26806522719562	See Pwar Yay Takke Tho	စီးပွားရေးတက္ကသိုလ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
 1617	16.929083648278112	96.26789570320398	See Pwar Yay Takke Tho	စီးပွားရေးတက္ကသိုလ်	No. 2 Main Road	အမှတ်(၂)လမ်းမ	South Dagon	တောင်ဒဂုံ
-1618	16.778739	96.247226	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်
-1619	16.77895653734981	96.24703176319599	Mee Point	်မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်
+1618	16.778739	96.247226	Mee Point	မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်
+1619	16.77895653734981	96.24703176319599	Mee Point	မီးပွိုင့်	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်
 1621	16.76179	96.246359	Phoe Myay	ဖိုးမြေ	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်
 1622	16.761831	96.24652	Phoe Myay	ဖိုးမြေ	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်
 1623	16.760886	96.248676	Yone Shae	ရုံးရှေ့	Bogyoke Road	ဗိုလ်ချုပ်လမ်း	Thanlyin	သန်လျင်
@@ -1488,8 +1488,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1778	17.21173498235108	95.96131280064584	Gone Kwae	ကုန်းကွေ့	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
 1779	17.214592	95.961921	Kyun Chaung	ကျွန်းချောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
 1780	17.214592	95.961578	Kyun Chaung	ကျွန်းချောင်း	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
-1781	17.220126	95.962522	Nga-Pyaw Chan	ှုငှက်ပျောခြံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
-1782	17.220003	95.962265	Nga-Pyaw Chan	ှုငှက်ပျောခြံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
+1781	17.220126	95.962522	Nga-Pyaw Chan	ငှက်ပျောခြံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
+1782	17.220003	95.962265	Nga-Pyaw Chan	ငှက်ပျောခြံ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
 1783	17.226110891878175	95.96096792723985	Yone Htein Thone	ရုံးထိန်း (၃)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
 1784	17.226028911235574	95.96069308463485	Yone Htein Thone	ရုံးထိန်း (၃)	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
 1785	17.249596847548474	95.96032759174705	Shwe Mya Yar	ရွှေမြယာ	Yangon-Pyay Main Road	ရန်ကုန်-ပြည်လမ်းမကြီး	Taik Kyi	တိုက်ကြီး
@@ -1514,8 +1514,8 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 1805	16.770732	96.24658	Dar Gude	ဒါကုရ်	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်
 1806	16.768025	96.246483	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်
 1807	16.768015	96.246542	Myoma	မြို့မ	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်
-1808	16.763618	96.24622	Myoma Zay	ဲမြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်
-1809	16.763616840580703	96.2460969714448	Myoma Zay	ဲမြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်
+1808	16.763618	96.24622	Myoma Zay	မြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်
+1809	16.763616840580703	96.2460969714448	Myoma Zay	မြို့မဈေး	Bogyoke Nay Win Road	ဗိုလ်ချုပ်နေဝင်းလမ်း	Thanlyin	သန်လျင်
 1810	16.757768	96.2566	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်
 1811	16.757735198524692	96.25641010701658	Kyar Paya	ကျားဘုရား	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်
 1812	16.750962	96.261367	Sal Myaung	ဆည်မြောင်း	Kyaik Khauk Pagoda Road	ကျိုက်ခေါက်ဘုရားလမ်း	Thanlyin	သန်လျင်
