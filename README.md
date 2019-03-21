@@ -12,3 +12,6 @@ Data are gathered around Facebook/Groups/Pages that are related to YBS. Data val
 
 ### ./tools
 - python scripts for importing/exporting to/from mongo
+
+## Thanks
+- Soe Moe - for helping with data updates
