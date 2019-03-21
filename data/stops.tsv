@@ -2057,7 +2057,7 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2475	16.7275646884508	96.2686614738777	Phar Out	ဖားအောက်	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်
 2476	16.7296468766281	96.2694156565704	Kyeik Kouk Phayar	ကျိုက်ခေါက်ဘုရား	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်
 2477	16.7296571513517	96.2692976393737	Kyeik Kouk Phayar	ကျိုက်ခေါက်ဘုရား	Thanlyin	သန်လျင်	Thanlyin	သန်လျင်
-2478	16.9013101020537	96.1352032190189	Yangon Intl. Airport	လေဆိပ်	Yangon Airport Road	ရန်ကုန်လေဆိပ်လမ်း	Mingaladon	မင်္ဂလာဒုံ
+2478	16.90148629836368	96.13528687041254	Yangon Intl. Airport Terminal 2	ရန်ကုန်လေဆိပ် တာမီနယ် (၂)	Yangon Airport Road	ရန်ကုန်လေဆိပ်လမ်း	Mingaladon	မင်္ဂလာဒုံ
 2479	16.8541099332237	96.2398896901869	Phone Gyi Kyaung Kwae	ဘုန်းကြီးကျောင်းကွေ့	Maungmakan Kantha Road	မောင်းမကန်ကန်သာလမ်း	South Dagon	တောင်ဒဂုံ
 2480	16.850098094413852	96.158027832862	Chaw Twin Kone	ချော်တွင်းကုန်း	Parami Road	ပါရမီလမ်း	Mayangone	မရမ်းကုန်း
 2481	16.7963625717662	96.1955776484683	Tit Zay Kwae	(၁) ဈေးကွေ့	Zingama Road	ဇင်းဂမာလမ်း	Thaketa	သာကေတ
@@ -2087,3 +2087,6 @@ id	lat	lng	name_en	name_mm	road_en	road_mm	township_en	township_mm
 2508	16.871007	96.130589	Min Dhamma Eain Yar	မင်းဓမ္မအိမ်ယာ		မင်းဓမ္မလမ်း	Min Dhamma Road	Mayangone မရမ်းကုန်း
 2509	16.908298	96.211277	Paduak Lan	ပိတောက်လမ်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ
 2510	16.908159	96.211388	Paduak Lan	ပိတောက်လမ်း	Bo Hmu Ba Htoo Road	ဗိုလ်မှူးဗထူးလမ်း	North Dagon	မြောက်ဒဂုံ
+2511	16.902771	96.136228	Yangon Intl. Airport Terminal 1	ရန်ကုန်လေဆိပ် တာမီနယ် (၁)	Yangon Airport Road	ရန်ကုန်လေဆိပ်လမ်း	Mingaladon	မင်္ဂလာဒုံ
+2512	16.898366	96.132672	Yangon Intl. Airport Terminal 3	ရန်ကုန်လေဆိပ် တာမီနယ် (၃)	Yangon Airport Road	ရန်ကုန်လေဆိပ်လမ်း	Mingaladon	မင်္ဂလာဒုံ
+2513	16.900917	96.13618	Yangon Intl. Airport Car Parking	ရန်ကုန်လေဆိပ် ကားပါကင်	Yangon Airport Road	ရန်ကုန်လေဆိပ်လမ်း	Mingaladon	မင်္ဂလာဒုံ
