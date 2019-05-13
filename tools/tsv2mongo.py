@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+	Script for importing from tsv files to mongodb
+"""
+
 import utils
 import re
 import json

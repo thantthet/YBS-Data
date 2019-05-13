@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+	Script for converting from stops.tsv to stops.json
+"""
+
 import utils
 import re
 import csv

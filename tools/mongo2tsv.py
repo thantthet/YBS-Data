@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+
+"""
+	Script for exporting from mongodb to stops.tsv and routes{id}.tsv files
+"""
+
 import utils
 import re
 import csv
@@ -14,15 +19,15 @@ def export_stops(db):
 		stops = []
 		for stop in db.stops.find({}).sort('id'):
 			props = {
-				'id': stop['id'],
-				'name_en': stop['name_en'],
-				'name_mm': stop['name_mm'].encode('utf-8'),
-				'road_en': stop['road_en'] if 'road_en' in stop else '',
-				'road_mm': (stop['road_mm'] if 'road_mm' in stop else '').encode('utf-8'),
-				'township_en': stop['township_en'],
-				'township_mm': (stop['township_mm'] if 'township_mm' in stop else '').encode('utf-8'),
-				'lat': stop['lat'],
-				'lng': stop['lng']
+				'id': 			stop['id'],
+				'name_en': 		stop['name_en'],
+				'name_mm': 		stop['name_mm'].encode('utf-8'),
+				'road_en': 		stop['road_en'] if 'road_en' in stop else '',
+				'road_mm': 		(stop['road_mm'] if 'road_mm' in stop else '').encode('utf-8'),
+				'township_en': 	stop['township_en'],
+				'township_mm': 	(stop['township_mm'] if 'township_mm' in stop else '').encode('utf-8'),
+				'lat': 			stop['lat'],
+				'lng': 			stop['lng']
 			}
 			stops.append(props)
 			
